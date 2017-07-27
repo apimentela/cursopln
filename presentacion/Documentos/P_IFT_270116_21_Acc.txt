@@ -1,0 +1,1094 @@
+RESOLUCIÓN MEDIANTE LA CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES PRORROGA LA CONCESIÓN PARA CONSTRUIR, INSTALAR, MANTENER, OPERAR Y EXPLOTAR UNA RED PÚBLICA DE RADIOCOMUNICACIÓN MÓVIL PARA PRESTAR SERVICIO PÚBLICO DE RADIOCOMUNICACIÓN MÓVIL ESPECIALIZADA CON TECNOLOGÍA DE FRECUENCIAS PORTADORAS COMPARTIDAS, OTORGADA A FAVOR DE COMUNICACIONES RADIOTELEFÓNICAS PENINSULARES, S.A. DE C.V., EL 15 DE JUNIO DE 1992.
+
+                                 ANTECEDENTES
+
+ Otorgamiento de la Concesión. El 15 de junio de 1992, la Secretaría de Comunicaciones y Transportes (la "Secretaría"), otorgó a favor de Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V., un título de concesión para construir, instalar, mantener, operar y explotar por un periodo de 15 (quince) años, una red pública de radiocomunicación móvil para prestar el servicio público de radiocomunicación móvil especializada con tecnología de frecuencias portadoras compartidas en: Tuxtla Gutiérrez, Chiapas, Villahermosa, Tabasco, Mérida, Yucatán, y Cancún, Quintana Roo, pudiendo comunicar áreas rurales en la zona de influencia económica de dichas ciudades (la "Concesión"), utilizando las siguientes frecuencias:
+
+                                   GRUPO 5 D
+                                  SERIE 205 D
+                                  SERIE 205 D
+                                  SERIE 215 D
+                                  SERIE 215 D
+                                   Rx (MHz)
+                                   Tx (MHz)
+                                   Rx (MHz)
+                                   Tx (MHz)
+                                    811.125
+                                    856.125
+                                    811.375
+                                    856.375
+                                    812.125
+                                    857.125
+                                    812.375
+                                    857.375
+                                    813.125
+                                    858.125
+                                    813.375
+                                    858.375
+                                    814.125
+                                    859.125
+                                    814.375
+                                    859.375
+                                    815.125
+                                    860.125
+                                    815.375
+                                    860.375
+
+ Asignaciones de frecuencias adicionales.
+
+      Con oficio 110.-0867 de fecha 19 de marzo de 1993, la Secretaría, a través de la Dirección General de Políticas y Normas de Comunicaciones, autorizó a Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V. a instalar y operar 10 (diez) pares de frecuencias adicionales, que se mencionan a continuación:
+         
+                                       GRUPO 5 D
+                                  SERIE 225 D
+                                  SERIE 225 D
+                                  SERIE 235 D
+                                  SERIE 235 D
+                                   Rx (MHz)
+                                   Tx (MHz)
+                                   Rx (MHz)
+                                   Tx (MHz)
+                                    811.625
+                                    856.625
+                                    811.875
+                                    856.875
+                                    812.625
+                                    857.625
+                                    812.875
+                                    857.875
+                                    813.625
+                                    858.625
+                                    813.875
+                                    858.875
+                                    814.625
+                                    859.625
+                                    814.875
+                                    859.875
+                                    815.625
+                                    860.625
+                                    815.875
+                                    860.875
+ Con oficio 114.-6346 de fecha 28 de noviembre de 1994, la Secretaría, a través de la Dirección General de Políticas y Normas de Comunicaciones, autorizó a Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V. a instalar y operar 20 (veinte) pares de frecuencias adicionales, que se mencionan a continuación:
+           
+                                       GRUPO 5 C
+                                   SERIE 5 C
+                                   SERIE 5 C
+                                  SERIE 15 C
+                                  SERIE 15 C
+                                  SERIE 25 C
+                                  SERIE 25 C
+                                  SERIE 35 C
+                                  SERIE 35 C
+                                   Rx (MHz)
+                                   Tx (MHz)
+                                   Rx (MHz)
+                                   Tx (MHz)
+                                   Rx (MHz)
+                                   Tx (MHz)
+                                   Rx (MHz)
+                                   Tx (MHz)
+                                    806.125
+                                    851.125
+                                    806.375
+                                    851.375
+                                    806.625
+                                    851.625
+                                    806.875
+                                    851.875
+                                    807.125
+                                    852.125
+                                    807.375
+                                    852.375
+                                    807.625
+                                    852.625
+                                    807.875
+                                    852.875
+                                    808.125
+                                    853.125
+                                    808.375
+                                    853.375
+                                    808.625
+                                    853.625
+                                    808.875
+                                    853.875
+                                    809.125
+                                    854.125
+                                    809.375
+                                    854.375
+                                    809.625
+                                    854.625
+                                    809.875
+                                    854.875
+                                    810.125
+                                    855.125
+                                    810.375
+                                    855.375
+                                    810.625
+                                    855.625
+                                    810.875
+                                    855.875
+
+ Solicitud de Prórroga de Vigencia. Mediante oficio 112.201.236 de fecha 7 de marzo de 2003, la Dirección General de Política de Telecomunicaciones de la Secretaría solicitó opinión a la extinta Comisión Federal de Telecomunicaciones (la "Comisión"), respecto de la solicitud de prórroga de vigencia de la Concesión, presentada por Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V., ante esa Dependencia del Ejecutivo Federal con fecha 3 de marzo de 2003 (la "Solicitud de Prórroga").
+
+ Cumplimiento de Obligaciones. Con oficio CFT/D04/USV/DGVB/400/08 de fecha 28 de agosto de 2008, la entonces Dirección General de Verificación "B" adscrita a la Unidad de Supervisión y Verificación de la Comisión, señaló que derivado de la visita de verificación de las condiciones técnico-operativas a Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V., no se encontraron irregularidades respecto a dichas condiciones.
+     
+     Por su parte, con oficio CFT/D04/USV/331/09 de fecha 5 de octubre de 2009, la entonces Unidad de Supervisión y Verificación de la Comisión informó que, no obstante a esa fecha la Concesión se encontraba vencida, al 18 de febrero de 2009, Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V. continuó cumpliendo con las disposiciones establecidas en la Concesión y cubrió los pagos por concepto de participación al Gobierno Federal y por el uso de frecuencias del espectro radioeléctrico.
+     
+ Decreto de Reforma Constitucional. Con fecha 11 de junio de 2013, se publicó en el Diario Oficial de la Federación el "Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones" (el "Decreto de Reforma Constitucional"), mediante el cual se creó el Instituto Federal de Telecomunicaciones como un órgano autónomo encargado del desarrollo eficiente de la radiodifusión y las telecomunicaciones (el "Instituto").
+
+ Opinión Técnica-Regulatoria. Con oficio CFT/D05/UPR/DGRA/109/2013 de fecha 13 de junio de 2013, la entonces Dirección General de Regulación "A", adscrita a la Unidad de Prospectiva y Regulación de la Comisión, opinó diversas solicitudes de prórroga de vigencia de títulos de concesión para la prestación del servicio móvil de radiocomunicación especializada de flotillas, entre la que se encontraba la Solicitud de Prórroga. Al respecto, dicha Dirección General señaló que la Solicitud de Prórroga resultaba procedente desde el punto de vista regulatorio y de planificación del espectro, sujeto al cumplimiento de diversas condiciones y reservas entre las que se señaló que la prórroga que se concediera debería otorgarse dentro de la banda de frecuencias de 410-430 MHz.
+     
+ Integración del Instituto. El 10 de septiembre de 2013 quedó debidamente integrado el Instituto, en términos de lo dispuesto por el artículo Sexto Transitorio del Decreto de Reforma Constitucional, mediante la ratificación, por parte del Senado de la República, de los nombramientos de los Comisionados que integran su órgano de gobierno y la designación de su Presidente.
+     
+ Decreto de Ley. El 14 de julio de 2014, se publicó en el Diario Oficial de la Federación el "Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión" (el "Decreto de Ley"), mismo que entró en vigor el 13 de agosto de 2014.
+
+ Estatuto Orgánico. El 4 de septiembre de 2014, se publicó en el Diario Oficial de la Federación el "Estatuto Orgánico del Instituto Federal de Telecomunicaciones" (el "Estatuto Orgánico"), mismo que entró en vigor el 26 de septiembre de 2014 y fue modificado el 17 de octubre del mismo año.
+
+ Opinión de la Dirección General de Ingeniería del Espectro y Estudios Técnicos respecto de la Solicitud de Prórroga. Con oficio IFT/222/UER/DG-IEET/625/2015 de fecha 19 de junio de 2015, la Dirección General de Ingeniería del Espectro y Estudios Técnicos, Adscrita a la Unidad de Espectro Radioeléctrico del Instituto, propuso la canalización del segmento 410-430 MHz, así como las frecuencias de operación, área de cobertura y las características técnico-operativas que busquen evitar o minimizar riesgos de interferencias perjudiciales para diversas empresas que solicitan prórroga de vigencia de títulos de concesión para la prestación del servicio móvil de radiocomunicación especializada de flotillas, entre las que se encontraba la Solicitud de Prórroga.
+
+ Opinión en materia de competencia económica respecto de la Solicitud de Prórroga. Con oficio IFT/226/UCE/DG-CCON/135/2015 de fecha 30 junio de 2015, la Dirección General de Concentraciones y Concesiones adscrita a la Unidad de Competencia Económica del Instituto, emitió opinión respecto a la Solicitud de Prórroga señalando, entre otros aspectos, que con base en la información disponible, no se identificaban elementos ni indicios de que la autorización de la prórroga solicitada por Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V., pudiera tener efectos contrarios en el proceso de competencia y libre concurrencia en los mercados. 
+
+ Aprovechamiento autorizado por la Secretaría de Hacienda y Crédito Público. Con oficios IFT/222/UER/010/2014 e IFT/222/UER/154/2015 de fechas 6 de octubre de 2014 y 24 de junio de 2015, respectivamente, la Unidad de Espectro Radioeléctrico solicitó a la Unidad de Política de Ingresos No Tributarios de la Secretaría de Hacienda y Crédito Público, autorizar el aprovechamiento que deberían pagar diversos concesionarios que habían presentado solicitudes de prórroga de títulos de concesión para prestar el servicio móvil de radiocomunicación especializada de flotillas, entre los que se encontraba Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V., considerando, entre otras, las nuevas condiciones técnico-operativas que al efecto se establezcan.
+     
+     Con oficios 349-B-367 y 349-B-264 de fechas 28 de octubre de 2014 y 1 de julio de 2015, respectivamente, la Unidad de Política de Ingresos No Tributarios de la Secretaría de Hacienda y Crédito Público autorizó el cobro del aprovechamiento que deberían pagar diversos concesionarios por las solicitudes de prórroga relacionadas con la prestación del servicio móvil de radiocomunicación especializada de flotillas, entre los que se encontraba Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V.
+     
+ Actualización del monto del aprovechamiento autorizado por la Secretaría de Hacienda y Crédito Público. Mediante oficio IFT/222/DG-EERO/008/2016 de fecha 11 de enero de 2016, la Dirección General de Economía del Espectro y Recursos Orbitales, adscrita a la Unidad de Espectro Radioeléctrico, actualizó al mes de enero de 2016, el monto de los aprovechamientos autorizados en su momento por la Secretaría de Hacienda y Crédito Público y que se señalan en el Antecedente XII de la presente Resolución.
+     
+      En virtud de los antecedentes referidos, y 
+
+                                 CONSIDERANDO
+
+Primero.- Competencia. Conforme lo dispone el artículo 28 párrafo décimo quinto de la Constitución Política de los Estados Unidos Mexicanos (la "Constitución"), el Instituto es el órgano autónomo con personalidad jurídica y patrimonio propios, que tiene por objeto el desarrollo eficiente de la radiodifusión y las telecomunicaciones, conforme a lo dispuesto por la propia Constitución y en los términos que fijen las leyes, teniendo a su cargo la regulación, promoción y supervisión del uso, aprovechamiento y explotación del espectro radioeléctrico, las redes y la prestación de los servicios de radiodifusión y telecomunicaciones, así como del acceso a infraestructura activa, pasiva y otros insumos esenciales, garantizando lo establecido en los artículos 6o. y 7o. constitucionales.
+
+Asimismo, en términos del párrafo décimo sexto del artículo constitucional antes mencionado, el Instituto es la autoridad en la materia de competencia económica de los sectores de radiodifusión y telecomunicaciones, por lo que entre otros aspectos, regulará de forma asimétrica a los participantes en estos mercados con el objeto de eliminar eficazmente las barreras a la competencia y la libre concurrencia; impondrá límites al concesionamiento y a la propiedad cruzada que controle varios medios de comunicación que sean concesionarios de radiodifusión y telecomunicaciones que sirvan a un mismo mercado o zona de cobertura geográfica, garantizando lo dispuesto en los artículos 6o. y 7o. de la Constitución.
+
+Por su parte, el artículo Sexto Transitorio del Decreto de Ley establece que la atención, trámite y resolución de los asuntos y procedimientos iniciados con anterioridad a la entrada en vigor del mismo, como es el caso en particular, se realizará en los términos establecidos por el artículo Séptimo Transitorio del Decreto de Reforma Constitucional.
+
+Al respecto, el Decreto de Reforma Constitucional establece en el segundo párrafo del artículo Séptimo Transitorio que los procedimientos iniciados con anterioridad a la integración del Instituto, siendo el caso del asunto que nos ocupa, continuarán su trámite ante dicho órgano, en los términos de la legislación aplicable al momento de su inicio.
+
+Ahora bien, corresponde al Pleno del Instituto, conforme a lo establecido en los artículos 15 fracción IV y 17 fracción I de la Ley Federal de Telecomunicaciones y Radiodifusión (la "Ley"), el otorgamiento de concesiones, así como resolver respecto de las prórrogas, modificación o terminación de las mismas.
+
+Por otra parte, en términos del artículo 6 fracción I del Estatuto Orgánico, corresponde al Pleno del Instituto la atribución de regular, promover y supervisar el uso, aprovechamiento y explotación eficiente del espectro radioeléctrico, los recursos orbitales, los servicios satelitales, las redes de telecomunicaciones y la prestación de los servicios de radiodifusión y telecomunicaciones, así como el acceso a infraestructura activa, pasiva e insumos esenciales.
+
+Finalmente, conforme al artículo 33 fracción II del Estatuto Orgánico corresponde a la Dirección General de Concesiones de Telecomunicaciones, adscrita a la Unidad de Concesiones y Servicios, tramitar y evaluar, entre otras, las solicitudes de prórroga de las concesiones en materia de telecomunicaciones para someterlas a consideración del Pleno, previa opinión de la Unidad de Competencia Económica.
+
+En este orden de ideas, resulta conveniente considerar que el Instituto está facultado para otorgar concesiones en materia de telecomunicaciones, así como resolver respecto de su prórroga, modificación o terminación, además de tener a su cargo la regulación, promoción y supervisión de las telecomunicaciones. En relación con lo anterior, el Pleno, como órgano máximo de gobierno y decisión del Instituto, se encuentra plenamente facultado para resolver la Solicitud de Prórroga de mérito.
+
+Segundo.- Marco legal aplicable a la Solicitud de Prórroga. Como quedó señalado en el Considerando Primero, la atención, trámite y resolución de los asuntos y procedimientos iniciados con anterioridad a la entrada en vigor de la Ley, serán resueltos en los términos establecidos en el artículo Séptimo Transitorio del Decreto de Reforma Constitucional, por lo que la normatividad aplicable que establece los requisitos de procedencia para el análisis de la Solicitud de Prórroga se encuentra contenida en la Ley Federal de Telecomunicaciones (la "LFT)".
+
+En virtud de que la Solicitud de Prórroga se presentó durante la vigencia de la LFT, es aplicable lo señalado en los artículos 19 y 27 del citado ordenamiento, los cuales disponen lo siguiente:
+
+     "Artículo 19. Las concesiones sobre bandas de frecuencias se otorgarán por un plazo hasta de 20 años y podrán ser prorrogadas hasta por plazos iguales a los originalmente establecidos, a juicio de la Secretaría.
+     
+     Para el otorgamiento de las prórrogas será necesario que el concesionario hubiere cumplido con las condiciones previstas en la concesión que se pretenda prorrogar; lo solicite antes de que inicie la última quinta parte del plazo de la concesión, y acepte las nuevas condiciones que establezca la propia Secretaría de acuerdo a la presente Ley y demás disposiciones aplicables. La Secretaría resolverá lo conducente en un plazo no mayor a 180 días naturales."
+     
+
+     "Artículo 27. Las concesiones sobre redes públicas de telecomunicaciones se otorgarán por un plazo hasta de 30 años y podrán ser prorrogadas hasta por plazos iguales a los originalmente establecidos.
+     
+     Para el otorgamiento de las prórrogas será necesario que el concesionario hubiere cumplido con las condiciones previstas en la concesión que se pretenda prorrogar, lo solicite antes de que inicie la última quinta parte del plazo de la concesión, y acepte las nuevas condiciones que establezca la propia Secretaría de acuerdo a la presente Ley y demás disposiciones aplicables. La Secretaría resolverá lo conducente en un plazo no mayor a 180 días naturales."
+
+Por otra parte, si bien es cierto que el análisis que realice el Instituto respecto de la Solicitud de Prórroga de la Concesión debe llevarse a cabo en estricto apego a los términos y requisitos previstos en la LFT, disposición legal vigente al momento de iniciar el trámite que nos ocupa, también lo es que el Instituto, al resolver en definitiva la Solicitud de Prórroga de la Concesión, debe apegarse al procedimiento de concesionamiento que se encuentra previsto en la Ley. Es por ello que en la resolución del trámite de la Solicitud de Prórroga de la Concesión, debe observarse el actual régimen de concesionamiento previsto en los artículos 66 y 67 fracción I, así como 75 y 76 de la Ley.
+
+Finalmente, en seguimiento a otras disposiciones legales aplicables, y atendiendo al tipo de título sobre el cual se solicitó la prórroga, debe acatarse el requisito de procedencia señalado por el artículo 94 fracción III de la Ley Federal de Derechos, vigente al momento de presentar la Solicitud de Prórroga.
+
+Tercero.- Otorgamiento de Concesión Única para uso Comercial. Si bien es cierto que el artículo 72 de la Ley únicamente señala a las concesiones únicas como susceptibles de prórroga de su vigencia, esto no debe entenderse en el sentido de que las concesiones de redes públicas de telecomunicaciones escapan del alcance del supuesto normativo contenido en dicho precepto legal. Considerar que el marco jurídico actual no contempla a los concesionarios de redes públicas de telecomunicaciones, conllevaría a la interpretación de que los mismos no se encuentran regulados por el actual marco normativo.
+
+Así, no debe pasarse por alto que los servicios de telecomunicaciones que se prestan al amparo de la Concesión, devienen en servicios públicos de interés general en virtud de lo señalado por el artículo 6o. Apartado B fracción II de la Constitución, por lo que el Estado debe garantizar que los mismos sean prestados en condiciones de competencia y continuidad, entre otras. 
+
+En ese sentido, el artículo 3 fracción XII de la Ley define a la concesión única como el acto administrativo mediante el cual el Instituto confiere el derecho para prestar de manera convergente todo tipo de servicios públicos de telecomunicaciones o radiodifusión.
+
+Derivado de lo anterior y como ya ha sido resuelto previamente por el Instituto, para el caso de solicitudes de prórroga de vigencia de concesiones de redes públicas de telecomunicaciones que el Instituto resuelva de manera favorable, la regla general implica, como consecuencia, el otorgamiento de una concesión única.
+
+Es por ello que, en la resolución que emita el Instituto respecto de la Solicitud de Prórroga de la Concesión, debe observarse el actual régimen de concesionamiento previsto en la Ley, el cual en su artículo 66 señala que se requerirá concesión única para prestar todo tipo de servicios públicos de telecomunicaciones y radiodifusión. Asimismo, la fracción I del artículo 67 de la Ley, establece que la concesión única será para uso comercial cuando la misma confiera el derecho para prestar servicios públicos de telecomunicaciones y de radiodifusión con fines de lucro, utilizando para ello una red pública de telecomunicaciones, como sucede en el caso que nos ocupa.
+
+Cuarto.- Otorgamiento de Concesión de Bandas de Frecuencias para uso Comercial. El artículo 10 fracción II de la LFT señalaba que el espectro para usos determinados eran aquellas bandas de frecuencias otorgadas mediante concesión y que podían ser utilizadas para los servicios que autorizara la Secretaría en el título correspondiente. Por su parte, el artículo 11 fracción I del citado ordenamiento establecía que se requería concesión para usar, aprovechar o explotar una banda de frecuencias en el territorio nacional. 
+
+Por su parte, el artículo 3 fracción XIII de la Ley define a la concesión de espectro radioeléctrico como el acto administrativo mediante el cual el Instituto confiere el derecho para usar, aprovechar o explotar bandas de frecuencia del espectro radioeléctrico, en los términos y modalidades establecidos en dicha Ley. Al respecto, el artículo 76 de la Ley establece una nueva clasificación para este tipo de concesiones de acuerdo a sus fines, entre las que destaca la concesión para uso comercial, que de acuerdo al artículo 76 fracción I, confiere el derecho a personas físicas y morales para usar, aprovechar y explotar bandas de frecuencias del espectro radioeléctrico de uso determinado, con fines de lucro. 
+
+Atendiendo a lo anterior, la prórroga de vigencia de la Concesión debe otorgarse atendiendo a lo dispuesto por el nuevo régimen de concesionamiento previsto en la Ley, es decir, de concederse la misma, se otorgaría a Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V. una concesión para usar, aprovechar y explotar bandas de frecuencias del espectro radioeléctrico para uso comercial. 
+
+Quinto.- Análisis de la Solicitud de Prórroga. De conformidad con lo señalado por los artículos 19 y 27 de la LFT y la Ley Federal de Derechos vigente al momento de presentar la Solicitud de Prórroga, los requisitos de procedencia que debe observar Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V., y que se verifican durante el análisis de solicitudes de prórroga de vigencia de concesiones en materia de telecomunicaciones, son los siguientes:
+
+    Que la prórroga se haya solicitado antes del inicio de la última quinta parte del plazo de la concesión;
+    Que el concesionario haya cumplido con las condiciones previstas en la concesión;
+    Que se exhiban los comprobantes del pago de los derechos establecidos en la Ley Federal de Derechos por el estudio de la solicitud; y 
+    Que se acepten las nuevas condiciones que establezca el Instituto, entre las que se encuentra el pago de la contraprestación correspondiente.
+
+Para verificar el primer requisito, se debe tomar en cuenta que la vigencia de la Concesión era de 15 (quince) años, contados a partir de su otorgamiento. Es decir, su vencimiento tuvo verificativo el 15 de junio de 2007, por lo que Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V., debía presentar la Solicitud de Prórroga antes del 15 de junio de 2004. Toda vez que Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V., presentó la Solicitud de Prórroga el 3 de marzo de 2003, este requisito se tiene por cumplido.
+
+Por lo que respecta al segundo requisito, el mismo fue verificado por la entonces Unidad de Supervisión y Verificación de la Comisión la que, en el ámbito de sus atribuciones, emitió los oficios señalados en el Antecedente IV, en donde manifestó que Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V., se encontraba al corriente en el cumplimiento de las obligaciones a su cargo derivadas de la Concesión.
+
+Con relación al tercer requisito, se debe mencionar que al momento de presentar la Solicitud de Prórroga, Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V., adjuntó el recibo de pago previsto en el artículo 94 fracción III de la Ley Federal de Derechos vigente al momento de la presentación de dicha solicitud, que ampara el estudio de solicitudes de prórroga de concesiones de redes públicas de telecomunicaciones. 
+
+Con respecto al cuarto requisito, éste se cumplirá una vez que Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V., acepte de manera expresa e indubitable las nuevas condiciones que al efecto establezca el Instituto. Entre las nuevas condiciones que deberá aceptar Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V., se encuentran los términos y las condiciones técnico-operativas de la prórroga de la Concesión, el otorgamiento de la concesión única para uso comercial, y el pago de la contraprestación por el otorgamiento del título de concesión de bandas de frecuencias del espectro radioeléctrico para uso comercial.
+
+Sexto.- Cobro sobre el pago de derechos por diversos trámites ante la entrada en vigor de la Ley Federal de Derechos vigente para 2016. El pasado 18 de noviembre de 2015 se publicó en el Diario Oficial de la Federación el "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos", mismo que entró en vigor el 1° de enero de 2016. Por virtud de este decreto se derogó, entre otros rubros, la Sección Primera del Capítulo VIII del Título I denominada "Servicios de Telecomunicaciones" con los artículos 91, 93, 94, 94-A, 95, 96, 97, 98, 99, 100, 101, 102 y 105 de la Ley Federal de Derechos. A la vez, ese mismo decreto adicionó, entre otros aspectos, el Capítulo IX del Título I denominado "Del Instituto Federal de Telecomunicaciones" que comprende los artículos 173, 173-A, 173-B, 174, 174-A, 174-B, 174-C, 174-D, 174-E, 174-F, 174-G, 174-H, 174-I, 174-J, 174-K, 174-L y 174-M. 
+
+Derivado de lo anterior, y en atención a lo establecido por el artículo 6o. del Código Fiscal de la Federación, se debe tener en cuenta que el hecho generador de los derechos derivados de la autorización de prórroga se actualizan al momento de la emisión y notificación de la presente resolución y que los artículos 93 y 94 de la Ley Federal de Derechos, al haber sido derogados, no pueden ser aplicados a los trámites de prórrogas de títulos de concesiones para el uso, aprovechamiento o explotación de bandas de frecuencias del espectro radioeléctrico, así como para la instalación, operación o explotación de redes públicas de telecomunicaciones.
+
+En este sentido, la Ley Federal de Derechos vigente a partir del 1º de enero de 2016 estableció en su artículo 173 un nuevo sistema de cobro de derechos para los trámites relativos a las prórrogas de concesiones en materia de telecomunicaciones o radiodifusión que hagan uso del espectro radioeléctrico, señalando que en un único cobro va integrado el estudio, y en su caso la autorización de la misma, situación distinta a la prevista en la Ley Federal de Derechos vigente hasta 2015, que establecía de manera diferenciada los cobros para el estudio y, en su caso, autorización.
+
+Al momento de iniciar el trámite que nos ocupa, únicamente se presentó el pago por el estudio del mismo. Sin embargo, si bien ahora procedería realizar el cobro por la autorización correspondiente, este Instituto se encuentra imposibilitado para diferenciar el cobro que debiera corresponder a la autorización de la prórroga de mérito, toda vez que como ya quedó señalado en el párrafo que antecede, actualmente se prevé un único pago por el estudio y en su caso la autorización respectiva. Finalmente, tratándose de disposiciones de carácter fiscal, se debe atender al principio de exacta aplicación de las mismas, por lo que no procede aplicar el cobro por la autorización de la prórroga que nos ocupa, toda vez que no puede ser diferenciado.
+
+Finalmente, la Ley Federal de Derechos señala en el actual artículo 173 penúltimo párrafo, que cuando la explotación de los servicios objeto de la concesión de bandas de frecuencias a las que se refieren los apartado A, B, fracciones I y II y C, requiera el otorgamiento de un título de concesión única, en términos del artículo 75 de la Ley Federal de Telecomunicaciones y Radiodifusión, el pago de derechos correspondiente al de bandas de frecuencias, comprenderá la expedición de la concesión única respectiva.
+
+En ese sentido, y considerando que ya no se otorgaría una concesión de red pública de telecomunicaciones, sino una concesión única para uso comercial, dado que para el caso que nos ocupa se actualiza lo señalado en el párrafo que antecede, tampoco se realizará el cobro por el otorgamiento de la concesión única.
+
+Séptimo.- Política de Planeación del Espectro Radioeléctrico para las bandas de frecuencias de 806-824/851-869 MHz y 410-430 MHz. El espectro radioeléctrico constituye un recurso escaso y de gran valor estratégico en el contexto económico y tecnológico actual a nivel internacional, de tal forma que es primordial garantizar el uso eficiente de dicho recurso. Para tal efecto, el 20 de octubre de 2015 se publicó en el Diario Oficial de la Federación el Cuadro Nacional de Atribución de Frecuencias, disposición administrativa que indica el servicio o servicios de radiocomunicaciones a los que se encuentra atribuida una determinada banda de frecuencias del espectro radioeléctrico, así como información adicional sobre el uso y planificación de determinadas bandas de frecuencias. Con respecto a la banda de frecuencias 806-824/851-869 MHz destaca la siguiente nota nacional:
+
+     "MX150 La banda de frecuencias 806  -  824/851  -  869 MHz se encuentra bajo un proceso de revisión para su posible reordenamiento. Dicho reordenamiento contempla la determinación del segmento 806  -  814/851  -  859 MHz para la operación de sistemas de radio troncalizado de uso público para aplicaciones de misión crítica, así como la determinación del segmento 814  -  824/859  -  869 MHz para la provisión de servicios móviles de banda ancha [...]"
+
+De igual forma, en lo tocante a la banda de frecuencias 410-430 MHz, destaca la siguiente nota nacional:
+
+     "MX134 La banda 410  -  430 MHz se tiene prevista para la provisión exclusiva del servicio móvil de radiocomunicación especializado de flotillas. La sub-banda 410  -  415/420  -  425 MHz se destina a operaciones de uso comercial, mientras que la sub-banda 415  -  420/425  -  430 MHz se destina para las operaciones de uso público."
+
+Por su parte, el Reglamento de Radiocomunicaciones de la Unión Internacional de Telecomunicaciones, instrumento administrativo que complementa y regula el uso de las telecomunicaciones y que es vinculante para nuestro país, como Estado Miembro de la Unión Internacional de Telecomunicaciones, señala en la Nota Internacional Relevante 5.317A lo siguiente:
+
+     "5.317A Las partes de la banda 698-960 MHz en la Región 2 y de la banda 790-960 MHz en las Regiones 1 y 3 atribuidas al servicio móvil a titulo primario se han identificado para su utilización por las administraciones que deseen introducir las Telecomunicaciones Móviles Internacionales (IMT)  -  Véanse las Resoluciones 224 (Rev.CMR-12) y 749 (Rev.CMR-12), según proceda. La identificación de estas bandas no excluye que se utilicen para otras aplicaciones de los servicios a los que están atribuidas y no implica prioridad alguna en el Reglamento de Radiocomunicaciones. (CMR-12)"
+
+Del análisis de las notas nacionales e internacionales relevantes antes transcritas y como parte de las medidas de prospectiva con respecto a la administración del espectro radioeléctrico en nuestro país, se desprende que la banda de frecuencias 806-824/851-869 MHz, se ha identificado a nivel mundial por la Unión Internacional de Telecomunicaciones como una banda de frecuencias propicia para su uso por sistemas de banda ancha móvil. En tal virtud, la utilización de dicha banda por tales sistemas, significa un uso más eficiente del espectro radioeléctrico en comparación con su utilización por sistemas de banda angosta como es el caso de los sistemas del servicio móvil de radiocomunicación especializada de flotillas.
+
+En consistencia con lo anterior, la banda de frecuencias 806-824/851-869 MHz es objeto del "Protocolo entre la Secretaría y el Departamento de Estado de los Estados Unidos de América relativo a la adjudicación, asignación y uso de las bandas de 806-824/851-869 MHz y 896-901/935-940 MHz para el servicios terrenales de radiocomunicación excepto radiodifusión, a lo largo de la frontera común en una franja de 110 km a cada lado de la misma" (el "Protocolo"), mismo fue suscrito el 8 de junio de 2012 por ambas administraciones. 
+
+Dicho Protocolo establece un nuevo plan de adjudicación para el uso equitativo de las citadas bandas de frecuencias en la zona fronteriza, para ello, entre otros aspectos, y con el objetivo de instrumentar el citado plan, el artículo V del Protocolo señala que las administraciones deberán implementar ciertas acciones para la migración de los concesionarios que operan actualmente en esta banda de frecuencias, para el caso de México, los concesionarios del servicio móvil de radiocomunicación especializada de flotillas, deberán migrar a canales de reemplazo dentro o fuera de la banda de frecuencias en comento.
+
+Por otro lado, como ya se señaló, el Cuadro Nacional de Atribución de Frecuencias estable que la banda de frecuencias 410-430 MHz se ha previsto para la provisión exclusiva del servicio móvil de radiocomunicación especializada de flotillas, debido a que dicha banda cuenta con diversas soluciones tecnológicas para la prestación de tales servicios, además de que no se encuentra identificada por la Unión Internacional de Telecomunicaciones como una banda propicia para la prestación de servicios de banda ancha. 
+
+En virtud de todo lo anterior, y con el objeto de propiciar un uso más eficiente del espectro radioeléctrico y al mismo tiempo dar cumplimiento a lo establecido por el Cuadro Nacional de Atribución de Frecuencias, el Reglamento de Radiocomunicaciones de la Unión Internacional de Telecomunicaciones, y el Protocolo, la banda de frecuencias 410-430 MHz se ha identificado como una alternativa para la reubicación de las operaciones de los concesionarios de sistemas de radiocomunicación especializada de flotillas provenientes de las bandas 806-821/851-866 MHz.
+Octavo.- Opiniones técnicas respecto a la Solicitud de Prórroga. Con la finalidad de contar con los elementos necesarios para la atención de la Solicitud de Prórroga de la Concesión, se requirió la opinión a la entonces Unidad de Prospectiva y Regulación de la Comisión que, conforme a lo señalado en el Antecedente VI, informó entre otras cosas, lo siguiente:
+
+"[...]
+
+II. Planificación espectral para la banda 806-824/851-869 MHz
+
+[...]
+
+4. Acciones de planificación.
+
+      La banda 698-960 MHz en la Región 2 ha sido identificada por la Unión Internacional Telecomunicaciones para su utilización por las Telecomunicaciones Móviles Internacionales (IMT), toda vez que los estudios de la UIT, la cantidad de espectro utilizable y las condiciones de propagación muestran que estas banda es propicia para poder ofrecer servicios de comunicaciones móviles de banda ancha con cobertura y calidad que posibilite el eficiente uso de los dispositivos móviles en diferentes entornos y en distintas condiciones. 
+      
+      Por otra parte, el grupo de estandarización 3GPP (3rd Generation Partnership Project), ha desarrollado las especificaciones técnicas de la interfaz aérea de LTE para aprovechar partes de la banda 698-960MHz en el despliegue de redes de conectividad de banda ancha móvil. Para el caso particular de la banda 806-824/851-869 MHz el 3GPP ha desarrollado los perfiles estandarizados para las bandas clase 26 (814-849/859-894 MHz) y clase 27 (806-824/851-869 MHz).
+      
+      Por lo tanto, se tiene previsto que la banda 806-824 / 851-869 MHz se sujete a un proceso de replanificación a fin de liberar bloques de espectro que posibiliten la introducción de servicios de banda ancha móvil a través a los estándares antes citados.
+      
+      III. Planificación espectral para la banda 410-430 MHz
+      
+      [...]
+      
+      5. Acciones de planificación 
+      
+      La banda de frecuencias 410-430 MHz está considerada en las acciones propuestas que están contenidas en el documento `El Espectro Radioeléctrico en México, Estudio y Acciones'. La planificación para esta banda se orienta hacia su reconfiguración para albergar a los concesionarios y asignatarios del servicio de radiolocalización especializada de flotillas (trunking) que operan mayoritariamente en la banda 806-824/851-869 MHz, para permitir la liberación de espectro en esta banda para su uso en sistemas de banda ancha móvil, conforme a lo contemplado en el numeral 4 de la sección II del presente oficio. 
+      
+      [...]." sic (énfasis añadido)
+
+Lo anterior es consistente con lo dispuesto por el Cuadro Nacional de Atribución de Frecuencias, publicado en el Diario Oficial de la Federación el 28 de febrero de 2012, vigente al momento de que dicha Dirección General emitió su opinión, mismo que en su artículo 5, al identificar a las Notas Internacionales, señalaba lo siguiente:
+
+      "5.317A Las partes de la banda 698-960 MHz en la Región 2 y de la banda 790-960 MHz en las Regiones 1 y 3 atribuidas al servicio móvil a título primario se han identificado para su utilización por las administraciones que deseen introducir las Telecomunicaciones Móviles Internacionales (IMT). Véanse las Resoluciones 224 (Rev. CMR-07) y 749 (CMR-07). La identificación de estas bandas no excluye que se utilicen para otras aplicaciones de los servicios a los que estén atribuidas y no implica prioridad alguna en el Reglamento de Radiocomunicaciones. (CMR07).
+
+Asimismo, al identificar las Notas Nacionales, señalaba lo siguiente:
+
+      "MEX78A La banda 410  -  430 MHz es apropiada para la operación de sistemas móviles troncalizados digitales."
+
+De la opinión anterior se desprende que la Solicitud de Prórroga resulta procedente desde el punto de vista de planificación espectral, siempre y cuando las prórrogas que se concedan para el servicio de radiocomunicación especializada de flotillas se otorguen dentro de la banda 410  -  430 MHz.
+
+En concordancia con lo anterior como se mencionó en el Antecedente X, la Dirección General de Ingeniería del Espectro y Estudios Técnicos, adscrita a la Unidad de Espectro Radioeléctrico del Instituto, señaló lo siguiente respecto de la planificación espectral para la banda 410-430 MHz:
+
+  "[...]
+  
+  II. Planificación espectral para la banda 410-430 MHz
+  
+ Reconfiguración de la banda 806-824 / 851-869 MHz
+  
+  Las acciones de planificación respecto a la banda 806-824/851-869 MHz corresponden al proceso de reorganización de la citada banda conforme a lo indicado en el `Acuerdo mediante el cual el Pleno del Instituto Federal de Telecomunicaciones modifica el Programa Anual de Uso y Aprovechamiento de bandas de frecuencias 2015', publicado  en el Diario Oficial de la Federación el 6 de abril de 2015; con el fin de posibilitar la introducción de servicios de banda ancha móvil en el rango de frecuencias 814-824/859-869 MHz, de conformidad con la identificación de esta banda para las Telecomunicaciones Móviles Internacionales (IMT), para la introducción de tecnologías de banda ancha compatibles con el estándar tecnológico definido para la banda 26 especificado por el 3GPP (3rd Generation Partnership Project).
+  
+  En este sentido, se ha identificado la banda 410-430 MHz como una de las alternativas para la reubicación de las operaciones de los concesionarios de sistemas de radiocomunicación especializada de flotillas (trunking) provenientes de las bandas 806-821/851-866 MHz y 430-440 MHz. Lo anterior, debido a que el rango de frecuencias 410-430 MHz se considera propicio para la operación de sistemas de banda angosta, esto en virtud de que cuenta con soluciones tecnológicas disponibles, además de que no se encuentra identificada por la Unión Internacional de Telecomunicaciones (UIT) para el despliegue de las IMT por lo que actualmente no se tiene contemplada la introducción de tecnologías de banda ancha móvil.
+  
+ Planificación de la banda 410-430 MHz
+  
+  Una vez determinado que la banda de 410-430 MHz podrá alojar los servicios de radiocomunicación especializada de flotillas (trunking), se tiene planeada la operación de los sistemas para uso comercial en la parte inferior de la banda, esto es, en el rango 410-415/420-425 MHz. Por otra parte, se prevé que las operaciones de los sistemas de concesiones de uso público sean alojadas en el en el rango 415-420/425-430 MHz. Todo ello acorde con la Planeación espectral para la banda 410-430 MHz determinada por la Dirección General de Planeación del Espectro de la Unidad de Espectro Radioeléctrico.
+  
+  [...]
+  
+III. Definición de criterios respecto a las prórrogas solicitadas. 
+  
+   Criterios definidos para la asignación de cobertura
+
+  Los títulos de concesión de referencia, contienen condiciones acordes al Marco Jurídico vigente en la fecha de su otorgamiento, tal es el caso de las condiciones relacionas con el `área se servicio' (cobertura), donde se manejan criterios de cobertura diferentes en cada título, tales como rutas carreteras, estados, ciudades específicas, zonas metropolitanas o la ubicación geográfica de las estaciones transmisoras pertenecientes al concesionario.
+  
+  Debido a lo anterior, resultó necesario definir de forma precisa la cobertura de cada título de concesión prorrogado, lo cual tiene como finalidad eliminar ambigüedades respecto la cobertura de cada uno de los títulos, especialmente aquellas definidas por ruta carretera y repetidores. Además, esto también incide en la definición del monto de contraprestación a pagar por los concesionarios, de así resultar procedente el otorgamiento de sus prórrogas. 
+  
+  De este modo, se propone que la unidad mínima para establecer la cobertura de cada uno de los concesionarios sea el municipio y/o delegación, para lo cual debieron establecerse ciertos criterios para asignar las áreas de cobertura, los cuales se mencionan a continuación:
+
+  a) Rutas Carreteras.
+
+  Dado que el origen del servicio de trunking se encuentra en el servicio de radiocomunicación para flotillas, existen casos donde la cobertura autorizada en las concesiones se estableció por rutas carreteras, las cuales comunican ciudades y/o poblaciones.
+
+  Conforme a los indicado en los títulos de concesión, en su momento se otorgó la posibilidad a los concesionarios de ofrecer el servicio en "...áreas rurales, pequeños núcleos de población, así como regiones urbanas y suburbanas a lo largo de las troncales carreteras...", en adición a las ciudades y/o poblaciones que comprenden tales rutas.
+
+  Con base en lo anteriormente descrito, este análisis considera que las coberturas asignadas por ruta carretera estarán conformadas por todos aquellos municipios por los que cruce la carretera mencionada en su título de concesión.
+  
+  Adicionalmente, se han considerado como parte de la cobertura aquellos municipios conectados por troncales que no forman parte de una carretera principal, siempre que la distancia de la carretera principal a la mancha urbana fuera menor o igual a 10 km. Esto, en atención a la asignación de coberturas en los títulos de concesión originalmente otorgados, los cuales brindaban la posibilidad de conectar poblaciones fuera del trayecto principal de la carretera, a través de sus troncales, mientras que la distancia de 10 km se tomó con base en la definición de zonas metropolitanas que el Instituto Nacional de Estadística Geográfica e Informática  (INEGI) hace en el documento Delimitación de las Zonas Metropolitanas México 2010 (el documento ZMM).
+
+  b) Zonas Metropolitanas
+
+  Algunos títulos de concesión incluidos en las solicitudes de prórroga tienen definidas sus áreas de cobertura por ciudades y/o zonas conurbadas por lo que en los casos donde estas coberturas tratasen de municipios centrales, se decidió unificar estos criterios de acuerdo a lo definido por el INEGI en el documento ZMM:
+
+     `Se define como zona metropolitana al conjunto de dos o más municipios donde se localiza una ciudad de 50 mil o más habitantes, cuya área urbana, funciones y actividades rebasan el límite del municipio que originalmente la contenía, incorporando como parte de sí misma o de su área de influencia directa a municipios vecinos, predominantemente urbanos, con los que mantiene un alto grado de integración socioeconómica. También se incluyen aquellos municipios que por sus características particulares son relevantes para la planeación y política urbanas de las zonas metropolitanas en cuestión.
+     
+     Adicionalmente, se define como zonas metropolitanas a todos aquellos municipios que contienen una ciudad de un millón o más habitantes, así como ciudades de 250 mil o más habitantes que comparten procesos de conurbación con ciudades de Estados Unidos de América.
+
+  Para delimitar las zonas metropolitanas, el INEGI a su vez define tres grupos de municipios metropolitanos, de los cuales en donde se localiza la ciudad principal es denominado Municipio Central.
+
+     Municipios Centrales. Corresponden a los municipios donde se localiza la ciudad central que da origen a la zona metropolitana; es la localidad geoestadística urbana o conurbación que da origen a la zona metropolitana.'
+
+  Así, para aquel concesionario cuya área de cobertura estuviera definida por ciudad (y ésta fuera parte de un municipio central) y/o zona conurbada, se asignaron los municipios pertenecientes a la zona metropolitana asociada, de acuerdo al documento ZMM.
+  c) Repetidores
+
+  Para el caso único del concesionario `Radiocomunicaciones y Desarrollos de México, S.A. de C.V', en cual la definición de su área de cobertura solo se puede deducir a través de la ubicación de sus repetidores y la ciudad/municipio en donde se encuentran éstos localizados, se consideró proponer como área de cobertura la zona metropolitana asociada al municipio en donde se ubica el repetidor siempre y cuando el municipio fuera del tipo central, de ser el caso contrario, sólo se asignó como cobertura el municipio asociado al repetidor.
+
+   Canalización de la banda 410-430 MHz
+   
+  Las solicitudes de prórroga de los títulos de concesión fueron asignadas en un principio dentro de la banda de 800 MHz y con una canalización de un ancho de banda de 25 kHz por canal. Debido a que los servicios objeto de estas prórrogas son los referidos a radiocomunicación móvil de flotillas, o trunking, la tecnología disponible en el mercado cuando originalmente se otorgaron estos títulos era apropiada para tal canalización. No obstante, hoy existen tecnologías ampliamente disponibles que pueden operar con canalizaciones que permiten una eficiencia espectral mayor, al permitir canales de comunicación en anchos de banda menores permitiendo así como un uso más eficiente del espectro. 
+  
+  Considerando lo anterior y en fomento al uso más eficiente del espectro, esta Dirección General recomienda que se adopte un esquema estándar de canalización de 12.5 kHz de ancho de banda por canal para la banda de 410-430 MHz. No obstante que el espaciamiento estándar de cada canal dentro de esta banda es de 12.5 kHz, el esquema propuesto permite la flexibilidad de operar dos canales contiguos, lo cual es equivalente a un canal de 25 kHz. 
+  
+  Lo anterior respeta la canalización de 25 kHz con la que actualmente operan los concesionarios comerciales y de uso público, reconociendo así la cantidad de espectro concesionado, al mismo tiempo que se promueve el uso más eficiente del espectro radioeléctrico y se respeta el principio de neutralidad tecnológica.
+  
+  [...]
+  
+ Opinión respecto a la solicitud
+  
+  Con base en lo expuesto en las secciones anteriores, en opinión de esta Dirección General las solicitudes de prórroga resultan procedentes desde el punto de vista regulatorio y de planificación del espectro [...]."
+  
+De igual forma, la citada Dirección General acompañó a su opinión la propuesta de asignación de cobertura por municipio y sus respectivos grupos de frecuencia en la banda de 400 MHz para Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V., misma que se transcribe a continuación: 
+
+                                    Tabla 1
+Asignación de cobertura por municipio y sus respectivos grupos de frecuencia en la banda de 400 MHz
+                                   Cobertura
+                                 Concesionario
+                                    Estado
+                                  Municipios
+             Grupos de frecuencia asignados en la banda de 400 MHz
+          COMUNICACIONES RADIOTELEFÓNICAS PENINSULARES, S.A. DE C.V.
+                                    Chiapas
+Tuxtla Gutiérrez y Chiapa de Corzo.
+                            1, 2, 3, 4, 5, 6, 7 y 8
+          COMUNICACIONES RADIOTELEFÓNICAS PENINSULARES, S.A. DE C.V.
+                                    Tabasco
+Centro y Nacajuca.
+                            1, 2, 3, 4, 5, 6, 7 y 8
+          COMUNICACIONES RADIOTELEFÓNICAS PENINSULARES, S.A. DE C.V.
+                                   Yucatán
+Mérida, Kanasín, Umán, Ucú y Conkal.
+                            1, 2, 3, 4, 5, 6, 7 y 8
+          COMUNICACIONES RADIOTELEFÓNICAS PENINSULARES, S.A. DE C.V.
+                                 Quintana Roo
+Benito Juárez e Isla Mujeres.
+                            1, 2, 3, 4, 5, 6, 7 y 8
+Por lo que respecta a la asignación de los pares de frecuencias, la Dirección General de Ingeniería del Espectro y Estudios Técnicos, remitió dos canalizaciones de la banda con anchos de banda por canal de 25 kHz y 12.5 kHz, recomendando que se adoptara esta última pues propicia un uso más eficiente del espectro. Asimismo, las canalizaciones propuestas permiten la flexibilidad de operar en dos canales contiguos de 12.5 kHz, lo cual es equivalente a un canal de 25 kHz, situación que respeta la canalización de 25 kHz con que actualmente operan otros concesionarios comerciales y públicos en la misma banda de frecuencias. 
+
+Derivado de lo anterior, y con base en el principio de neutralidad tecnológica, este Pleno considera que las frecuencias que se asignen como consecuencia de la Solicitud de Prórroga deberán contemplar canales con un ancho de banda de 12.5 kHz o bien de 25 kHz, conforme a las canalizaciones definidas en las siguientes tablas:
+
+                                   Tabla 2.1
+                                       
+Grupos de Frecuencia en la banda de 400 MHz para una canalización de 12.5 kHz (donde la frecuencia de Tx corresponde a la estación transmisora).
+                                       
+                                    Grupo 1
+                                    Grupo 1
+                                    Grupo 1
+                                    Grupo 1
+                                    Grupo 1
+                                    Grupo 1
+                                    Grupo 2
+                                    Grupo 2
+                                    Grupo 2
+                                    Grupo 2
+                                    Grupo 2
+                                    Grupo 2
+                                   Circuito
+                                      Rx
+                                      Tx
+                                   Circuito
+                                      Rx
+                                      Tx
+                                   Circuito
+                                      Rx
+                                      Tx
+                                   Circuito
+                                      Rx
+                                      Tx
+                                       A
+                                   410.01875
+                                   420.01875
+                                       B
+                                   410.03125
+                                   420.03125
+                                       A
+                                   410.04375
+                                   420.04375
+                                       B
+                                   410.05625
+                                   420.05625
+                                       C
+                                   410.21875
+                                   420.21875
+                                       D
+                                   410.23125
+                                   420.23125
+                                       C
+                                   410.24375
+                                   420.24375
+                                       D
+                                   410.25625
+                                   420.25625
+                                       E
+                                   410.41875
+                                   420.41875
+                                       F
+                                   410.43125
+                                   420.43125
+                                       E
+                                   410.44375
+                                   420.44375
+                                       F
+                                   410.45625
+                                   420.45625
+                                       G
+                                   410.61875
+                                   420.61875
+                                       H
+                                   410.63125
+                                   420.63125
+                                       G
+                                   410.64375
+                                   420.64375
+                                       H
+                                   410.65625
+                                   420.65625
+                                       I
+                                   410.81875
+                                   420.81875
+                                       J
+                                   410.83125
+                                   420.83125
+                                       I
+                                   410.84375
+                                   420.84375
+                                       J
+                                   410.85625
+                                   420.85625
+                                    Grupo 3
+                                    Grupo 3
+                                    Grupo 3
+                                    Grupo 3
+                                    Grupo 3
+                                    Grupo 3
+                                    Grupo 4
+                                    Grupo 4
+                                    Grupo 4
+                                    Grupo 4
+                                    Grupo 4
+                                    Grupo 4
+                                   Circuito
+                                      Rx
+                                      Tx
+                                   Circuito
+                                      Rx
+                                      Tx
+                                   Circuito
+                                      Rx
+                                      Tx
+                                   Circuito
+                                      Rx
+                                      Tx
+                                       A
+                                   410.06875
+                                   420.06875
+                                       B
+                                   410.08125
+                                   420.08125
+                                       A
+                                   410.09375
+                                   420.09375
+                                       B
+                                   410.10625
+                                   420.10625
+                                       C
+                                   410.26875
+                                   420.26875
+                                       D
+                                   410.28125
+                                   420.28125
+                                       C
+                                   410.29375
+                                   420.29375
+                                       D
+                                   410.30625
+                                   420.30625
+                                       E
+                                   410.46875
+                                   420.46875
+                                       F
+                                   410.48125
+                                   420.48125
+                                       E
+                                   410.49375
+                                   420.49375
+                                       F
+                                   410.50625
+                                   420.50625
+                                       G
+                                   410.66875
+                                   420.66875
+                                       H
+                                   410.68125
+                                   420.68125
+                                       G
+                                   410.69375
+                                   420.69375
+                                       H
+                                   410.70625
+                                   420.70625
+                                       I
+                                   410.86875
+                                   420.86875
+                                       J
+                                   410.88125
+                                   420.88125
+                                       I
+                                   410.89375
+                                   420.89375
+                                       J
+                                   410.90625
+                                   420.90625
+                                    Grupo 5
+                                    Grupo 5
+                                    Grupo 5
+                                    Grupo 5
+                                    Grupo 5
+                                    Grupo 5
+                                    Grupo 6
+                                    Grupo 6
+                                    Grupo 6
+                                    Grupo 6
+                                    Grupo 6
+                                    Grupo 6
+                                   Circuito
+                                      Rx
+                                      Tx
+                                   Circuito
+                                      Rx
+                                      Tx
+                                   Circuito
+                                      Rx
+                                      Tx
+                                   Circuito
+                                      Rx
+                                      Tx
+                                       A
+                                   410.11875
+                                   420.11875
+                                       B
+                                   410.13125
+                                   420.13125
+                                       A
+                                   410.14375
+                                   420.14375
+                                       B
+                                   410.15625
+                                   420.15625
+                                       C
+                                   410.31875
+                                   420.31875
+                                       D
+                                   410.33125
+                                   420.33125
+                                       C
+                                   410.34375
+                                   420.34375
+                                       D
+                                   410.35625
+                                   420.35625
+                                       E
+                                   410.51875
+                                   420.51875
+                                       F
+                                   410.53125
+                                   420.53125
+                                       E
+                                   410.54375
+                                   420.54375
+                                       F
+                                   410.55625
+                                   420.55625
+                                       G
+                                   410.71875
+                                   420.71875
+                                       H
+                                   410.73125
+                                   420.73125
+                                       G
+                                   410.74375
+                                   420.74375
+                                       H
+                                   410.75625
+                                   420.75625
+                                       I
+                                   410.91875
+                                   420.91875
+                                       J
+                                   410.93125
+                                   420.93125
+                                       I
+                                   410.94375
+                                   420.94375
+                                       J
+                                   410.95625
+                                   420.95625
+                                    Grupo 7
+                                    Grupo 7
+                                    Grupo 7
+                                    Grupo 7
+                                    Grupo 7
+                                    Grupo 7
+                                    Grupo 8
+                                    Grupo 8
+                                    Grupo 8
+                                    Grupo 8
+                                    Grupo 8
+                                    Grupo 8
+                                   Circuito
+                                      Rx
+                                      Tx
+                                   Circuito
+                                      Rx
+                                      Tx
+                                   Circuito
+                                      Rx
+                                      Tx
+                                   Circuito
+                                      Rx
+                                      Tx
+                                       A
+                                   410.16875
+                                   420.16875
+                                       B
+                                   410.18125
+                                   420.18125
+                                       A
+                                   410.19375
+                                   420.19375
+                                       B
+                                   410.20625
+                                   420.20625
+                                       C
+                                   410.36875
+                                   420.36875
+                                       D
+                                   410.38125
+                                   420.38125
+                                       C
+                                   410.39375
+                                   420.39375
+                                       D
+                                   410.40625
+                                   420.40625
+                                       E
+                                   410.56875
+                                   420.56875
+                                       F
+                                   410.58125
+                                   420.58125
+                                       E
+                                   410.59375
+                                   420.59375
+                                       F
+                                   410.60625
+                                   420.60625
+                                       G
+                                   410.76875
+                                   420.76875
+                                       H
+                                   410.78125
+                                   420.78125
+                                       G
+                                   410.79375
+                                   420.79375
+                                       H
+                                   410.80625
+                                   420.80625
+                                       I
+                                   410.96875
+                                   420.96875
+                                       J
+                                   410.98125
+                                   420.98125
+                                       I
+                                   410.99375
+                                   420.99375
+                                       J
+                                   411.00625
+                                   421.00625
+
+                                   Tabla 2.2
+                                       
+Grupos de Frecuencia en la banda de 400 MHz para una canalización de 25 kHz (donde la frecuencia de Tx corresponde a la estación transmisora).
+
+                                    Grupo 1
+                                    Grupo 1
+                                    Grupo 1
+                                    Grupo 2
+                                    Grupo 2
+                                    Grupo 2
+                                   Circuito
+                                      Rx
+                                      Tx
+                                   Circuito
+                                      Rx
+                                      Tx
+                                       1
+                                    410.025
+                                    420.025
+                                       1
+                                    410.05
+                                    420.05
+                                       2
+                                    410.225
+                                    420.225
+                                       2
+                                    410.25
+                                    420.25
+                                       3
+                                    410.425
+                                    420.425
+                                       3
+                                    410.45
+                                    420.45
+                                       4
+                                    410.625
+                                    420.625
+                                       4
+                                    410.65
+                                    420.65
+                                       5
+                                    410.825
+                                    420.825
+                                       5
+                                    410.85
+                                    420.85
+                                    Grupo 3
+                                    Grupo 3
+                                    Grupo 3
+                                    Grupo 4
+                                    Grupo 4
+                                    Grupo 4
+                                   Circuito
+                                      Rx
+                                      Tx
+                                   Circuito
+                                      Rx
+                                      Tx
+                                       1
+                                    410.075
+                                    420.075
+                                       1
+                                     410.1
+                                     420.1
+                                       2
+                                    410.275
+                                    420.275
+                                       2
+                                     410.3
+                                     420.3
+                                       3
+                                    410.475
+                                    420.475
+                                       3
+                                     410.5
+                                     420.5
+                                       4
+                                    410.675
+                                    420.675
+                                       4
+                                     410.7
+                                     420.7
+                                       5
+                                    410.875
+                                    420.875
+                                       5
+                                     410.9
+                                     420.9
+                                    Grupo 5
+                                    Grupo 5
+                                    Grupo 5
+                                    Grupo 6
+                                    Grupo 6
+                                    Grupo 6
+                                   Circuito
+                                      Rx
+                                      Tx
+                                   Circuito
+                                      Rx
+                                      Tx
+                                       1
+                                    410.125
+                                    420.125
+                                       1
+                                    410.15
+                                    420.15
+                                       2
+                                    410.325
+                                    420.325
+                                       2
+                                    410.35
+                                    420.35
+                                       3
+                                    410.525
+                                    420.525
+                                       3
+                                    410.55
+                                    420.55
+                                       4
+                                    410.725
+                                    420.725
+                                       4
+                                    410.75
+                                    420.75
+                                       5
+                                    410.925
+                                    420.925
+                                       5
+                                    410.95
+                                    420.95
+                                    Grupo 7
+                                    Grupo 7
+                                    Grupo 7
+                                    Grupo 8
+                                    Grupo 8
+                                    Grupo 8
+                                   Circuito
+                                      Rx
+                                      Tx
+                                   Circuito
+                                      Rx
+                                      Tx
+                                       1
+                                    410.175
+                                    420.175
+                                       1
+                                     410.2
+                                     420.2
+                                       2
+                                    410.375
+                                    420.375
+                                       2
+                                     410.4
+                                     420.4
+                                       3
+                                    410.575
+                                    420.575
+                                       3
+                                     410.6
+                                     420.6
+                                       4
+                                    410.775
+                                    420.775
+                                       4
+                                     410.8
+                                     420.8
+                                       5
+                                    410.975
+                                    420.975
+                                       5
+                                      411
+                                      421
+
+Por otro lado, tal como se indicó en el antecedente XI de la presente Resolución, la Unidad de Competencia Económica del Instituto, a través de la Dirección General de Concentraciones y Concesiones, informó que no se identificaban elementos ni indicios de que la autorización de la prórroga solicitada por Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V., puediera tener efectos contrarios en el proceso de competencia y libre concurrencia en los mercados.
+
+Noveno.- Contraprestación. Como ya quedó señalado en el Considerando Segundo, la normatividad aplicable a la Solicitud de Prórroga está contenida en la LFT, la cual, en su artículo 19 establece, entre otros, el requisito de fijar nuevas condiciones al concesionario, entre las que se encuentra fijar una contraprestación por el uso, aprovechamiento y explotación de bandas de frecuencias del espectro radioeléctrico.
+
+Por su parte, el artículo 14 del citado ordenamiento, señala lo siguiente:
+
+     "Artículo 14. Las concesiones sobre bandas de frecuencias del espectro para usos determinados se otorgarán mediante licitación pública. El Gobierno Federal tendrá derecho a recibir una contraprestación económica por el otorgamiento de la concesión correspondiente." (Énfasis añadido)
+     
+Es decir, el otorgamiento de una prórroga de vigencia constituye un nuevo acto de otorgamiento de una concesión por un plazo determinado, que en el caso que nos ocupa, tiene por objeto el uso, aprovechamiento y explotación del espectro radioeléctrico, bien de uso común sujeto al régimen de dominio público de la Federación. 
+
+En este caso, constituye un recurso económico del Estado al que le son aplicables los principios contenidos en el artículo 134 de la Constitución, conjuntamente con los establecidos en los artículos 25, 26, 27 y 28 que conforman el capítulo económico de Ley Fundamental, por lo que se otorga en concesión solo a cambio de una contraprestación económica. En este sentido, al prorrogarse su concesionamiento, el Estado tiene derecho a percibir una contraprestación por el uso, goce, aprovechamiento o explotación del bien de dominio público de la Federación al que se hace mención.
+
+Ahora bien, la Solicitud de Prórroga fue presentada antes de la entrada en vigor del Decreto de Reforma Constitucional, en ese sentido, dicha disposición estableció en el segundo párrafo del artículo Séptimo Transitorio que los procedimientos iniciados con anterioridad a la integración del Instituto, continuarán su trámite en términos de la legislación aplicable al momento de su inicio, por lo que corresponde a la Secretaría de Hacienda y Crédito Público, en atención a lo señalado en el artículo 10 de la Ley de Ingresos de la Federación, fijar los aprovechamientos que se cobrarán en el ejercicio fiscal correspondiente por el uso, goce, aprovechamiento o explotación de bienes sujetos al régimen de dominio público de la Federación. 
+
+En ese sentido, a fin de que la Secretaría de Hacienda y Crédito Público fije el monto del aprovechamiento correspondiente, la Unidad de Espectro Radioeléctrico mediante oficio IFT/222/UER/154/2015 de fecha 24 de junio de 2015 remite a dicha Dependencia, la propuesta de aprovechamiento que deberá pagar Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V. por el uso, aprovechamiento y explotación de las bandas de frecuencias en del segmento 410  -  430 MHz, para lo cual consideró, entre otros, los siguientes aspectos: las bandas de espectro radioeléctrico objeto de la las Solicitud de Prórroga, la cobertura geográfica autorizada, así como los pagos promedio realizados en las licitaciones No. 15, 16 y 17 para el otorgamiento de concesiones de bandas de frecuencias para la prestación del servicio móvil de radiocomunicación especializada en flotillas. Además, se considera dentro de este aprovechamiento un monto equivalente a las cuotas de derechos del artículo 244-F por el periodo comprendido desde la fecha de vencimiento de cada una de las concesiones, hasta la fecha en que los concesionarios paguen el aprovechamiento con motivo de la prórroga de la vigencia de cada concesión.
+
+En atención a la propuesta presentada por la Unidad de Espectro Radioeléctrico, con oficios 349-B-367 y 349-B-264 señalados en el Antecedente XII, la Secretaría de Hacienda y Crédito Público autorizó los aprovechamientos por la prórroga a diversos concesionarios que prestan el servicio móvil de radiocomunicación especializada de flotillas, entre los que se encuentra Comunicaciones Radiotelefónicas Peninsulares, S. A. de C.V., en los siguientes términos:
+
+	"[...]
+
+         Un aprovechamiento a pagarse en una sola exhibición equivalente a los pagos promedio realizados en las licitaciones No. 15, 16 y 17 para el servicio móvil de radiocomunicación especializada de flotillas (trunking) conforme al ancho de banda concesionado; el área de cobertura geográfica autorizada y el plazo que cubra la prórroga de las concesiones. Además, se considera dentro de este aprovechamiento un monto calculado tomando en cuenta un monto equivalente a las cuotas de derechos del artículo 244-F por el periodo comprendido desde la fecha de vencimiento de cada una de las concesiones hasta el presente ejercicio fiscal.
+
+                                      No.
+                           Nombre del Concesionario
+                      Banda de Frecuencias (reubicación)
+                  Importe del Aprovechamiento inicial (pesos)
+                                       1
+                                     [...]
+                                     [...]
+                                     [...]
+                                       2
+                                     [...]
+                                     [...]
+                                     [...]
+                                       3
+                                     [...]
+                                     [...]
+                                     [...]
+                                       4
+                                     [...]
+                                     [...]
+                                     [...]
+                                       5
+          Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V.
+                                  410-430 MHz
+                                    271,865
+                                       6
+                                     [...]
+                                     [...]
+                                     [...]
+                                       7
+                                     [...]
+                                     [...]
+                                     [...]
+                                       8
+                                     [...]
+                                     [...]
+                                     [...]
+                                       9
+                                     [...]
+                                     [...]
+                                     [...]
+
+      Del monto de aprovechamiento anterior, las empresas concesionarias podrán disminuir una cantidad equivalente a los derechos y/o aprovechamientos federales relativos al uso, goce, aprovechamiento o explotación del espectro radioeléctrico asociados a las concesiones que en su caso se prorroguen y que hayan sido pagados desde la fecha de vencimiento de la concesión, hasta la fecha en que el concesionario pague el aprovechamiento con motivo de la prórroga de la vigencia de las concesiones respectivas. Esta operación, se podrá realizar siempre y cuando los pagos efectivamente realizados por concepto de derechos y/o aprovechamientos cuyo importe se pretenda restar hayan sido pagados de manera definitiva y no sean devueltos por las autoridades fiscales.
+      
+      Los montos que se podrán restar de este aprovechamiento se deberán actualizar a partir de la fecha en que se hubieran cubierto, tanto en términos del artículo 17-A del CFF, como por el factor que refleja la tasa real de fondeo promedio del Gobierno Federal en Udibonos que se colocaron al menor plazo en colocaciones primarias, según el año en que se efectuaron los pagos de acuerdo con la tabla siguiente:
+      
+                           Factor de actualización anual
+                                     Año
+                                     2005
+                                     2006
+                                     2007
+                                     2008
+                                     2009
+                                     2010
+                                     2011
+                                     2012
+                                     2013
+                                     2014
+                                     2015
+                                    Factor
+                                    1.3564
+                                    1.3157
+                                    1.2763
+                                    1.2378
+                                    1.2007
+                                    1.1647
+                                    1.1297
+                                    1.0957
+                                    1.0628
+                                    1.0309
+                                    1.0000
+     
+      En el caso de que el importe de los montos a restar sea mayor que el aprovechamiento autorizado, no procederá devolución ni compensación alguna.
+      
+      El pago del aprovechamiento por prórroga deberá realizarse previo a la entrega de los títulos de concesión mediante la clave de entero que corresponda.
+      
+      [...]
+      
+      La obligación de pagar el monto del aprovechamiento autorizado en el presente oficio deberá establecerse en los nuevos títulos de concesión que se emitan en virtud del otorgamiento de la prórroga de concesión, incorporando los montos del aprovechamiento a pagar.
+      
+      El pago de aprovechamiento autorizado en el presente oficio debe realizarse sin menoscabo de la obligación de pagar los derechos establecidos en el artículo 244-F de la LFD por el uso, goce, aprovechamiento o explotación del espectro radioeléctrico, a partir de la entrega de las prórrogas de los títulos de concesión.
+      
+      [...]"
+
+Ahora bien, mediante oficio IFT/222/UER/DG-EERO/008/2016 de fecha 11 de enero de 2016, la Unidad de Espectro Radioeléctrico, a través de la Dirección General de Economía del Espectro y Recursos Orbitales, remitió la actualización de los aprovechamientos autorizados por la Secretaría de Hacienda y Crédito Público, al mes de enero de 2016, que corresponden a Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V., mismo que se transcribe a continuación:
+
+                                      No.
+                           Nombre del Concesionario
+                      Banda de Frecuencias (reubicación)
+                  Importe del Aprovechamiento inicial (pesos)
+                                     [...]
+                                     [...]
+                                     [...]
+                                     [...]
+                                       5
+          Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V.
+                                  410-430 MHz
+                                    290,857
+                                     [...]
+                                     [...]
+                                     [...]
+                                     [...]
+
+Por lo anteriormente señalado y con fundamento en los artículos 6o. Apartado B fracción II y 28 párrafos décimo quinto, décimo sexto, décimo séptimo y 134 de la Constitución Política de los Estados Unidos Mexicanos; Séptimo Transitorio del "Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones", publicado en el Diario Oficial de la Federación el 11 de junio de 2013; Sexto Transitorio del "Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión", publicado en el Diario Oficial de la Federación el 14 de julio de 2014; 15 fracciones IV y LVII, 16, 17 fracción I, 66, 67 fracción I, 68, 72, 75, 76 fracción I y 177 fracción I de la Ley Federal de Telecomunicaciones y Radiodifusión; 14, 19 y 27 de la Ley Federal de Telecomunicaciones; 35 fracción I, 36, 38, 39 y 57 fracción I de la Ley Federal de Procedimiento Administrativo; 94 fracción III de la Ley Federal de Derechos vigente durante el año 2015; el Cuadro Nacional de Atribución de Frecuencias publicado en el Diario Oficial de la Federación el 20 de octubre de 2015, y 1, 6 fracciones I, XVIII y XXXVII, 27, 29, 30, 31 fracciones VII y XII, 32, 33 fracción II, 47 y 50 fracción XII del Estatuto Orgánico del Instituto Federal de Telecomunicaciones, este órgano autónomo emite los siguientes:
+
+                                  RESOLUTIVOS
+
+PRIMERO.- Se autoriza a Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V., la prórroga de vigencia de la concesión para construir, instalar, mantener, operar y explotar una red pública de radiocomunicación móvil para prestar servicio público de radiocomunicación móvil especializada con tecnología de frecuencias portadoras compartidas, otorgada el 3 de junio de 1994.
+
+Para tal efecto, el Instituto Federal de Telecomunicaciones otorgará un título de concesión única para uso comercial en favor de Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V. con una vigencia de 30 (treinta) años contados a partir del 16 de junio de 2007, con cobertura nacional y con el que podrá prestar cualquier servicio de telecomunicaciones y de radiodifusión que sea técnicamente factible.
+
+A fin de que el Instituto Federal de Telecomunicaciones expida el título de concesión señalado en el párrafo anterior, Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V. deberá aceptar expresamente y de manera previa, las nuevas condiciones que al efecto se le establezcan, de conformidad con lo dispuesto por los Resolutivos Cuarto y Quinto de la presente Resolución.
+
+SEGUNDO.- De conformidad con la autorización señalada en el Resolutivo que antecede, el Instituto Federal de Telecomunicaciones otorgará en favor de Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V., un título de concesión para usar, aprovechar y explotar bandas de frecuencias del espectro radioeléctrico para uso comercial con una vigencia de 20 (veinte) años contados a partir del 16 de junio de 2007, con la siguiente cobertura:
+                                   Cobertura
+                                    Estado
+                                  Municipios
+                                    Chiapas
+Tuxtla Gutiérrez y Chiapa de Corzo.
+                                    Tabasco
+Centro y Nacajuca.
+                                   Yucatán
+Mérida, Kanasín, Umán, Ucú y Conkal.
+                                 Quintana Roo
+Benito Juárez e Isla Mujeres.
+A fin de que el Instituto Federal de Telecomunicaciones expida el título de concesión señalado en el párrafo anterior, Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V. deberá aceptar expresamente y de manera previa, las nuevas condiciones que al efecto se le establezcan, de conformidad con lo dispuesto por los Resolutivos Cuarto y Quinto de la presente Resolución.
+
+TERCERO.- El título de concesión para uso comercial a que se refiere el Resolutivo Segundo, confiere a Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V., a partir de su inicio de vigencia, el derecho a prestar únicamente el servicio móvil de radiocomunicación especializada de flotillas, mismo que es equiparable al servicio de radiocomunicación móvil especializada con tecnología de frecuencias portadoras compartidas, autorizado originalmente, en los grupos para tal efecto definidos, dentro del rango de frecuencias 410-430 MHz, de conformidad con el siguiente esquema de asignación de cobertura:
+
+                                   Cobertura
+                                    Estado
+                                  Municipios
+             Grupos de frecuencia asignados en la banda de 400 MHz
+                                    Chiapas
+Tuxtla Gutiérrez y Chiapa de Corzo.
+                            1, 2, 3, 4, 5, 6, 7 y 8
+                                    Tabasco
+Centro y Nacajuca.
+                            1, 2, 3, 4, 5, 6, 7 y 8
+                                   Yucatán
+Mérida, Kanasín, Umán, Ucú y Conkal.
+                            1, 2, 3, 4, 5, 6, 7 y 8
+                                 Quintana Roo
+Benito Juárez e Isla Mujeres.
+                            1, 2, 3, 4, 5, 6, 7 y 8
+
+CUARTO.- Se instruye a la Unidad de Concesiones y Servicios a hacer del conocimiento de Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V. el contenido de la presente Resolución, así como las nuevas condiciones, mismas que se encuentran contenidas en los proyectos de títulos de concesión los cuales forman parte integral de la presente Resolución, a efecto de recabar de dicha empresa, en un plazo no mayor a 15 (quince) días hábiles contados a partir de que surta efectos la notificación respectiva, su aceptación expresa e indubitable de las nuevas condiciones.
+
+En caso de que no se reciba por parte Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V. la aceptación referida dentro del plazo establecido para tales efectos, la presente Resolución quedará sin efectos y, en consecuencia, se tendrá por negada la prórroga de vigencia solicitada respecto de las concesiones de mérito.
+
+QUINTO.- Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V. deberá presentar al Instituto Federal de Telecomunicaciones el comprobante de pago del aprovechamiento por concepto de contraprestación autorizado por la Secretaría de Hacienda y Crédito Público por un monto de $290,857.00 (doscientos noventa mil ochocientos cincuenta y siete pesos 00/100 M.N.), dentro del plazo de 30 (treinta) días hábiles siguientes a la fecha en que hubiera presentado la aceptación señalada en el Resolutivo Cuarto de la presente Resolución.
+
+El monto señalado en el presente Resolutivo deberá ser actualizado al momento del pago, tomando en cuenta el último Índice Nacional de Precios al Consumidor publicado por el Banco de México. 
+
+SEXTO.- En caso de que no se reciba por parte de Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V. el comprobante de pago del aprovechamiento por concepto de contraprestación señalado en el Resolutivo Quinto, dentro del plazo establecido para tales efectos, la presente Resolución quedará sin efectos y, en consecuencia, se tendrá por negada la prórroga de vigencia solicitada respecto de las concesiones de mérito.
+
+En dicho caso, las bandas de frecuencias que le fueron asignadas revertirán a favor de la Nación, sin perjuicio de que el Instituto Federal de Telecomunicaciones pueda ejercer las atribuciones de verificación, supervisión y, en su caso, sanción que correspondan.
+
+SÉPTIMO.- Una vez satisfecho lo establecido en los Resolutivos Cuarto y Quinto anteriores, el Comisionado Presidente del Instituto Federal de Telecomunicaciones, con base en las facultades que le confiere el artículo 14 fracción X del Estatuto Orgánico, suscribirá los títulos de concesión que se otorguen con motivo de la presente Resolución.
+
+OCTAVO.- Como consecuencia de lo señalado en el Resolutivo que antecede, se instruye a la Unidad de Concesiones y Servicios a notificar a Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V., el título de concesión única para uso comercial, y el título de concesión para usar, aprovechar y explotar bandas de frecuencias del espectro radioeléctrico para uso comercial, ambos referidos en la presente Resolución.
+
+NOVENO.- Comunicaciones Radiotelefónicas Peninsulares, S.A. de C.V. en cumplimiento a lo establecido en el último párrafo del artículo 112 de la Ley Federal de Telecomunicaciones y Radiodifusión, en un plazo no mayor de noventa días hábiles contados a partir de la fecha del otorgamiento de las concesiones a que se refiere la presente Resolución, deberá presentar ante el Instituto Federal de Telecomunicaciones, copia certificada del instrumento donde conste que se llevaron a cabo las modificaciones correspondientes a sus estatutos sociales.
+
+DÉCIMO.- Inscríbanse en el Registro Público de Concesiones el título de concesión única para uso comercial, así como el título de concesión para usar, aprovechar y explotar bandas de frecuencias del espectro radioeléctrico para uso comercial a que se refiere la presente Resolución, una vez que sean debidamente notificados, en su caso, al interesado.
+
+La presente Resolución fue aprobada por el Pleno del Instituto Federal de Telecomunicaciones en su II Sesión Ordinaria celebrada el 27 de enero de 2016, en lo general por unanimidad de votos de los Comisionados presentes Gabriel Oswaldo Contreras Saldívar, Luis Fernando Borjón Figueroa, Ernesto Estrada González, Adriana Sofía Labardini Inzunza, María Elena Estavillo Flores, Mario Germán Fromow Rangel y Adolfo Cuevas Teja.
+El Comisionado Adolfo Cuevas Teja manifestó voto en contra de la vigencia retroactiva de la concesión única, así como de la actualización del monto al momento del pago. 
+Lo anterior, con fundamento en los párrafos vigésimo, fracciones I y III; y vigésimo primero, del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos; artículos 7, 16 y 45 de la Ley Federal de Telecomunicaciones y Radiodifusión; así como en los artículos 1, 7, 8 y 12 del Estatuto Orgánico del Instituto Federal de Telecomunicaciones, mediante Acuerdo P/IFT/270116/21.

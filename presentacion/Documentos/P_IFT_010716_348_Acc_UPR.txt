@@ -1,0 +1,940 @@
+ACUERDO MEDIANTE EL CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES EXPIDE LA DISPOSICIÓN TÉCNICA IFT-010-2016: ESPECIFICACIONES Y REQUERIMIENTOS DE LOS EQUIPOS DE BLOQUEO DE SEÑALES DE TELEFONÍA CELULAR, DE RADIOCOMUNICACIÓN O DE TRANSMISIÓN DE DATOS E IMAGEN DENTRO DE CENTROS DE READAPTACIÓN SOCIAL, ESTABLECIMIENTOS PENITENCIARIOS O CENTROS DE INTERNAMIENTO PARA MENORES, FEDERALES O DE LAS ENTIDADES FEDERATIVAS.
+
+                                       
+                                 ANTECEDENTES
+
+ El 3 de septiembre de 2012, la Conferencia Nacional del Sistema Penitenciario, publicó en el Diario Oficial de la Federación (en lo sucesivo, el "DOF") los "LINEAMIENTOS de Colaboración entre Autoridades Penitenciarias y los Concesionarios de Servicios de Telecomunicaciones y Bases Técnicas para la Instalación y Operación de Sistemas de Inhibición"; los cuales tienen por objeto establecer los acuerdos necesarios para que en el ámbito técnico operativo, la Federación, los Estados y el Distrito Federal, en colaboración con los concesionarios de redes públicas de telecomunicaciones, cancelen o anulen de manera permanente las señales de telefonía celular, de radiocomunicación o de transmisión de datos o imagen, dentro del perímetro de los centros de readaptación social, establecimientos penitenciarios o centros de internamiento para menores, cualquiera que sea su denominación, sin que excedan en ningún caso veinte metros fuera de las instalaciones de los centros o establecimientos penitenciarios a fin de garantizar la continuidad y seguridad de los servicios a los usuarios externos.
+
+ El 11 de junio de 2013 se publicó en el DOF el "Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones", (en lo sucesivo, el "Decreto Constitucional"), mediante el cual se creó el Instituto Federal de Telecomunicaciones (en lo sucesivo, el "Instituto"), como un órgano autónomo con personalidad jurídica y patrimonio propio.
+
+ El 14 de julio de 2014 se publicó en el DOF el "Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión" (en lo sucesivo, el "Decreto de Ley"), el cual, en términos de lo dispuesto por su artículo Primero transitorio, entró en vigor a los treinta días naturales siguientes a su publicación, esto es, el 13 de agosto de 2014. 
+
+ El 4 de septiembre de 2014, se publicó en el DOF el Estatuto Orgánico del Instituto Federal de Telecomunicaciones (en lo sucesivo, el "Estatuto Orgánico"), mismo que entró en vigor el día 26 del mismo mes y año, el cual se modificó a través del "Acuerdo por el que se modifica el Estatuto Orgánico del Instituto Federal de Telecomunicaciones", publicado en el DOF el 17 de octubre de 2014.
+
+ El 11 de noviembre de 2015, en la XLII Sesión Extraordinaria del Pleno, el Instituto emitió los Lineamientos de Colaboración en Materia de Seguridad y Justicia. Dichos Lineamientos establecen en su Capítulo VIII "DE LA CANCELACIÓN O ANULACIÓN DE MANERA PERMANENTE DE LAS SEÑALES DE TELEFONÍA CELULAR, DE RADIOCOMUNICACIÓN O DE TRANSMISIÓN DE DATOS O IMAGEN DENTRO DEL PERÍMETRO DE READAPTACIÓN SOCIAL, ESTABLECIMIENTOS PENITENCIARIOS O CENTROS DE INTERNAMIENTO PARA MENORES, FEDERALES O DE LAS ENTIDADES FEDERATIVAS, CUALQUIERA QUE SEA SU DENOMINACIÓN" que "(...) Los equipos de bloqueo de señales a instalar dentro del perímetro de centros de readaptación social, establecimientos penitenciarios o centros de internamiento para menores, federales o de las entidades federativas, cualquiera que sea su denominación  deberán cumplir con las disposiciones técnicas que emita el Instituto (...)".
+
+ El Pleno del Instituto mediante el Acuerdo P/IFT/EXT/271115/178, emitido en la XLVIII Sesión Extraordinaria, de fecha de 27 de noviembre de 2015, aprobó someter a consulta pública el "Anteproyecto de Disposición Técnica IFT-010-2015: Especificaciones y Requerimientos de los equipos de bloqueo de señales de radiocomunicación dentro de Centros de readaptación social, establecimientos penitenciarios o centros de internamiento para menores, federales o de las entidades federativas", ello en cumplimiento con lo establecido en el artículo 51 de la Ley Federal de Telecomunicaciones y Radiodifusión (en lo sucesivo, la "LFTR"); proceso de consulta que concluyó el 13 de enero de 2016.
+      
+En atención a los antecedentes anteriores y:
+
+                                 CONSIDERANDO
+
+PRIMERO.- Competencia del Instituto. De conformidad con el artículo 28, párrafo décimo quinto de la Constitución Política de los Estados Unidos Mexicanos (en lo sucesivo, la "Constitución"), el Instituto tiene por objeto el desarrollo eficiente de la radiodifusión y las telecomunicaciones, conforme a lo dispuesto en la propia Constitución y en los términos que fijen las leyes.
+
+Para tal efecto, en términos del precepto constitucional invocado así como de los artículos 1 y 7 de la LFTR, el Instituto tiene a su cargo  la regulación, promoción y supervisión del uso, aprovechamiento y explotación del espectro radioeléctrico, los recursos orbitales, los servicios satelitales, las redes públicas de telecomunicaciones y la prestación de los servicios de radiodifusión y de telecomunicaciones, así como del acceso a la infraestructura activa y pasiva y otros insumos esenciales, garantizando lo establecido en los artículos 6o. y 7o. de la Constitución.
+
+Asimismo, el Instituto es la autoridad en materia de competencia económica de los sectores de radiodifusión y telecomunicaciones, por lo que en éstos ejercerá en forma exclusiva las facultades del artículo 28 de la Constitución, la LFTR y la Ley Federal de Competencia Económica.
+
+El vigésimo párrafo, fracción IV del artículo 28 de la Constitución señala que el Instituto podrá emitir disposiciones administrativas de carácter general exclusivamente para el cumplimiento de su función regulatoria en el sector de su competencia. En ese orden de ideas, el párrafo segundo del artículo 7 de la LFTR prevé que el Instituto tiene a su cargo la regulación, promoción y supervisión del uso, aprovechamiento y explotación del espectro radioeléctrico, y el párrafo cuarto del mismo artículo prevé que el Instituto es autoridad en materia de lineamientos técnicos relativos a la infraestructura y los equipos que se conecten a las redes de telecomunicaciones, así como en materia de homologación y evaluación de la conformidad de dicha infraestructura y equipos.
+
+El artículo 15, fracciones I y LVI, de la LFTR señala que el Instituto tiene la atribución de expedir disposiciones administrativas de carácter general, planes técnicos fundamentales, lineamientos, modelos de costos, procedimientos de evaluación de la conformidad, procedimientos de homologación y certificación y ordenamientos técnicos en materia de telecomunicaciones y radiodifusión; así como demás disposiciones para el cumplimiento de lo dispuesto en la LFTR.
+
+En términos de las fracciones XLIV y LXIII del citado artículo 15 de la LFTR, corresponde al Instituto realizar el monitoreo del espectro radioeléctrico con fines de verificar su uso autorizado y llevar a cabo tareas de detección e identificación de interferencias perjudiciales, así como las demás atribuciones que la LFTR y otros ordenamientos le confieran.
+
+El artículo 289 de la LFTR establece que los productos, equipos, dispositivos o aparatos destinados a telecomunicaciones o radiodifusión que puedan ser conectados a una red de telecomunicaciones o hacer uso del espectro radioeléctrico deberán homologarse conforme a las normas o disposiciones técnicas aplicables de conformidad con lo establecido en la Ley Federal sobre Metrología y Normalización.
+
+En ese orden de ideas, de conformidad con lo dispuesto en el artículo 54 de la LFTR, el espectro radioeléctrico y los recursos orbitales son bienes del dominio público de la Nación, cuya titularidad y administración corresponden al Estado. Dicha administración se lleva a cabo por el Instituto en el ejercicio de sus atribuciones de conformidad con lo dispuesto por la Constitución, en la LFTR, los tratados y acuerdos internacionales firmados y ratificados por México y, en lo aplicable, siguiendo las recomendaciones de la Unión Internacional de Telecomunicaciones y otros organismos internacionales.
+
+Así, la administración del espectro radioeléctrico incluye la elaboración y aprobación de planes y programas de uso, el establecimiento de las condiciones para la atribución de una banda de frecuencias, el otorgamiento de las concesiones, la supervisión de las emisiones radioeléctricas y la aplicación del régimen de sanciones, sin menoscabo de las atribuciones que corresponden al Ejecutivo Federal.
+
+Al administrar el espectro, el Instituto perseguirá, entre otros, los siguientes objetivos generales en beneficio de los usuarios: la seguridad de la vida, el uso eficiente, eficaz y la protección del mismo, así como el cumplimiento de lo dispuesto por los artículos 2o., 6o., 7o. y 28 de la Constitución.
+De conformidad con lo dispuesto en el artículo 63 de la LFTR, el Instituto será la autoridad responsable de la supervisión y control técnico de las emisiones radioeléctricas, establecerá los mecanismos necesarios para llevar a cabo la comprobación de las emisiones radioeléctricas y resolverá las interferencias perjudiciales y demás irregularidades y perturbaciones que se presenten entre los sistemas empleados para la prestación de servicios de telecomunicaciones y de radiodifusión para su corrección. Todo lo anterior con el objeto de asegurar el cumplimiento de la normatividad relativa al espectro radioeléctrico, su utilización eficiente y el funcionamiento correcto de los servicios correspondientes. 
+
+En ese orden de ideas, y en términos de lo previsto en el artículo 64 de la LFTR, el Instituto buscará evitar las interferencias perjudiciales entre sistemas de radiocomunicaciones nacionales e internacionales y dictará las medidas convenientes, a fin de que dichos sistemas operen libres de interferencias perjudiciales en la zona de servicio autorizada.
+
+Los equipos o aparatos científicos, médicos o industriales, deberán cumplir las normas o disposiciones técnicas aplicables de tal forma que se evite causar interferencias perjudiciales a emisiones autorizadas o protegidas. De ser el caso, éstos deberán suprimir cualquier interferencia perjudicial en el plazo que al efecto fije el Instituto.
+
+Por su parte, el artículo 295 de la LFTR dispone que el Instituto establecerá los mecanismos necesarios para llevar a cabo la comprobación de las emisiones radioeléctricas, la identificación de interferencias perjudiciales y demás perturbaciones a los sistemas y servicios de telecomunicaciones y de radiodifusión, con el objeto de asegurar el mejor funcionamiento de los servicios y la utilización eficiente del espectro.
+
+De conformidad con lo dispuesto en el artículo 305 de la LFTR, las personas que presten servicios de telecomunicaciones o de radiodifusión, sin contar con concesión o autorización, o que por cualquier otro medio invadan u obstruyan las vías generales de comunicación, perderán en beneficio de la Nación los bienes, instalaciones y equipos empleados en la comisión de dichas infracciones.
+
+SEGUNDO.- De las obligaciones de los concesionarios y autorizados en materia de seguridad y justicia. En términos del Título Octavo, artículo 190, fracción VIII de la LFTR, los Lineamientos de Colaboración en Materia de Seguridad y Justicia en su Capítulo VIII, incluyen las directrices a efecto de que los Concesionarios y Autorizados colaboren con las autoridades competentes para que en el ámbito técnico operativo se cancelen  o  anulen de manera permanente las señales de telefonía celular, de radiocomunicación o de transmisión de datos o imagen dentro del perímetro de centros de readaptación social, establecimientos penitenciarios o centros de internamiento para menores, federales o de las entidades federativas, cualquiera que sea su denominación.
+
+Adicionalmente el artículo 190, fracción VIII de la LFTR, establece que el bloqueo de señales a que se refiere el párrafo anterior se hará sobre todas las bandas de frecuencia que se utilicen para la recepción en los equipos terminales de comunicación y en ningún caso excederá de veinte metros fuera de las instalaciones de los centros o establecimientos a fin de garantizar la continuidad y seguridad de los servicios a los usuarios externos. En la colaboración que realicen los concesionarios se deberán considerar los elementos técnicos de reemplazo, mantenimiento y servicio.
+
+En este sentido y aunado a lo anterior el lineamiento Trigésimo Primero de los referidos lineamientos establece que por lo que hace a la instalación y operación de los equipos de bloqueo de señales de telefonía celular, de radiocomunicación o de transmisión de datos o imagen dentro del perímetro de centros de readaptación social, establecimientos penitenciarios o centros de internamiento para menores, federales o de las entidades federativas, cualquiera que sea su denominación, serán aplicables los "Lineamientos de Colaboración entre Autoridades Penitenciarias y los Concesionarios de Servicios de Telecomunicaciones y Bases Técnicas para la Instalación y Operación de Sistemas de Inhibición", publicados en el DOF el 3 de septiembre de 2012 o las disposiciones que, en su caso, los sustituyan.
+
+Asimismo establece que los equipos de bloqueo de señales a instalarse dentro del perímetro de centros de readaptación social, establecimientos penitenciarios o centros de internamiento para menores, federales o de las entidades federativas, cualquiera que sea su denominación, deberán cumplir con las disposiciones técnicas que emita el Instituto y demás normatividad aplicable.
+
+Es de mencionar que la incorrecta operación de equipos bloqueadores de señales de radiocomunicaciones instalados dentro del perímetro de centros de readaptación social, establecimientos penitenciarios o centros de internamiento para menores, federales o de las entidades federativas, cualquiera que sea su denominación, podrían llegar a causar interferencias perjudiciales en el espectro radioeléctrico, incluyendo segmentos que deben estar protegidos, resultando entonces aplicable la fracción III del mismo artículo 55 de la LFTR, el cual establece que el Instituto llevará a cabo las acciones necesarias para garantizar la operación de las bandas de frecuencia de espectro protegido en condiciones de seguridad y libre de interferencias perjudiciales. 
+
+De conformidad con el artículo 57 de la LFTR, en el Cuadro Nacional de Atribución de Frecuencias se establecerá la atribución de las bandas de frecuencia del espectro radioeléctrico a uno o más servicios de radiocomunicaciones de acuerdo a las siguientes categorías: 
+
+ A título primario: el uso de bandas de frecuencia contarán con protección contra interferencias perjudiciales, y 
+
+ A título secundario: el uso de las bandas de frecuencia no debe causar interferencias perjudiciales a los servicios que se prestan mediante bandas de frecuencia otorgadas a título primario, ni podrán reclamar protección contra interferencias perjudiciales causadas por estas últimas.
+
+Por su parte, el artículo 58 del citado ordenamiento legal, prevé que el uso de las bandas de frecuencias de un servicio a título secundario, tendrá protección contra interferencias perjudiciales causadas por otros concesionarios de bandas de frecuencias que prestan servicios en éstas a título secundario.
+
+El artículo 6, fracción I, del Estatuto Orgánico establece que el Pleno del Instituto cuenta con la atribución de regular, promover y supervisar el uso, aprovechamiento y explotación eficiente del espectro radioeléctrico, los recursos orbitales, los servicios satelitales, las redes de telecomunicaciones y la prestación de los servicios de radiodifusión y telecomunicaciones, así como el acceso a infraestructura activa, pasiva e insumos esenciales.
+
+Por lo anterior, con fundamento en los artículos  28, párrafos décimo quinto y vigésimo, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos; 1, 2, 7, 15,  fracciones I, XLIV, LVI, 54,55, fracciones II y III, 57, 58, 63, 64, 190, fracción VIII y 295 de la Ley Federal de Telecomunicaciones y Radiodifusión, así como 6, fracción I, del Estatuto Orgánico del Instituto Federal de Telecomunicaciones, el Instituto a través de su máximo Órgano de Gobierno, es competente para emitir disposiciones técnicas relativas a los equipos de bloqueo de señales de radiocomunicaciones así como en materia de evaluación de la conformidad de dichos equipos.
+
+De lo expuesto, con la finalidad promover el uso eficiente, eficaz y la protección del espectro radioeléctrico se considera necesario expedir una disposición técnica que establezca las especificaciones, requerimientos y métodos de prueba de los equipos de bloqueo de señales de radiocomunicación instalados dentro del perímetro de centros de readaptación social, establecimientos penitenciarios, o centros de internamiento para menores, federales o de las entidades federativas, cualquiera que sea su denominación, previéndose que cuando operen no causen interferencias perjudiciales a otros equipos de operación autorizada, ni a las redes y servicios de telecomunicaciones de servicios autorizados, además de establecer los métodos de prueba para la comprobación del cumplimiento de tales especificaciones y requerimientos.
+
+TERCERO.- Las telecomunicaciones y la radiodifusión como servicios públicos de interés general. El artículo 28 de la Constitución, establece la obligación del Instituto de garantizar lo establecido en los artículos 6o. y 7o. del mismo ordenamiento, los cuales prevén, entre otras cosas, el derecho humano de acceso a los servicios de radiodifusión y telecomunicaciones y otorgan a dichos servicios la naturaleza de servicios públicos de interés general, respecto de los cuales el Estado señalará las condiciones de competencia efectiva para prestar los mismos.
+
+En ese orden de ideas, en términos de la fracción II del apartado B del artículo 6 de la Constitución y artículo 2 de la LFTR, las telecomunicaciones son un servicio público de interés general, por lo que el Estado garantizará que sean prestadas en condiciones de competencia, calidad, pluralidad, cobertura universal, interconexión, convergencia, continuidad, acceso libre y sin injerencias arbitrarias.
+
+En el mismo sentido, de conformidad con la fracción III del apartado B del artículo 6o. de la Constitución y artículo 2 de la LFTR, la radiodifusión es un servicio público de interés general, por lo que el Estado garantizará que sea prestado en condiciones de competencia y calidad y brinde los beneficios de la cultura a toda la población, preservando la pluralidad y la veracidad de la información, así como el fomento de los valores de la identidad nacional, contribuyendo a los fines establecidos en el artículo 3o. de la Constitución.
+
+CUARTO.- Marco técnico regulatorio. Las Disposiciones Técnicas son instrumentos de observancia general expedidos por el Instituto conforme a lo establecido en el artículo 15, fracción I de la LFTR, a través de los cuales se regulan características y la operación de productos, dispositivos y servicios de telecomunicaciones y radiodifusión y, en su caso, la instalación de los equipos, sistemas y la infraestructura en general asociada a éstos así como las especificaciones que se refieran a su cumplimiento o aplicación. 
+
+En este sentido la Disposición Técnica IFT-010-2016, tiene como objetivo principal establecer las especificaciones técnicas y condiciones de operación para los equipos de bloqueo de señales de telefonía celular, de radiocomunicación o de transmisión de datos e imagen en todas las bandas de frecuencia que se utilicen para comunicación con los equipos terminales, así como los métodos de prueba para comprobar el cumplimiento de dichas especificaciones. Lo anterior es aplicable para todos aquellos equipos de bloqueo de señales, que en el ámbito técnico operativo bloqueen, cancelen o anulen de manera permanente las señales de telefonía celular, de radiocomunicación o de transmisión de datos e imagen dentro del perímetro de los centros de readaptación social, establecimientos penitenciarios o centros de internamiento para menores, federales o de las entidades federativas, cualquiera que sea su denominación, previéndose que cuando operen, no causen interferencias perjudiciales a otros equipos de operación autorizada, ni a las redes y servicios de telecomunicaciones autorizados por el Instituto, de tal manera que en todo momento se cumpla con lo establecido en el artículo 190, fracción VIII de la LFTR. 
+
+Asimismo, el Instituto bajo el marco de las atribuciones que le confieren las leyes en la materia, establece como una mejor práctica regulatoria revisar la Disposición Técnica IFT-010-2016 al menos a los cinco años a partir de su entrada en vigor, a fin de identificar si la misma aún se requiere o si deben realizarse cambios en función de las condiciones que prevalezcan en el sector de Telecomunicaciones y Radiodifusión y, en el mercado en general. Lo anterior, de ninguna manera limita las atribuciones del Instituto para realizar dicha revisión en cualquier momento, dentro del periodo establecido.
+
+QUINTO.- Impacto en el comercio exterior. Si bien el Instituto está facultado por la Constitución, la LFTR y su Estatuto Orgánico para emitir las disposiciones técnicas relativas a la infraestructura y los equipos que se conecten a las redes de telecomunicaciones hagan uso del espectro radioeléctrico, así como en materia de evaluación de la conformidad de dicha infraestructura y equipos, también es importante resaltar que la regulación de las telecomunicaciones se encuentra estrechamente vinculada a otros sectores y materias que escapan al ámbito de su competencia y que corresponden a dependencias de la Administración Pública Federal, como es el caso de la importación, comercialización, distribución y consumo de productos en el país.
+
+Es de señalarse que en términos de los artículos 34, fracciones II, V y XXXIII, de la Ley Orgánica de la Administración Pública Federal; 38, fracción II, y 39, fracción XII, de la Ley Federal Sobre Metrología Y Normalización (en lo sucesivo, la "LFMN"),, en relación con los artículos 1o., 2o., 4o., fracciones III y IV, 5o., fracciones III y XIII, 16, 17, 26 y 27 de la Ley de Comercio Exterior, la Secretaría de Economía es la autoridad competente para regular la importación, comercialización, distribución y consumo de los bienes y servicios en el país, y que tal regulación debe preverse en normas oficiales mexicanas. Asimismo, corresponde a la Secretaría de Economía determinar las normas oficiales mexicanas que las autoridades aduaneras deban hacer cumplir en el punto de entrada de la mercancía al país.
+El artículo 4o. de la Ley de Comercio Exterior (en lo sucesivo, la "LCE") establece que el Ejecutivo Federal tendrá, entre otras facultades, las consagradas en las fracciones III y IV, relativas a "Establecer medidas para regular o restringir la exportación o importación de mercancías a través de acuerdos expedidos por la Secretaría o, en su caso, conjuntamente con la autoridad competente, y publicados en el Diario Oficial de la Federación", así como "Establecer medidas para regular o restringir la circulación o tránsito de mercancías extranjeras por el territorio nacional procedentes del y destinadas al exterior a través de acuerdos expedidos por la autoridad competente y publicados en el Diario Oficial de la Federación". 
+
+Conforme lo dispuesto en el artículo 26 de la LCE, "la importación, circulación o tránsito de mercancías estarán sujetos a las normas oficiales mexicanas de conformidad con la ley de la materia. No podrán establecerse disposiciones de normalización a la importación, circulación o tránsito de mercancías diferentes a las normas oficiales mexicanas. Las mercancías sujetas a normas oficiales mexicanas se identificarán en términos de sus fracciones arancelarias y de la nomenclatura que les corresponda conforme a la tarifa respectiva".
+
+Asimismo, el citado artículo indica que la Secretaría de Economía "determinará las normas oficiales mexicanas que las autoridades aduaneras deban hacer cumplir en el punto de entrada de la mercancía al país. Esta determinación se someterá previamente a la opinión de la Comisión y se publicará en el Diario Oficial de la Federación". 
+
+A su vez, el artículo Tercero Transitorio del Decreto de Ley establece:
+
+
+     "TERCERO. Las disposiciones reglamentarias y administrativas y las normas oficiales mexicanas en vigor, continuarán aplicándose hasta en tanto se expidan los nuevos ordenamientos que los sustituyan, salvo en lo que se opongan a la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del presente Decreto."
+
+Adicionalmente, el "Acuerdo por el que la Secretaría de Economía emite reglas y criterios de carácter general en materia de Comercio Exterior" (en lo sucesivo, el "Acuerdo") tiene por objeto dar a conocer las reglas que establezcan disposiciones de carácter general en el ámbito de competencia de la Secretaría de Economía, así como los criterios necesarios para el cumplimiento de las leyes, acuerdos o tratados comerciales internacionales, decretos, reglamentos, acuerdos y demás ordenamientos generales de su competencia, agrupándolas de manera que faciliten su aplicación por parte de los usuarios. Acuerdo que como parte integrante tiene el Anexo 2.4.1 relativo a las "Fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación en las que se clasifican las mercancías sujetas al cumplimiento de las Normas Oficiales Mexicanas en el punto de su entrada al país, y en el de su salida" (en lo sucesivo, el "Anexo de NOM'S").  
+En este sentido, los equipos de bloqueo de señales de radiocomunicación que deben cumplir con la Disposición Técnica IFT-010-2016 estarían contenidos en el Anexo de NOM'S, y serían tratados en los términos dispuestos por el mismo.
+
+De ahí que la Secretaría de Economía, en el ámbito de su competencia, emita la norma oficial mexicana correspondiente, que regula la importación, comercialización y/o distribución dentro del territorio de los Estados Unidos Mexicanos de los equipos de bloqueo de señales de radiocomunicación, cuyas especificaciones técnicas se prevén en la Disposición Técnica que por virtud del presente acuerdo emite el Instituto.
+
+En este orden de ideas, en el marco de la coordinación y colaboración entre el Instituto y la Secretaría de Economía que prevén la LFTR y la LFMN, al emitirse por el Instituto la Disposición Técnica IFT-010-2016, la Secretaría de Economía realizaría los actos jurídicos correspondientes como son, por una parte, la emisión de la norma oficial mexicana que regula la importación, comercialización y/o distribución dentro del territorio de los Estados Unidos Mexicanos de los equipos bloqueadores de señales y, por la otra, la actualización del Acuerdo citado.
+
+Tal situación se fortalece con lo señalado en el cuarto considerando del Acuerdo, en el sentido de "Que es obligación del Ejecutivo Federal propiciar un escenario de certidumbre jurídica en el que se desarrolle la actuación de los diferentes agentes económicos involucrados en el comercio exterior, así como definir claramente el estatus de los diversos ordenamientos que establecen diversos instrumentos y programas de comercio exterior (...)". 
+
+Derivado de lo anterior, en el punto de entrada a México, respecto de los productos identificados en las Fracciones Arancelarias del Anexo 2.4.1 como derivados de la Disposición Técnica IFT-010-2016, las autoridades aduaneras deberán hacer cumplir lo dispuesto por la norma oficial mexicana correspondiente que regule la importación, comercialización y/o distribución dentro del territorio de los Estados Unidos Mexicanos de los equipos de bloqueo de señales radiocomunicaciones, cuyas especificaciones técnicas se prevén en la Disposición Técnica IFT-010-2016.
+
+SEXTO.-Necesidad de emitir la DISPOSICIÓN TÉCNICA IFT-010-2016:  ESPECIFICACIONES Y REQUERIMIENTOS DE LOS EQUIPOS DE BLOQUEO DE SEÑALES DE TELEFONÍA CELULAR, DE RADIOCOMUNICACIÓN O DE TRANSMISIÓN DE DATOS E IMAGEN DENTRO DE CENTROS DE READAPTACIÓN SOCIAL, ESTABLECIMIENTOS PENITENCIARIOS O CENTROS DE INTERNAMIENTO PARA MENORES, FEDERALES O DE LAS ENTIDADES FEDERATIVAS. Con fundamento en los párrafos décimo quinto y vigésimo, fracción IV, del artículo 28 de la Constitución y los artículos 1, 2, 7, párrafos segundo y cuarto, y 15, fracción I,  de la LFTR, corresponde exclusivamente al Instituto, como órgano constitucional autónomo, emitir una disposición de observancia general que establezca: a) las especificaciones y requerimientos técnicos de los equipos de bloqueo de señales de radiocomunicaciones instalados dentro del perímetro de centros de readaptación social, establecimientos penitenciarios o centros de internamiento para menores, federales o de las entidades federativas y, b) los métodos de prueba para la comprobación del cumplimiento de las especificaciones y requerimientos que se establecen. Lo anterior, a efectos de que dichos equipos no causen interferencias perjudiciales a otros equipos de operación autorizada, ni a las redes y servicios de telecomunicaciones de servicios autorizados, permitiendo la existencia y coexistencia del mayor número posible de sistemas de radiocomunicación.
+
+Derivado de lo anterior, la expedición de la Disposición Técnica IFT-010-2016 generaría los siguientes beneficios:
+
+ Certidumbre jurídica respecto de las especificaciones y requerimientos, así como a los métodos de prueba y de los parámetros técnicos mínimos necesarios que debe cumplir todo equipo de bloqueo de señales instalados dentro del perímetro de centros de readaptación social, establecimientos penitenciarios, o centros de internamiento para menores, federales o de las entidades federativas, cualquiera que sea su denominación, y
+ Prever que cuando operen los equipos de bloqueo de señales instalados dentro del perímetro de centros de readaptación social, establecimientos penitenciarios, o centros de internamiento para menores, federales o de las entidades federativas, cualquiera que sea su denominación, no causen interferencias perjudiciales a otros equipos de operación autorizada, ni a las redes y servicios de telecomunicaciones de servicios autorizados, permitiendo la existencia y coexistencia del mayor número posible de sistemas de radiocomunicación.
+
+SÉPTIMO. Consulta pública. Con fundamento en lo establecido en el artículo 51 de la LFTR, el Instituto sometió a consulta pública bajo los principios de transparencia y participación ciudadana, el "Anteproyecto de Disposición Técnica IFT-010-2015: Especificaciones y requerimientos de los equipos de bloqueo de señales de radiocomunicación dentro de Centros de Readaptación Social", durante un periodo de veinte días hábiles, comprendido del 1 de diciembre de 2015 al 13 de enero de 2016.
+
+Durante la consulta pública de mérito, se recibieron 8 participaciones de personas morales, dichas participaciones se centraron fundamentalmente en precisiones de carácter técnico en relación a las especificaciones técnicas y parámetros de operación de los equipos de bloqueo de señales, así como en diversas definiciones. Las participaciones, así como las respuestas emitidas a los comentarios, se encuentran disponibles en el portal de Internet del Instituto.
+
+OCTAVO. Análisis de Impacto Regulatorio. De conformidad con el segundo párrafo del artículo 51 de la LFTR, se establece que previamente a la emisión de reglas, lineamientos o disposiciones administrativas de carácter general de que se trate, el Instituto deberá realizar y hacer público un análisis de impacto regulatorio. Al respecto, de conformidad con lo establecido en los artículos 51 de la LFTR; 4 fracción VIII, inciso IV) y 75 fracción II del Estatuto, la Coordinación General de Mejora Regulatoria emitió, mediante oficio IFT/211/CGMR/075/2016 de 24 de junio  de 2016, manifiesta la opinión no vinculante respecto del proyecto de "ACUERDO MEDIANTE EL CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES EXPIDE DISPOSICIÓN TÉCNICA  IFT-010-2016: ESPECIFICACIONES Y REQUERIMIENTOS DE LOS EQUIPOS DE BLOQUEO DE SEÑALES DE TELEFONÍA CELULAR, DE RADIOCOMUNICACIÓN O DE TRANSMISIÓN DE DATOS E IMAGEN DENTRO DE CENTROS DE READAPTACIÓN SOCIAL, ESTABLECIMIENTOS PENITENCIARIOS O CENTROS DE INTERNAMIENTO PARA MENORES, FEDERALES O DE LAS ENTIDADES FEDERATIVAS", en dicha opinión, manifiesta que "considerando que el mismo ha sido debidamente integrado por la Unidad de Política Regulatoria; ello, toda vez que de su lectura se comprende la problemática que atenderá el Anteproyecto, los objetivos y alternativas valoradas, los posibles impactos a razón de su entrada en vigor, así como, en términos generales, los esquemas de implementación, verificación y evaluación que se prevén realizar, con lo que el Instituto transparenta y justifica los elementos y consideraciones que lo motivaron para la emisión de la presente propuesta regulatoria"
+
+Por lo anterior y con fundamento en los artículos 6o. y 28, párrafos décimo quinto y vigésimo, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos; 1, 2, 7, 15, fracciones I, XLIV, LVI, 51, 54, 55, fracción III, 57, fracción II, 58, 63, 64, 190, fracción VIII y  295 de la Ley Federal de Telecomunicaciones y Radiodifusión; 4, fracción I, y 6, fracción I, del Estatuto Orgánico del Instituto Federal de Telecomunicaciones, el Pleno del Instituto Federal de Telecomunicaciones emite el siguiente:
+
+                                    ACUERDO
+
+PRIMERO.- Se expide la Disposición Técnica IFT-010-2016: ESPECIFICACIONES Y REQUERIMIENTOS DE LOS EQUIPOS DE BLOQUEO DE SEÑALES DE TELEFONÍA CELULAR, DE RADIOCOMUNICACIÓN O DE TRANSMISIÓN DE DATOS E IMAGEN DENTRO DE CENTROS DE READAPTACIÓN SOCIAL, ESTABLECIMIENTOS PENITENCIARIOS O CENTROS DE INTERNAMIENTO PARA MENORES, FEDERALES O DE LAS ENTIDADES FEDERATIVAS, misma que se encuentra como Anexo Único del presente Acuerdo y que forma parte integrante de este, la cual comenzará su vigencia a los sesenta días naturales contados a partir del día siguiente de su publicación en el Diario Oficial de la Federación, y será revisada por el Instituto al menos a los 5 años contados a partir de su entrada en vigor. Lo anterior, de ninguna manera limita las atribuciones del Instituto para realizar dicha revisión en cualquier momento, dentro del periodo establecido. 
+
+SEGUNDO.- Publíquese el presente Acuerdo y su Anexo Único en el Diario Oficial de la Federación.
+El presente Acuerdo fue aprobado por el Pleno del Instituto Federal de Telecomunicaciones en su XX Sesión Ordinaria celebrada el 1 de julio de 2016, por unanimidad de votos de los Comisionados presentes Gabriel Oswaldo Contreras Saldívar, Ernesto Estrada González, Adriana Sofía Labardini Inzunza, María Elena Estavillo Flores, Mario Germán Fromow Rangel y Adolfo Cuevas Teja; con fundamento en los párrafos vigésimo, fracciones I y III; y vigésimo primero, del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos; artículos 7, 16 y 45 de la Ley Federal de Telecomunicaciones y Radiodifusión; así como en los artículos 1, 7, 8 y 12 del Estatuto Orgánico del Instituto Federal de Telecomunicaciones, mediante Acuerdo P/IFT/010716/348.
+                                       
+                                 ANEXO ÚNICO
+                                       
+DISPOSICIÓN TÉCNICA IFT-010-2016: ESPECIFICACIONES Y REQUERIMIENTOS DE LOS EQUIPOS DE BLOQUEO DE SEÑALES DE TELEFONÍA CELULAR, DE RADIOCOMUNICACIÓN O DE TRANSMISIÓN DE DATOS E IMAGEN PARA USO EXCLUSIVO DENTRO DE CENTROS DE READAPTACIÓN SOCIAL, ESTABLECIMIENTOS PENITENCIARIOS O CENTROS DE INTERNAMIENTO PARA MENORES, FEDERALES O DE LAS ENTIDADES FEDERATIVAS. 
+                                    ÍNDICE
+
+ OBJETIVO.
+ CAMPO DE APLICACIÓN.
+ DEFINICIONES Y ABREVIATURAS.
+ ESPECIFICACIONES TÉCNICAS Y CONDICIONES DE OPERACIÓN DE LOS EQUIPOS DE BLOQUEO DE SEÑALES DE TELEFONÍA CELULAR, DE RADIOCOMUNICACIÓN O DE TRANSMISIÓN DE DATOS E IMAGEN. 
+ MÉTODOS DE PRUEBA.
+ INSTALACIÓN Y OPERACIÓN.
+ CONCORDANCIA CON NORMAS INTERNACIONALES.
+ BIBLIOGRAFÍA.
+ EVALUACIÓN DE LA CONFORMIDAD Y VIGILANCIA DEL CUMPLIMIENTO.
+ CONTRASEÑA DEL PRODUCTO.
+   TRANSITORIOS.
+   
+ OBJETIVO.
+   	
+La presente Disposición Técnica establece las especificaciones técnicas y condiciones de operación para los equipos de bloqueo de señales de telefonía celular, de radiocomunicación o de transmisión de datos e imagen en las bandas de frecuencia que se utilicen para la recepción en los equipos terminales de comunicación, así como los métodos de prueba para comprobar el cumplimiento de dichas especificaciones.
+
+ CAMPO DE APLICACIÓN.
+
+La presente Disposición Técnica es aplicable a todos aquellos equipos de bloqueo de señales, que en el ámbito técnico operativo bloqueen, cancelen o anulen de manera permanente las señales de telefonía celular, de radiocomunicación o de transmisión de datos e imagen dentro del perímetro de los centros de readaptación social, establecimientos penitenciarios o centros de internamiento para menores, federales o de las entidades federativas, cualquiera que sea su denominación, previéndose que cuando operen, no causen interferencias perjudiciales a otros equipos de operación autorizada, ni a las redes y servicios de telecomunicaciones autorizados por el Instituto Federal de Telecomunicaciones, de tal manera que en todo momento se cumpla con lo establecido en el artículo 190, fracción VIII de la Ley Federal de Telecomunicaciones y Radiodifusión. Lo anterior sin perjuicio del cumplimiento con otras disposiciones legales y administrativas aplicables.
+
+Los equipos de bloqueo de señales de telefonía celular, de radiocomunicación o de transmisión de datos e imagen podrán ser empleados por las autoridades facultadas para ello, dentro de los centros de readaptación social, establecimientos penitenciarios o centros de internamiento para menores, federales o de las entidades federativas, cualquiera que sea su denominación, para los efectos previstos en las disposiciones legales aplicables.
+
+ DEFINICIONES Y ABREVIATURAS.
+
+Para efectos de la presente Disposición Técnica, además de las definiciones previstas en la Ley Federal de Telecomunicaciones y Radiodifusión, y demás disposiciones legales, reglamentarias y administrativas aplicables, se entenderá por:
+ Bloqueo de señales: Impedimento del flujo normal en el canal descendente (Downlink) de señales de telefonía celular, de radiocomunicación o de transmisión de datos e imagen en las bandas que se utilicen para la recepción en los dispositivos o equipos terminales inalámbricos móviles o fijos y las estaciones que proporcionan el servicio;
+ Centros de readaptación social: Son los centros de readaptación social, establecimientos penitenciarios o centros de internamiento para menores, federales o de las entidades federativas, cualquiera que sea su denominación; 
+ Dispositivo o equipo terminal: Dispositivo inalámbrico que utiliza el usuario, que se conecta más allá del punto de conexión terminal de una red pública de telecomunicaciones y que usa el espectro radioeléctrico, con el propósito de tener acceso a una red y/o recibir uno o más servicios de telecomunicaciones, el cual puede ser móvil o fijo;
+ Enlace ascendente (Uplink o conexión de subida): Término utilizado en un enlace de comunicación para describir la dirección de la transmisión desde el dispositivo o equipo terminal hacia la estación base (Network Base Station) de la red;
+ Enlace descendente ( Downlink o conexión de bajada): Término utilizado en un enlace de comunicación para describir la dirección de la transmisión de la red, desde la estación base (Network Base Station) hacia el dispositivo o equipo terminal;
+ Emisiones no esenciales: Emisión en una o varias frecuencias situadas fuera del ancho de banda necesario, cuyo nivel puede reducirse sin influir en la transmisión de la información correspondiente. Están comprendidas en las emisiones no esenciales: las emisiones armónicas, las emisiones parásitas, los productos de inter-modulación, los productos de la conversión de frecuencia y en este caso, también comprenden las emisiones fuera de banda;
+ Equipo bajo prueba (EBP): Unidad representativa de un modelo de bloqueador de señales sobre el que Laboratorios de Prueba lleva a cabo pruebas para verificar el cumplimiento con las especificaciones de la presente Disposición Técnica;
+ Equipo de bloqueo de señales: Dispositivos que impiden que los equipos terminales inalámbricos móviles o fijos se puedan comunicar con las estaciones de radio del operador móvil a través del canal descendente (Downlink), impidiendo la recepción y transmisión de señales de telefonía celular, de radiocomunicación o de transmisión de datos e imagen;
+ Intervisibilidad: Capacidad de observar en una línea visual directa (sin obstrucción) desde una posición en la superficie de la tierra hacia otra, teniendo en cuenta el terreno y los obstáculos entre ellos. Para el caso de la comprobación técnica de los métodos de prueba de la presente Disposición, es un tipo de línea de vista que tiene el punto de medición y que debe considerar además la altura a la que está localizada la antena del sistema de medición, y
+ LFTR: Ley Federal de Telecomunicaciones y Radiodifusión.
+
+
+TABLA 1. ABREVIATURAS.
+
+ANS: Atenuación Normalizada de Sitio.
+dB: Decibel.
+dBc: Decibeles con respecto a la potencia de portadora sin modular de la emisión.
+dBi: Ganancia expresada en decibeles de una antena cualquiera referida a una antena isotrópica.
+dBm: Decibeles referidos a 1 mW.
+dBm/Hz: Decibeles referidos a 1 mW por Hertz.
+dBW: Decibeles referidos a 1 watt.
+GHz: Gigahertz.
+iDEN: Red Mejorada Digital Integrada (del inglés; Integrated Digital Enhanced Network).
+Instituto: Instituto Federal de Telecomunicaciones.
+Hz: Hertz.
+kHz: Kilohertz.
+Kbps: Kilo bits por segundo.
+Log: Logaritmo de base 10.
+MHz: Megahertz.
+mW: Miliwatt.
+p.p.m.: Partes por millón.
+RBW: Ancho de banda del filtro de resolución (del inglés Resolution  Bandwidth).
+RF: Radiofrecuencia.
+SVSWR: Relación de onda estacionaria de sitio (del inglés, Site voltage standing wave ratio).
+VBW: Ancho de banda del filtro de video (del inglés, Video Bandwidth).
+VSWR: Relación de onda estacionaria (del inglés Voltage Standing Wave Ratio).
+W: Watt.
+
+
+ ESPECIFICACIONES TÉCNICAS Y CONDICIONES DE OPERACIÓN DE LOS EQUIPOS DE BLOQUEO DE SEÑALES DE TELEFONÍA CELULAR, DE RADIOCOMUNICACIÓN O DE TRANSMISIÓN DE DATOS E IMAGEN.
+
+4.1. Condiciones de operación de los Equipos de bloqueo de señales. 
+                                                                               
+      4.1.1. El uso de Equipos de bloqueo de señales, se limita exclusivamente dentro del perímetro de los centros de readaptación social conforme a lo establecido en el artículo 190, fracción VIII de la LFTR.
+
+      Cualquier otro uso diferente al antes mencionado no está permitido, resultando en la potencial ocurrencia de interferencias perjudiciales en detrimento de la calidad de los servicios públicos de telecomunicaciones que prestan los diversos concesionarios, al amparo de sus respectivos títulos habilitantes, las cuales serán tratadas conforme a lo previsto en la LFTR y demás disposiciones aplicables.
+      
+4.2. Especificaciones técnicas de los Equipos de bloqueo de señales.
+
+      4.2.1. La tolerancia de frecuencia de operación de los Equipos de bloqueo de señales debe mantenerse automáticamente dentro de los límites que no permitan variaciones de frecuencia más allá de +-20 p.p.m.
+      Lo anterior se verifica de acuerdo al método de prueba 5.2.3.
+
+      4.2.2. La potencia de transmisión de salida de los Equipos de bloqueo de señales no debe presentar variaciones mayores que +-1dB del valor de la potencia pico de transmisión de salida. Lo anterior, cuando sea sometido a variaciones de +-15% de la tensión de alimentación, y en un rango de temperatura de entre -10 a +50ºC.
+      La potencia de transmisión de salida de los Equipos de bloqueo de señales deberá ser ajustable a efecto de garantizar el bloqueo, cancelación o anulación de manera permanente de las señales de telefonía celular, de radiocomunicación o de transmisión de datos e imagen dentro del perímetro del centro de readaptación social conforme a lo establecido en el artículo 190, fracción VIII de la LFTR.
+
+      La potencia de transmisión de los Equipos de bloqueo de señales debe ser ajustable por cada banda de frecuencia en los que opere dicho equipo; para los controles de ajuste de potencia se deberá observar lo indicado en el numeral 4.2.8., de la presente Disposición Técnica.
+      
+      Lo anterior se verifica de acuerdo al método de prueba 5.2.4.
+      
+      4.2.3. Los niveles máximos de potencia de las emisiones no esenciales en una o más frecuencias situadas fuera de la(s) banda(s) de frecuencia(s) de operación de los Equipos bloqueadores de señales, deben tener una atenuación mayor que la definida en la Ecuación 1:
+      Atenuación (dB) = 43+10 x log10(P) ó 70 dBc, 	Ecuación (1).
+      Debiéndose considerar el más restrictivo entre ambos.
+      Donde P es la potencia medida en Watts en la frecuencia fundamental.
+      Si P < 500 W, la potencia de las emisiones no esenciales debe ser de -13 dBm (-43 dBW).
+      Los valores anteriores se verifican de acuerdo con lo establecido en el método de prueba 5.2.5.
+      4.2.4. Los elementos radiadores integrados a los Equipos bloqueadores de señales o aquellos elementos radiadores externos, que forman parte del Equipo bloqueador de señales, y deban ser conectados/desconectados a los Equipos bloqueadores de señales deben presentar, al menos, las siguientes especificaciones técnicas de fabricación:
+            a) Tipo direccional;
+            b) Frecuencia central de operación (MHz);
+            c) Intervalo de frecuencias de operación (MHz);
+            d) Respuesta en frecuencia en el intervalo de operación;
+            e) Máxima Ganancia (dBi);
+            f) Máxima Potencia de entrada (dBW);
+            g) Polarización;
+            h)   Ángulo en grados de abertura (igual o menor a 90º) a -3 dB en los planos de radiación horizontal y vertical;
+            i) Patrón de Radiación para las frecuencias centrales de operación, en coordenadas polares y normalizado para el plano horizontal y vertical;
+            j) Relación del lóbulo frontal sobre el posterior;
+            k) Impedancia de entrada (Ohms), y 
+            l) VSWR igual o menor a 1.5:1.
+      Lo anterior se verifica de acuerdo al método de prueba 5.2.6.
+
+      4.2.5. Los Equipos bloqueadores de señales deben bloquear los servicios que la autoridad competente indique, pudiéndose tomar como referencia la Tabla 2. En el caso de que los referidos equipos tengan la capacidad de operar en dos o más bandas de frecuencia, éstos deben cumplir con las especificaciones establecidas en la presente Disposición Técnica en cada banda de frecuencia. 
+
+   TABLA 2.  SERVICIOS, BANDAS DE FRECUENCIAS Y TECNOLOGÍAS DE REFERENCIA.
+                                   Servicio
+                             Bandas de Frecuencias
+                          Tecnologías Identificadas*
+Radiocomunicación
+Privada
+Radiocomunicación
+Especializada de flotillas (Servicio Troncalizado o Trunking)
+                                  148-174 MHz
+TDMA, FDMA, CDMA, TETRA, DMR, APCO, LTR
+Radiocomunicación
+Especializada de flotillas (Servicio Troncalizado o Trunking)
+
+                                  410-430 MHz
+TETRA, iDEN, APCO; DMR, LTR
+Radiocomunicación
+privada
+Radiocomunicación
+Especializada de flotillas (Servicio Troncalizado o Trunking)
+                                  430-440 MHz
+                                       
+                                  440-450 MHz
+TDMA, FDMA, CDMA, DMR, LTR
+
+TDMA, FDMA, CDMA
+Telefonía Rural (FONCOS)
+Radiocomunicación
+Privada
+                         453-457.475 / 463-467.475 MHz
+                              (Uplink / Downlink)
+CDMA-450, TDMA, FDMA, CDMA, DMR, LTR
+Radiocomunicación Privada
+                                  470-512 MHz
+TDMA, FDMA, CDMA, DMR, LTR
+Acceso inalámbrico móvil (Servicio celular)
+                                  698-806 MHz
+LTE
+Radiocomunicación
+Especializada de flotillas (Servicio Troncalizado o Trunking)
+
+                           806-814 MHz / 851-859 MHz
+                              (Uplink / Downlink)
+LTR, TETRA, iDEN, APCO DMR
+Acceso inalámbrico móvil
+Servicio celular
+                           814-824 MHz / 859-869 MHz
+                              (Uplink / Downlink)
+                                       
+                           824-849 MHz / 869-894 MHz
+                              (Uplink / Downlink)
+                                       
+                           1850-1910 / 1930-1990 MHz
+                             (Uplink / Downlink))
+                                       
+                                       
+                           1710-1755 / 2110-2155 MHz
+                           1 755-1770/2155-2170 MHz
+                            1770-1780/2170-2180 MHz
+                              (Uplink / Downlink)
+LTE
+
+GSM, LTE, UMTS (W-CDMA)
+
+GSM, LTE, UMTS (W-CDMA)
+
+LTE, UMTS (W-CDMA)
+Acceso inalámbrico fijo o móvil
+Televisión Restringida
+Transmisión bidireccional de dato
+                                2300-2400 MHz 
+                                       
+   Banda en proceso de planificación para servicios futuros de banda ancha 
+                                 2500-2690 MHz
+                                       
+                                 3300-3350 MHz
+                                       
+                                 3400-3600 MHz
+WIMAX, LTE
+
+WIMAX, LTE, MMDS
+
+WIMAX
+
+WIMAX, LTE, Proximity II 
+Banda de uso libre.
+                       Canales diversos en la banda de: 
+                            450.2625-450.4875 MHz 
+                                  450-470 MHz
+                                       
+                                  902-928 MHz
+                               1920  -  1930 MHz
+                                2400-2483.5 MHz
+                                 5150-5250 MHz
+                                 5250-5350 MHz
+                                5470- 5600 MHz
+                                 5650-5725 MHz
+                                 5725-5850 MHz
+DECT, FRS, GMRS; DMR, LTR
+ICM, RFID, DTR, ESPECTRO DISPERSO
+DECT, ESPECTRO DISPERSO
+WIFI, BLUETOOTH
+WIFI, WIMAX
+WIFI, WIMAX
+WIFI, WIMAX
+WIFI, WIMAX
+WIFI, WIMAX
+Satelital Móvil
+                               1618.5-1626.5 MHz
+                                2483.5-2500 MHz
+                                 1610-1626 MHz
+                                 2000-2010 MHz
+Iridium
+Globalstar
+Omnispace
+*Tecnologías identificadas de acuerdo con las especificaciones de las bandas de frecuencia, lo cual no en todos los casos garantiza su desarrollo e implementación.
+            
+      Lo anterior se verifica de acuerdo al método de prueba 5.2.7.
+	
+      4.2.6. No se deberán utilizar amplificadores de potencia de radiofrecuencia externos con los Equipos de bloqueo de señales.
+      Lo anterior se verifica de acuerdo al numeral 5.2.8.
+      
+      4.2.7. El Equipo bloqueador de señales deberá exhibir mediante marcado o etiqueta en el exterior del producto, que no está permitida su operación con amplificadores de potencia de radiofrecuencia externos. Dicho marcado o etiqueta deberá ser ostensible, clara, visible, legible e indeleble con el uso normal.
+      Lo anterior se verifica de acuerdo al numeral 5.2.8.
+
+      4.2.8. El Equipo bloqueador de señales no debe contar con controles externos que permitan modificar la potencia y/o la frecuencia de operación, con el objeto de que no pueda ser manipulado. Adicionalmente, deberá contar con sistemas automáticos que envíen señales de alarma ante cualquier interrupción en su funcionalidad y que permitan el control vía remota del mismo, para tal efecto deberá contar con una interfaz digital.
+      Lo anterior se verifica mediante el método de prueba 5.2.9.
+
+      4.2.9. El Equipo bloqueador de señales que se emplee, sólo debe bloquear las frecuencias asignadas para el enlace descendente o conexión de bajada (Downlink), pudiéndose tomar como referencia las bandas de frecuencias mostradas en la Tabla 3.
+
+TABLA 3. FRECUENCIAS DE OPERACIÓN DE REFERENCIA RELATIVAS A DIVERSOS SERVICIOS MÓVILES.
+                                  Tecnología
+                              GSM/GPRS/EDGE/EDGE 
+                                   Evolution
+                                    W-CDMA
+                           HSPA(HSDPA y HSUPA)/HSPA+
+                           TD-SCDMA/TD-HSPA/TD-HSPA+
+                                      LTE
+                                 LTE-Advanced
+        cdmaOne (TIA/EIA-95A/B/C)/ CDMA2000 1x/ 1xEV-DO Rel. 0/Rev. A/B
+                            Intervalo de frecuencia
+                                  Uplink(UL)
+                                Downlink (DL) 
+    (BS): Estación Base/Base Station (MS): Estación Móvil/Movil Station 
+850 MHz y 1900 MHz T-GSM-380: 380.2 a 389.8 (UL) 390.2 a 399.8 (DL) 
+T-GSM-410: 410.2 a 419.8 MHz (UL) 420.2 a 429.8 MHz (DL) GSM-450: 450.4 a 457.6 MHz (UL) 460.4 a 467.6 MHz (DL) GSM-480 MHz: 479.0 a 486.0 MHz (UL) 489.0 a 496.0 MHz (DL) GSM-710: 698.0 a 716.0 MHz (UL) 728.0 a 746.0 MHz (DL) GSM-750: 747.0 MHz a 762.0 MHz (UL) 777.0 a 792.0 MHz  (DL) T-GSM-810: 806.0 a 821.0 MHz (UL) 851.0 a 866.0 MHz (DL) GSM-850: 824.0 a 849.0 MHz (UL) 869.0 a 894.0 MHz (DL) P-GSM-900: 890.2 a 914.8 MHz (UL) 935.2 a 959.8 MHz (DL) E-GSM-900 MHz: 880.0 a 914.8 MHz (UL) 925.2 a 959.8 (DL) MHz R-GSM-900: 876.0 a 914.8 MHz (UL) 921.0 a 959.8 MHz (DL) T-GSM-900: 870.4 MHz a 876.0 MHz (UL) 915.4 a 921.0 MHz (DL) DCS-1800: 1710.2 a 1784.8 (UL) 1805.2 a 1879.8 MHz (DL) PCS-1900: 1850.0 a 1910.0 MHz (UL) 1930.0 a 1990.0 MHz (DL)
+FDD para la banda 1 a 21 Banda 1: 1920 a 1980 MHz (UL) 2110 a 2170 MHz (DL) Banda 2: 1850 a 1910 MHz (UL) 1930 a 1990 MHz (DL) Band 3: 1710 a 1785 MHz (UL) 1805 a 1880 MHz (DL) Banda 4: 1710 a 1755 MHz (UL) 2110 a 2155 MHz (DL) Banda 5: 824 a 849 MHz (UL) 869 a 894 MHz (DL) Banda 6: 830 a 840 MHz (UL) 875 a 885 MHz (DL) Banda 7: 2500 a 2570 MHz (UL) 2620 a 2690 MHz (DL) Banda 8: 880 a 915 MHz (UL) 925 a 960 MHz (DL) Banda 9: 1749.9 a 1784.9 MHz (UL) 1844.9 a 1879.9 MHz (DL) Banda 10: 1710 a 1780 MHz (UL) 2110 a 2180 MHz (DL) Banda 11: 1427.9 a 1452.9 MHz (UL) 1475.9 a 1500.9 MHz (DL) Banda 12: 698 a 716 MHz (UL) 728 a 746 MHz (DL) Banda 13: 777 a 787 MHz (UL) 746 a 756 MHz (DL) Banda 14: 788 a 798 MHz (UL) 758 a 768 MHz (DL) Banda 19: 830 a 845 MHz (UL) 875 a 890 MHz (DL) Banda 20: 832 a 862 MHz (UL) 791 a 821 MHz (DL) Banda 21: 1447.9 a 1462.9 MHz (UL) 1495.9 a 1510.9 MHz (DL)
+TDD para Banda 34 y 39 
+Banda 34: 2010 a 2025 MHz (UL & DL) Banda 39: 1880 a 1920 MHz (UL & DL)
+Bandas de 1 a 16 yde 19 a 21 son idénticas aW-CDMA y HSPA. 
+Banda 17: 704 a 716 MHz (UL) 734 a 746 MHz (DL), FDD Banda 18: 815 a 830 MHz (UL) 860 a 875 MHz (DL), FDD Banda 24: 1626.5 a 1660.5 MHz (UL) 1525 a 1559 MHz (DL), FDD Banda 33: 1900 a 1920 MHz (UL & DL), TDD Banda 34: 2010 a 2025 MHz (UL & DL), TDD Banda 35: 1850 a 1910 MHz (UL & DL), TDD Banda 36: 1930 a 1990 MHz (UL & DL), TDD Banda 37: 1910 a 1930 MHz (UL & DL), TDD Banda 38: 2570 a 2620 MHz (UL & DL), TDD Banda 39: 1880 a 1920 MHz (UL & DL), TDD Banda 40: 2300 a 2400 MHz (UL & DL), TDD Banda 41: 2496 a 2690 MHz (UL & DL), TDD Banda 42: 3400 a 3600 MHz (UL &DL), TDD Banda 43: 3600 a 3800 MHz (UL & DL), TDD
+cdmaOne 824 a 849 MHz (MS Tx: US, Korea) 869 a 894 MHz (BS Tx: US, Korea) 887 a 925 MHz (MS Tx: Japan) 832 a 870 MHz (BS Tx: Japan) 1850 a 1910 MHz (MS Tx: US) 1930 a 1990 MHz (BS Tx: US) 1750 a 1780 MHz (MS Tx: Korea) 1840 a 1870 MHz (BS Tx: Korea) CDMA2000 410 a 430 MHz (MS Tx) 450 a 470 MHz (BS Tx) 824 a 849 MHz (MS Tx) 869 a 894 MHz (BS Tx) 1710 a 1755 MHz (MS Tx) 2110 a 2155 MHz (BS Tx) 1850 a 1910 MHz (MS Tx) 1930 a 1990 MHz (BS Tx) 1920 a 1980 MHz (MS Tx) 2110 a 2170 MHz (BS Tx)
+                           Ancho de Banda del Canal
+                                    200 kHz
+                                     5 MHz
+                                    1.6 MHz
+                                   1.4 MHz,
+                                    3 MHz, 
+                                    5 MHz, 
+                                   10 MHz, 
+                                   15 MHz, 
+                                    20 MHz
+              Dependiendo de la Velocidad de Transmisión de LTE
+                   Arriba de 100 MHz con portadora agregada
+                                   1.25 MHz
+
+      Lo anterior se verifica de acuerdo al método de prueba 5.2.10.
+
+      4.2.10. La banda de frecuencia de 380 MHz - 399.9 MHz que se emplea para la provisión de servicios dedicados a aplicaciones de seguridad pública, no deberá ser bloqueada bajo ninguna circunstancia.
+      Lo anterior se verifica de acuerdo al método de prueba 5.2.11.
+
+      4.2.11. Los Equipos bloqueadores de señales deben cumplir con la Disposición Técnica referente a límites de exposición máxima para seres humanos a radiaciones electromagnéticas de radiofrecuencia no ionizantes que al efecto el Instituto expida.
+      El Equipo bloqueador de señales deberá exhibir mediante marcado o etiqueta en el exterior del producto, que durante su operación se deberán observar los límites de exposición máxima para seres humanos a radiaciones electromagnéticas de radiofrecuencia no ionizantes establecidas por el Instituto. Dicho marcado o etiqueta deberá ser ostensible, clara, visible, legible e indeleble con el uso normal.
+      Lo anterior se verifica de acuerdo al numeral 5.2.12.
+
+4.3. Manual del Equipo bloqueador de señales. 
+El manual del Equipo bloqueador de señales debe estar en formato digital, escrito en idioma español, contener información suficiente, clara y veraz de sus características técnicas, así como los procedimientos de configuración, ajuste, operación, pruebas y resolución de problemas. 
+Lo anterior se verifica de acuerdo al numeral 5.2.13.
+
+ MÉTODOS DE PRUEBA 
+
+El presente capítulo contiene los métodos de prueba que deben emplearse para la comprobación de las especificaciones técnicas contenidas en el numeral 4 de la presente Disposición Técnica. 
+Los métodos de prueba se aplicarán a los EBP en todas las bandas de frecuencias en las que operen.
+La aplicación de dichos métodos de prueba se llevará a cabo por los laboratorios de prueba acreditados por el Instituto o por un organismo de acreditación y, autorizados por el Instituto respecto a esta Disposición Técnica, de acuerdo con los términos previstos en la LFTR y demás disposiciones aplicables.
+Los reportes de prueba que emitan los laboratorios de prueba respecto de los métodos para comprobar las especificaciones técnicas establecidas en la presente Disposición Técnica deberán presentarse de acuerdo al formato contenido en el Anexo A.
+
+5.1. Instrumentos de medición. Los instrumentos de medición que se utilicen para la aplicación de los métodos de prueba deben contar al menos con las características que se muestran en la Tabla 4 y con dictamen o certificado de calibración que cumpla con las disposiciones aplicables. La calibración de tales instrumentos debe haberse realizado en las magnitudes, frecuencias y en los alcances de medición en los cuales serán empleados. 
+          TABLA 4. CARACTERÍSTICAS DE LOS INSTRUMENTOS DE MEDICIÓN.
+                                       
+                                 Instrumento.
+                           Parámetros de medición.
+                              Valores requeridos.
+Analizador de espectro
+Intervalo de frecuencias de operación:
+Al menos en las frecuencias de las Tablas 2 y 3*
+Analizador de espectro
+Tolerancia de referencia de frecuencia:
+Mejor que 1x10-6 Hz/Hz
+Analizador de espectro
+Sensibilidad (nivel de ruido):
+˂-120 dBm
+Analizador de espectro
+Impedancia de entrada:
+50 ohms
+Analizador de espectro
+Exactitud absoluta en amplitud:
+Menor o igual que +-1 dB
+Analizador de espectro
+Resolución:
+0.1 dB
+Analizador de espectro
+Detector:
+Pico, cuasi-pico, muestra, promedio
+Antenas patrón o antenas de referencia calibradas
+Intervalo de frecuencias de operación:
+Al menos en las frecuencias de las Tablas 2 y 3*
+Antenas patrón o antenas de referencia calibradas
+A calibrarse en:
+Ganancia, Factor de antena y Relación de onda estacionaria
+Acoplador de impedancias
+Impedancias a acoplar
+De acuerdo al desacoplamiento específico de impedancias entre el EBP y los equipos de medición
+
+Intervalo de frecuencias de operación:
+Al menos en las frecuencias de las Tablas 2 y 3*
+
+Pérdidas por inserción
+< 3.5 dB
+Preamplificador 
+Intervalo de frecuencias de operación: 
+Al menos en las frecuencias de las Tablas 2 y 3*
+
+Ganancia:
+20 dB
+Medidor de potencia de RF
+Intervalo de frecuencias de operación: 
+Al menos en las frecuencias de las Tablas 2 y 3*
+Medidor de potencia de RF
+Capacidad de medición de potencia:
+Diodo de respuesta rápida
+Medidor de potencia de RF
+Intervalo de potencia:
+De -40 dBm hasta 47 dBm
+Medidor de potencia de RF
+Exactitud en amplitud
+Menor o igual que +-1 dB
+Medidor de potencia de RF
+Impedancia de entrada:
+50 ohms
+Medidor de potencia de RF
+Detector:
+Pico
+Medidor de potencia de RF
+Intervalo de frecuencias de operación:
+Al menos en las frecuencias de las Tablas 2 y 3*
+Cámara anecoica
+Cámara anecoica
+Pérdida por blindaje mayor que 105 dB en el intervalo de 30 MHz a 6 GHz, 
+Atenuación normalizada de sitio (ANS) debe estar dentro de +-4 dB, en el intervalo de 30 MHz a 1 GHz con respecto al valor de ANS 1) calculado teóricamente o 2) con respecto al valor de ANS medido en el sitio de referencia CALTS del CENAM con las mismas antenas, y
+Razón de Onda Estacionaria de Tensión Eléctrica (VSWR, Voltage Standing Wave Ratio) del Sitio, SVSWR, menor o igual que 6 dB, en el intervalo de 1 GHz a 18 GHz.
+*En caso de que los EBP operen en bandas de frecuencias diferentes a las mostradas en las Tablas de referencia 2 y 3, los instrumentos de medición deberán contar con las características correspondientes a dichas bandas de frecuencias.
+
+5.2. Configuraciones para la aplicación de los métodos de prueba.
+Para la aplicación de los métodos de prueba de la presente Disposición Técnica pueden emplearse dos configuraciones: 
+            a) Configuración para medición de emisiones conducidas, o
+            b) Configuración para medición de emisiones radiadas.
+      5.2.1. Configuración para medición de emisiones conducidas. 
+      Los equipos se configuran conforme se indica en la Figura 1. A efecto de utilizar la referida configuración, se requiere que la antena del Equipo bloqueador de señales sea desmontable.
+      Con objeto de no dañar el analizador de espectro o el medidor de potencia, debe cuidarse el no exceder el nivel máximo de potencia de entrada especificado por el fabricante, el cual suele ser de 1 Watt (30 dBm). Para tal efecto, se podrán emplear uno o varios atenuadores, según se requiera, dispuestos conforme a la Figura 1. Para simplificar el proceso de medición y garantizar la máxima transferencia de potencia, se recomienda que todos los equipos y accesorios que se empleen en la medición tengan una impedancia de entrada y de salida, según corresponda, de 50 Ohms, debe buscarse también que los acoplamientos en la cadena cable-atenuadores-cable-analizador de espectro, sean los óptimos, para lo cual, según sean las impedancias de entrada y de salida de los dispositivos de la cadena, así como las impedancias características de los cables, pudiera requerirse o no el uso de acopladores de impedancias, como se indica en la Figura 1.
+      
+        Figura 1. Configuración para medición de emisiones conducidas
+
+      Considerando lo anterior, en la aplicación de los métodos de prueba para la determinación de la potencia de salida del EBP debe sumarse al valor medido en el analizador de espectro, las pérdidas en la cadena mencionada, de la forma que lo indica la Ecuación 2:
+
+PEBPdBW=PmedidadBW+αcablesdB+αatenuadoresdB+LdB-εdB
+                                                                  (Ecuación 2)
+
+  Donde:
+  PEBPdBW: 	Potencia de salida del EBP en dBW.
+     PmedidadBW: 	Potencia medida en el analizador de espectro o en el medidor de potencia de RF, en dBW.
+     αatenuadoresdB: 	Atenuación del atenuador o atenuadores, en dB.
+     αcablesdB: 	Atenuación en los cables, en dB.
+  
+     LdB: 	Pérdidas de acoplamiento y otras pérdidas, en dB.
+  	LdB=-10log101-VSWR-1VSWR+12VSWR = relación de onda estacionaria entre cada uno de los elementos del sistema de medición analizador de espectro, cables, atenuadores y EBP.
+     εdB	Error del analizador de espectro o de medidor de potencia de RF, obtenido en su calibración y cuyo conocimiento y aplicación garantiza la trazabilidad de la medición a los patrones nacionales.
+
+    5.2.2. Configuración para medición de emisiones radiadas.
+
+      Los sitios para la aplicación de los métodos de pruebas de emisiones radiadas podrán ser una cámara anecoica o un sitio de pruebas de área abierta, los cuales deben poseer las características que aseguren condiciones de espacio libre de reflexiones y bajo condiciones de intervisibilidad a las frecuencias de prueba aquí indicadas. Lo anterior a efecto de asegurar la confiabilidad de las mediciones en las frecuencias a las que se refiere esta Disposición Técnica y que cumplan con la normatividad aplicable.
+      La configuración para la medición de emisiones radiadas se dispone conforme se indica en la Figura 2. Esta configuración es aplicable para los métodos de prueba en casos en los que la antena del EBP no sea desmontable, o en los que explícitamente se indique esta configuración.
+      Para este arreglo es necesario conectar al analizador de espectro una antena receptora calibrada.
+                                       
+                                       
+         Figura 2. Configuración para medición de emisiones radiadas
+                                       
+      La altura, polarización, distancia y orientación de las antenas que intervienen en la aplicación de los métodos de prueba de emisiones radiadas deben ser tales que se asegure la máxima transferencia de energía al sistema medidor para que las mediciones sean confiables.
+      Cuando se use la presente configuración, la determinación de la potencia de salida del EBP (de la misma forma que para la configuración de emisiones conducidas) debe considerar las pérdidas y ganancias en los elementos de la configuración, de la forma que indica la Ecuación 3:
+   PEBPdBW=PmedidadBW+αcablesdB+αatenuadoresdB+LdB+ ΓodB-GantenaEBPdB- GantenaanalizadordB-εdB
+                                                                  (Ecuación 3)
+
+Donde:
+  PEBPdBW: 	Potencia de salida del EBP, en dBW.
+  PmedidadBW: 	Potencia medida en el analizador de espectro, en dBW.
+  αcablesdB: 	Atenuación en los cables, en dB.
+  αatenuadoresdB: 	Atenuación del atenuador o atenuadores, en dB.
+  LdB: 	Pérdidas de acoplamiento y otras pérdidas, en dB
+                            LdB=-10log101-VSWR-1VSWR+12; VSWR = relación de onda estacionaria entre cada uno de los elementos del sistema de medición analizador de espectro, cables, atenuadores y antena receptora.
+  ΓodB:	Atenuación en el espacio libre, en dB, calculada de acuerdo a la siguiente expresión: 
+  ΓodB=20 log4PIDmλm.
+  GantenaEBPdB:	Ganancia de la antena del EBP, en dB.
+  GantenaanalizadordB:	Ganancia de la antena receptora calibrada que se conecta al analizador de espectro, en dB.
+  εdB:	Error del analizador de espectro, obtenido en su calibración y cuyo conocimiento y aplicación garantiza la trazabilidad de la medición a los patrones nacionales.
+Para el caso de mediciones pico, la determinación de la potencia de salida del EBP puede hacerse a partir de la medición de la intensidad de campo.
+
+La Ecuación 4 se usará para calcular la potencia de salida del transmisor PTW a partir de la intensidad de campo EVm, medida en el analizador de espectro: 
+                             PTW=EVmDm230 G (Ecuación 4)
+        
+        
+        Donde:
+        PTW:	Potencia de salida del transmisor, en Watt.
+        EVm:	Intensidad de campo eléctrico, en Volt/metro.
+        Dm:	Distancia en metros entre las dos antenas, debiendo cumplirse que D>=2d2/λ (siendo d un parámetro que corresponde a la antena que se conecta al analizador de espectro denominada antena receptora calibrada y puede ser, cualquiera de las siguientes opciones: a) la longitud mayor del elemento si la antena receptora calibrada es logarítmica periódica, o b) la apertura mayor si la antena receptora calibrada es de corneta; y λ es la longitud de onda en metros correspondiente a la frecuencia más alta de la banda de frecuencias en que opere el EBP, condición de región de campo lejano.
+        G:	Ganancia numérica de la antena del EBP.
+
+      Lo anterior supone que las pérdidas en los cables son despreciables y que no hay pérdidas de acoplamiento, ni atenuadores ni pre-amplificador.
+      De no ser ese el caso, la potencia de salida del EBP debe considerar esos elementos, como se indica en la Ecuación 5:
+
+PEBPdBW=PTdBW+αcablesdB+αatenuadoresdB+LdB-Gpre-ampdB-εdB (Ecuación 5) 
+                                       
+Donde:
+  PTdBW: 	Potencia medida en el analizador de espectro, en dBW.
+  αcablesdB: 	Atenuación en los cables, en dB.
+  αatenuadoresdB:	Atenuación del atenuador o atenuadores, en dB.
+  LdB: 	Pérdidas de acoplamiento y otras pérdidas, en dB.
+  	LdB=-10log101-VSWR-1VSWR+12; VSWR = relación de onda estacionaria entre cada uno de los elementos del sistema de medición analizador de espectro, cables, atenuadores y pre-amplificador.
+  
+  Gpre-ampdB:	Ganancia del pre-amplificador de medición, en dB del equipo medidor.
+  εdB:	Error del analizador de espectro, obtenido en su calibración y cuyo conocimiento y aplicación garantiza la trazabilidad de la medición a los patrones nacionales.
+
+
+      5.2.3. Comprobación del numeral 4.2.1., sobre la tolerancia de frecuencia.
+  
+             a)	Armar la configuración de prueba conforme a lo indicado en 5.2. Elegir la configuración para medición de emisiones conducidas 5.2.1., si la antena se puede desconectar del EBP, o la configuración para medición de emisiones radiadas 5.2.2., de estar la antena integrada al EBP.
+             b)	Establecer las siguientes condiciones en el analizador de espectro:
+ Frecuencia central (center frequency) = frecuencia central esperada del EBP sin modulación.
+ Intervalo de frecuencias (span)= se debe ajustar a la frecuencia bajo análisis.
+ Ancho de banda del filtro de resolución (RBW) = se debe ajustar a la frecuencia bajo análisis.
+ Ancho de banda de video (VBW) > RBW
+ Tiempo de barrido (sweep time) = auto
+ Detector (detector function) = pico
+ Traza (trace)= retención máxima de imagen (max hold).
+             c)	El EBP debe estar transmitiendo sin modulación.
+             d)	Permitir que la traza se estabilice y ubicar el marcador en la frecuencia central esperada (de ser el caso, dentro de las bandas de frecuencia de la Tabla 2).
+             e)	Utilizar la función Marcador-Delta (Marker-Delta) para medir la frecuencia central esperada.
+             f)	Establecer a cero la función Marker Delta, procediendo a mover el marcador al pico del espectro de la emisión y medir el pico del lado derecho y el del lado izquierdo.
+             g)	Registrar la lectura de la función Marker-Delta como ∆f.
+             h)	La tolerancia de frecuencia es igual a la desviación máxima en frecuencia ∆f, dividida entre la frecuencia central esperada y multiplicando este cociente por 1x106.
+             	Tolerancia de Frecuencia p.p.m. = [∆f (Hz) / fcentral (Hz)] * 1000000		
+           Imprimir la gráfica correspondiente y anexar al reporte de pruebas (Anexo A).
+        
+      La tolerancia de frecuencia medida debe cumplir con un valor máximo de +-20 p.p.m., de acuerdo con lo que se especifica en el numeral 4.2.1.
+
+      5.2.4. Comprobación del numeral 4.2.2., sobre la potencia de salida de transmisión.
+
+
+      Es importante observar que la especificación 4.2.2., se refiere a valores de potencia de salida del EBP conducida a la antena o antenas, por lo que para comprobar el cumplimiento de esta especificación se emplea el método de prueba 5.2.4.1., misma que debe hacerse usando la configuración para medición de emisiones conducidas, presentada en el numeral 5.2.1.; sin embargo, por la posibilidad de que existan equipos a los que no se les pueda hacer la medición de emisiones conducidas debido a que la antena o antenas no sean desmontables, podrá usarse la configuración para medición de emisiones radiadas presentada en 5.2.2.; en este último caso, es necesario que el solicitante presente la ganancia de la antena o antenas empleadas.
+
+      5.2.4.1. Para medir la potencia pico de salida del transmisor conducida a la antena o antenas (relativa a la especificación 4.2.2.), se utiliza el método de detección de pico.
+ Armar la configuración de prueba conforme a lo indicado en el numeral 5.2. Si la antena se puede desconectar del EBP elegir la configuración para medición de emisiones conducidas (numeral 5.2.1.), o elegir la configuración para medición de emisiones radiadas (numeral 5.2.2.), si la antena está integrada al EBP y no exista posibilidad de desconexión.
+            Para el caso de que el ancho de banda de la emisión del EBP a -6 dB fuera mayor que el ancho de banda del filtro de resolución (RBW) del analizador de espectro, podrá utilizarse, alternativamente a éste, un medidor de potencia de RF, sin ejecutar, en tal caso, los incisos b. a e.
+ Establecer las siguientes condiciones de alimentación en el EBP.
+ Alimentar al EBP con la tensión nominal de alimentación primaria.
+ Establecer las siguientes condiciones en el analizador de espectro.
+ Intervalo de frecuencias (span) = Suficiente para contener la señal de interés;
+ Ancho de banda del filtro de resolución (RBW) > que el ancho de banda de la emisión del EBP a -6 dB (véase 5.2.4.2.);
+ Ancho de banda de video (VBW) = Auto;
+ Tiempo de barrido (sweep time)) = Auto;
+ Detector (detector function) = Pico;
+ Traza (trace) = Retención máxima de imagen (max hold).
+ Permitir que la traza se estabilice.
+ Colocar el marcador en el pico del espectro de la emisión y medir el nivel marcado.
+ Sumar a los valores determinados en e., o con el medidor de potencia de RF mencionado en la última parte del inciso a., las pérdidas y ganancias de la cadena de la configuración de prueba, según lo previsto en 5.2.1., para el caso de una configuración para medición de emisiones conducidas, o en 5.2.2., para el caso de una configuración para medición de emisiones radiadas.
+            El resultado de dicha suma es la potencia pico máxima de salida del transmisor.
+ Para el caso de haber utilizado un analizador de espectro, imprimir la gráfica correspondiente y anexar al reporte de pruebas (Anexo A).
+ Repetir los pasos c. a g. ahora con las siguientes condiciones.
+ Alimentar al EBP con +15% de la tensión nominal de alimentación primaria
+ Temperatura de -10°C y +50°C.
+ Repetir los pasos c. a g. ahora con las siguientes condiciones.
+                    Alimentar al EBP con -15% de la tensión nominal de alimentación primaria
+                    Temperatura de -10°C y +50°C.
+                  
+ Calcular las variaciones de la potencia de trasmisión tomando como referencia la potencia pico alimentando al EBP con la tensión nominal de alimentación primaria, respecto de las variaciones en tensión +15% y -15%; registrar los resultados de las diferencias.
+ Para cada paso de ajuste de la potencia del equipo bloqueador de señales repetir los pasos de la a. a la j.
+
+      Para el cumplimiento la potencia de transmisión y del intervalo ajustable de la misma,  no se deberá presentar variaciones mayores que +-1 dB del valor de potencia de transmisión, cuando sea sometido a variaciones de +-15% de la tensión de alimentación primaria, a temperaturas de -10 ºC a +50 ºC.
+
+      5.2.4.2. El Ancho de banda RF a -6 dB de la señal del transmisor (relativa al método 5.2.4.1) se mide de la siguiente forma:
+            a)	Armar la configuración de prueba conforme a lo indicado en 5.2., elegir la configuración para medición de emisiones conducidas (numeral 5.2.1.), si la antena se puede desconectar del EBP, o la configuración para medición de emisiones radiadas (numeral 5.2.2.), de estar la antena integrada al EBP.
+            b)	Poner el EBP a transmitir modulando la señal.
+            c)	Establecer las siguientes condiciones en el analizador de espectro.
+ Intervalo de frecuencias (span) > que RBW y suficiente para visualizar el canal completo a medir, Ancho de banda del filtro de resolución (RBW) = 100 kHz;
+ Ancho de banda de video (VBW) = Auto;
+ Tiempo de barrido (detector function) = Auto;
+ Detector (detector function) = Pico;
+ Traza (trace) = Retención máxima de imagen (max hold).
+            d)	Permitir que la traza se estabilice y entonces ubicar el marcador del analizador de espectro en el pico de la emisión desplegada.
+            e)	Utilizar la función Marcador-Delta (Marker-Delta) para medir -6 dB por debajo del pico sobre uno de los lados del espectro de la emisión.
+            f)	En ese punto establecer a cero la función Marcador-Delta (Marker-Delta), moviendo el marcador al otro lado del espectro de la emisión manteniéndolo al mismo nivel. (6 dB por debajo del pico).
+            g)	Registrar la lectura de la función Marcador-Delta (Marker-Delta) como el ancho de banda del canal a -6 dB.
+            h)	Imprimir la gráfica correspondiente y anexar al reporte de pruebas (Anexo A).
+
+      5.2.5. Comprobación del numeral 4.2.3., sobre los niveles máximos de potencia de las emisiones no esenciales.
+
+      Por ser ésta una medición de potencia, debe llevarse a cabo bajo el mismo criterio de medición de potencia de salida, en el caso de medición de potencia pico, los picos de potencia obtenidos en el inciso e), del numeral 5.2.5.1., de las emisiones fuera de las bandas de operación deberán estar atenuados 43+10 x log10(P) ó 70 dBc, debiéndose considerar el valor más restrictivo entre ambos, en relación con la potencia pico del nivel de referencia medido en un intervalo de 100 KHz dentro de la banda de operación.
+
+
+      5.2.5.1. Método de medición pico.
+ Armar la configuración de prueba conforme a lo indicado en el numeral 5.2. Si la antena se puede desconectar del EBP elegir la configuración para medición de emisiones conducidas presentada en el numeral 5.2.1., o elegir la configuración para medición de emisiones radiadas 5.2.2., si la antena está integrada al EBP y no existe la posibilidad de desconexión. Para el caso de configuración para medición de emisiones radiadas pudiera ser necesario el uso del pre-amplificador previsto en 5.2.2.
+ Establecer las siguientes condiciones en el analizador de espectro.
+         Intervalo de frecuencias (span) = el suficiente para ver el nivel pico de las señales no esenciales de la emisión del EBP, en el intervalo que va desde 30 MHz hasta 10 veces la frecuencia fundamental de la emisión o 40 GHz, la que resulte menor.
+  Para el caso de emisiones para frecuencias de 30 MHz a 1 GHz. Modo pico:
+ RBW=100 kHz;
+ Ancho de banda de video (VBW) > 3 x RBW;
+ Tiempo de barrido (sweep time) = auto;
+ Detector (detector function) = pico;
+ Traza (trace) = Retención máxima de imagen (max hold).
+ Para el caso de emisiones para frecuencias > 1 GHz.
+               Método de Medición Pico:
+ Para el caso de medición de emisiones conducidas, Ancho de banda del filtro de resolución (RBW) = 100 kHz; para el caso de medición de emisiones radiadas, RBW=1 MHz;
+ Ancho de banda de video (VBW) > 3 x RBW;
+ Tiempo de barrido (sweep time) = Auto;
+ Detector (detector function) = Pico;
+ Traza (trace) = Retención máxima de imagen (max hold).
+ Permitir que la traza se estabilice.
+ Con el marcador identificar los picos de las emisiones encontradas no esenciales en una o más frecuencias situadas fuera de la banda de frecuencia, en el intervalo que va desde 30 MHz hasta 10 veces la frecuencia fundamental de la emisión o 40 GHz, la que resulte menor. Medir el nivel de referencia con la función marcador pico en un intervalo de 100 kHz dentro de la banda de operación.
+ Para obtener los picos de potencia de las emisiones fuera de banda de operación así como el pico del nivel de referencia, sumar a cada valor medido en d., las pérdidas y ganancias de la cadena de la configuración de prueba, según lo previsto en 5.2.1., para el caso de una configuración para medición de emisiones conducidas, o en 5.2.2., para el caso de una configuración para medición de emisiones radiadas.
+ Imprimir las gráficas correspondientes y anexarlas al reporte de pruebas (Anexo A).
+ Comprobar que todos los picos de las emisiones obtenidas en el inciso e. cumplan con estar atenuadas 43+10 x log10(P) ó 70 dBc, lo que sea más restrictivo con respecto a la producida en el intervalo de 100 kHz dentro de la banda de operación que contenga el más alto nivel de potencia.
+
+    5.2.6. Método de prueba para comprobar la especificación 4.2.4., sobre las especificaciones técnicas de los elementos radiadores.
+    5.2.6.1. La comprobación del cumplimiento del numeral 4.2.4, en todos sus incisos se verificará documentalmente con las especificaciones técnicas del fabricante del EBP.
+    5.2.7. Comprobación del numeral 4.2.5., sobre las frecuencias a bloquear y la capacidad de operación en dos o más bandas de frecuencias.
+             a)	Armar la configuración de prueba para medición de emisiones radiadas de acuerdo con el numeral 5.2.2., de estar la antena integrada al EBP.
+             b)	Establecer el analizador de espectro en modo de vídeo promedio con un mínimo de 50 barridos por segundo y en retención máxima de imagen (max hold).
+             c)	Para todas y cada una de las bandas de frecuencias en que nominalmente pueda funcionar el EBP.
+                   i)	Activar el transmisor del EBP, alimentando con su señal modulada la entrada del analizador de espectro.
+                   ii)	Ajustar los controles del analizador de espectro para que la señal completa emitida por el EBP aparezca graficada en la pantalla.
+                   iii)	Para la gráfica desplegada, utilizando marcadores registrar los extremos bajo y alto de frecuencia, correspondientes a la densidad espectral de potencia por debajo del nivel equivalente a -80 dBm/Hz (-30 dBm, si es medido en el ancho de banda de 100 kHz). Dichos registros de los extremos bajo y alto, corresponden, respectivamente, a los extremos bajo y alto de la banda de frecuencias de operación del EBP.
+         d)	Para cada una de las bandas de frecuencias en que nominalmente opere el EBP, si los extremos bajo y alto de la banda de frecuencias referido en c) iii) en su caso, se hallan dentro de la Tabla 2, especificados el EBP, cumple con la especificación. 
+         e) Para cada una de las bandas de frecuencias en que pueda operar el EBP, aplicar las pruebas correspondientes. Si el EBP cumple con todas las especificaciones que le corresponden, cumple con la especificación 4.2.5.
+
+      5.2.8. Comprobación de los numerales 4.2.6. , y 4.2.7., sobre la prohibición de la operación de amplificadores de potencia de radiofrecuencia externos.
+
+      Se constata ocularmente mediante revisión del equipo bloqueador de señales, así como del marcado o etiqueta en el mismo. Dicho marcado o etiqueta deberá ser ostensible, clara, visible, legible e indeleble  con el uso normal.
+
+
+      5.2.9. Comprobación del numeral 4.2.8., sobre la prohibición de que el EBP no cuente con controles externos.
+      Se comprueba ocularmente en el EBP que no cuente con controles externos.
+      Al respecto de la obligación de que los Equipos de bloqueo de señales cuenten con sistemas automáticos que envíen señales de alarma ante cualquier interrupción en su funcionalidad, lo anterior se comprueba mediante la revisión ocular y física del Equipo de bloqueo de señales constatando que cuente con una interfaz y/o los mecanismos necesarios para que éste envíe una señal de alarma ante cualquier interrupción en su funcionalidad, así como que en el manual de usuario correspondiente indique el tipo de interfaz y la capacidad de la misma.
+
+      5.2.10. Comprobación de que sólo se bloquea el enlace o conexión de bajada (Downlink), en relación al numeral 4.2.9.
+      Se comprueba observando que los EBP bloqueen exclusivamente el Enlace descendente o conexión de bajada (Downlink), los cuales podrían, en su caso, encontrarse  especificados en la Tabla 3.
+      
+      
+F1
+F3
+F2
+F4
+N0
+Nm
+F1
+F3
+F2
+F4
+N0
+Nm
+                 Figura 3. Límites de emisiones fuera de banda.
+
+      En la Figura 3 se aprecian los límites de emisiones fuera de banda, es decir, para este caso en particular de emisiones no esenciales donde N0 es el nivel nominal en dBm; F2, en MHz, es la frecuencia inicial del intervalo de frecuencia a bloquear; Nm en dBm, es el nivel máximo permitido que en combinación con la frecuencia F1 en MHz, establecen el límite fuera del cual hacia las frecuencias bajas de los Equipos bloqueadores de señales no deberán emitir señal alguna, asimismo hacia las frecuencias altas F3 establecen la frecuencia permitida a bloquear y F4 establece en conjunto con Nm el límite fuera del cual hacia las frecuencias altas no se deberá emitir señal alguna por los Equipos bloqueadores de señales.
+
+            a)	Armar la configuración de prueba conforme a lo indicado en 5.2., elegir la configuración para medición de emisiones conducidas 5.2.1., si la antena se puede desconectar del EBP, o la configuración para medición de emisiones radiadas 5.2.2., de estar la antena integrada al EBP.
+            b)	Establecer las siguientes condiciones en el analizador de espectro:
+ Intervalo de frecuencias (span) = al ancho de banda de la Tabla 3 centrado en uno de los canales;
+ Ancho de banda del filtro de resolución (RBW) = el valor necesario para la frecuencia de análisis;
+ Ancho de banda de video (VBW) > RBW;
+ Tiempo de barrido (sweep time) = auto;
+ Detector (detector function) = pico;
+ Traza (trace)= retención máxima de imagen (max hold).
+            c)	Poner a transmitir el EBP con su señal modulada.
+            d)	Permitir que la traza se estabilice y entonces ubicar el marcador de acuerdo con la Tabla 3 en el espectro de la emisión desplegada.
+            e)	Utilizar la función Marcador (Marker) para medir N0 (dB).
+            f)	En ese punto, establecer a cero la función Marcador-Delta, procediendo entonces a mover el marcador (a la izquierda) para encontrar Nm en el espectro de la emisión.
+            g)	Registrar la lectura de la frecuencia en N0 (F2) y en Nm (F1) así como los niveles correspondientes de N0 y Nm en dB. Posteriormente repetir los pasos del inciso e) al g) pero ahora para del lado derecho para registrar F3 y F4, así como sus niveles correspondientes en dB. 
+            h)	Imprimir la gráfica correspondiente y anexar al reporte de pruebas (Anexo A).
+La "máscara" de frecuencia deberá cumplir, en su caso, con la Tabla 3, esto es, observar que no existan emisiones no esenciales que afecten a los servicios adyacentes,  asimismo deberá  asegurarse que las frecuencias en N0 (F2), N0 (F3), correspondan a aquellas indicadas para el enlace descendente (Downlink) y que la mínima diferencia entre los niveles de No (F2) con Nm(F1)  y No (F3) con Nm (F4) deben  cumplir al menos con la ecuación 1.
+
+      5.2.11. Comprobación del numeral 4.2.10., sobre la prohibición de bloqueo de la señal correspondiente a la banda de frecuencia 380 MHz a 399.9 MHz:
+	
+             Armar la configuración de prueba conforme a lo indicado en 5.2., elegir la configuración para medición de emisiones conducidas 5.2.1., si la antena se puede desconectar del EBP o la configuración para medición de emisiones radiadas 5.2.2., de estar la antena integrada al EBP.
+            
+             Para cada una de las bandas de frecuencias en que puede funcionar el EBP:
+ Activar el transmisor del EBP, alimentando con su señal modulada la entrada del analizador de espectro.
+ Establecer la frecuencia central del analizador de espectro a la frecuencia central de la banda de 380 MHz a 399.9 MHz.
+ Establecer en el analizador de espectro el intervalo de frecuencias (span) que comprenda al espectro de la banda que va de los 380 MHz a los 399.9 MHz.
+ Establecer en el analizador de espectro el tiempo de barrido (sweep time) = auto.
+ Observar si durante la operación del transmisor del EBP, en la pantalla del analizador de espectro no se observa ninguna señal graficada considerando el nivel de piso de ruido, como un indicativo de que la señal de la banda de 380 MHz a 399.9 MHz no será bloqueada bajo ninguna circunstancia.
+ De ser el caso que el EBP pueda operar en más de una banda de las establecidas en la Tabla 2; cambiar la banda de frecuencias de operación del transmisor del EBP a las otras en que es capaz de operar y repetir los incisos iii) a v).
+
+      Si para todas y cada una de las bandas de frecuencias en que es capaz de operar el EBP se comprueba que la banda de 380 MHz a 399.9 MHz no es bloqueada bajo ninguna circunstancia, se cumple la especificación 4.2.10.
+
+      5.2.12. Comprobación del numeral 4.2.11., sobre el cumplimiento de la Disposición Técnica emitida por el Instituto referente a los límites de exposición máxima para seres humanos a radiaciones electromagnéticas de radiofrecuencia no ionizantes.
+
+      Se constata ocularmente mediante revisión del marcado o etiqueta en el equipo bloqueador de señales. Dicho marcado o etiqueta deberá ser ostensible, claro, visible, legible e indeleble con el uso normal.
+
+      5.2.13. Comprobación sobre el cumplimiento del manual del Equipo bloqueador de señales, relativa a la especificación 4.3.
+
+      Se comprueba documentalmente mediante la revisión del manual del Equipo bloqueador de señales, que se encuentre en formato digital y en idioma español, conteniendo información suficiente, clara y veraz de sus características técnicas, tipo de interfaz digital y capacidad de la  misma, así como los procedimientos de configuración, ajuste, operación, pruebas y resolución de problemas del mismo.
+
+ INSTALACIÓN Y OPERACIÓN
+
+Por lo que hace a la instalación y operación de los equipos bloqueadores de señales se deberá observar lo establecido en los "LINEAMIENTOS DE COLABORACIÓN ENTRE AUTORIDADES PENITENCIARIAS Y LOS CONCESIONARIOS DE SERVICIOS DE TELECOMUNICACIONES Y BASES TÉCNICAS PARA LA INSTALACIÓN Y OPERACIÓN DE SISTEMAS DE INHIBICIÓN", publicado en el Diario Oficial de la Federación el 3 de septiembre de 2012, o la disposición que en su momento los modifique o sustituya.
+
+ CONCORDANCIA CON NORMAS INTERNACIONALES
+   
+   No se establece concordancia con normas internacionales por no existir referencias al momento de la elaboración de la presente Disposición Técnica. BIBLIOGRAFÍA
+   
+ Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el11 de junio de 2013. 
+ Ley Federal de Telecomunicaciones y Radiodifusión 
+ Reglamento Internacional de Telecomunicaciones de la  Unión Internacional de Telecomunicaciones.
+ Lineamientos de Colaboración entre Autoridades Penitenciarias y los Concesionarios de Servicios de Telecomunicaciones y Bases Técnicas para la Instalación y Operación de Sistemas de Inhibición publicados en el Diario Oficial de la Federación el 3 de septiembre de 2012.
+ Resolución 306/2002. NORMA PARA CERTIFICAÇÃO E HOMOLOGAÇÃO DE BLOQUEADORDE SINAIS DE RADIOCOMUNICAÇÕES, del 5 de agosto de 2002.
+ Boletín Oficial de la República Argentina, 29 de octubre de 2010.
+ FCC. Aviso de aplicación de normas, DA-12-1642, 15 de octubre de 2012.
+ Cuadro Nacional de Atribución de Frecuencias, 20 de octubre de 2015.
+ UIT-R SM.329-12 Emisiones no deseadas en el dominio no esencial, septiembre de 2012.
+
+ EVALUACIÓN DE LA CONFORMIDAD Y VIGILANCIA DEL CUMPLIMIENTO
+
+La evaluación de la conformidad de la presente Disposición Técnica se realizará en los términos de la LFTR. 
+
+Los certificados de cumplimiento que emita el organismo de certificación correspondiente deberán incluir la siguiente leyenda:
+
+      "El presente certificado de cumplimiento únicamente ampara el uso del presente equipo bloqueador de señales, marca [incluir marca), modelo (incluir modelo), para bloquear, cancelar o anular de manera permanente las señales de telefonía celular, de radiocomunicación o de transmisión de datos e imagen dentro del perímetro de los centros de readaptación social, establecimientos penitenciarios o centros de internamiento para menores, federales o de las entidades federativas, cualquiera que sea su denominación, de conformidad con lo establecido en la Disposición Técnica IFT-010-2016. Cualquier uso diferente al antes mencionado será tratado conforme a lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión y demás disposiciones aplicables."
+
+El certificado de cumplimiento emitido por un organismo de certificación es intransferible. Asimismo, no se podrán solicitar ampliaciones de dicho certificado de cumplimiento para equipos sujetos a esta Disposición Técnica.
+
+El Instituto otorgará a petición de parte el certificado de homologación correspondiente una vez que el solicitante anexe en su solicitud el certificado de cumplimiento respectivo. Dicho certificado de homologación incluirá la siguiente leyenda:
+
+      "El presente certificado de homologación únicamente ampara el uso del presente equipo bloqueador de señales, marca [incluir marca), modelo (incluir modelo), para bloquear, cancelar o anular de manera permanente las señales de telefonía celular, de radiocomunicación o de transmisión de datos e imagen dentro del perímetro de los centros de readaptación social, establecimientos penitenciarios o centros de internamiento para menores, federales o de las entidades federativas, cualquiera que sea su denominación, de conformidad con lo establecido en la Disposición Técnica IFT-010-2016. Cualquier uso diferente al antes mencionado será tratado conforme a lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión y demás disposiciones aplicables."
+
+Corresponde al Instituto la vigilancia del cumplimiento del presente ordenamiento de conformidad con las disposiciones legales aplicables.
+
+ CONTRASEÑA DE PRODUCTO
+   
+Los equipos amparados por el certificado de homologación, deberán exhibir el número de certificado de homologación correspondiente, así como la marca y el modelo con la que se expide este certificado en cada unidad de producto mediante marcado o etiqueta que lo haga ostensible, claro, visible, legible, intransferible e indeleble con el uso normal.
+
+El marcado o etiqueta a que se refiere el párrafo anterior, deberá cumplir con los elementos y características que indique la disposición que al efecto emita el Instituto.
+                                       
+                                 TRANSITORIOS
+   
+Primero.- La presente Disposición Técnica entrará en vigor a los sesenta días naturales contados a partir del día siguiente de su publicación en el Diario Oficial de la Federación. 
+
+Segundo.- Los laboratorios de prueba y organismos de certificación podrán llevar a cabo la evaluación de la conformidad, siempre y cuando se encuentren en condiciones de realizarla conforme a lo dispuesto en la presente Disposición Técnica, requiriendo una acreditación por un organismo de acreditación autorizado por el Instituto y una autorización por el mismo.
+Tercero.- Los equipos de bloqueo de señales instalados en centros de readaptación social, establecimientos penitenciarios o centros de internamiento para menores, federales o de las entidades federativas, cualquiera que sea su denominación, deberán adecuarse técnicamente a lo establecido en la presente Disposición Técnica, en un plazo no mayor de veinticuatro meses contados a partir de la entrada en vigor de la presente Disposición Técnica.
+
+Cuarto.- La presente Disposición Técnica IFT-010-2016: Especificaciones y requerimientos de los equipos de bloqueo de señales de telefonía celular, de radiocomunicación o de transmisión de datos e imagen para uso exclusivo dentro de centros de readaptación social, establecimientos penitenciarios o centros de internamiento para menores, federales o de las entidades federativas, será revisada por el Instituto al menos a los 5 años contados a partir de su entrada en vigor. Lo anterior, de ninguna manera limita las atribuciones del Instituto para realizar dicha revisión en cualquier momento, dentro del periodo establecido. 
+                                    ANEXO A
+Formato de reporte del resultado de la aplicación de los métodos de prueba al EBP sujeto a la DT IFT-010-2016 por el Laboratorio de Prueba y para evaluación por el Organismo de Certificación.
+REPORTE DE RESULTADOS NÚMERO: __________________________________________________
+                                       
+A.	DATOS DEL SOLICITANTE DE LAS PRUEBAS PARA COMPROBAR EL CUMPLIMIENTO CON LA DT IFT-010-2016
+Razón social del solicitante:
+Representante legal del solicitante:
+Domicilio, teléfono y correo electrónico del solicitante:
+Domicilio, teléfono y correo electrónico del representante legal:
+
+B. 	DATOS GENERALES DEL EQUIPO BAJO PRUEBA (EBP)
+Marca del EBP:
+Modelo del EBP:
+No. de serie del EBP:
+El EBP opera en las bandas de frecuencias:
+ Banda 1 ( ) MHz a ( ) MHz.
+ Banda 2 ( ) MHz a ( ) MHz.
+ Banda 3 ( ) MHz a ( ) MHz.
+Nombre, descripción de EBP:
+
+B.2 DATOS DEL SITIO DE PRUEBAS
+Para medición de emisiones conducidas:
+Describir:
+Para medición de emisiones radiadas:
+( ) Sitio de pruebas de área abierta
+( ) Cámara anecoica
+Ubicación y dirección del sitio de pruebas:
+
+B.3 CONDICIONES AMBIENTALES
+Temperatura: ºC
+Humedad relativa: %
+
+B.4 CONDICIONES DE REALIZACIÓ
+ N DE LAS PRUEBAS.
+Configuración de medición:
+( ) para mediciones radiadas
+( ) para mediciones conducidas
+Banda de frecuencias de operación para la prueba: MHz
+Antena(s) del EBP:
+( ) Integrada al equipo 
+( ) Conectable
+Lista de marcas, modelos y ganancias en dBi
+Fecha(s) y hora(s) de realización de esta(s) pruebas
+Métodos de prueba utilizados (listar el o los números de los métodos de prueba de la DT IFT-010-2016)
+
+C.	RESULTADOS DE LAS PRUEBAS RELATIVAS A 4.2 ESPECIFICACIONES TÉCNICAS DE LOS EQUIPOS DE BLOQUEO DE SEÑALES
+
+Numeral
+                          Especificaciones técnicas
+                  Valor medido, observaciones y/o comentarios
+4.2.1
+La tolerancia de frecuencia de operación de los Equipos de bloqueo de señales debe mantenerse automáticamente dentro de límites que no permitan variaciones de frecuencia más allá de +-20 p.p.m.
+                                        
+4.2.2 
+La potencia de transmisión de los Equipos de bloqueo de señales no debe presentar variaciones mayores que +-1dB del valor  de la potencia pico de transmisión de salida, esto cuando sea sometido a variaciones de +-15% de la tensión de alimentación primaria, a una temperatura de -10 a +50ºC.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+La potencia de transmisión de salida de los Equipos de bloqueo de señales deberá ser ajustable, a efecto de garantizar el bloqueo, cancelación o anulación de manera permanente de las señales de telefonía celular, de radiocomunicación o de transmisión de datos e imagen dentro del perímetro del centro de readaptación social, conforme a lo establecido en el artículo 190, fracción VIII de la LFTR. (Indicar los distintos ajustes de potencia realizados).
+La potencia de transmisión de los Equipos de bloqueo de señales debe ser ajustable por cada banda de frecuencia en los que opere dicho equipo,  para los controles de ajuste de potencia se deberá observar lo indicado en el apartado 4.2.10 de la presente Disposición Técnica. 
+
+4.2.3
+Los niveles máximos de potencia de las emisiones no esenciales en una o más frecuencias situadas fuera de la(s) banda(s) de frecuencia(s) de operación de los Equipos bloqueadores de señales, deben tener una atenuación mayor que la definida en la Ecuación 1:
+Atenuación (dB) = 43 + 10log10 P ó 70 dBc, 	Ecuación (1).
+Se debe considerar el valor más restrictivo. 
+Donde P es la potencia medida en Watts en la frecuencia fundamental.
+Si la P < 500 W, la potencia de las emisiones no esenciales máxima debe ser de -13 dBm (-43 dBW).
+
+
+4.2.4
+Los elementos radiadores integrados a los equipos bloqueadores de señales o aquellos elementos radiadores externos que deberán ser conectados/desconectados a los Equipos bloqueadores deben presentar, al menos, las siguientes especificaciones técnicas de fabricación:
+a) Tipo direccional;
+b) Frecuencia central de operación (MHz);
+c) Intervalo de frecuencias de operación (MHz);
+d) Respuesta en frecuencia en el intervalo de operación;
+e) Máxima Ganancia (dBi);
+f) Máxima Potencia de entrada (dBW);
+g) Polarización;
+h)   Ángulo en grados de abertura (igual o menor a 90º) a 3 dB en los planos de radiación horizontal y vertical;
+i) Patrón de Radiación para las frecuencias centrales de operación, en coordenadas polares y normalizado, para el plano horizontal y vertical;
+j) Relación del lóbulo frontal sobre el posterior,
+k) Impedancia de entrada (Ohms), y 
+l) VSWR igual o menor a 1.5:1
+
+
+4.2.5
+Los Equipos bloqueadores de señales deben bloquear las frecuencias que la autoridad competente indique, pudiéndose tomar como referencia la  Tabla 2. En el caso de que  los referidos equipos  tengan la capacidad operar en dos o más bandas de frecuencia, éstos deben cumplir con las especificaciones establecidas en la presente disposición en cada banda de frecuencia. 
+
+4.2.6
+No se deberán utilizar amplificadores de potencia de radiofrecuencia externos con los Equipos de bloqueo de señales.
+
+4.2.7
+El Equipo bloqueador de señales deberá exhibir mediante marcado o etiqueta en el exterior del producto, que no está permitida su operación con amplificadores de potencia de radiofrecuencia externos. Dicho marcado o etiqueta deberá ser ostensible, clara, visible, legible e indeleble con el uso normal.
+
+4.2.8.
+El Equipo bloqueador de señales no debe contar con controles externos que permitan modificar la potencia y/o la frecuencia de operación, con el objeto de que no pueda ser manipulado y, deberá contar con sistemas automáticos que envíen señales de alarma ante cualquier interrupción en su funcionalidad y que permitan el control vía remota del mismo, para tal efecto deberá contar con una interfaz digital.
+
+4.2.9.
+El Equipo bloqueador de señales que se emplee, sólo debe bloquear las frecuencias asignadas para el enlace descendente o conexión de bajada (Downlink), pudiéndose tomar como referencia las frecuencias establecidas en la Tabla 3.
+
+4.2.10.
+La banda de frecuencia de 380 MHz - 399.9 MHz que se emplea para la provisión de servicios dedicados a aplicaciones de seguridad pública no deberá ser bloqueada bajo ninguna circunstancia.
+
+4.2.11.
+Los Equipos bloqueadores de señales deben cumplir con la Disposición Técnica referente a los límites de exposición máxima para seres humanos a radiaciones electromagnéticas de radiofrecuencia no ionizantes que al efecto el Instituto expida.
+El equipo bloqueador de señales deberá exhibir mediante marcado o etiqueta en el exterior del producto, que durante su operación se deberán observar los límites de exposición máxima para seres humanos a radiaciones electromagnéticas de radiofrecuencia no ionizantes establecidas por el Instituto. Dicho marcado o etiqueta deberá ser ostensible, clara, visible, legible e indeleble con el uso normal.
+
+4.3
+Manual del Equipo bloqueador de señales. 
+El manual del equipo bloqueador de señales debe estar en formato digital, escrito en idioma español, contener información suficiente, clara y veraz de sus características técnicas, así como los procedimientos de configuración, ajustes, operación, pruebas y resolución de problemas. 
+
+
+
+I.	OBSERVACIONES:
+                     ESPACIO EN BLANCO PARA OBSERVACIONES
+II.	ANEXOS:
+                 ESPACIO EN BLANCO PARA PARA DESCRIBIR ANEXOS
+
+INDICAR: RAZON SOCIAL DEL LABORATORIO DE PRUEBA:
+
+INDICAR: DOMICILIO DEL LABORATORIO DE PRUEBA:
+
+INDICAR: No. DE ACREDITACIÓN DEL LABORATORIO DE PRUEBA:
+
+INDICAR: FECHA DEL REPORTE DE PRUEBA:
+
+INDICAR: NOMBRE DEL RESPONSABLE DE LAS PRUEBAS:
+
+INDICAR: FIRMA DEL RESPONSABLE DE LAS PRUEBAS:

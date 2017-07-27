@@ -1,0 +1,1134 @@
+INSTITUTO FEDERAL DE TELECOMUNICACIONES
+ACUERDO mediante el cual el Pleno del Instituto Federal de Telecomunicaciones expide los Lineamientos para la Acreditación de peritos en materia de telecomunicaciones y radiodifusión.
+Al margen un logotipo, que dice: Instituto Federal de Telecomunicaciones.
+ACUERDO MEDIANTE EL CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES EXPIDE LOS LINEAMIENTOS PARA LA ACREDITACIÓN DE PERITOS EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN.
+                                 ANTECEDENTES
+I.	El 11 de junio de 2013 se publicó en el Diario Oficial de la Federación (en lo sucesivo, el "DOF") el "Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones", (en lo sucesivo, el "Decreto Constitucional"), mediante el cual se creó el Instituto Federal de Telecomunicaciones (en lo sucesivo, el "Instituto"), como un órgano autónomo con personalidad jurídica y patrimonio propio.
+II.	El 14 de julio de 2014 se publicó en el DOF el "Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión" (en lo sucesivo, el "Decreto de Ley"), el cual, en términos de lo dispuesto por su artículo Primero Transitorio, entró en vigor a los treinta días naturales siguientes a su publicación, esto es, el 13 de agosto de 2014.
+III.	El 4 de septiembre de 2014, se publicó en el DOF el Estatuto Orgánico del Instituto Federal de Telecomunicaciones (en lo sucesivo, el "Estatuto Orgánico"), mismo que entró en vigor el día 26 del mismo mes y año, el cual se modificó a través del "Acuerdo por el que se modifica el Estatuto Orgánico del Instituto Federal de Telecomunicaciones", publicado en el DOF el 17 de octubre de 2014 y el 17 de octubre de 2016, respectivamente.
+IV.	El Pleno del Instituto mediante el Acuerdo P/IFT/170316/104, emitido en su VIII Sesión Ordinaria, de fecha de 17 de marzo de 2016, aprobó someter a consulta pública el "ANTEPROYECTO DE LINEAMIENTOS PARA LA ACREDITACIÓN DE PERITOS EN MATERIA DE TELECOMUNICACIONES Y DE RADIODIFUSIÓN", ello en cumplimiento con lo establecido en el artículo 51 de la Ley Federal de Telecomunicaciones y Radiodifusión (en lo sucesivo, la "LFTR"); proceso de consulta que concluyó el 22 de abril de 2016.
+En atención a los antecedentes anteriores y:
+                                 CONSIDERANDO
+PRIMERO.- Competencia del Instituto. De conformidad con lo establecido en los artículos 28, párrafo décimo quinto de la Constitución Política de los Estados Unidos Mexicanos (en lo sucesivo, la "Constitución"), así como en los diversos 1, 2, 7 y 15 fracciones I y XXVI de la LFTR, y los artículos 1, 23 fracción IV y 35, fracción IX del Estatuto Orgánico del Instituto Federal de Telecomunicaciones, el Instituto en su carácter de órgano autónomo, tiene por objeto regular y promover la competencia y el desarrollo eficiente y la prestación de los servicios públicos de radiodifusión y telecomunicaciones mediante la regulación, promoción y supervisión del uso, aprovechamiento y explotación del espectro radioeléctrico y de las redes y el acceso a infraestructura activa, pasiva y otros insumos esenciales, a fin de garantizar lo establecido en los artículos 6o. y 7o. de la Constitución, además de ser la autoridad en materia de competencia económica en los sectores de telecomunicaciones y radiodifusión.
+Aunado a lo anterior, el artículo 15, fracción I de la LFTR, señala que el Instituto tiene la atribución de expedir disposiciones administrativas de carácter general, planes técnicos fundamentales, lineamientos, modelos de costos, procedimientos de evaluación de la conformidad, procedimientos de homologación y certificación y ordenamientos técnicos en materia de telecomunicaciones y radiodifusión; así como demás disposiciones para el cumplimiento de lo dispuesto en la LFTR. Mientras que la fracción XXVI del citado artículo le establece la atribución de autorizar a terceros para que emitan la certificación de evaluación de la conformidad y acreditar a peritos y unidades de verificación en materia de telecomunicaciones y radiodifusión.
+Al respecto, el artículo 289 del mismo ordenamiento legal señala que los productos, equipos, dispositivos o aparatos destinados a telecomunicaciones o radiodifusión que puedan ser conectados a una red de telecomunicaciones o hacer uso del espectro radioeléctrico deberán homologarse conforme a las normas o disposiciones técnicas aplicables.
+Asimismo, el último párrafo del artículo 290 del mismo ordenamiento establece que el Instituto estará facultado para acreditar Peritos en materia de telecomunicaciones y de radiodifusión, como apoyo a los procedimientos de homologación.
+Por lo anterior y con fundamento en los artículos 28, párrafos décimo quinto y vigésimo, fracción IV, de la Constitución; 1, 2, 7, 15 fracciones I, XXVI, 289 y 290 de la LFTR, así como los artículos 1, 23, fracción IV, 35, fracción IX del Estatuto Orgánico, el Instituto a través de su máximo Órgano de Gobierno, cuenta con facultades y atribuciones para emitir el "Acuerdo por el que el Pleno del Instituto Federal de Telecomunicaciones expide los Lineamientos para la Acreditación de Peritos en materia de telecomunicaciones y radiodifusión" (en lo sucesivo, "los Lineamientos"), propuesto por la Unidad de Política Regulatoria.
+SEGUNDO.- Las telecomunicaciones y la radiodifusión como servicios públicos de interés general. Como lo ordena el artículo 28 de la Constitución, el Instituto tiene el mandato de garantizar lo establecido en los artículos 6o. y 7o. del mismo ordenamiento, los cuales prevén, entre otras cosas, el derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones y otorgan a dichos servicios la naturaleza de servicios públicos de interés general, respecto de los cuales el Estado señalará las condiciones de competencia efectiva para prestar los mismos. En ese orden de ideas, en términos de la fracción II del apartado B del artículo 6 de la Constitución y 2 de la LFTR, las telecomunicaciones son un servicio público de interés general, por lo que el Estado garantizará que sean prestadas en condiciones de competencia, calidad, pluralidad, cobertura universal, interconexión, convergencia, continuidad, acceso libre y sin injerencias arbitrarias.
+Asimismo, de conformidad con la fracción III del apartado B del artículo 6 de la Constitución y 2 de la LFTR, la radiodifusión es un servicio público de interés general, por lo que el Estado garantizará que sea prestado en condiciones de competencia y calidad y brinde los beneficios de la cultura a toda la población, preservando la pluralidad y la veracidad de la información, así como el fomento de los valores de la identidad nacional, contribuyendo a los fines establecidos en el artículo 3o. de la Constitución.
+Por lo expuesto, es relevante contar con un instrumento normativo que permita establecer los requisitos y procedimientos para la acreditación de peritos en materia de telecomunicaciones y radiodifusión, ya que como se establece en el artículo 289 de la LFTR, los productos, equipos, dispositivos o aparatos destinados a telecomunicaciones o radiodifusión que puedan ser conectados a una red de telecomunicaciones o hacer uso del espectro radioeléctrico deberán homologarse conforme a las normas o disposiciones técnicas aplicables. Mientras que el artículo 290 mandata que el Instituto está facultado para acreditar peritos en materia de telecomunicaciones y de radiodifusión, como apoyo a los procedimientos de homologación.
+TERCERO.- Marco técnico regulatorio. El Instituto como la autoridad y regulador de los sectores de telecomunicaciones y radiodifusión en términos de la LFTR, tiene atribuciones para expedir disposiciones técnicas, procedimientos de evaluación de la conformidad, procedimientos de homologación y certificación, autorizar a terceros para que emitan certificación de evaluación de la conformidad, y acreditar a peritos, así como a unidades de verificación.
+Los Lineamientos para la Acreditación de Peritos en materia de telecomunicaciones y radiodifusión establecen los requisitos, procedimientos y plazos para la acreditación de los mismos, a efectos de que dichos peritos acreditados puedan apoyar al Instituto en los procedimientos de homologación, así como para dar cumplimiento a diversas obligaciones establecidas en las Disposiciones técnicas y administrativas emitidas por el Instituto, de acuerdo a las necesidades actuales de los sectores de telecomunicaciones y radiodifusión y conforme a lo establecido en los presentes Lineamientos y demás disposiciones legales, reglamentarias y administrativas aplicables.
+Lo anterior con fundamento a lo establecido en el artículo 15, fracción XXVI y último párrafo del artículo 290 de la LFTR.
+CUARTO.- Necesidad de emitir los LINEAMIENTOS PARA LA ACREDITACIÓN DE PERITOS EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN.
+Actualmente, la acreditación de peritos en telecomunicaciones y radiodifusión se realiza conforme al "Reglamento que Norma las Actividades de los Peritos en Telecomunicaciones", emitido en 1972, el cual no se encuentra acorde a lo mandatado en la Ley Federal de Telecomunicaciones y Radiodifusión. Por ejemplo, el Reglamento en comento sólo se encuentra acotado al sector de las telecomunicaciones y establece que los peritos en telecomunicaciones son los "encargados de que se observen las leyes, reglamento y disposiciones administrativas que aplica o que dicte esta Dependencia en los sistemas que se diseñen o para los que se les conceda autorización de instalación". Debido a lo anterior es necesario establecer un instrumento regulatorio acorde a las necesidades del Instituto y a la vertiginosa evolución tecnológica.
+En el actual marco normativo en materia de telecomunicaciones y radiodifusión, los peritos realizan una labor relevante en el proceso de homologación, por lo que se hace necesario que el Instituto mediante la acreditación de los mismos, dé certeza jurídica y transparencia a los involucrados en el referido proceso.
+Dada la alta especialización, complejidad técnica y rápida evolución tecnológica de los sectores de telecomunicaciones y radiodifusión, se requiere establecer lineamientos donde se indiquen los mecanismos idóneos para la evaluación del desempeño de la competencia de especialistas en dichas materias. Lo anterior, a efectos de que sean reconocidos como peritos acreditados para que apoyen en los procedimientos de homologación de productos de telecomunicaciones y radiodifusión establecidos por el Instituto; así como, en su caso, dar cumplimiento a diversas obligaciones establecidas en las Disposiciones técnicas y administrativas emitidas por el Instituto.
+Dado lo anterior, es relevante contar con un instrumento normativo que permita establecer los requisitos, plazos y procedimientos para la acreditación de peritos en materia de telecomunicaciones y radiodifusión, ya que como se establece en el artículo 289 de la LFTR, los productos, equipos, dispositivos o aparatos destinados a telecomunicaciones o radiodifusión que puedan ser conectados a una red de telecomunicaciones o hacer uso del espectro radioeléctrico deberán homologarse conforme a las normas o disposiciones técnicas aplicables. Mientras que el último párrafo del artículo 290 mandata que el Instituto está facultado para acreditar peritos en materia de telecomunicaciones y de radiodifusión, como apoyo a los procedimientos de homologación.
+En ese tenor, la expedición de los Lineamientos generaría los siguientes beneficios:
+1.	Proveer certeza jurídica respecto a los requisitos, procedimientos y plazos para obtener la acreditación como perito en materia de telecomunicaciones y radiodifusión.
+2.	Asegurar altos niveles de competencia técnica en los peritos en materia de telecomunicaciones y radiodifusión acreditados por el Instituto.
+3.	Fortalecer el procedimiento de homologación de productos, equipos, dispositivos o aparatos destinados a telecomunicaciones o radiodifusión.
+QUINTO. Consulta pública. Con fundamento en lo establecido en el artículo 51 de la LFTR, el Instituto sometió a consulta pública bajo los principios de transparencia y participación ciudadana, el "Anteproyecto de Lineamientos para la Acreditación de Peritos en Materia de Telecomunicaciones y Radiodifusión", durante un periodo de 20 días hábiles, comprendido del 18 de marzo al 22 de abril de 2016.
+Durante la consulta pública de mérito, se recibieron 14 participaciones en total, 8 de personas morales y 6 de personas físicas, dichas participaciones se centraron fundamentalmente en precisiones de carácter técnico en relación a los procedimientos de acreditación, revalidación y ampliación de especialidad, así como a los métodos de evaluación de dichos procedimientos. Las participaciones, así como las respuestas emitidas a los comentarios, se encuentran disponibles y publicados en el portal de Internet del Instituto.
+SEXTO.- Análisis de Impacto Regulatorio. De conformidad con el segundo párrafo del artículo 51 de la LFTR, se establece que previo a la emisión de reglas, lineamientos o disposiciones administrativas de carácter general de que se trate, el Instituto deberá realizar y hacer público un análisis de impacto regulatorio.
+Al respecto, de conformidad con lo establecido en los artículos 51 de la LFTR; 4 fracción VIII, inciso IV) y 75 fracción II del Estatuto, la Coordinación General de Mejora Regulatoria (en lo sucesivo "CGMR") emitió, mediante oficio IFT/211/CGMR/009/2017 de 24 de enero de 2017, la opinión no vinculante sobre el Análisis de Impacto Regulatorio del Anteproyecto de LINEAMIENTOS PARA LA ACREDITACIÓN DE PERITOS EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN, "estimándose que, con el mismo, la UPR transparenta y presenta los razonamientos, evidencias e información sobre la problemática o situación que motivó la realización del Proyecto, los objetivos propuestos, las alternativas que fueron consideradas, los impactos potenciales que se desprenderán a razón de su entrada en vigor, así como la forma mediante la cual el Instituto Federal de Telecomunicaciones prevé instrumentar y evaluar dicha propuesta regulatoria.".
+Así mismo realizó diversas consideraciones al Anteproyecto de mérito, mismas que fueron analizadas, y en su caso, atendidas.
+Así, una vez garantizada la existencia del marco técnico regulatorio de mérito y derivado de los considerandos que nos anteceden con fundamento en lo dispuesto en los artículos 6o. y 28, párrafos décimo quinto y vigésimo, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos; 1, 2, 7, 15 fracciones I, y XXVI, 289 y 290 de la LFTR, así como los artículos 1, 23, fracción IV, 35, fracción IX del Estatuto Orgánico del Instituto Federal de Telecomunicaciones, el Pleno del Instituto Federal de Telecomunicaciones emite el siguiente:
+                                    ACUERDO
+PRIMERO.- Se expiden los LINEAMIENTOS PARA LA ACREDITACIÓN DE PERITOS EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN, mismos que se encuentran como Anexo Único del presente Acuerdo y que forma parte integrante de éste, los cuales entrarán en vigor a los 60 días naturales contados a partir de su publicación en el Diario Oficial de la Federación.
+SEGUNDO.- Publíquese el presente Acuerdo y su Anexo Único en el Diario Oficial de la Federación.
+El Comisionado Presidente, Gabriel Oswaldo Contreras Saldívar.- Rúbrica.- Los Comisionados: Ernesto Estrada González, Adriana Sofía Labardini Inzunza, María Elena Estavillo Flores, Mario Germán Fromow Rangel, Adolfo Cuevas Teja y Javier Juárez Mojica.- Rúbricas.
+La presente Resolución fue aprobada por el Pleno del Instituto Federal de Telecomunicaciones en su III Sesión Ordinaria celebrada el 25 de enero de 2017, en lo general por unanimidad de votos de los Comisionados Gabriel Oswaldo Contreras Saldívar, Ernesto Estrada González, Adriana Sofía Labardini Inzunza, María Elena Estavillo Flores, Mario Germán Fromow Rangel, Adolfo Cuevas Teja y Javier Juárez Mojica.
+En lo particular, la Comisionada Adriana Sofía Labardini Inzunza manifestó voto en contra del Lineamiento Décimo Segundo, inciso I); Décimo Tercero, fracción VIII; Vigésimo Séptimo, fracción VI; y Trigésimo Primero, fracción V, Inciso J); y en contra del Anexo C, apartado "Documentos adjuntos", inciso k); en lo referente al pago de aprovechamientos.
+Asimismo, la Comisionada María Elena Estavillo Flores manifestó voto en contra del Lineamiento Décimo Tercero, fracción II, en lo referente al requisito de contar con cédula, y por consiguiente en los apartados de los formatos que así lo reflejan.
+El Comisionado Adolfo Cuevas Teja manifestó voto en contra del Lineamiento Décimo Segundo, inciso I); Décimo Tercero, fracción VIII; Vigésimo Séptimo, fracción VI y Trigésimo Primero, fracción V, Inciso J); por lo que hace al pago de aprovechamientos.
+Lo anterior, con fundamento en los párrafos vigésimo, fracciones I y III; y vigésimo primero, del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos; artículos 7, 16 y 45 de la Ley Federal de Telecomunicaciones y Radiodifusión; así como en los artículos 1, 7, 8 y 12 del Estatuto Orgánico del Instituto Federal de Telecomunicaciones, mediante Acuerdo P/IFT/250117/11.
+                                 ANEXO ÚNICO
+LINEAMIENTOS PARA LA ACREDITACIÓN DE PERITOS EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+                                 CAPÍTULO I.
+                            Disposiciones Generales
+PRIMERO. Los presentes Lineamientos tienen por objeto establecer los requisitos, el procedimiento y plazos para la Acreditación de Peritos en materia de telecomunicaciones y radiodifusión conforme a lo establecido en los artículos 15, fracción XXVI y 290 de la Ley Federal de Telecomunicaciones y Radiodifusión.
+SEGUNDO. Los Peritos acreditados por el Instituto Federal de Telecomunicaciones en materia de telecomunicaciones y radiodifusión, según corresponda, podrán apoyarlo en los procedimientos de homologación así como para dar cumplimiento a diversas obligaciones establecidas en las Disposiciones Técnicas y administrativas emitidas por el Instituto. Lo anterior, conforme a lo establecido en los presentes Lineamientos y demás disposiciones legales, reglamentarias y administrativas aplicables.
+                                 CAPÍTULO II.
+                                 Definiciones
+TERCERO. Para los efectos de los presentes Lineamientos, además de las definiciones previstas en la Ley Federal de Telecomunicaciones y Radiodifusión y demás disposiciones legales, reglamentarias y administrativas aplicables, se entenderá por:
+  I.	Acreditación de Peritos: Acto por el cual el Instituto Federal de Telecomunicaciones reconoce la Competencia Técnica de un profesional titulado como Perito Acreditado en materia de telecomunicaciones y radiodifusión para apoyar en los procedimientos de homologación así como para dar cumplimiento a diversas obligaciones establecidas en las Disposiciones Técnicas y administrativas emitidas por el Instituto Federal de Telecomunicaciones. Dicha acreditación incluirá su inscripción en el Registro Nacional de Peritos Acreditados en materia de telecomunicaciones y radiodifusión;
+  II.	Acciones de Capacitación: Actividades de actualización profesional, regulación, actualización tecnológica o de conocimiento en alguna tecnología en las especialidades de telecomunicaciones y radiodifusión a las que deberán someterse los Peritos Acreditados, incluyendo lectura y comprensión del idioma Inglés; las cuales serán provistas por una institución académica, un centro de especialización/capacitación, un Colegio de Ingenieros en Telecomunicaciones y Radiodifusión o por el mismo Instituto. Las constancias emitidas por dichas Acciones de Capacitación deberán contener el resultado obtenido por el capacitado mediante el examen correspondiente (con una calificación igual o mayor a 75/100), e indicar el tema o materia así como el total de horas cursadas.
+  III.	Colegio de Ingenieros en Telecomunicaciones y Radiodifusión: Colegio de profesionistas en materia de telecomunicaciones, radiodifusión, telecomunicaciones y radiodifusión, comunicaciones y electrónica, electrónica o en materias equivalentes o afines;
+  IV.	Comité Consultivo de Acreditación de Peritos en Telecomunicaciones y Radiodifusión: Órgano colegiado cuyo objetivo es apoyar al Instituto Federal de Telecomunicaciones en el proceso de Acreditación de Peritos en materia de telecomunicaciones y radiodifusión. Dicho Comité Consultivo será presidido y coordinado por el Instituto Federal de Telecomunicaciones y podrá ser integrado por: Cámaras nacionales de la Industria y Comercio, Colegios de Ingenieros en Telecomunicaciones y Radiodifusión, así como por instancias académicas y/o de investigación, y organismos dedicados a promover y fomentar el desarrollo de la ciencia y la tecnología. El carácter del Comité es consultivo y tendrá las funciones establecidas en los presentes Lineamientos; asimismo, se entenderá por "Comité Consultivo" al Comité Consultivo de Acreditación de Peritos en telecomunicaciones y radiodifusión.
+  V.	Competencia Técnica: Capacidad y criterio de aplicar conocimientos y habilidades obtenidos mediante la formación académica, desarrollo profesional y a través de la experiencia práctica para lograr los resultados previstos;
+  VI.	Dictamen Técnico: Análisis técnico emitido y avalado por un Perito Acreditado en materia de telecomunicaciones y radiodifusión, acerca de una cuestión que se sometió a su estudio y consideración y, que servirá de soporte al Instituto Federal de Telecomunicaciones para la determinación correspondiente respecto a los procedimientos de homologación así como respecto al cumplimiento de diversas obligaciones establecidas en las Disposiciones Técnicas y administrativas aplicables emitidas por el Instituto. El Dictamen Técnico podrá constituirse por memorias técnicas o por estudios técnicos, o alguna otra figura indicada en las Disposiciones Técnicas y administrativas emitidas por el Instituto.
+  VII.	Disposición Técnica: Instrumento de observancia general y obligatoria expedido por el Instituto Federal de Telecomunicaciones, a través del cual se regulan características y la operación de productos y servicios de telecomunicaciones y radiodifusión, incluyendo infraestructura, en su caso, la instalación de los equipos, sistemas y la infraestructura en general asociada a éstos, así como las especificaciones que se refieran a su cumplimiento o aplicación, entre otros.
+  VIII.	Evaluación: Proceso que permite obtener el resultado del cumplimiento de los requisitos establecidos en los presentes Lineamientos a efectos de ser acreditado como Perito en materia de telecomunicaciones y radiodifusión;
+  IX.	Examen: Etapa de la Evaluación que mide el conocimiento técnico en la especialidad en la que un Perito aspira a ser acreditado, mediante el o los medios establecidos en los presentes Lineamientos;
+  X.	Instituto: Instituto Federal de Telecomunicaciones;
+  XI.	Integrantes del Comité Consultivo: Los servidores públicos del Instituto designados por el Comisionado Presidente, así como, en su caso, las personas físicas designadas por cada uno de los Colegios de Ingenieros en Telecomunicaciones y Radiodifusión, por las Cámaras nacionales de la Industria y Comercio, así como por instancias académicas y/o de investigación, y organismos dedicados a promover y fomentar el desarrollo de la ciencia y la tecnología para actuar en su representación ante dicho Comité, en calidad honoraria;
+  XII.	LFTR: Ley Federal de Telecomunicaciones y Radiodifusión;
+  XIII.	Lineamientos: Los presentes Lineamientos para la Acreditación de Peritos en materia de telecomunicaciones y radiodifusión;
+  XIV.	Micrositio: Sección en el portal de Internet del Instituto, en el que los Solicitantes deberán de ingresar los datos curriculares y profesionales en el formato digital establecido y adjuntar la documentación requerida en la convocatoria respectiva, a efecto de acceder al proceso de Acreditación de Peritos en telecomunicaciones y radiodifusión, así como para la revalidación, y en su caso, para la ampliación de especialidad. Dicho Micrositio servirá también para la difusión de resultados de cada etapa de la acreditación, del Programa Anual de Capacitación y como portal informativo;
+  XV.	Perito Acreditado: Profesional acreditado por el Instituto conforme a los presentes Lineamientos e inscrito en el Registro Nacional de Peritos Acreditados; con capacidad y experiencia para apoyar en los procedimientos de homologación y, en su caso, en las obligaciones establecidas en Disposiciones Técnicas y administrativas expedidas por el Instituto;
+  XVI.	Programa Anual de Capacitación: Agenda de Actividades de Capacitación a ser observado conforme a los presentes Lineamientos. El Programa Anual de Capacitación será propuesto por el Comité Consultivo al Instituto, siendo este último quien lo apruebe o defina. El Programa Anual de Capacitación será publicado en el Micrositio durante el primer semestre de cada año. A las Actividades de Capacitación enlistadas en el Programa Anual de Capacitación, se podrán sumar aquellas que por su interés particular sean presentadas al Comité Consultivo por los Peritos acreditados en materia de telecomunicaciones y radiodifusión.
+  XVII.	Reactivo: Pregunta, tarea, ejercicio o caso de estudio que forma parte de una herramienta de Evaluación.
+  XVIII.	SEP: Secretaría de Educación Pública;
+  XIX.	Sistema de Puntaje: Método de valoración numérica utilizado por el Instituto en el proceso de acreditación.
+  XX.	Solicitante: Profesional titulado interesado en realizar el proceso de Acreditación de Perito en telecomunicaciones y radiodifusión, a efectos de ser acreditado como Perito y, formar parte del Registro Nacional de Peritos Acreditados en materia de telecomunicaciones y radiodifusión.
+                                CAPÍTULO III.
+ De los Peritos acreditados en materia de telecomunicaciones y radiodifusión
+CUARTO. Los Peritos acreditados en materia de telecomunicaciones y radiodifusión podrán apoyar al Instituto en los procedimientos de homologación, así como al cumplimiento de diversas obligaciones establecidas en las Disposiciones Técnicas y administrativas expedidas por el Instituto. Para efectos de lo anterior, el Perito Acreditado:
+  I.	Elaborará el Dictamen Técnico que se requiera en los procedimientos de homologación de productos, equipos, dispositivos o aparatos destinados a telecomunicaciones o radiodifusión que puedan ser conectados a una red de telecomunicaciones y/o hacer uso del espectro radioeléctrico, así como aquel que se requiera para dar cumplimiento a diversas obligaciones establecidas en las Disposiciones Técnicas y administrativas expedidas por el Instituto. Dicha elaboración incluirá el verificar la precisión de los datos técnicos empleados.
+  II.	Observará las disposiciones técnicas, legales, reglamentarias y administrativas aplicables en materia de telecomunicaciones y radiodifusión, en la elaboración del Dictamen Técnico que se requiera en los procedimientos de homologación, así como para dar cumplimiento a diversas obligaciones establecidas en las Disposiciones Técnicas y administrativas expedidas por el Instituto.
+  III.	Garantizará la confidencialidad de la información que con ese carácter le sea entregada por sus clientes conforme al marco legal aplicable.
+  IV.	Actuará con objetividad, imparcialidad, independencia y profesionalismo en la emisión de sus Dictámenes Técnicos.
+                                 CAPÍTULO IV.
+Del Comité Consultivo de Acreditación de Peritos en telecomunicaciones y radiodifusión.
+QUINTO. El Instituto presidirá y coordinará el Comité Consultivo, el cual será el encargado de emitir una recomendación razonada y no vinculante sobre la idoneidad de cada Solicitante, para ser Perito Acreditado en materia de telecomunicaciones y radiodifusión.
+El Comité Consultivo constituirá un foro plural e incluyente de carácter técnico y de naturaleza consultiva en materia de Acreditación de Peritos en telecomunicaciones y radiodifusión, mediante el cual se promueva la imparcialidad y la participación en la actividad pericial.
+Los Integrantes del Comité Consultivo estarán impedidos y deberán excusarse inmediatamente de conocer asuntos en los que exista una o varias situaciones que le impidan resolver dichos asuntos con independencia, profesionalismo e imparcialidad. Por lo que estarán impedidos para conocer de un asunto en el que tengan interés directo o indirecto.
+SEXTO. El Comisionado Presidente del Instituto designará al Presidente y al Secretario Técnico del Comité Consultivo, así como a sus respectivos (dos) suplentes, cargos que serán ocupados por servidores públicos del mismo Instituto que cuenten con título y cédula profesional de preferencia, en alguna carrera de ingeniería en materia de telecomunicaciones o radiodifusión, equivalente o afín, o con estudios de posgrado afines. Los servidores públicos que sean designados como Presidente y Secretario Técnico deberán tener un cargo no menor a Director General y, en el caso de sus suplentes, a Director de Área.
+El Comité Consultivo podrá estar integrado, en su caso, por:
+  I.	Un representante de por lo menos un Colegio de Ingenieros en Telecomunicaciones y Radiodifusión;
+  II.	Un representante de por lo menos una instancia académica y/o de investigación nacional en los sectores de telecomunicaciones y radiodifusión;
+  III.	Un representante de por lo menos una de las cámaras nacionales de la industria y comercio relacionadas con los sectores de las telecomunicaciones y radiodifusión, y
+  IV.	Un representante de por lo menos un organismo dedicado a promover y estimular el desarrollo de la ciencia y la tecnología.
+Cada organización integrante del Comité Consultivo podrá designar un representante propietario y su suplente, quienes deberán de ser especialistas en el tema. Dicho representante contará con voz y voto en el referido Comité. Los Colegios de Ingenieros en Telecomunicaciones y Radiodifusión, las cámaras nacionales de la industria y comercio, así como las instancias académicas y/o de investigación, y de organismos dedicados a promover y fomentar el desarrollo de la ciencia y la tecnología deberán de nombrar como su representante a un especialista en telecomunicaciones y radiodifusión con al menos 10 años de experiencia en la materia y que cuente con título y cédula profesional de una licenciatura o posgrado en ingeniería en materia de telecomunicaciones o radiodifusión, equivalente o afín.
+La designación de los representantes para conformar el Comité Consultivo será hecha mediante escrito ante el Presidente de dicho Comité, por los representantes legales o por los funcionarios que cuenten con las facultades legales para hacerlo. El Presidente del Comité Consultivo verificará que el referido Comité se encuentre integrado de una manera equilibrada.
+Los Integrantes del Comité Consultivo deberán guardar la confidencialidad de la información, según corresponda.
+SÉPTIMO. El Comité Consultivo tendrá las siguientes funciones:
+  I.	Realizar la valoración de las solicitudes, la información y la documentación presentadas por los Solicitantes para la obtención de la Acreditación de Peritos en materia de telecomunicaciones y radiodifusión, así como para la revalidación y, en su caso, para la ampliación de especialidad, y con base en ello, emitir al Instituto una recomendación razonada respecto a la idoneidad de cada Solicitante;
+  II.	Llevar a cabo las sesiones ordinarias y extraordinarias correspondientes del Comité Consultivo;
+  III.	Coadyuvar con el Instituto en la Evaluación de los Solicitantes en lo concerniente a:
+       a.	La elaboración de los Reactivos que conformarán el Examen de conocimientos para la Acreditación de Peritos, de conformidad con lo establecido en el lineamiento DÉCIMO QUINTO de estos Lineamientos; para tal efecto, cada Integrante del Comité Consultivo deberá presentar a éste, en sobre cerrado y en medio electrónico 50 Reactivos de opción múltiple (25 Reactivos para la especialidad de telecomunicaciones y 25 Reactivos para la especialidad de radiodifusión) conforme al formato establecido en el Anexo A;
+       b.	La Evaluación de las habilidades de redacción en las especialidades de telecomunicaciones y radiodifusión, de conformidad con el lineamiento DÉCIMO OCTAVO y DÉCIMO NOVENO de los presentes Lineamientos;
+       c.	La realización de entrevistas a los Solicitantes y su respectiva Evaluación, de conformidad con los lineamientos VIGÉSIMO SEGUNDO, VIGÉSIMO TERCERO Y VIGÉSIMO CUARTO, para ello, cada integrante del Comité Consultivo deberá presentar a éste, en sobre cerrado y en medio electrónico, 30 Reactivos en la forma de preguntas abiertas (10 preguntas para la especialidad de telecomunicaciones, 10 preguntas para la especialidad de radiodifusión y 10 preguntas sobre ética profesional) conforme al formato establecido en el Anexo B.
+  IV.	Emitir la Declaración de Principios del Comité Consultivo, misma que deberá reflejar los valores y las reglas bajo los cuales se conducirán los integrantes del mismo;
+  V.	Garantizar la confidencialidad de la información que con ese carácter le sea entregada, conforme al marco legal aplicable;
+  VI.	Proponer al Instituto los convenios que estime conveniente celebrar para coadyuvar en la implementación de los presentes Lineamientos;
+  VII.	Proponer al Instituto el código de ética para los Peritos Acreditados;
+  VIII.	Firmar el acta correspondiente en cada sesión en la cual se encuentren presentes;
+  IX.	Proponer al Instituto el Programa Anual de Capacitación para Peritos Acreditados, y
+  X.	Las demás que se prevean en los presentes Lineamientos.
+OCTAVO. El Presidente del Comité Consultivo, tendrá las siguientes funciones:
+  I.	Convocar a las sesiones ordinarias y extraordinarias del Comité Consultivo, estableciendo lugar, fecha, y hora para su realización y proponiendo el Orden del día correspondiente;
+  II.	Presidir y conducir las sesiones del Comité Consultivo;
+  III.	Firmar el acta correspondiente en cada sesión del Comité Consultivo;
+  IV.	Representar al Comité Consultivo ante el Instituto y en las relaciones que establezca;
+  V.	Tener el voto decisivo o voto de calidad, en caso de controversia o empate en las votaciones, así como las demás que se prevean en los presentes Lineamientos;
+  VI.	 Valorar y, en su caso, aceptar la designación de los representantes para conformar el Comité Consultivo que cumplan con lo establecido en el lineamiento SEXTO;
+  VII.	En su caso, valorar y determinar aquellas licenciaturas o estudios de posgrado de los Solicitantes que puedan considerarse como afines o equivalentes de acuerdo a lo establecido en los requisitos del lineamiento DÉCIMO TERCERO. Lo anterior, atendiendo a las necesidades del Instituto y a la evolución tecnológica de los sectores de telecomunicaciones y radiodifusión; y,
+  VIII.	Las demás que le confiera el Comisionado Presidente del Instituto.
+NOVENO. El Secretario Técnico del Comité Consultivo no tendrá voto, únicamente tendrá voz, y las siguientes funciones:
+  I.	Notificar a los Integrantes del Comité Consultivo, conforme al lineamiento DÉCIMO de los presentes Lineamientos, las convocatorias a las sesiones del mismo;
+  II.	Verificar la lista de asistencia y el quórum de cada sesión del Comité Consultivo;
+  III.	Levantar y firmar el acta de cada sesión del Comité Consultivo;
+  IV.	Distribuir copia del acta de cada sesión del Comité Consultivo vía correo electrónico a sus integrantes;
+  V.	Llevar un registro actualizado de los Integrantes del Comité Consultivo, la información de contacto y demás relativa a la participación de éstos en las actividades del Comité Consultivo;
+  VI.	Llevar un registro y control de las actas referidas en el numeral III del presente Lineamiento, y toda la documentación relativa a su funcionamiento;
+  VII.	Recibir y mantener en secrecía los Reactivos que conformarán el Examen de conocimientos, la Evaluación de habilidades de redacción y entrevistas, respectivamente, para la Acreditación de Peritos;
+  VIII.	Recabar los resultados obtenidos sobre la valoración de las solicitudes, información y documentación presentada por los Solicitantes para la obtención de la Acreditación de Peritos en materia de telecomunicaciones y radiodifusión, así como para la revalidación de las acreditaciones;
+  IX.	Recabar los resultados obtenidos referentes al Examen de conocimientos, habilidades de redacción y entrevistas para la Acreditación de Peritos y su revalidación e integrar dicha información en el expediente del Solicitante a efecto de que se registre la calificación obtenida, y
+  X.	Las demás que le confiera el Presidente del Comité Consultivo.
+DÉCIMO. El Comité Consultivo realizará una sesión ordinaria en el mes de abril de cada año, la cual será convocada por su Presidente con al menos 5 días hábiles de anticipación a su celebración. Adicionalmente, el Comité Consultivo podrá realizar sesiones extraordinarias, convocadas por el Presidente con al menos 2 días hábiles de anticipación a su celebración, siempre y cuando exista una causa justificada que motive su celebración. La convocatoria deberá incluir el lugar, la fecha y la hora en que se llevará a cabo la sesión, así como el Orden del día, la cual será enviada vía correo electrónico a los Integrantes del Comité Consultivo y publicada en el portal de Internet del Instituto.
+En su caso, la documentación necesaria para el desahogo de los puntos del Orden del día será enviada por el Secretario Técnico con al menos 3 días hábiles de anticipación a la celebración de las sesiones ordinarias, y con al menos un día hábil antes de la celebración de las sesiones extraordinarias.
+Adicionalmente a los temas incluidos por el Presidente del Comité Consultivo en el Orden del día, los integrantes de dicho Comité contarán con un plazo de 3 días hábiles para solicitar al Presidente del referido Comité, la inclusión de temas relacionados con la Acreditación de Peritos previos a la celebración de la sesión ordinaria y un día hábil para el caso de la extraordinaria, anexando la información de soporte.
+DÉCIMO PRIMERO. Para que una sesión del Comité Consultivo se considere válida, se requerirá la presencia de por lo menos la mitad más uno de los integrantes de dicho Comité. De no contar con dicha asistencia, la sesión comenzará válidamente, en segunda convocatoria, media hora más tarde con los representantes presentes en la sesión. Una vez verificado el quórum respectivo, el Presidente del Comité Consultivo dará inicio a la sesión mediante la lectura y desahogo del Orden del día.
+Sin perjuicio de lo anterior, el Presidente del Comité Consultivo a solicitud por escrito de los integrantes del mismo, podrá invitar a concesionarios y/o autorizados de telecomunicaciones o radiodifusión así como a asociaciones, instituciones académicas, autoridades y demás personas que pudieran contribuir de manera sustantiva a los trabajos que serán abordados en la sesión respectiva, quienes podrán expresar su opinión, sin derecho a voto. Las sesiones del Comité Consultivo donde asistirían dichos invitados no deberán ser aquéllas donde se aborde y vote la idoneidad de los Solicitantes.
+Cuando el Presidente del Comité Consultivo considere que un tema del Orden del día haya sido suficientemente discutido, lo someterá a votación de los asistentes. El Secretario Técnico del Comité Consultivo preguntará a los integrantes de dicho Comité el sentido de su voto, el cual podrá ser a favor, abstención o en contra. El Secretario Técnico contará los votos y asentará en el acta el resultado de la votación.
+El cierre del acta de cada sesión se dará con la lectura de la misma y la firma del Presidente, del Secretario Técnico y de los Integrantes del Comité Consultivo que se encuentren presentes.
+El Presidente del Comité Consultivo informará a la Unidad Administrativa del Instituto facultada para la Acreditación de Peritos, las recomendaciones razonadas de dicho Comité sobre cada Solicitante.
+                                 CAPÍTULO V.
+             De la Convocatoria para la Acreditación de Peritos.
+DÉCIMO SEGUNDO. El Instituto publicará en su portal de Internet y en el Diario Oficial de la Federación durante el mes de marzo de cada año, la convocatoria para obtener la Acreditación de Perito en materia de telecomunicaciones y radiodifusión así como la correspondiente revalidación.
+La convocatoria deberá contener lo siguiente:
+       a.	Los requisitos y los procedimientos para realizar el registro del Solicitante en el Micrositio correspondiente del Instituto. Dicho Micrositio contendrá los campos mostrados en el Anexo C de los presentes Lineamientos;
+       b.	La documentación requerida que avale la escolaridad y experiencia profesional del Solicitante de la Acreditación. Para la revalidación de la Acreditación, la documentación que avale la experiencia profesional del Solicitante. Lo anterior, de conformidad con el lineamiento DÉCIMO TERCERO de los presentes Lineamientos;
+       c.	El periodo de registro y presentación de documentación de los Solicitantes, el cual será de 15 días hábiles contados a partir de la publicación de la convocatoria;
+       d.	Lugar del Examen de conocimientos y de la Evaluación de habilidades de redacción;
+       e.	Lugar para la realización de entrevistas;
+       f.	El sistema de puntuación del procedimiento de Acreditación de Peritos;
+       g.	El temario de estudio por especialidad (telecomunicaciones o radiodifusión) y su correspondiente bibliografía;
+       h.	La fecha de notificación de resultados;
+       i.	Datos para realizar el pago de derechos o del aprovechamiento determinado por el Pleno del Instituto para la Acreditación de Peritos, así como para la revalidación, la ampliación de especialidad y Acreditación Honoris Causa (derechos de la solicitud).
+                                 CAPÍTULO VI.
+Del Proceso para la Acreditación y revalidación de la Acreditación de Peritos
+DÉCIMO TERCERO. El Solicitante deberá registrarse en el Micrositio para iniciar el procedimiento para acreditarse o revalidarse como perito en telecomunicaciones y radiodifusión, y adjuntar la siguiente documentación en formato PDF:
+  I.	Copia de identificación oficial con fotografía (por el anverso y reverso) y comprobante de domicilio actual con vigencia máxima de 2 meses, (recibo de agua, gas, teléfono o predial);
+  II.	Copia de cédula profesional expedida por la Dirección General de Profesiones de la SEP de la licenciatura en ingeniería en comunicaciones y electrónica, afín o equivalente a ellas;
+  III.	En su caso, copia de su cédula de estudios de posgrado expedida por la SEP, o de cualquier otro documento que permita acreditar la especialidad y/o posgrado en comunicaciones y electrónica, afín o equivalente a ellas;
+  IV.	En su caso, constancia de ser miembro regular de algún Colegio de Ingenieros en Telecomunicaciones y Radiodifusión, o en materias equivalentes o afines;
+  V.	Currículum Vítae (conforme al Anexo D de los presentes Lineamientos) y en su caso, si el Solicitante lo considera conveniente, la versión pública del Currículum Vítae que se publicaría en el portal de Internet del Instituto de conformidad con lo establecido en el lineamiento TRIGÉSIMO SEGUNDO;
+  VI.	Documento o documentos que permitan acreditar la experiencia o competencia profesional, por ejemplo, constancias de servicio o laborales emitidas por entidades públicas o por entidades privadas, señalando el periodo laborado, patentes;
+  VII.	Cualquier información o constancia que el Solicitante considere puede aportar al Comité Consultivo a determinar su aptitud para ser acreditado como perito en materia de telecomunicaciones y radiodifusión, y
+  VIII.	Comprobante del pago de derechos o del aprovechamiento determinado por el Pleno del Instituto para la Acreditación de Peritos, ampliación de especialidad y Acreditación Honoris Causa.
+Para el caso de la revalidación de la Acreditación de Perito no será necesario presentar la documentación a que se refieren las fracciones II y III. Mientras que los documentos a que se refiere la fracción VI comprenderá la experiencia o competencia profesional de los últimos 2 años. Asimismo el Solicitante de la revalidación que opte por cumplir las 40 horas anuales de Acciones de Capacitación de las indicadas en el Programa Anual de Capacitación deberá adjuntar las constancias correspondientes con una calificación igual o mayor a 75/100.
+Al finalizar el registro, el Solicitante recibirá un número de folio con el cual podrá conocer el estado de su solicitud, cuando consulte el Micrositio.
+Cuando el Solicitante lleve a cabo su registro y no adjunte la documentación listada en el presente lineamiento o si dicha documentación no se encuentra en el formato PDF o si por algún error o causa tecnológica los archivos no puedan abrirse o leerse, el Instituto notificará al solicitante por correo electrónico y por única vez, para que dentro de cinco días hábiles contados a partir de que haya sido notificado, subsane la omisión; transcurrido el plazo correspondiente sin que haya sido desahogada la prevención, el trámite se dará por concluido.
+DÉCIMO CUARTO. Una vez que el Comité Consultivo haya sesionado y valorado la solicitud, información, documentación y la experiencia profesional de cada Solicitante por mayoría de votos, emitirá sus recomendaciones razonadas no vinculantes al Instituto respecto de la idoneidad de los Solicitantes, a más tardar a los 10 días hábiles contados a partir de la última sesión celebrada del Comité Consultivo.
+Para efectos de lo anterior, en sesión del Comité se dividirá aleatoriamente el número total de los registros de los Solicitantes de forma proporcional entre los Integrantes del Comité Consultivo, para la valoración de la información, documentación, experiencia profesional y, en consecuencia, se elabore la recomendación razonada no vinculante.
+Cuando un registro del Solicitante recaiga en un integrante del Comité Consultivo que esté impedido de conocer el asunto, debido a que existe una o varias situaciones que le impidan resolverlo con independencia, profesionalismo e imparcialidad, el Presidente del Comité Consultivo deberá reasignar el registro del Solicitante en comento a otro integrante que no se encuentre impedido, quien a su vez le permutará uno de los registros que le toca conocer, este proceso se llevará a cabo las veces que sean necesarias para evitar el conflicto de interés.
+La Unidad Administrativa del Instituto facultada para la Acreditación de Peritos, recibirá dichas recomendaciones razonadas, no vinculantes y, las evaluará. Una vez que dicha Unidad Administrativa determine la procedencia de la solicitud, notificará mediante correo electrónico a aquellos Solicitantes que podrán participar en la presentación de los exámenes relativos al proceso para la Acreditación de Peritos, señalando lugar, fecha y hora, así como el puntaje obtenido en el rubro de experiencia profesional. Asimismo, el Instituto podrá notificar a aquellos Solicitantes cuya recomendación del Comité Consultivo no haya sido favorable, si así lo considera conveniente.
+En su caso, se notificará al Solicitante la no procedencia, indicando las razones. Asimismo, en el Micrositio se publicarán los números de folio de cada Solicitante indicando el estado del proceso de su solicitud y el puntaje correspondiente a esta etapa. Lo anterior se llevará a cabo a más tardar 10 días hábiles contados a partir de la recepción de las recomendaciones del Comité Consultivo.
+Para la Evaluación de los Solicitantes, el Instituto tomará como base el siguiente Sistema de Puntaje:
+TABLA 1. SISTEMA DE PUNTAJE PARA LA ACREDITACIÓN DE PERITOS EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+                                     Etapa
+                                    Puntos
+I.	Examen de Conocimientos 
+                                  40 máximo
+II.	Evaluación de Habilidades de Redacción 
+                                  10 máximo
+III.	Experiencia Profesional
+                                  30 máximo
+IV.	Entrevista
+                                  20 máximo
+Total de puntos
+                                      100
+Mínimo de puntos a obtener por el Solicitante
+                                      75
+
+DÉCIMO QUINTO. Los elementos que el Instituto considerará tanto en la elaboración, como en la aplicación del Examen de conocimientos, serán los siguientes:
+  I.	Consistencia entre el contenido del Examen y la especialidad a ser evaluada, las Disposiciones Técnicas vigentes, el temario y la bibliografía publicadas en la convocatoria respectiva;
+  II.	Confiabilidad y seguridad en la aplicación del Examen de conocimientos, con el propósito de medir efectivamente lo que se pretende evaluar otorgando certidumbre y transparencia, y
+  III.	Criterios de Evaluación objetivos y claros para los Reactivos que se apliquen, precisando cuando resulte necesario los aspectos correspondientes que permitan reducir la subjetividad en la calificación de las respuestas.
+La Unidad Administrativa del Instituto facultada para la Acreditación de Peritos será la encargada de integrar el Examen de conocimientos con los Reactivos que le sean entregados por el Secretario Técnico del Comité Consultivo.
+Para efectos de lo anterior, el titular de dicha Unidad Administrativa deberá revisar que los Reactivos referentes al Examen de conocimientos y entrevistas, respectivamente, elaborados por los Integrantes del Comité Consultivo sean consistentes con las necesidades del Instituto así como a la evolución tecnológica en la especialidad correspondiente. Para tales efectos, el titular de la Unidad Administrativa podrá consultar a otros servidores públicos del Instituto que cuenten con título y cédula profesional de preferencia en alguna carrera de ingeniería en materia de telecomunicaciones o radiodifusión, equivalente o afín, o estudios de posgrado afines, los cuales deberán tener un cargo no menor a Director General Adjunto.
+Asimismo, el titular de dicha Unidad Administrativa deberá asegurarse que el Examen de conocimientos, la Evaluación de habilidades de redacción así como las entrevistas sean conformadas por Reactivos seleccionados aleatoriamente.
+DÉCIMO SEXTO. Los elementos mínimos que el Instituto considerará para integrar los temarios para los exámenes de conocimientos, son aspectos específicos relacionados con los contenidos y temas sobre los que versará el Examen, tales como: tópicos, subtemas, capítulos, apartados, títulos, artículos, preceptos legales, epígrafes, definiciones o la descripción concreta de los mismos, entre otros.
+Los elementos anteriores estarán referidos a la bibliografía que los Solicitantes podrán consultar para preparar el Examen de conocimientos.
+DÉCIMO SÉPTIMO. Los resultados del Examen de conocimientos serán identificados por el número de folio del Solicitante, y no deberán contener el nombre del mismo. Independientemente del número total de Reactivos que integren el Examen de conocimientos, la calificación debe ser considerada sobre un total de 100 puntos porcentuales. El resultado de este Examen representará 40 puntos como máximo del total de puntos a obtener por Solicitante, de acuerdo con el lineamiento DÉCIMO CUARTO. Los puntos obtenidos por el Solicitante serán proporcionales a la calificación del Examen.
+DÉCIMO OCTAVO. La Evaluación de habilidades de redacción deberá ser acreditada mediante una prueba diseñada y aplicada por el Instituto como un ejercicio práctico de elaboración de documentación relacionada con la especialidad a acreditarse; por ejemplo, la elaboración de un Dictamen Técnico (memoria o estudio técnico).
+DÉCIMO NOVENO. Para los efectos del lineamiento DÉCIMO OCTAVO, el Comité Consultivo coadyuvará con las áreas del Instituto facultadas para realizar actividades de dictaminación técnica, en la elaboración de 3 ejercicios para cada especialidad (telecomunicaciones o radiodifusión), los cuales aplicará aleatoriamente a los Solicitantes conforme a su especialidad. Asimismo, el referido Comité acordará en sesión los puntos relevantes a evaluar para conocer las fortalezas con las que cuenta el Solicitante, así como los criterios y habilidades que deberán demostrar para comunicarse de forma escrita, coadyuvando así con el Instituto para que éste lleve a cabo la Evaluación correspondiente. Dichos criterios serán publicados en el Micrositio al menos 5 días hábiles previos a la presentación de la Evaluación de habilidades de redacción.
+La Evaluación de habilidades de redacción y el Examen de conocimientos serán objetivas y apegadas a lo previsto en los presentes Lineamientos y en la convocatoria respectiva. Dichos exámenes se llevarán a cabo a más tardar en 5 días hábiles contados a partir de que el Solicitante reciba la notificación para realizarlos.
+Sin importar si se consideran o no Reactivos o el número de éstos que se consideren en la Evaluación de habilidades de redacción, la calificación debe ser considerada sobre un total de 100 puntos porcentuales. El resultado de este Examen representará 10 puntos como máximo del total de puntos a obtener por Solicitante, de acuerdo con el lineamiento DÉCIMO CUARTO.
+VIGÉSIMO. Los resultados del Examen de conocimientos y de la Evaluación de habilidades de redacción se entregarán al Solicitante por correo electrónico a más tardar 5 días hábiles contados a partir de la presentación de dichas evaluaciones. Asimismo, en el Micrositio se publicarán los respectivos números de folio de cada Solicitante indicando el estado del proceso de su solicitud y el puntaje correspondiente a esta etapa. A partir del puntaje obtenido en estos exámenes, el Instituto invitará a los Solicitantes a las entrevistas correspondientes.
+VIGÉSIMO PRIMERO. Para la valoración de la experiencia profesional, el Comité Consultivo deberá considerar la documentación presentada para tal efecto por el Solicitante, otorgando los puntajes proporcionales de conformidad con los años de experiencia relevantes documentados y mostrados en la Tabla 2:
+       TABLA 2. PUNTOS A OBTENER DE ACUERDO A LA EXPERIENCIA PROFESIONAL
+                       Años de experiencia documentados
+                                    Puntos
+Más de 15 años
+                                      30
+8 años y un día a 15 años	
+                                      25
+4 años y un día a 8 años
+                                      20
+1 año y un día a 4 años
+                                      15
+Hasta el primer año
+                                      10
+
+Para acreditar la experiencia profesional servirá todo documento, público o privado que haga constar las actividades laborales realizadas y que cuente con fecha y lugar de expedición, así como firma autógrafa y en su caso, sello de la institución o empresa que corresponda.
+El resultado de esta valoración representará 30 puntos como máximo del total de puntos a obtener por Solicitante, de acuerdo con el lineamiento DÉCIMO CUARTO. El resultado (número de puntos) obtenido de la experiencia profesional, se entregará al Solicitante por correo electrónico, así como también será publicado en el Micrositio del Instituto.
+El Solicitante que acredite su excelencia profesional laboral en una institución internacional o en actividades internacionales relevantes en materia de telecomunicaciones o radiodifusión, demostrable con las constancias laborales o de actividad internacional correspondiente, lo cual será valorado por el Instituto, y que cuente con un registro activo de por lo menos 25 años como perito, demostrable con sus constancias de registro en algún Colegio de Ingenieros en Telecomunicaciones y Radiodifusión durante dicho periodo, será acreedor a la Acreditación Honoris Causa de Perito Acreditado en materia de telecomunicaciones y radiodifusión otorgada por el Instituto en reconocimiento a su trayectoria.
+Dicha Acreditación Honoris Causa será indefinida, sin embargo estará sujeta al cumplimiento de las obligaciones como Perito Acreditado en materia de telecomunicaciones y radiodifusión establecidas en los presentes Lineamientos. Dicho tipo de acreditación deberá solicitarse conforme a los tiempos indicados en la convocatoria pública del mes de marzo mediante los Anexos C y D para su valoración por el Instituto. El Solicitante a la Acreditación Honoris Causa sólo será evaluado por su excelencia profesional; por tanto, no estará sujeto al Examen de conocimientos, a la Evaluación de habilidades de redacción, ni a la entrevista.
+VIGÉSIMO SEGUNDO. La entrevista tendrá una duración máxima de 15 minutos efectivos por Solicitante. Los cuestionamientos que realicen el Instituto y los Integrantes del Comité Consultivo serán los considerados en el lineamiento SÉPTIMO, fracción III, inciso c), y el número de preguntas y los temas sobre las que versaran las mismas será el establecido en la Tabla 3.
+              TABLA 3. TEMAS SOBRE LOS QUE VERSARA LA ENTREVISTA
+                             Durante la Entrevista
+                               No. de preguntas
+Conocimientos de las especialidades de telecomunicaciones y radiodifusión y, en su caso, de las Disposiciones Técnicas.
+               2 preguntas a realizar, lo que equivale a un 80%
+Ética profesional.
+               1 pregunta a realizar, lo que equivale a un 20 %
+VIGÉSIMO TERCERO. La Unidad Administrativa del Instituto facultada para la Acreditación de Peritos y los Integrantes del Comité Consultivo formularán 3 preguntas a los Solicitantes, 2 de ellas versarán sobre conocimientos en las especialidades de telecomunicaciones y radiodifusión (conforme a la especialidad solicitada) y, en su caso, de las Disposiciones Técnicas, y 1 pregunta será sobre ética profesional. Lo anterior será reflejado en el Acta correspondiente así como las respuestas respectivas.
+Las preguntas que se formulen finalmente a cada Solicitante serán elegidas aleatoriamente de la totalidad de las preguntas elaboradas por el Comité Consultivo. En caso de que, la entrevista sea grabada en audio y/o video, deberá ser informado al Solicitante y al menos su versión estenográfica deberá incorporarse al expediente del Solicitante. Dicha entrevista se llevará a cabo a más tardar en 5 días hábiles contados a partir de su respectiva notificación.
+VIGÉSIMO CUARTO. Los Integrantes del Comité Consultivo presentes en el desahogo de la entrevista (deberán estar presentes al menos 2 integrantes, uno de ellos deberá ser un servidor público del Instituto), calificarán de forma individual dicha entrevista en una escala de 100 puntos porcentuales, y posteriormente se promediaran sus resultados para obtener una calificación definitiva, el resultado de esta valoración final representara 20 puntos como máximo del total de puntos a obtener por Solicitante, de acuerdo al lineamiento DÉCIMO CUARTO; lo anterior se reflejará en el Acta correspondiente. Para tales efectos, el Presidente del Comité Consultivo, podrá invitar a otros servidores públicos del mismo Instituto que cuenten con título y cédula profesional de preferencia en alguna carrera de ingeniería en materia de telecomunicaciones o radiodifusión, o afín, o estudios de posgrado afines a participar en las entrevistas, los cuales deberán tener un cargo no menor a Director General Adjunto. El resultado obtenido en la entrevista, será enviado al correo electrónico del Solicitante, así como será publicado en el Micrositio del Instituto, durante los 5 días hábiles siguientes a la presentación de la entrevista.
+VIGÉSIMO QUINTO. El Instituto acreditará como Peritos Acreditado en materia de telecomunicaciones y radiodifusión, a los Solicitantes que hayan cumplido satisfactoriamente con el proceso de acreditación y obtengan 75 puntos como mínimo de acuerdo con la tabla 1 del lineamiento DÉCIMO CUARTO. La acreditación correspondiente se entregará en un periodo no mayor a 20 días hábiles contados a partir de la notificación del resultado de la entrevista al Solicitante. En consecuencia, el Instituto:
+  I.	Asignará un número de registro de acreditación;
+  II.	Expedirá la Acreditación correspondiente y su constancia de inscripción por 2 años la cual contendrá el nombre, fotografía, vigencia y número de registro de acreditación, lo cual será notificado mediante oficio, y
+  III.	Inscribirá al Perito Acreditado en materia de telecomunicaciones y radiodifusión en el Registro Nacional de Peritos en la especialidad que corresponda.
+Como referencia, la Tabla 4 muestra de manera general el proceso para la Acreditación de Peritos en materia de telecomunicaciones y radiodifusión.
+TABLA 4. PROCESO PARA LA ACREDITACIÓN DE PERITOS EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+                         Proceso para la acreditación
+                                  Responsable
+                                   Actividad
+                                     Medio
+                                     Plazo
+                                   REGISTRO
+                                   Instituto
+                     El Instituto publica la Convocatoria.
+  Portal de Internet del Instituto y en el Diario Oficial de la Federación.
+                     Durante el mes de marzo de cada año.
+                                   REGISTRO
+                                  Solicitante
+El Solicitante registra e ingresa la solicitud, información y documentación requerida.
+                           Micrositio del Instituto.
+Durante los 15 días hábiles siguientes a la publicación de la convocatoria respectiva.
+                                   REGISTRO
+                              Comité Consultivo
+El Comité Consultivo valora la información y documentación entregada y la experiencia profesional.
+El Comité Consultivo emite su recomendación razonada no vinculante al Instituto respecto de la idoneidad de los Solicitantes para continuar con el proceso de Acreditación.
+                         Oficio y Correo electrónico.
+Durante los 10 días hábiles siguientes a la sesión respectiva del Comité Consultivo.
+      EXAMEN DE CONOCIMIENTOS Y EVALUACIÓN DE HABILIDADES DE REDACCIÓN
+                                   Instituto
+El Instituto selecciona e invita a los Solicitantes que podrán participar en los Exámenes relativos a la Acreditación.
+                Micrositio del Instituto y correo electrónico.
+Durante los 10 días hábiles siguientes a la recepción de la recomendación respectiva del Comité Consultivo.
+      EXAMEN DE CONOCIMIENTOS Y EVALUACIÓN DE HABILIDADES DE REDACCIÓN
+                                   Instituto
+El Instituto aplica el Examen de conocimientos y la Evaluación de habilidades de redacción al Solicitante.
+                        El dispuesto por el Instituto.
+Durante los 5 días hábiles siguientes a la notificación para realizar las evaluaciones.
+      EXAMEN DE CONOCIMIENTOS Y EVALUACIÓN DE HABILIDADES DE REDACCIÓN
+                                   Instituto
+El Instituto notifica al Solicitante el resultado del Examen de conocimientos y de la Evaluación de habilidades de redacción. En su caso, envía invitación para la entrevista.
+                Micrositio del Instituto y correo electrónico.
+ Durante los 5 días hábiles siguientes a la presentación de los exámenes.
+                                  ENTREVISTA
+                     El Instituto y el Comité Consultivo
+  El Instituto y el Comité Consultivo realizan la entrevista al Solicitante.
+                                     Acta.
+Durante los 5 días hábiles siguientes a la notificación para llevar a cabo la entrevista.
+                                  ENTREVISTA
+                                   Instituto
+     El Instituto publica los resultados obtenidos durante la entrevista.
+                           Micrositio del Instituto.
+ Durante los 5 días hábiles siguientes a la presentación de la entrevista.
+                                  ENTREVISTA
+                                  Solicitante
+             El Solicitante recibe el resultado de la entrevista.
+                             Correo electrónico.
+ Durante los 5 días hábiles siguientes a la presentación de la entrevista.
+                          PUBLICACIÓN DE RESULTADOS
+                                   Instituto
+         El Instituto asigna el número de registro de acreditación;
+               Expide la constancia de inscripción por 2 años.
+Incorpora al Registro Nacional de Peritos Acreditados en materia de telecomunicaciones y radiodifusión.
+           Micrositio del Instituto y Registro Nacional de Peritos.
+      La Acreditación y constancia de inscripción por medio de oficio.
+Durante los 20 días hábiles siguientes a la notificación del resultado de la entrevista al Solicitante.
+VIGÉSIMO SEXTO. El Comité Consultivo podrá proponer para aprobación del Instituto cursos y capacitaciones con el propósito de contribuir en la actualización de los Peritos Acreditados.
+VIGÉSIMO SÉPTIMO. Los Peritos Acreditados por el Instituto, podrán revalidar su acreditación, cada 2 años a partir de la acreditación obtenida previamente. Por lo tanto, cualquier Perito Acreditado que desee continuar con dicha acreditación, deberá realizar el proceso de revalidación correspondiente, para lo cual deberá:
+  I.	Cumplir con los términos y plazos de la convocatoria que emita el Instituto, durante el mes de marzo de cada año;
+  II.	Acceder al Micrositio e ingresar los datos requeridos en la sección de revalidación en un plazo no mayor a 15 días hábiles, contados a partir de la publicación de la convocatoria;
+  III.	En su caso, demostrar que continúa siendo miembro regular de algún Colegio de Ingenieros en Telecomunicaciones y Radiodifusión con registro vigente en materia de telecomunicaciones y radiodifusión, y que sigue inscrito en la lista de peritos de ese Colegio, adjuntando la constancia respectiva;
+  IV.	Adjuntar cualquier información o constancia (comprendiendo los últimos 2 años) que el Solicitante considere puede aportar elementos adicionales para la toma de decisión del Instituto para determinar la revalidación como Perito Acreditado;
+  V.	Presentar el Examen de conocimientos, a que se refiere el lineamiento DÉCIMO SÉPTIMO y obtener una calificación igual o mayor a 75/100, o adjuntar las constancias de 40 horas anuales de Acciones de Capacitación de las indicadas en el Programa Anual de Capacitación aprobadas con una calificación igual o mayor a 75/100, y
+  VI.	Adjuntar el comprobante del pago de derechos o del aprovechamiento determinado por el Pleno del Instituto para la revalidación.
+Las acreditaciones que se encuentren en trámite de revalidación, permanecerán vigentes prorrogándose hasta que se concluya el proceso de revalidación al cual deberán someterse.
+Como referencia, la Tabla 5 muestra de manera general el proceso para la revalidación de la Acreditación de Peritos en materia de telecomunicaciones y radiodifusión.
+TABLA 5. PROCESO PARA LA REVALIDACIÓN DE LA ACREDITACIÓN DE PERITOS EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN
+                Proceso para la revalidación de acreditación
+                                  Responsable
+                                   Actividad
+                                     Medio
+                                     Plazo
+                                   REGISTRO
+                                   Instituto
+                     El Instituto publica la Convocatoria.
+  Portal de Internet del Instituto y en el Diario Oficial de la Federación.
+                     Durante el mes de marzo de cada año.
+                                   REGISTRO
+                                  Solicitante
+El Solicitante registra e ingresa la solicitud, información y documentación requerida.
+                           Micrositio del Instituto.
+Durante los 15 días hábiles siguientes a la publicación de la convocatoria respectiva.
+                                   REGISTRO
+                              Comité Consultivo
+El Comité Consultivo valora la solicitud, información, documentación requerida en la convocatoria.
+                     Emite su recomendación al Instituto.
+                         Oficio y correo electrónico.
+Durante los 10 días hábiles siguientes a la sesión respectiva del Comité Consultivo.
+                      EXAMEN DE CONOCIMIENTOS (OPCIÓN 1)
+                                   Instituto
+El Instituto recibe las recomendaciones del Comité Consultivo, respecto a la idoneidad de los Solicitantes. En su caso, selecciona e invita a los Solicitantes que podrán participar en el Examen de conocimientos.
+                Micrositio del Instituto y correo electrónico.
+Durante los 10 días hábiles siguientes a la recepción de la recomendación respectiva del Comité Consultivo.
+                      EXAMEN DE CONOCIMIENTOS (OPCIÓN 1)
+                                   Instituto
+      El Instituto aplica el Examen de conocimientos a los Solicitantes.
+                        El dispuesto por el Instituto.
+Durante los 5 días hábiles siguientes a la notificación para realizar el Examen.
+                      EXAMEN DE CONOCIMIENTOS (OPCIÓN 1)
+                                   Instituto
+El Instituto notifica al Solicitante el resultado del Examen de conocimientos.
+                Micrositio del Instituto y correo electrónico.
+    Durante los 5 días hábiles siguientes a la presentación del Examen.
+                        PROGRAMA ANUAL DE CAPACITACIÓN
+                                  (OPCIÓN 2)
+                              Comité Consultivo
+En su caso, el Comité Consultivo valora las constancias de Acciones de Capacitación relativas al Programa Anual de Capacitación presentadas por el Solicitante.
+                         Oficio y correo electrónico.
+Durante los 10 días hábiles siguientes a la sesión respectiva del Comité Consultivo.
+                          PUBLICACIÓN DE RESULTADOS
+                                   Instituto
+El Instituto registra los resultados obtenidos durante el Proceso para la revalidación de Acreditación de Peritos y notifica dichos resultados al Solicitante.
+                Micrositio del Instituto y correo electrónico.
+Durante los 20 días hábiles siguientes a la notificación de los resultados al Solicitante.
+                          PUBLICACIÓN DE RESULTADOS
+                                   Instituto
+       El Instituto constatará el número de registro de acreditación.
+           Registro Nacional de Peritos y Micrositio del Instituto.
+Durante los 20 días hábiles siguientes a la notificación de los resultados al Solicitante.
+                          PUBLICACIÓN DE RESULTADOS
+                                   Instituto
+El Instituto expide la renovación de la Acreditación y constancia de ampliación de inscripción por 2 años más.
+           Micrositio del Instituto y Registro Nacional de Peritos.
+La renovación de la Acreditación y la constancia de ampliación por medio de oficio.
+Durante los 20 días hábiles siguientes a la notificación de los resultados al Solicitante.
+
+
+VIGÉSIMO OCTAVO. El Instituto revalidará la Acreditación correspondiente y actualizará el Registro Nacional de Peritos Acreditados en materia de telecomunicaciones y radiodifusión si el Solicitante cumple con lo establecido en el lineamiento VIGÉSIMO SÉPTIMO.
+Asimismo, se le otorgará una constancia de ampliación de inscripción por 2 años más, la cual contendrá el nombre, fotografía, vigencia y número de registro de acreditación del Perito en materia de telecomunicaciones y radiodifusión, así como la especialidad correspondiente, lo cual será notificado mediante oficio.
+VIGÉSIMO NOVENO. No podrán obtener ante el Instituto la acreditación, ni su correspondiente revalidación, los Solicitantes que:
+  I.	Hayan recibido sanción de suspensión, destitución o inhabilitación por responsabilidad administrativa, civil o penal por actos relacionados con su desempeño como Perito en telecomunicaciones y radiodifusión, en tanto dure dicho impedimento de conformidad con la legislación aplicable (ejemplo: revocación de la acreditación);
+  II.	Incurrieren en falsedad, alteración o inexactitud de los datos incluidos en los documentos que anexen o presenten como parte de su proceso de acreditación o revalidación de acreditación;
+  III.	Cuando la Unidad Administrativa del Instituto encargada de revisar los Dictámenes Técnicos, considere y documente que el Solicitante de la revalidación de la Acreditación como Perito, emitió Dictámenes Técnicos con deficiencias y errores atribuidos directamente a dicho Solicitante, y
+  IV.	No cumplan con los requisitos establecidos en los presentes Lineamientos.
+TRIGÉSIMO. Los Peritos en telecomunicaciones y radiodifusión podrán acreditarse, simultáneamente en las dos especialidades: telecomunicaciones y radiodifusión. Para llevarlo a cabo, el Solicitante deberá requerir la acreditación correspondiente para cada especialidad y cumplir satisfactoriamente con el Proceso para la Acreditación de Peritos respectivo.
+                                CAPÍTULO VII.
+Del Registro Nacional de Peritos Acreditados en telecomunicaciones y radiodifusión
+TRIGÉSIMO PRIMERO. El Instituto creará y mantendrá actualizado un Registro Nacional de Peritos Acreditados en materia de telecomunicaciones y radiodifusión, mediante la Unidad Administrativa responsable de la acreditación de dichos peritos. El Registro Nacional de Peritos Acreditados en materia de telecomunicaciones y radiodifusión contendrá al menos la siguiente información:
+  I.	Datos personales:
+       a)	Nombre completo del Perito;
+       b)	Domicilio;
+       c)	Número telefónico y correo electrónico;
+       d)	CURP.
+  II.	Datos de escolaridad:
+       a)	Nombre de Escuela, Instituto o Universidad donde cursó sus estudios profesionales;
+       b)	Denominación de la carrera que cursó;
+       c)	Fechas de obtención de la cédula profesional.
+  III.	En su caso, datos del Colegio de Ingenieros en Telecomunicaciones y Radiodifusión al que pertenece:
+       a)	Nombre del Colegio;
+       b)	Dirección, teléfono y correo electrónico del Colegio.
+  IV.	Acreditaciones como Perito:
+       a)	Número de Perito Acreditado;
+       b)	Especialidad en la que está acreditado como Perito y vigencia;
+       c)	Fechas de revalidaciones por especialidad;
+       d)	En su caso, revocaciones.
+  V.	Copia digitalizada de los siguientes documentos:
+       a)	Identificación oficial con fotografía;
+       b)	Fotografía tamaño pasaporte a color (único requisito en formato JPEG);
+       c)	Comprobante de domicilio;
+       d)	Cédula profesional de licenciatura;
+       e)	En su caso, Grado o Cédula de posgrado;
+       f)	En su caso, fecha de obtención de Grado o Cédula de posgrado;
+       g)	Acreditación;
+       h)	En su caso, revalidaciones;
+       i)	En su caso, constancia de membresía regular del Colegio de Ingenieros en Telecomunicaciones y Radiodifusión;
+       j)	Comprobante del pago de derechos o del aprovechamiento determinado por el Pleno del Instituto para la Acreditación de Peritos, así como para la revalidación, la ampliación de especialidad y Acreditación Honoris Causa (derechos de la solicitud).
+  VI.	En su caso, Dictámenes Técnicos presentados ante el Instituto a partir de la entrada en vigor de los presentes Lineamientos.
+TRIGÉSIMO SEGUNDO. El Instituto salvaguardará la protección de los datos personales del Registro Nacional de Peritos Acreditados en materia de telecomunicaciones y radiodifusión en los términos señalados por la legislación en materia de transparencia, acceso a la información pública y de protección de datos personales, así como demás disposiciones jurídicas aplicables. Para estos efectos, únicamente serán publicados en el portal de Internet del Instituto la siguiente información del Registro Nacional de Peritos: el número de la acreditación, nombre completo del Perito, correo electrónico, la especialidad o especialidades acreditadas y en su caso, la versión pública del Currículum Vítae que el Perito presente para estos efectos.
+                                CAPÍTULO VIII.
+                      De la Vigilancia y el Cumplimiento
+TRIGÉSIMO TERCERO. El Instituto vigilará el cumplimiento de los presentes Lineamientos conforme a las atribuciones establecidas en la legislación correspondiente.
+El Instituto podrá llevar a cabo la vigilancia del desempeño mediante un análisis del registro integrado por los documentos que hayan sido emitidos por los Peritos acreditados en materia de telecomunicaciones y radiodifusión con motivo del ejercicio de las actividades en un año calendario para las cuales se encuentran acreditados. Este registro documental formará parte integral del Registro Nacional de Peritos acreditados en telecomunicaciones y radiodifusión y asimismo, servirá para efectos de, en su caso, la revocación.
+Para tal efecto, el Instituto deberá considerar una muestra representativa del universo de documentos emitidos por los Peritos Acreditados en materia de telecomunicaciones y radiodifusión (exceptuando aquéllos con Acreditación Honoris Causa) con motivo del ejercicio de las actividades en un año calendario, un nivel de confianza del 95%, un porcentaje o proporción de interés del veinte por ciento (20%) y un error de estimación del 10%.
+El tamaño de la muestra será aleatoria simple y se obtendrá de la siguiente expresión:
+                                       
+                                       
+Donde:
+  N	Universo de los documentos que hayan sido emitidos por los Peritos acreditados en materia de telecomunicaciones y radiodifusión durante el año calendario objeto del ejercicio;
+  n	Tamaño de la muestra;
+  k	Límite de confianza;
+  P	Valor del Porcentaje o proporción de interés del veinte por ciento (20%);
+  d	Máxima diferencia aceptable (error de estimación) entre el valor real "P" y su estimación "p" diez por ciento (10%);
+NOTA: Si se considera un nivel de confianza de 95% se obtiene un valor de  igual a 1.96, que corresponde a una distribución normal estándar.
+Es importante mencionar que el valor del porcentaje o proporción de interés del veinte por ciento (20%) se obtiene empleando la siguiente fórmula:
+                                       
+Donde:
+  Pr	Probabilidad de que se cumpla la condición especificada;
+  P	Valor del porcentaje o proporción real de interés;
+  p	Valor del porcentaje o proporción que se estima;
+  d	Máxima diferencia aceptable (error de estimación) entre el valor real "P" y su estimación "p";
+  	Nivel de confianza requerido;
+Para el caso de la vigilancia del desempeño de Peritos con Acreditación Honoris Causa, el Instituto realizará el procedimiento descrito anteriormente, considerando una muestra representativa sólo del universo de documentos emitidos por Peritos con dicho tipo de acreditación.
+                                 CAPITULO IX.
+De la revocación de la Acreditación de Peritos en telecomunicaciones y radiodifusión.
+TRIGÉSIMO CUARTO. El Instituto podrá revocar la acreditación de un Perito, por cualquiera de las siguientes causas:
+  I.	Cuando haya emitido Dictámenes Técnicos que contengan información falsa y errores de forma dolosa o negligente atribuidos directamente a su responsabilidad;
+  II.	Cuando favorezca deliberada y/o injustificadamente al cliente o cuando emita conclusiones injustificadas en el Dictamen Técnico;
+  III.	Cuando incumpla con las determinaciones derivadas de las acciones de vigilancia del Instituto.
+Una vez que el Instituto reciba lo conducente con respecto a las fracciones I, II y III, le notificará y otorgará al Perito un plazo de 20 días hábiles contados a partir de la notificación, para que el Perito manifieste lo que a su derecho convenga.
+Una vez, que el Perito presente y manifieste lo que a su derecho convenga, a partir de esa fecha, el Instituto dispondrá de 10 días hábiles para valorar lo manifestado, tiempo en el cual resolverá en definitiva si procede la revocación correspondiente.
+La revocación de la acreditación conllevará al cese de las actividades objeto de la acreditación y a la actualización de sus datos relacionados con la revocación en el Registro Nacional de Peritos Acreditados, quedándole prohibido el ostentarse como Perito Acreditado, así como la utilización de cualquier tipo de información o emblema pertinente a tales actividades, sin perjuicio de los documentos adicionales que podría solicitarle el Instituto, en términos de la LFTR y demás disposiciones jurídicas aplicables.
+En el caso de las fracciones I y II la revocación será definitiva. En el caso de revocación por la causal prevista en la fracción III, en un periodo de 2 años contados a partir de la fecha en que haya quedado firme la revocación, el Perito podrá iniciar un nuevo trámite de acreditación, si así lo desea.
+                                 TRANSITORIOS
+PRIMERO. Los presentes Lineamientos entrarán en vigor a los 60 días naturales siguientes a su publicación en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en los transitorios siguientes.
+SEGUNDO. Las licencias vigentes de Peritos emitidas por el Instituto a la fecha de entrada en vigor de los presentes Lineamientos, serán válidas hasta el término de la vigencia establecida en dichas licencias; posterior o paralelamente los Peritos podrán realizar el proceso de Acreditación establecido en los presentes Lineamientos.
+TERCERO. Las solicitudes para la obtención de licencias como Peritos que se hayan presentado antes de la entrada en vigor de los presentes Lineamientos serán substanciadas y concluidas conforme a las disposiciones vigentes al momento de iniciarse dichas solicitudes, en lo que no se oponga a la LFTR. A partir de la vigencia de los presentes Lineamientos los interesados en obtener la Acreditación de Peritos, deberán considerar lo dispuesto en el transitorio SEXTO.
+CUARTO. Dentro de los 60 días naturales contados a partir de la publicación de los presentes Lineamientos en el Diario Oficial de la Federación, el Comisionado Presidente designará a los servidores públicos que participarán en el Comité Consultivo de Acreditación de Peritos en telecomunicaciones y radiodifusión, de conformidad con lo establecido en el Capítulo IV del mismo ordenamiento.
+QUINTO La propuesta de designación de los representantes para conformar el Comité Consultivo deberá ser hecha por escrito al Presidente de dicho Comité por los representantes legales o por los funcionarios que cuenten con las facultades legales para hacerlo, cuando menos 3 días hábiles antes de la fecha de celebración de la primera sesión del Comité Consultivo. El referido Comité quedará constituido en esa primera sesión.
+SEXTO. El Instituto llevará a cabo por única vez, la publicación en su portal de Internet y en el Diario Oficial de la Federación la primera convocatoria para la Acreditación de Peritos en el mes de junio de 2017. Las convocatorias subsecuentes deberán llevarse a cabo en el mes de marzo de cada año, tal como lo indica el Lineamiento DÉCIMO SEGUNDO de los presentes Lineamientos. Asimismo, por única vez, el Comité Consultivo realizará la primera sesión ordinaria en el mes de julio de 2017.
+SÉPTIMO. Con la entrada en vigor de los presentes Lineamientos, todo lo que se oponga a ellos quedará sin efecto. El Instituto podrá llevar a cabo convenios de colaboración para coadyuvar en el proceso de Acreditación de Peritos en materia de telecomunicaciones y radiodifusión.
+OCTAVO. En tanto no se cuente con el Micrositio previsto en los presentes Lineamientos, los Solicitantes deberán registrar su solicitud de forma provisional a través de la Oficialía de Partes o, en su caso, mediante correo electrónico institucional habilitado para tales efectos y publicado en la convocatoria correspondiente.
+                                   ANEXO A.
+       FORMATO PARA PRESENTAR REACTIVOS PARA EL EXAMEN DE CONOCIMIENTOS
+                                       
+                       Para uso exclusivo del Instituto
+
+Fecha de recepción:
+                               (...)/(   )/(...)
+              INFORMACIÓN DEL INTEGRANTE DEL COMITÉ CONSULTIVO
+Nombre del integrante del Comité Consultivo: 
+
+                                  REACTIVOS.
+Pregunta 1.
+[Área para desarrollar la pregunta]
+Especialidad:
+(   ) Telecomunicaciones
+(   ) Radiodifusión
+                                 Respuesta A.
+                                 Respuesta B.
+                                 Respuesta C.
+                                 Respuesta D.
+                     [Área para desarrollar la respuesta]
+                     [Área para desarrollar la respuesta]
+                     [Área para desarrollar la respuesta]
+                     [Área para desarrollar la respuesta]
+Respuesta correcta:
+Marcar con una "X" la respuesta correcta
+
+(   ) A, (   ) B, (   ) C o (   ) D
+Justificación:
+
+
+
+Bibliografía:
+
+
+Título, Autor, fecha de publicación, editorial y/o sitio de internet
+Pregunta 2.
+[Área para desarrollar la pregunta]
+Especialidad:
+(   ) Telecomunicaciones
+(   ) Radiodifusión
+                                 Respuesta A.
+                                 Respuesta B.
+                                 Respuesta C.
+                                 Respuesta D.
+                     [Área para desarrollar la respuesta]
+                     [Área para desarrollar la respuesta]
+                     [Área para desarrollar la respuesta]
+                     [Área para desarrollar la respuesta]
+Respuesta correcta:
+Marcar con una "X" la respuesta correcta
+
+(   ) A, (   ) B, (   ) C o (   ) D
+Justificación:
+
+
+
+Bibliografía:
+
+
+Título, Autor, fecha de publicación, editorial y/o sitio de internet
+
+Pregunta "n".
+Área para desarrollar la pregunta
+Especialidad:
+(   ) Telecomunicaciones
+(   ) Radiodifusión
+                                 Respuesta A.
+                                 Respuesta B.
+                                 Respuesta C.
+                                 Respuesta D.
+                     [Área para desarrollar la respuesta]
+                     [Área para desarrollar la respuesta]
+                     [Área para desarrollar la respuesta]
+                     [Área para desarrollar la respuesta]
+Respuesta correcta:
+Marcar con una "x" la respuesta correcta
+
+(   ) A, (   ) B, (   ) C o (   ) D
+Justificación:
+
+
+
+Bibliografía:
+
+
+Título, Autor, fecha de publicación, editorial y/o sitio de internet
+*Anexar las hojas que considere necesarias.
+                                   ANEXO B.
+              FORMATO PARA PRESENTAR PREGUNTAS PARA LA ENTREVISTA
+
+                       Para uso exclusivo del Instituto
+
+Fecha de recepción:
+                               (...)/(...)/(...)
+              INFORMACIÓN DEL INTEGRANTE DEL COMITÉ CONSULTIVO
+Nombre del integrante del Comité Consultivo: 
+
+                                  REACTIVOS.
+Pregunta 1.
+                     [Área para desarrollar la pregunta]
+Especialidad:
+(   ) Telecomunicaciones
+(   ) Radiodifusión
+(   ) Ética
+Respuesta:
+                     [Área para desarrollar la respuesta]
+Justificación:
+(   ) 
+
+(   ) 
+Pregunta 2.
+[Área para desarrollar la pregunta]
+Especialidad:
+(   ) Telecomunicaciones
+(   ) Radiodifusión
+(   ) Ética
+Respuesta:
+                     [Área para desarrollar la respuesta]
+Justificación:
+(   ) 
+
+(   ) 
+
+Pregunta "n".
+                     [Área para desarrollar la pregunta]
+Especialidad:
+(   ) Telecomunicaciones
+(   ) Radiodifusión
+(   ) Ética
+Respuesta:
+                     [Área para desarrollar la respuesta]
+Justificación:
+(   ) 
+
+(   ) 
+*Anexar las hojas que considere necesarias.
+Nota: Las respuestas propuestas para las preguntas sobre Ética, que deben ser registradas en el presente anexo, deberán ser orientativas.
+                                   ANEXO C.
+CAMPOS QUE CONTENDRÁ EL MICROSITIO PARA SOLICITAR LA ACREDITACIÓN Y REVALIDACIÓN DE LA ACREDITACIÓN DE PERITOS EN TELECOMUNICACIONES Y RADIODIFUSIÓN
+
+                       Para uso exclusivo del Instituto
+
+Folio de solicitud:
+                                     (   )
+
+Fecha de recepción:
+                               (...)/(...)/(...)
+                        Tipo de trámite que solicita:
+( ) Acreditación por primera vez
+(   ) Revalidación
+( ) Acreditación de especialidad adicional
+(   ) Acreditación Honoris Causa
+Especialidad para la que solicita acreditación:
+(   ) Telecomunicaciones
+(   ) Radiodifusión
+En su caso, Número de Perito:
+
+                    Nombre completo del Solicitante/Perito
+(...)
+(...)
+(...)
+                               Apellido Paterno
+                               Apellido Materno
+                                   Nombre(s)
+                                   Domicilio
+(...)
+(...)
+(...)
+(...)
+                                     Calle
+                                Núm. Exterior
+                                Núm. Interior
+                                Código postal:
+(...)
+(...)
+(...)
+                                    Colonia
+                       Municipio o Delegación Política
+                              Entidad Federativa
+                                   Contacto
+(...)
+(...)
+(...)
+                             Teléfono de oficina
+                               Teléfono móvil
+                               Teléfono de casa
+(...)
+                                     CURP
+(...)
+(...)
+                        Correo electrónico  -  oficina
+                      Correo electrónico  -  particular
+                             Datos de escolaridad
+(...)
+(...)
+(...)
+                  Nombre de Escuela, Instituto o Universidad
+                       Denominación de la licenciatura
+            Número y fecha de obtención de la cédula profesional
+(...)
+(...)
+(...)
+            Nombre de Escuela, Instituto o Universidad de posgrado
+                    En su caso, Grado o Cédula de posgrado
+        En su caso, Fecha de obtención de Grado o Cédula de posgrado
+(...)
+En su caso, nombre del Colegio de Ingenieros en Telecomunicaciones y Radiodifusión al que pertenece.
+
+                              Documentos adjuntos
+       (Copia digitalizada de los siguientes documentos en formato PDF)
+a)	Identificación oficial con fotografía (por el anverso y reverso). 
+b)	Fotografía tamaño pasaporte a color (único requisito en formato JPEG).
+c)	Comprobante de domicilio con vigencia máxima de 2 meses, (recibo de agua, gas, teléfono o predial).
+d)	Cédula profesional expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública de la licenciatura en ingeniería en comunicaciones y electrónica, afín o equivalente de ellas.
+e)	En su caso, cédula de estudios de posgrado expedida por la SEP, o de cualquier otro documento que permita acreditar la especialidad y/o posgrado en comunicaciones y electrónica, o afín o equivalente.
+f)	Acreditaciones.
+g)	En su caso, Revalidaciones.
+h)	En su caso, constancia de ser miembro regular de algún Colegio de Ingenieros en Telecomunicaciones y Radiodifusión.
+i)	Cualquier otra información o constancia que el Solicitante considere puede aportar al Comité Consultivo a determinar su aptitud para ser acreditado como Perito o para revalidar su constancia de acreditación, conforme a lo siguiente:
+N°
+Año de expedición
+Tipo de información o constancia que permitan acreditar la experiencia o competencia profesional.
+Descripción de la información o constancia presentada
+
+(área para indicar el año de expedición)
+[agregar el tipo de información o constancia)
+[área para agregar la descripción]
+*Anexar las líneas que considere necesarias.
+j)	Currículum Vítae, conforme al Anexo D y en su caso, la versión pública del Currículum Vítae que se publicaría en el portal de Internet del Instituto de conformidad con lo establecido en el lineamiento TRIGÉSIMO SEGUNDO.
+k)	En su caso, para la revalidación, adjuntar las constancias de 40 horas anuales de Acciones de Capacitación de las indicadas en el Programa Anual de Capacitación aprobadas con una calificación igual o mayor a 75/100
+l)	Comprobante del pago de derechos o del aprovechamiento determinado por el Pleno del Instituto para la Acreditación de Peritos, así como para la revalidación, la ampliación de especialidad y Acreditación Honoris Causa (derechos de la solicitud).
+Para el caso de la revalidación de la Acreditación no será necesario presentar la documentación a que se refieren los inciso d) y e). Mientras que los documentos a que se refiere el inciso i) específicamente a la experiencia o competencia profesional serán de los últimos 2 años.
+             Sólo para el caso de la Acreditación Honoris Causa.
+El Solicitante debe adjuntar los siguientes Documentos (Copia digitalizada de los siguientes documentos en formato PDF)
+m)	Documento(s) que acredite(n) la excelencia profesional laboral en una institución internacional o en actividades internacionales relevantes en materia de telecomunicaciones o radiodifusión.
+n)	Cuente con un registro activo de por lo menos 25 años como Perito.
+(...)
+(...)
+                             Lugar de la solicitud
+                      Fecha de la solicitud (dd/mm/aaaa)
+ Declaro, bajo protesta decir verdad, que los datos asentados en esta solicitud y en los documentos o requisitos que se adjuntan son verdaderos y manifiesto ser la persona responsable de dar respuesta a cualquier duda o pregunta relacionada con la presente solicitud.
+La Información requerida en el presente formato será tratada por el Instituto Federal de Telecomunicaciones en los términos señalados por la legislación en materia de transparencia, acceso a la información pública y de protección de datos personales, así como demás disposiciones jurídicas aplicables.
+                                   ANEXO D.
+                 FORMATO PARA PRESENTAR EL CURRÍCULUM VÍTAE
+                              CURRÍCULUM VÍTAE
+I.	Información General
+(   ) 
+(   ) 
+(   ) 
+                               Apellido Paterno
+                               Apellido Materno
+                                   Nombre(s)
+                                   Domicilio
+(   ) 
+(   ) 
+(   ) 
+(   ) 
+                                     Calle
+                                Núm. Exterior
+                                Núm. Interior
+                                Código postal
+(   ) 
+(   ) 
+(   ) 
+                                    Colonia
+                       Municipio o Delegación Política
+                              Entidad Federativa
+II.	Datos de Contacto
+(   ) 
+(   ) 
+(   ) 
+                             Teléfono de oficina
+                               Teléfono móvil
+                               Teléfono de casa
+(   )
+                                     CURP
+(   ) 
+(   ) 
+                         Correo electrónico - oficina
+                      Correo electrónico  -  particular
+III.	Experiencia laboral
+                           Tipo (Público o Privado)
+                                    Empresa
+                                     Giro
+                                    Puesto
+                                   Funciones
+                                     Desde
+                                     Hasta
+                                 Observaciones
+[Agregar Empleo(s), comenzando por el actual o el último]
+IV.	Datos de escolaridad
+                               Grado Académico
+                                  Disciplina
+                                    Escuela
+                                  Ubicación
+                                     Desde
+                                     Hasta
+                            Documento que lo avala
+                                    Estatus
+[Agregar Grado(s) Académico(s), comenzando por el último obtenido]
+V.	Capacitaciones, cursos o certificaciones
+                                    Nombre
+                                 Institución
+                                     Desde
+                                     Hasta
+                                Horas cursadas
+                            Documento que lo avala
+[Agregar Capacitación, cursos o certificaciones comenzando por el último obtenido]
+ Declaro, bajo protesta de decir la verdad que los datos personales aportados son fidedignos.
+La Información requerida en el presente formato será tratada por el Instituto Federal de Telecomunicaciones en los términos señalados por la legislación en materia de transparencia, acceso a la información pública y de protección de datos personales, así como demás disposiciones jurídicas aplicables.
+INSTRUCCIONES PARA EL LLENADO DE LOS ANEXOS
+Indicaciones generales para el llenado de los formatos de los Anexos A, B, C y D:
+●	Antes de llenar los formatos, lea completa y cuidadosamente las indicaciones siguientes.
+●	Registre la información con letras mayúsculas y números arábigos
+●	Al marcar la casilla al final de los formatos de los Anexos C y D, se sujeta a la declaración referida según corresponda.
+●	Al ser formatos electrónicos se prevé que no existan tachaduras ni enmendaduras en los formatos.
+●	Agregue los renglones necesarios a ser utilizados en los formatos de los Anexos A, B y D.
+●	Adjunte la copia digitalizada de los documentos solicitados en formato PDF.
+LLENADO DE LOS FORMATOS
+ANEXO A. Formato para presentar Reactivos para el Examen de conocimientos y ANEXO B. Formato para presentar preguntas para la entrevista.
+Nombre del integrante del Comité Consultivo:
+Indique el nombre completo del integrante del Comité Consultivo empezando por nombre(s), apellido paterno y apellido materno.
+Pregunta "n":
+Desarrolle en esta área la pregunta.
+Especialidad:
+Seleccione la especialidad a la que pertenece la pregunta (telecomunicaciones o radiodifusión).
+Respuestas A, B, C y D
+Deberá escribir 4 respuestas distintas, siendo una de éstas la respuesta correcta, la cual deberá ser justificada y fundada.
+Justificación:
+Describa la justificación o fundamento de la respuesta correcta.
+ANEXO C. Campos que contendrá del Micrositio para solicitar la acreditación y revalidación de la Acreditación de Peritos en telecomunicaciones y radiodifusión y ANEXO D. Formato para presentar el Currículum Vítae.
+Tipo de trámite que solicita:
+Seleccione "Acreditación de especialidad adicional", "Acreditación de especialidad adicional", "Revalidación" o "Acreditación Honoris Causa", según sea el caso.
+En su caso, Número de Perito:
+En su caso, escriba el número asignado como Perito.
+Especialidad para la que solicita acreditación:
+Seleccione "Telecomunicaciones" o "Radiodifusión", según sea el caso.
+Nombre completo del Perito
+Indique el nombre completo del Solicitante, empezando por apellido paterno, apellido materno y nombre(s).
+Domicilio: 
+Indique el domicilio actual del Solicitante en el siguiente orden: calle, número exterior, número interior, código postal, colonia, municipio o delegación política, y entidad federativa. 
+Contacto: 
+Indique el número telefónico de oficina, teléfono móvil y teléfono de casa a 10 dígitos.
+CURP
+Indique la Clave Única de Registro de Población (CURP).
+Correo electrónico 
+Indique el correo electrónico de oficina y personal para recibir las notificaciones correspondientes.
+Datos de escolaridad
+Indique nombre de escuela, instituto o universidad, denominación de la licenciatura, fecha de obtención de cédula profesional; en su caso, nombre de escuela, instituto o universidad de posgrado, Grado o Cédula de posgrado y fecha de obtención de Grado o Cédula de posgrado; finalmente, en su caso, nombre del Colegio de Ingenieros en Telecomunicaciones y Radiodifusión al que pertenece.
+Documentos adjuntos
+Adjunte la copia digitalizada legible de los documentos solicitados en formato PDF.
+Experiencia laboral
+Llene la información solicitada en los campos correspondientes, puede añadir tanta filas como lo desee.
+Datos de escolaridad
+Llene la información solicitada en los campos correspondientes, puede añadir tanta filas como lo desee.
+Capacitaciones, cursos o certificaciones
+Llene la información solicitada en los campos correspondientes, puede añadir tanta filas como lo desee.
+Casilla de declaración de protesta de decir la verdad
+Marque esta casilla para manifestar su protesta de decir la verdad sujetándose a la declaración correspondiente y asimismo para finalizar el Anexo correspondiente.
+                                                                   (R.- 444961)
+INSTITUTO FEDERAL DE TELECOMUNICACIONES
+ACUERDO mediante el cual el Comisionado Presidente del Instituto Federal de Telecomunicaciones designa a los servidores públicos que participarán en el Comité Consultivo de Acreditación de Peritos en Telecomunicaciones y Radiodifusión a que se refiere el Capítulo IV de los Lineamientos para la acreditación de peritos en materia de telecomunicaciones y radiodifusión.
+Al margen un logotipo, que dice: Instituto Federal de Telecomunicaciones.
+ACUERDO MEDIANTE EL CUAL EL COMISIONADO PRESIDENTE DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES DESIGNA A LOS SERVIDORES PÚBLICOS QUE PARTICIPARÁN EN EL COMITÉ CONSULTIVO DE ACREDITACIÓN DE PERITOS EN TELECOMUNICACIONES Y RADIODIFUSIÓN A QUE SE REFIERE EL CAPÍTULO IV DE LOS LINEAMIENTOS PARA LA ACREDITACIÓN DE PERITOS EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN.
+                                 ANTECEDENTES
+I.	El 20 de febrero de 2017, se publicó en el Diario Oficial de la Federación (en lo sucesivo, el "DOF"), el "Acuerdo mediante el cual el Pleno del Instituto Federal de Telecomunicaciones expide los Lineamientos para la Acreditación de Peritos en materia de telecomunicaciones y radiodifusión" (en lo sucesivo, los "Lineamientos"), que tienen por objeto establecer los requisitos, el procedimiento y plazos para la Acreditación de Peritos en materia de telecomunicaciones y radiodifusión.
+Los Lineamientos, de conformidad con lo dispuesto en su lineamiento PRIMERO Transitorio, entrarán en vigor a los 60 días naturales siguientes a su publicación en el DOF, es decir, el 21 de abril de 2017.
+II.	El lineamiento QUINTO de los Lineamientos, dispone que el Instituto Federal de Telecomunicaciones (en lo sucesivo, el "Instituto"), presidirá y coordinará el Comité Consultivo de Acreditación de Peritos en telecomunicaciones y radiodifusión (en lo sucesivo, el "Comité Consultivo").
+III.	El lineamiento SEXTO de los Lineamientos prevé que el Comisionado Presidente del Instituto designará al Presidente y al Secretario Técnico del Comité Consultivo, así como a sus respectivos (dos) suplentes, cargos que serán ocupados por servidores públicos del mismo Instituto que cuenten con título y cédula profesional, de preferencia, en alguna carrera de ingeniería en materia de telecomunicaciones.
+IV.	El lineamiento CUARTO Transitorio de los Lineamientos, dispone que dicha designación se efectuará dentro de los 60 días naturales contados a partir de la publicación de los multicitados Lineamientos en el DOF, es decir, el 21 de abril de 2017.
+En atención a los antecedentes anteriores y
+                                 CONSIDERANDO
+PRIMERO. Competencia del Instituto y su Comisionado Presidente. Que de conformidad con lo establecido en los artículos 28, párrafo décimo quinto de la Constitución Política de los Estados Unidos Mexicanos (en lo sucesivo, la "Constitución"), así como en los diversos 1, 2, 7 de la Ley Federal de Telecomunicaciones y Radiodifusión (en lo sucesivo, la "LFTR"), el Instituto en su carácter de órgano autónomo, tiene por objeto regular y promover la competencia y el desarrollo eficiente y la prestación de los servicios públicos de radiodifusión y telecomunicaciones mediante la regulación, promoción y supervisión del uso, aprovechamiento y explotación del espectro radioeléctrico y de las redes y el acceso a infraestructura activa, pasiva y otros insumos esenciales, a fin de garantizar lo establecido en los artículos 6o. y 7o. de la Constitución, además de ser la autoridad en materia de competencia económica en los sectores antes aludidos.
+De conformidad con los artículos 15, fracción XXVI de la LFTR, así como, en los artículos 32 y 35, fracción IX del Estatuto Orgánico del Instituto, la Unidad de Concesiones y Servicios (en lo sucesivo, la "UCS"), a través de su Dirección General de Autorizaciones y Servicios es la facultada para la acreditación de los Peritos en materia de telecomunicaciones y radiodifusión.
+Asimismo, conforme a lo dispuesto por el artículo 20, fracción XV de la LFTR con relación a lo establecido en el diverso 14, fracción VIII del Estatuto Orgánico del Instituto Federal de Telecomunicaciones (en lo sucesivo, el "Estatuto Orgánico"), es atribución del Comisionado Presidente designar a los servidores públicos del Instituto que deban participar en los Comités, Consejos y demás instancias en los que el Instituto deba formar parte.
+En ese sentido, el lineamiento SEXTO de los Lineamientos para la Acreditación de Peritos prevé que corresponde al Comisionado Presidente del Instituto designar al Presidente y al Secretario Técnico, así como a sus respectivos (dos) suplentes, que participarán en el Comité Consultivo de conformidad con lo establecido en el Capítulo IV del mismo ordenamiento.
+SEGUNDO. Del Comité Consultivo de Acreditación de Peritos en Telecomunicaciones y Radiodifusión. Que de acuerdo con el lineamiento QUINTO de los Lineamientos para la Acreditación de Peritos, el Comité Consultivo será un foro plural e incluyente de carácter técnico y de naturaleza consultiva que promueva la imparcialidad y la participación en la actividad pericial, así como el encargado de emitir una recomendación razonada y no vinculante sobre la idoneidad de cada Solicitante para ser Perito Acreditado en materia de telecomunicaciones y radiodifusión.
+De conformidad con el lineamiento SEXTO de los Lineamientos para la Acreditación de Peritos, el Comité Consultivo contará, entre otros, con un Presidente, un Secretario Técnico y sus respectivos (dos) suplentes, cargos que serán ocupados por servidores públicos del Instituto y designados por el Comisionado Presidente del mismo, quienes tendrán las funciones previstas en el Capítulo IV de los aludidos Lineamientos.
+De igual manera, el mencionado lineamiento, establece que los servidores públicos deberán contar con título y cédula profesional, de preferencia en alguna carrera de ingeniería en materia de telecomunicaciones o radiodifusión, equivalente o afín, o con estudios de posgrado afines. Aunado a lo anterior, prevé que quienes sean designados como Presidente y Secretario Técnico deberán tener un cargo no menor a Director General y, en el caso de los suplentes, a Director de Área.
+El Comité Consultivo, en términos del lineamiento SÉPTIMO de los Lineamientos para la Acreditación de Peritos, tendrá las siguientes funciones:
+  "I.	Realizar la valoración de las solicitudes, la información y la documentación presentadas por los Solicitantes para la obtención de la Acreditación de Peritos en materia de telecomunicaciones y radiodifusión, así como para la revalidación y, en su caso, para la ampliación de especialidad, y con base en ello, emitir al Instituto una recomendación razonada respecto a la idoneidad de cada Solicitante;
+  II.	Llevar a cabo las sesiones ordinarias y extraordinarias correspondientes del Comité Consultivo;
+  III.	Coadyuvar con el Instituto en la Evaluación de los Solicitantes en lo concerniente a:
+      a.	La elaboración de los Reactivos que conformarán el Examen de conocimientos para la Acreditación de Peritos, de conformidad con lo establecido en el lineamiento DÉCIMO QUINTO de estos Lineamientos; para tal efecto, cada Integrante del Comité Consultivo deberá presentar a éste, en sobre cerrado y en medio electrónico 50 Reactivos de opción múltiple (25 Reactivos para la especialidad de telecomunicaciones y 25 Reactivos para la especialidad de radiodifusión) conforme al formato establecido en el Anexo A;
+      b.	La Evaluación de las habilidades de redacción en las especialidades de telecomunicaciones y radiodifusión, de conformidad con el lineamiento DÉCIMO OCTAVO y DÉCIMO NOVENO de los presentes Lineamientos;
+      c.	La realización de entrevistas a los Solicitantes y su respectiva Evaluación, de conformidad con los lineamientos VIGÉSIMO SEGUNDO, VIGÉSIMO TERCERO Y VIGÉSIMO CUARTO, para ello, cada integrante del Comité Consultivo deberá presentar a éste, en sobre cerrado y en medio electrónico, 30 Reactivos en la forma de preguntas abiertas (10 preguntas para la especialidad de telecomunicaciones, 10 preguntas para la especialidad de radiodifusión y 10 preguntas sobre ética profesional) conforme al formato establecido en el Anexo B.
+  IV.	Emitir la Declaración de Principios del Comité Consultivo, misma que deberá reflejar los valores y las reglas bajo los cuales se conducirán los integrantes del mismo;
+  V.	Garantizar la confidencialidad de la información que con ese carácter le sea entregada, conforme al marco legal aplicable;
+  VI.	Proponer al Instituto los convenios que estime conveniente celebrar para coadyuvar en la implementación de los presentes Lineamientos;
+  VII.	Proponer al Instituto el código de ética para los Peritos Acreditados;
+  VIII.	Firmar el acta correspondiente en cada sesión en la cual se encuentren presentes;
+  IX.	Proponer al Instituto el Programa Anual de Capacitación para Peritos Acreditados, y
+  X.	Las demás que se prevean en los presentes Lineamientos."
+TERCERO. De la publicación del presente Acuerdo en el Diario Oficial de la Federación y en el portal de internet del Instituto. Bajo los principios de transparencia y máxima publicidad que deberán tener los actos del Instituto, así como con el propósito de proveer certeza y seguridad jurídica a los sectores de telecomunicaciones y radiodifusión, de los interesados en solicitar la acreditación como peritos en la materia, además de los interesados en participar en la integración del Comité Consultivo, se considera necesario publicar el presente Acuerdo en el Diario Oficial de la Federación, así como en el portal de internet del Instituto.
+Visto lo que antecede y con fundamento en lo dispuesto en los artículos 28, párrafo décimo quinto de la Constitución Política de los Estados Unidos Mexicanos; 1, 2, 7, 20, fracción XV de la Ley Federal de Telecomunicaciones y Radiodifusión; 14, fracción VIII del Estatuto Orgánico del Instituto Federal de Telecomunicaciones y los lineamientos QUINTO, SEXTO, SÉPTIMO de los Lineamientos para la Acreditación de Peritos en materia de telecomunicaciones y radiodifusión y sus Transitorios PRIMERO y CUARTO, el Comisionado Presidente del Instituto Federal de Telecomunicaciones emite el siguiente:
+                                    ACUERDO
+PRIMERO. Se designa a los servidores públicos que participarán en el Comité Consultivo de Acreditación de Peritos en telecomunicaciones y radiodifusión a que se refiere el Capítulo IV de los Lineamientos para la Acreditación de Peritos en materia de telecomunicaciones y radiodifusión, para ocupar los cargos que a continuación se indican:
+          I.	Presidente del Comité Consultivo: Comisionado Javier Juárez Mojica.
+          II.	Suplente 1 del Presidente del Comité Consultivo: Rafael Eslava Herrada, Titular de la Unidad de Concesiones y Servicios.
+          III.	Suplente 2 del Presidente del Comité Consultivo: Ricardo Castañeda Álvarez, Director General de Ingeniería del Espectro y Estudios Técnicos.
+          IV.	Secretario Técnico del Comité Consultivo: Gerardo López Moctezuma, Director General de Autorizaciones y Servicios.
+          V.	Suplente 1 del Secretario Técnico del Comité Consultivo: Edson Ariel Calderón Jiménez, Director General Adjunto de Concesiones de Radiodifusión.
+          VI.	Suplente 2 del Secretario Técnico del Comité Consultivo: Nimbe Leonor Ewald Arostegui, Directora General de Regulación Técnica.
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el portal de Internet del Instituto Federal de Telecomunicaciones, el cual entrará en vigor a partir del día hábil siguiente a su publicación.
+Ciudad de México, a los diecinueve días del mes de abril de dos mil diecisiete.- El Comisionado Presidente del Instituto Federal de Telecomunicaciones, Gabriel Oswaldo Contreras Saldívar.- Rúbrica.
+                                                                   (R.- 448270)
+                                                                               
+INSTITUTO FEDERAL DE TELECOMUNICACIONES
+CONVOCATORIA pública para participar en el procedimiento para obtener la Acreditación de Perito en materia de telecomunicaciones y/o radiodifusión.
+Al margen un logotipo, que dice: Instituto Federal de Telecomunicaciones.
+      CONVOCATORIA PÚBLICA PARA PARTICIPAR EN EL PROCEDIMIENTO PARA OBTENER LA ACREDITACIÓN DE PERITO EN MATERIA DE TELECOMUNICACIONES Y/O RADIODIFUSIÓN
+El Instituto Federal de Telecomunicaciones (en lo sucesivo, el "Instituto"), a través de la Unidad de Concesiones y Servicios (en lo sucesivo, "UCS"), con fundamento en lo dispuesto en el Sexto transitorio y lineamiento DÉCIMO SEGUNDO de los "Lineamientos para la Acreditación de Peritos en Materia de Telecomunicaciones y Radiodifusión" (en lo sucesivo, los "Lineamientos"), y artículos 32 y 35 fracción IX del Estatuto Orgánico del Instituto:
+                                    CONVOCA
+A los ciudadanos que reúnan los requisitos en los términos que establece esta Convocatoria, a participar en el procedimiento para obtener la Acreditación de Perito en materia de telecomunicaciones y/o radiodifusión, conforme las siguientes:
+                                     BASES
+    1.	OBJETIVO.
+Establecer los requisitos, calendario y método de evaluación de solicitudes para el procedimiento correspondiente al año 2017, que permitan determinar la competencia técnica del solicitante de la acreditación como perito.
+    2.	TIPOS DE ACREDITACIÓN.
+	Acreditación por primera vez;
+	Acreditación en una segunda especialidad, y
+	Acreditación Honoris Causa.
+    3.	REGISTRO DE ASPIRANTES.
+El registro de aspirantes se llevará a cabo por parte del interesado (en lo sucesivo, el "Solicitante"), mediante la presentación de una solicitud por escrito ante la Oficialía de Partes del Instituto con domicilio en Av. Insurgentes Sur #1143, Col. Nochebuena, Del. Benito Juárez, Ciudad de México, C.P. 03720, en horario de atención de lunes a jueves de 9:00 am a 6:30 pm y viernes de 9:00 am a 3:00 pm o, en su caso, mediante el envío de dicha solicitud al correo electrónico: peritos@ift.org.mx.
+Al finalizar el registro, dentro del plazo respectivo contemplado en el numeral 5 de estas Bases, el Solicitante recibirá un número de folio de participación, a través del correo electrónico proporcionado al Instituto en su solicitud. Dicho número de folio le permitirá al participante conocer el estado de su solicitud, a través del portal de internet del Instituto en el sitio destinado para el "Proceso de Acreditación de Peritos en materia de Telecomunicaciones y Radiodifusión 2017".
+El periodo de registro de aspirantes será de 15 (quince) días hábiles contados a partir del día siguiente a la publicación de la presente Convocatoria.
+    4.	REQUISITOS DE LOS SOLICITANTES.
+El Solicitante deberá adjuntar a su solicitud, copia digitalizada de la siguiente documentación en formato PDF:
+      I.	Solicitud debidamente requisitada conforme al "Anexo C", disponible en la siguiente liga:
+          http://www.ift.org.mx/tramites/solicitud-de-acreditacion-de-peritos-en-materia-de-telecomunicaciones-y-radiodifusion
+      II.	Fotografía a color, tamaño pasaporte (único requisito en formato JPEG);
+      III.	Identificación oficial con fotografía (por el anverso y reverso);
+      IV.	Comprobante de domicilio actual con antigüedad máxima de 2 meses contados a partir de la publicación de la presente Convocatoria (recibo de agua, gas, teléfono o predial);
+      V.	Cédula profesional de la licenciatura en ingeniería en comunicaciones y electrónica, afín o equivalente a ellas, expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública;
+      VI.	En su caso, cédula de estudios de posgrado expedida por la Secretaría de Educación Pública, o cualquier otro documento que permita acreditar la especialidad y/o posgrado en comunicaciones y electrónica, afín o equivalente a ellas;
+      VII.	En su caso, constancia de ser miembro regular de algún Colegio de Ingenieros en Telecomunicaciones y Radiodifusión, o en materias equivalentes o afines;
+      VIII.	Currículum Vítae conforme al "Anexo D", disponible en la siguiente liga:
+          http://www.ift.org.mx/tramites/solicitud-de-acreditacion-de-peritos-en-materia-de-telecomunicaciones-y-radiodifusion
+      IX.	Documento o documentos que permitan acreditar la experiencia o competencia profesional, por ejemplo: constancias de servicio o laborales, emitidas por entidades públicas o privadas, señalando el periodo laborado, comprobante de registro de patentes;
+      X.	Cualquier información o constancia que el Solicitante considere puede aportar al Comité Consultivo de Acreditación de Peritos en telecomunicaciones y radiodifusión (en lo sucesivo, el "Comité Consultivo"), tendiente a acreditar su aptitud para ser perito en materia de telecomunicaciones y/o radiodifusión, y
+      XI.	Comprobante del pago de aprovechamiento ("Factura"), determinado por el Pleno del Instituto mediante el "ACUERDO mediante el cual el Pleno del Instituto Federal de Telecomunicaciones derivado de la expedición de los Lineamientos para la Acreditación de peritos en materia de telecomunicaciones y radiodifusión, fija el monto de los aprovechamientos que deberán cobrarse por la prestación de diversos servicios públicos en el ejercicio de sus funciones de derecho público por los que no se establece monto específico en la Ley Federal de Derechos", publicado en el Diario Oficial de la Federación el 20 de febrero de 2017.
+En el caso de presentar la solicitud ante la Oficialía de Partes del Instituto, la copia digitalizada de la documentación deberá ingresarse a través de algún medio electrónico ("USB", "CD", etc).
+Para el caso en que el Solicitante no adjunte la documentación completa o si ésta no se encuentra en el formato requerido o si por algún error o causa tecnológica los archivos no puedan abrirse o leerse, el Instituto notificará y requerirá al solicitante, por correo electrónico y por una única vez, para que dentro de 5 (cinco) días hábiles contados a partir de que haya sido notificado vía electrónica, subsane la omisión de que se trate. Transcurrido el plazo correspondiente sin que haya sido desahogada la prevención respectiva, el trámite se dará por concluido.
+    5.	CALENDARIO.
+En la siguiente Tabla se identifican las fechas y plazos que regirán el proceso para la acreditación de peritos en materia de telecomunicaciones y/o radiodifusión.
+                         Proceso para la acreditación
+                                  Responsable
+                                   Actividad
+                                     Medio
+                                  Plazo/Fecha
+Solicitud.
+                                 Solicitante.
+Registro e Ingreso de la Solicitud ante el Instituto, adjuntando la documentación correspondiente.
+A través del correo electrónico peritos@ift.org.mx u Oficialía de Partes del Instituto.
+A partir del 12 y hasta el 30 de junio de 2017.
+
+                                  Instituto.
+Notificación al Solicitante respecto del número de folio de participación correspondiente a la Solicitud de que se trate.
+A través del correo proporcionado por el Solicitante en su Solicitud.
+A más tardar 4 (cuatro) días hábiles posteriores a la presentación de la Solicitud de Registro respectiva.
+
+                              Comité Consultivo.
+Valora la información y la documentación entregada en la Solicitud de Registro de que se trate, a efecto de determinar la experiencia profesional del Solicitante.
+Emite su recomendación razonada no vinculante al Instituto respecto de la idoneidad de los Solicitantes para continuar con el proceso de acreditación materia de la presente Convocatoria. 
+Oficio y Correo electrónico al Instituto.
+A más tardar el 1 de agosto de 2017.
+Examen de conocimientos y evaluación de habilidades de redacción.
+Instituto
+Notificación al Solicitante del resultado de la experiencia profesional acreditada.
+Selecciona e invita a los Solicitantes que podrán participar en el examen de conocimientos y en la evaluación de habilidades de redacción.
+Notificación a través del correo electrónico peritos@ift.org.mx o bien, podrá ser consultado en el portal de internet del Instituto en el sitio destinado para el "Proceso de Acreditación de Peritos en materia de Telecomunicaciones y Radiodifusión 2017".
+A más tardar el 11 de agosto de 2017.
+
+
+Aplicación del examen de conocimientos y la evaluación de habilidades de redacción a los Solicitantes.
+El que disponga el Instituto, mismo que será notificado a través de la invitación que se envíe a cada Solicitante para su participación en el examen de conocimientos y evaluación de habilidades de redacción.
+A más tardar el 18 de agosto de 2017.
+
+
+Notifica al Solicitante el resultado del examen de conocimientos y de la evaluación de habilidades de redacción. En su caso, envía invitación para la entrevista.
+Notificación a través del correo electrónico peritos@ift.org.mx o bien, podrá ser consultado en el portal de internet del Instituto en el sitio destinado para el "Proceso de Acreditación de Peritos en materia de Telecomunicaciones y Radiodifusión 2017".
+A más tardar el 25 de agosto de 2017.
+Entrevista.
+El Instituto y el Comité Consultivo.
+Realizan la entrevista al Solicitante.
+El que disponga el Instituto, mismo que será notificado a través de la invitación que se envíe a cada Solicitante para la realización de la entrevista correspondiente.
+A más tardar el 1 de septiembre de 2017.
+
+Instituto.
+Notifica al Solicitante, los resultados obtenidos durante la entrevista.
+Notificación a través del correo electrónico peritos@ift.org.mx o bien, podrá ser consultado en el portal de internet del Instituto, en el sitio destinado para el "Proceso de Acreditación de Peritos en materia de Telecomunicaciones y Radiodifusión 2017".
+A más tardar el 8 de septiembre de 2017.
+Publicación de resultados.
+Instituto.
+a)	Notificación y publicación del resultado correspondiente de cada Solicitante que continúe a esta etapa del proceso.
+b)	En su caso, el Instituto asigna el número de registro de acreditación;
+c)	Expide la constancia de inscripción por 2 años.
+d)	Inscribe en el Registro Nacional de Peritos Acreditados en materia de telecomunicaciones y radiodifusión publicado en la página de Internet del Instituto.
+Para el caso del inciso a), los resultados se darán a conocer a cada Solicitante través del correo electrónico peritos@ift.org.mx o bien, podrá ser consultado en el portal de internet del Instituto, en el sitio destinado para el "Proceso de Acreditación de Peritos en materia de Telecomunicaciones y Radiodifusión 2017".
+Para los incisos b) y c), la Acreditación y constancia de inscripción será notificada mediante oficio dirigido al Solicitante de que se trate.
+Pare el inciso d), la inscripción en el Registro Nacional de Peritos Acreditados en materia de telecomunicaciones y radiodifusión dentro del portal de internet del Instituto.
+Antes del 6 de octubre de 2017.
+    6.	SISTEMA DE PUNTAJE.
+El Instituto, a través de la UCS, coordinará la aplicación del examen y las evaluaciones correspondientes para cada especialidad, aplicando las siguientes ponderaciones:
+                                     Etapa
+                                    Puntos
+I.	Examen de Conocimientos
+                                  40 máximo
+II.	Evaluación de Habilidades de Redacción 
+                                  10 máximo
+III.	Experiencia Profesional
+                                  30 máximo
+IV.	Entrevista
+                                  20 máximo
+Total de puntos
+                                      100
+Mínimo de puntos a obtener por el Solicitante (necesarios para obtener la Acreditación materia de la presente Convocatoria)
+                                      75
+    7.	DEL EXAMEN Y EVALUACIONES CORRESPONDIENTES.
+El Solicitante deberá asistir puntualmente al lugar, en la fecha y hora indicadas, para tener derecho a la aplicación del examen y evaluaciones correspondientes. Los aspirantes deberán:
+a)	Exhibir copia simple del correo electrónico mediante el cual le fue notificado su número de folio de participación;
+b)	Firmar la lista de asistencia y acreditar su identidad, mediante la presentación del original de alguna de las siguientes identificaciones:
+      1.	Credencial para votar con fotografía vigente;
+      2.	Cédula profesional, o
+      3.	Pasaporte vigente.
+c)	Ejecutar las tareas e instrucciones del personal encargado de aplicar el examen y las evaluaciones correspondientes y dar inicio y término a las mismas en los horarios establecidos, y
+d)	Observar buena conducta y conducirse con respeto durante la aplicación del examen y las evaluaciones correspondientes.
+El examen y las evaluaciones correspondientes serán aplicadas exclusivamente en las fechas programadas y deberán concluirse dentro del tiempo establecido para tal efecto.
+No se aceptarán solicitudes de prórrogas y/o recalendarizaciones para la aplicación del examen y las evaluaciones correspondientes, ni se aceptarán justificantes de inasistencia de cualquier índole.
+No obstante lo anterior, por caso fortuito o de fuerza mayor, el Instituto podrá reprogramar las fechas para la aplicación del examen y las evaluaciones correspondientes, situación que, de verificarse, se hará del conocimiento de los Solicitantes a través del correo electrónico peritos@ift.org.mx y del portal de internet del Instituto en el sitio destinado para el "Proceso de Acreditación de Peritos en materia de Telecomunicaciones y Radiodifusión 2017", con al menos 48 horas de anticipación a la fecha original de realización de los mismos.
+7.1. Sobre el examen de conocimientos.
+Los reactivos que conformarán el examen de conocimientos versarán sobre los temas y bibliografía establecidos en la presente Convocatoria.
+La calificación del examen de conocimientos debe ser considerada sobre un total de 100 puntos porcentuales y el resultado de éste representará 40 puntos como máximo del total de puntos a obtener por Solicitante; los puntos obtenidos por el Solicitante serán proporcionales a la calificación de dicho examen.
+La notificación del resultado del examen de conocimientos se realizará conforme a lo descrito en el Calendario contenido en el numeral 5 de la presente Convocatoria.
+7.2. Sobre la evaluación de habilidades de redacción.
+La Evaluación de habilidades de redacción será acreditada mediante una prueba diseñada y aplicada por el Instituto como un ejercicio práctico de elaboración de documentación relacionada con la especialidad a acreditarse; por ejemplo, la elaboración de un Dictamen Técnico (memoria o estudio técnico).
+La calificación de la evaluación de habilidades de redacción debe ser considerada sobre un total de 100 puntos porcentuales. El resultado de esta evaluación representará 10 puntos como máximo del total de puntos a obtener por Solicitante.
+La notificación del resultado de la evaluación de habilidades de redacción se realizará conforme a lo descrito en el Calendario contenido en el numeral 5 de la presente Convocatoria.
+7.3. Sobre la entrevista.
+La entrevista con el Solicitante tendrá una duración máxima de 15 (quince) minutos efectivos. Los cuestionamientos que realizarán el Instituto y los Integrantes del Comité Consultivo serán considerados de la siguiente manera:
+                                     Temas
+                               No. de preguntas
+Conocimientos de las especialidades de telecomunicaciones y radiodifusión y, en su caso, de las Disposiciones Técnicas.
+2 preguntas a realizar, lo que equivale a un 80% de la calificación
+Ética profesional.
+1 pregunta a realizar, lo que equivale a un 20 % de la calificación
+La notificación del resultado de la entrevista se realizará conforme a lo descrito en el Calendario contenido en el numeral 5 de la presente Convocatoria.
+7.4. Sobre la experiencia profesional.
+Para la valoración de la experiencia profesional, el Comité Consultivo considerará la documentación presentada para tal efecto por el Solicitante, otorgando los puntajes proporcionales de conformidad con los años de experiencia relevantes documentados y mostrados en la siguiente Tabla:
+                       Años de experiencia documentados
+                                    Puntos
+Más de 15 años
+                                      30
+8 años y un día a 15 años
+                                      25
+4 años y un día a 8 años
+                                      20
+1 año y un día a 4 años
+                                      15
+Hasta el primer año
+                                      10
+
+Para acreditar la experiencia profesional servirá todo documento, público o privado, que haga constar las actividades laborales realizadas y que cuente con fecha y lugar de expedición, así como firma autógrafa y, en su caso, sello de la institución o empresa que corresponda.
+El resultado de la valoración representará 30 puntos como máximo del total de puntos a obtener por Solicitante. La notificación del resultado obtenido de la experiencia profesional, se realizará conforme a lo descrito en el Calendario contenido en el numeral 5 de la presente Convocatoria.
+El Solicitante que acredite su excelencia profesional laboral en una institución internacional o en actividades internacionales relevantes en materia de telecomunicaciones o radiodifusión, demostrable a través de constancias laborales o de actividad internacional, previa valoración del Instituto, y que cuente con un registro activo de por lo menos 25 (veinticinco) años como perito, demostrable con constancias de registro en algún Colegio de Ingenieros en Telecomunicaciones y Radiodifusión durante dicho periodo; podrá ser merecedor a la Acreditación Honoris Causa de Perito Acreditado en materia de telecomunicaciones y radiodifusión otorgada por el Instituto en reconocimiento a su trayectoria.
+Dicha Acreditación Honoris Causa será expedida con vigencia indefinida; sin embargo, estará sujeta al cumplimiento de las obligaciones como Perito Acreditado en materia de telecomunicaciones y radiodifusión establecidas en los "Lineamientos para la Acreditación de peritos en materia de telecomunicaciones y radiodifusión".
+El Solicitante a la Acreditación Honoris Causa sólo será evaluado por su excelencia profesional; por tanto, no estará sujeto al examen de conocimientos, a la Evaluación de habilidades de redacción, ni a la entrevista.
+    8.	TEMARIO Y BIBLIOGRAFÍA.
+Temario
+                              Telecomunicaciones
+                                Radiodifusión
+                         1.	Ondas Electromagnéticas.
+                             a.	Espectro radioeléctrico.
+                                i.	Definiciones.
+                                ii.	Clasificación.
+                                iii.	Atribución.
+                         2.	Antenas.
+                             a.	Diagramas de radiación
+                             b.	Impedancia.
+            3.	Interferencia y compatibilidad electromagnética.
+            4.	Cálculo de los límites de exposición para seres humanos a radiaciones electromagnéticas no ionizantes.
+5.	Enlaces de microondas.
+    a.	Equipos de microondas para sistemas del servicio fijo multicanal punto a punto y punto a multipunto.
+5.	Servicios auxiliares a la radiodifusión y sus frecuencias.
+6.	Redes de telecomunicaciones.
+    a.	Alámbricas:
+       i.	LAN.
+       ii.	Telefonía.
+       iii.	Redes ópticas.
+    b.	Inalámbricas.
+       i.	WLAN y WPAN.
+       ii.	WMAN (GSM, 3GPP, LTE)).
+       iii.	Radiocomunicación especializada en flotillas.
+6.	Servicios de Televisión Digital Radiodifundida.
+7.	Comunicación vía satélite.
+    a.	Tipos de órbitas y su uso.
+    b.	Segmento espacial y terrestre.
+    c.	Servicios (Fijo, Móvil, Exploración, etc.).
+7.	Radio AM y FM.
+8.	Sistemas inalámbricos con tecnología celular que operan en la banda de 800 MHz
+8.	Radio Digital Terrestre.
+9.	Cálculo de Área de cobertura.
+9.	Radiodifusión por satélite
+10.	Dispositivos de radiocomunicaciones de Corto Alcance
+10.	Potencia y patrones de radiodifusión de una estación radiodifusora y cálculo de áreas de servicio
+11.	Requerimientos técnicos mínimos de equipo terminal móvil a homologarse en México
+11.	Estudio de productos de intermodulación, pruebas de comportamiento y estudio de campo de convivencia entre servicios que utilizan la misma estructura.
+Bibliografía.
+1)	E. DAHLMAN, S. PARKVALL y J. SKOLD, 4G: LTE / LTE-Advanced for mobile broadband, Segunda ed., San Diego, California: Academic Press, 2013, p. 544.
+2)	H. VENGHAUS y N. GROTE, Fibre Optic Communication; Key Devices, Segunda ed., Berlín; Nueva York: Springer International Publishing, 2012.
+3)	K. PAHLAVAN y P. KRISHNAMURTHY, Networking fundamentals: Wide, local and personal area communications, Primera ed., Chippenham: John Wiley & Sons, 2009, p. 656.
+4)	Unión Internacional de Telecomunicaciones, ITU Handbook on satellite communications, Tercera ed., John Wiley & Sons, 2002.
+5)	J. L. SALINA y P. SALINA, Next Generation Networks: Perspectives and Potentials, West Sussex: John Wiley & Sons, 2007.
+6)	A. F. MOLISCH, Wireless Communications, Segunda ed., John Wiley & Sons, 2011.
+7)	T. JYRKI y J. PENTTINEN, The Telecommunications Handbook: Engineering guidelines for fixed, mobile and satellite systems, Primera ed., John Wiley & Sons, 2015.
+8)	W. TOMASI, Sistemas de Comunicaciones Electrónicas, Cuarta ed., G. Trujano Mendoza, Ed., México: Pearson Educación, 2003.
+9)	H. LEHPAMER, Microwave transmission Networks, Segunda ed., McGraw-Hill, 2010.
+10)	Ley Federal de Telecomunicaciones y Radiodifusión, publicada en el Diario Oficial de la Federación el 14 de julio de 2014.
+11)	Instituto Federal de Telecomunicaciones, <<Términos y definiciones aplicables al Cuadro Nacional de Atribución de Frecuencias,>> [En línea]:
+http://www.ift.org.mx/sites/default/files/contenidogeneral/espectro-radioelectrico/1.terminosydefiniciones.pdf.
+12)	Instituto Federal de Telecomunicaciones, <<Cuadro Nacional de Atribución de Frecuencias,>> 3 Marzo 2017. [En línea].
+http://www.ift.org.mx/sites/default/files/contenidogeneral/espectro-radioelectrico/cuadronacionaldeatribuciondefrecuenciasa.pdf.
+13)	Instituto Federal de Telecomunicaciones, <<Inventario de bandas de frecuencias de uso libre,>> [En línea].
+http://www.ift.org.mx/sites/default/files/contenidogeneral/espectro-
+radioelectrico/espectro-de-uso-libre-vf-accesible.docx.
+14)	Instituto Federal de Telecomunicaciones, <<ACUERDO MEDIANTE EL CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES CLASIFICA LA BANDA DE FRECUENCIAS DE 57-64 GHz COMO ESPECTRO LIBRE Y EXPIDE LAS CONDICIONES TÉCNICAS DE OPERACIÓN.,>> 5 Abril 2017. [En línea].
+http://www.ift.org.mx/sites/default/files/conocenos/pleno/sesiones/acuerdoliga/pift050417172.pdf.
+15)	Unión Internacional de Telecomunicaciones, <<Informe UIT-R SM.2153-5; Parámetros técnicos y de funcionamiento de los dispositivos de radiocomunicaciones de corto alcance y utilización del espectro por los mismos,>> Junio 2015. [En línea].
+https://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-SM.2153-5-2015-PDF-S.pdf.
+16)	Comisión Federal de Telecomunicaciones, <<Regulación Satelital en México,>> [En línea].
+http://www.ift.org.mx/sites/default/files/contenidogeneral/espectro-radioelectrico/regulacionsatelitalenmexicoestudioyacciones19-06-2013-final.pdf.
+17)	Instituto Federal de Telecomunicaciones, <<ACUERDO por el cual se expide la Disposición Técnica IFT-001-2015: Especificaciones y requerimientos para la instalación y operación de las estaciones de radiodifusión sonora en amplitud modulada en la banda de 535 kHz a 1705 kHz,>> 31 Agosto 2015. [En línea].
+http://www.ift.org.mx/sites/default/files/2015_08_31_ift-001-2015_dof.pdf.
+18)	Instituto Federal de Telecomunicaciones, <<ACUERDO mediante el cual el Pleno del Instituto Federal de Telecomunicaciones expide la Disposición Técnica IFT-002-2016, Especificaciones y requerimientos para la instalación y operación de las estaciones de radiodifusión sonora en frecuencia modulada...,>> 5 Abril 2016. [En línea].
+http://www.ift.org.mx/sites/default/files/dofpift170316102_1.pdf.
+19)	Instituto Federal de Telecomunicaciones, <<ACUERDO mediante el cual el Pleno del Instituto Federal de Telecomunicaciones expide la Disposición Técnica IFT-013-2016: Especificaciones y requerimientos mínimos para la instalación y operación de estaciones de televisión, equipos auxiliares y ...,>> 30 Diciembre 2016. [En línea].
+http://www.ift.org.mx/sites/default/files/2016-12-30dof-diariooficialdelafederacion.pdf.
+20)	Secretaría de Comunicaciones y Transportes.- Comisión Federal de Telecomunicaciones., <<NORMA OFICIAL MEXICANA NOM-084-SCT1-2002, TELECOMUNICACIONES-RADIOCOMUNICACION-ESPECIFICACIONES TECNICAS DE LOS EQUIPOS TRANSMISORES DESTINADOS AL SERVICIO MOVIL DE RADIOCOMUNICACION ESPECIALIZADA DE FLOTILLAS.,>> 17 Abril 2003. [En línea].
+http://dof.gob.mx/nota_detalle.php?codigo=697557&fecha=17/04/2003.
+21)	Secretaría de Comunicaciones y Transportes.- Comisión Federal de Telecomunicaciones., <<NORMA OFICIAL MEXICANA NOM-088/2-SCT1-2002, TELECOMUNICACIONES-RADIOCOMUNICACIONES-EQUIPOS DE MICROONDAS PARA SISTEMAS FIJO MULTICANAL PUNTO A PUNTO Y PUNTO A MULTIPUNTO-PARTE II: TRANSPORTE,>> 21 Abril 2003. [En línea].
+http://dof.gob.mx/nota_detalle.php?codigo=697729&fecha=21/04/2003.
+22)	Instituto Federal de Telecomunicaciones, <<ACUERDO mediante el cual el Pleno del Instituto Federal de Telecomunicaciones modifica el diverso por el que se atribuyen frecuencias del espectro radioeléctrico para prestar servicios auxiliares a la radiodifusión, y se establece el procedimiento para...,>> 19 Noviembre 2015. [En línea].
+http://dof.gob.mx/nota_detalle.php?codigo=5416009&fecha=19/11/2015.
+23)	Secretaría de Comunicaciones y Transportes, <<NORMA Oficial Mexicana NOM-081-SCT1-1993, Sistemas de radiotelefonía con tecnología celular que operan en la banda de 800 MHz,>> 19 Agosto 1994. [En línea].
+http://dof.gob.mx/nota_detalle.php?codigo=4730218&fecha=19/08/1994.
+24)	Unión Internacional de Telecomunicaciones, <<Recommendation ITU-T K.52: Guidance on complying with limits for human exposure to electromagnetic fields >>, 27 de febrero de 2017. [En línea].
+https://www.itu.int/rec/T-REC-K.52-201612-I/es
+25)	Institute of Electrical and Electronics Engineers, <<IEEE standards for safety levels with respect to human exposure to radio frequency electromagnetic fields, 3kHz to 300 GHz>>, IEEE Std C95.1, 2005 Edition, 19 de Abril de 2006. [En línea].
+http://emfguide.itu.int/pdfs/C95.1-2005.pdf
+26)	Unión Internacional de Telecomunicaciones, <<ITU-T Recommendation K.70: Mitigation techniques to limit human exposure to EMFs in the vicinity of radiocommunication stations>>, 4 de Noviembre de 2008. [En línea].
+https://www.itu.int/rec/T-REC-K.70/es
+27)	Unión Internacional de Telecomunicaciones, <<Recommendation ITU-T K.61: Guidance on measurement and numerical prediction of electromagnetic fields for compliance with human exposure limits for telecommunication installations>>, 20 de Noviembre de 2008. [En línea].
+http://emfguide.itu.int/pdfs/T-REC-K.61-200802.pdf
+    9.	PAGO DEL APROVECHAMIENTO DETERMINADO POR EL PLENO DEL INSTITUTO PARA LA ACREDITACIÓN DE PERITOS, AMPLIACIÓN DE ESPECIALIDAD Y ACREDITACIÓN HONORIS CAUSA.
+A efecto de que los interesados puedan realizar el pago de aprovechamiento correspondiente y obtener el comprobante que deberán adjuntar a la solicitud para su registro como aspirantes para obtener la acreditación de perito en materia de telecomunicaciones y/o radiodifusión, deberán:
+      a)	Obtener y llenar el "Formato de datos generales telecomunicaciones", el cual podrá descargar en la siguiente liga, o bien directamente en la ventanilla de trámites de pago del Instituto, situada en Avenida Insurgentes Sur 1143, Planta Baja, Colonia Noche Buena, Delegación Benito Juárez en la Ciudad de México con un horario de atención de lunes a viernes de 9:00 a 14:30 hrs.
+          http://www.ift.org.mx/tramites/informaci%C3%B3n-sobre-pagos
+      b)	A efecto de efectuar el pago correspondiente, se deberá solicitar al Instituto la "Hoja de ayuda", a través del correo ingresos@ift.org.mx, adjuntando el archivo con el "Formato de datos generales" debidamente requisitado, o bien presentándolo directamente en la ventanilla de trámites de pago del Instituto, situada en Avenida Insurgentes Sur 1143, Planta Baja, Colonia Noche Buena, Delegación Benito Juárez en la Ciudad de México con un horario de atención de lunes a viernes de 9:00 a 14:30 hrs.
+      c)	Una vez efectuado el pago y a efecto de obtener el comprobante correspondiente (Factura), deberá ingresar a la siguiente liga:
+          https://contraprestaciones.ift.org.mx/siiftweb/#/verificacion
+          Si se tiene alguna duda para la obtención de la factura, en la siguiente liga podrá consultar la "Guía rápida para Verificación y Facturación" que le orientará.
+          https://goo.gl/WVcuWY
+          La factura correspondiente, también podrá solicitarse directamente en la ventanilla de trámites de pago del Instituto, situada en Avenida Insurgentes Sur 1143, Planta Baja, Colonia Noche Buena, Delegación Benito Juárez en la Ciudad de México con un horario de atención de lunes a viernes de 9:00 a 14:30 hrs.
+Los montos de los pagos del aprovechamiento correspondientes, serán los contenidos en el "ACUERDO mediante el cual el Pleno del Instituto Federal de Telecomunicaciones derivado de la expedición de los Lineamientos para la Acreditación de peritos en materia de telecomunicaciones y radiodifusión, fija el monto de los aprovechamientos que deberán cobrarse por la prestación de diversos servicios públicos en el ejercicio de sus funciones de derecho público por los que no se establece monto específico en la Ley Federal de Derechos", publicado en el Diario Oficial de la Federación el 20 de febrero de 2017.
+--------------------------------------------------------------------------------
+"Los interesados en recibir los servicios conforme a los conceptos que a continuación se establecen, deberán pagar los siguientes aprovechamientos:
+  a)	Por el estudio de la solicitud, y en su caso acreditación de perito por primera vez ....................................................................................................................... $6,234.09
+  b)	(...)
+  c)	Por el estudio de la solicitud, y en su caso acreditación de perito en una segunda especialidad........................................................................................................ $2,405.55
+  d)	Por el estudio de la solicitud, y en su caso acreditación Honoris Causa Indefinida ...................................................................................................................... $1,580.00"
+    10.	CONDICIONES GENERALES.
+Primera.- El Instituto salvaguardará la protección de los datos personales del Registro Nacional de Peritos Acreditados en materia de telecomunicaciones y radiodifusión en los términos señalados por la legislación en materia de transparencia, acceso a la información pública y de protección de datos personales, así como demás disposiciones jurídicas aplicables. Para estos efectos, únicamente serán publicados en el portal de Internet del Instituto la siguiente información del Registro Nacional de Peritos: el número de la acreditación, nombre completo del Perito, correo electrónico, la especialidad o especialidades acreditadas y, en su caso, la versión pública del Currículum Vítae que el Perito presente para estos efectos, de conformidad con el lineamiento TRIGÉSIMO SEGUNDO de los Lineamientos.
+Segunda.- Los Peritos en telecomunicaciones y radiodifusión podrán acreditarse simultáneamente en las dos especialidades: telecomunicaciones y radiodifusión.
+Para llevarlo a cabo, el Solicitante deberá requerir la acreditación correspondiente para cada especialidad y cumplir satisfactoriamente con el Proceso para la Acreditación de Peritos respectivo a cada materia.
+Tercera.- Una vez concluido el Registro de los aspirantes, el Instituto utilizará como único medio de comunicación con los Solicitantes, el correo electrónico peritos@ift.org.mx.
+Cuarta.- Los plazos establecidos en la presente Convocatoria se consideran en días y horas hábiles, de conformidad con el calendario anual de labores aprobado por el Pleno del Instituto Federal de Telecomunicaciones y publicado en el Diario Oficial de la Federación el 21 de diciembre de 2016.
+Quinta.- En caso de modificación a las fechas, horas o lugares establecidos en la presente Convocatoria, el Instituto notificará a los Solicitantes a través del correo electrónico peritos@ift.org.mx, con al menos 48 horas de anticipación a la fecha original de realización de los mismos.
+Sexta.- El Instituto se reserva el derecho de requerir en cualquier momento a los Solicitantes, la documentación original para el cotejo correspondiente.
+Séptima.- Publíquese en el Diario Oficial de la Federación para los efectos legales conducentes.
+Atentamente
+Ciudad de México, a 9 de junio de 2017.- El Titular de la Unidad de Concesiones y Servicios, Rafael Eslava Herrada.- Rúbrica.
+                                                                   (R.- 450651)

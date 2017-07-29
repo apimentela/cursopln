@@ -1,0 +1,25 @@
+body, html {
+	max-width: 800px;
+	margin: auto;
+}
+
+h1 {
+	clear:both;
+	margin-left:5%;
+	margin-right:5%
+}
+
+.encabezado {
+	text-align: center;
+}
+
+.encabezado .logo {
+	display: inline;
+}
+
+.encabezado .logo img{
+	max-width: 28%;
+	max-height: 60px;
+	margin-left:2%;
+	margin-right:2%
+}

@@ -7,6 +7,10 @@ input[type=radio]{
 	display:none;
 }
 
+input[type=checkbutton]{
+	display:none;
+}
+
 h1 {
 	max-width: 800px;
 	font-size:5vmin;
@@ -76,7 +80,7 @@ h2 {
 	max-height:15px;
 }
 
-.info-button label{
+label{
 	cursor: pointer;
 }
 

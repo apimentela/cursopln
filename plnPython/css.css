@@ -7,7 +7,7 @@ input[type=radio]{
 	display:none;
 }
 
-input[type=checkbutton]{
+input[type=checkbox]{
 	display:none;
 }
 
@@ -67,6 +67,17 @@ h2 {
 	padding:1%;
 }
 
+.herramientas .corpus-block{
+	border-radius:20px;
+	background:#FAFAE6;
+}
+
+.herramientas .corpus-block .elemento{
+	display:inline-block;
+	width:20%;
+	padding:2%;
+}
+
 .herramientas .info-button{
 	display:inline-block;
 	width:45%;
@@ -107,6 +118,11 @@ label{
 	overflow:hidden;
 }
 
+.herramientas .corpus-block{
+	height:0px;
+	overflow:hidden;
+}
+
 input[type=radio]:checked + .info-button img{
 	border-radius:5px;
 	padding:2px;
@@ -115,12 +131,21 @@ input[type=radio]:checked + .info-button img{
     border-bottom-color: green;
 }
 
+.herramientas .corpus-block img{
+	max-width:80%;
+	max-height:120px;
+}
+
 #info-anaconda:checked ~ .anaconda-info {
 	height: auto;
 }
 
 #info-corpus:checked ~ .corpus-info {
 	height: auto;
+}
+
+input[type=checkbox]:checked + .corpus-block{
+	height:auto;
 }
 
 .contacto .contenido {

@@ -1,0 +1,769 @@
+INSTITUTO FEDERAL DE TELECOMUNICACIONES
+ACUERDO mediante el cual el Pleno del Instituto Federal de Telecomunicaciones aprueba y emite los Lineamientos mediante los cuales el Instituto Federal de Telecomunicaciones establece los criterios para el cambio de frecuencias de estaciones de Radiodifusión Sonora que operan en la banda de amplitud modulada a frecuencia modulada.
+Al margen un logotipo, que dice: Instituto Federal de Telecomunicaciones.
+ACUERDO MEDIANTE EL CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES APRUEBA Y EMITE LOS LINEAMIENTOS MEDIANTE LOS CUALES EL INSTITUTO FEDERAL DE TELECOMUNICACIONES ESTABLECE LOS CRITERIOS PARA EL CAMBIO DE FRECUENCIAS DE ESTACIONES DE RADIODIFUSIÓN SONORA QUE OPERAN EN LA BANDA DE AMPLITUD MODULADA A FRECUENCIA MODULADA.
+                                 ANTECEDENTES
+1.	Acuerdo de Cambio de Frecuencia 2008. El 15 de septiembre de 2008 se publicó en el Diario Oficial de la Federación (en lo sucesivo, el "DOF") el "Acuerdo por el que se establecen los requisitos para llevar a cabo el cambio de frecuencias autorizadas para prestar el servicio de radio y que operan en la banda de Amplitud Modulada, a fin de optimizar el uso, aprovechamiento y explotación de un bien del dominio público en transición a la radio digital." (en lo sucesivo, el "Acuerdo 2008").
+2.	Decreto de Reforma Constitucional en materia de telecomunicaciones y radiodifusión. Con fecha 11 de junio de 2013, se publicó en el DOF el "Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27o., 28o., 73o., 78o., 94o. y 105o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones" (en lo sucesivo, el "Decreto"), mediante el cual se creó el Instituto Federal de Telecomunicaciones (en lo sucesivo,  el "Instituto"), como un órgano autónomo con personalidad jurídica y patrimonio propios, cuyo objeto es regular, promover y supervisar el uso, aprovechamiento y explotación del espectro radioeléctrico, las redes y la prestación de los servicios de radiodifusión y telecomunicaciones, además de ser la autoridad en materia de competencia económica en los sectores de los servicios antes aludidos.
+3.	Expedición de la Ley Federal de Telecomunicaciones y Radiodifusión. Con fecha 14 de julio  de 2014, fue publicado en el DOF el "Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión", (en lo sucesivo, el "Decreto de Ley") el cual, en términos de lo dispuesto por su Artículo Primero transitorio, entró en vigor treinta días naturales siguientes a su publicación, esto es, el 13 de agosto de 2014.
+4.	Expedición del Estatuto Orgánico del Instituto Federal de Telecomunicaciones. Con fecha 4  de septiembre de 2014 se publicó en el DOF el "Estatuto Orgánico del Instituto Federal de Telecomunicaciones" (en lo sucesivo, el "Estatuto"), mismo que entró en vigor el 26 de septiembre  de 2014.
+5.	Acuerdo del programa de trabajo para reorganizar el espectro. Con fecha 16 de diciembre de 2014, en su XXXVIII Sesión Extraordinaria, el Pleno del Instituto, mediante acuerdo P/IFT/EXT/161214/278, aprobó el "Acuerdo por el que el Pleno del Instituto Federal de Telecomunicaciones aprueba los elementos a incluirse en el Programa Nacional de Espectro Radioeléctrico y en el Programa de Trabajo para garantizar el uso óptimo de las bandas 700 MHz y 2.5 GHz bajo principios de acceso universal, no discriminatorio, compartido y continuo; y emite el Programa de Trabajo para Reorganizar el Espectro Radioeléctrico a Estaciones de Radio y Televisión." (en lo sucesivo, el "Acuerdo 2014"), el cual fue remitido el 18 de diciembre del mismo año al Secretario de Comunicaciones y Transportes con la finalidad de que dicho acuerdo y su anexo, el "Programa de Trabajo para Reorganizar el Espectro Radioeléctrico a Estaciones de Radio y Televisión" (en lo sucesivo, el "Programa de Trabajo"), fueran considerados e incluidos en el Programa Nacional de Espectro Radioeléctrico.
+6.	Consulta Pública. Con fecha 17 de junio de 2016, el Pleno del Instituto emitió el Acuerdo mediante el cual se sometió a consulta pública el anteproyecto de "LINEAMIENTOS MEDIANTE LOS CUALES EL INSTITUTO FEDERAL DE TELECOMUNICACIONES ESTABLECE LOS CRITERIOS PARA EL CAMBIO DE FRECUENCIAS DE ESTACIONES DE RADIODIFUSIÓN SONORA QUE OPERAN EN LA BANDA DE AMPLITUD MODULADA A FRECUENCIA MODULADA" (en lo sucesivo, el "Anteproyecto") ello en cumplimiento con lo establecido en el artículo 51 de la Ley Federal de Telecomunicaciones y Radiodifusión (en lo sucesivo, la "Ley"). La consulta pública se llevó a cabo por un periodo de 30 días hábiles, del 20 de junio al 12 de agosto del 2016.
+7.	Opinión de la Coordinación de Mejora Regulatoria. La Unidad de Política Regulatoria elaboró y sometió a consideración de la Coordinación General de Mejora Regulatoria el Análisis de Impacto Regulatorio, para que emitiera la opinión no vinculante que correspondiera, lo cual sucedió mediante el oficio IFT/221/UPR7DG-DTR/229/2016 de fecha 17 de octubre de 2016. El Análisis de Impacto Regulatorio elaborado se encuentra publicado en el portal de Internet del Instituto.
+En virtud de los antecedentes señalados y,
+                                 CONSIDERANDO
+PRIMERO. COMPETENCIA DEL INSTITUTO.- Que de conformidad con lo establecido en el artículo 6o. apartado B, fracción II, de la Constitución Política de los Estados Unidos Mexicanos (en lo sucesivo, la "Constitución"), las telecomunicaciones son servicios públicos de interés general, por lo que el Estado garantizará que sean prestados en condiciones de competencia, calidad, pluralidad, cobertura universal, interconexión, convergencia y continuidad.
+El párrafo décimo quinto del artículo 28 de la Constitución establece que el Instituto es un órgano autónomo, que tiene por objeto el desarrollo eficiente de la radiodifusión y las telecomunicaciones, conforme a lo dispuesto en la propia Constitución y en los términos que fijen las leyes.
+Para tal efecto, tiene a su cargo la regulación, promoción y supervisión del uso, aprovechamiento y explotación del espectro radioeléctrico, los recursos orbitales, los servicios satelitales, las redes y la prestación de los servicios de radiodifusión y telecomunicaciones, así como del acceso a infraestructura activa, pasiva y otros insumos esenciales, en términos del precepto de la Constitución invocado, así como del artículo 7o. de la Ley, garantizando lo establecido en el artículo 6o. de la Constitución. Asimismo, de conformidad con el párrafo décimo sexto del artículo 28 de la Constitución, el Instituto es la autoridad en materia de competencia económica de los sectores de radiodifusión y telecomunicaciones, por lo que en éstos ejercerá en forma exclusiva las facultades que establecen el artículo 28 de la Constitución y la Ley y la Ley Federal de Competencia Económica para la Comisión Federal de Competencia Económica.
+De igual forma, de conformidad con la fracción IV del párrafo vigésimo del artículo 28 de la Constitución, el Instituto podrá emitir disposiciones administrativas de carácter general exclusivamente para el cumplimiento de su función regulatoria en el sector de su competencia. Asimismo, conforme a lo establecido por el artículo 15, fracción I, de la Ley, corresponde al Instituto expedir disposiciones administrativas de carácter general, lineamientos, ordenamientos técnicos en materia de telecomunicaciones y radiodifusión; así como demás disposiciones para el cumplimiento de lo dispuesto en la Ley. Por otra parte, de conformidad con el artículo 7o., segundo párrafo, de la Ley y la fracción I del artículo 6o. del Estatuto, el Instituto tiene la atribución de regular, promover y supervisar el uso, aprovechamiento y explotación eficiente del espectro radioeléctrico, las redes de telecomunicaciones y la prestación de los servicios de radiodifusión y telecomunicaciones, así como el acceso a infraestructura activa, pasiva e insumos esenciales.
+Adicionalmente, el artículo Décimo Octavo transitorio del Decreto de Ley, establece que en la determinación del programa de trabajo, el Instituto procurará el desarrollo del mercado relevante de la radio,  la migración del mayor número posible de estaciones de concesionarios de la banda AM a FM, el fortalecimiento de las condiciones de competencia y la continuidad en la prestación de los servicios.
+Por lo anterior, y con fundamento en los artículos 6o., apartado B, fracción II y 28, párrafos décimo quinto, décimo sexto y vigésimo, fracción IV, de la Constitución, 1, 2, 7, 15 fracción I de la Ley, Décimo Octavo transitorio del Decreto de Ley y 1, 4, fracción I, y 6o. fracción I del Estatuto, el Pleno del Instituto es competente para emitir el presente Acuerdo y los Lineamientos respectivos.
+SEGUNDO. DIVERSIDAD EN LA RADIODIFUSIÓN.- Que la radiodifusión satisface una necesidad sociocultural por lo que debe de estar al alcance de toda la sociedad. Además, por su incidencia en la opinión pública, independientemente de su impacto en aspectos culturales, la radiodifusión constituye una importante herramienta informativa y de cohesión social. Con base en estos preceptos, el Artículo 6o. de la Constitución señala que:
+      "(...) La radiodifusión es un servicio público de interés general, por lo que el Estado garantizará que sea prestado en condiciones de competencia y calidad y que brinde los beneficios de la cultura a toda la población, preservando la pluralidad y la veracidad de la información, así como el fomento de los valores de la identidad nacional, contribuyendo a los fines establecidos en el artículo 3o.. De esta Constitución. (...)".
+El 26 de agosto de 2011, la UNESCO, en la 187ª reunión de su consejo ejecutivo, señala a la letra en el punto 13 del orden del día, lo siguiente referente a la radio:
+      "(...) tecnología de bajo costo, que permite recibir y transmitir, y que ofrece la posibilidad de llegar a audiencias mundiales, nacionales o locales. Se aduce que la producción radiofónica es sencilla y poco costosa, lo que resulta ideal en zonas con bajos índices de alfabetización o para llegar a públicos especializados restringidos, como minorías lingüísticas o culturales. Para muchas comunidades es el único medio de comunicación disponible y, ciertamente, el único abierto a las voces y preocupaciones de las mujeres, los jóvenes y los pobres. La radio es también un componente esencial de los sistemas de comunicación de emergencia, ideal para respaldar actividades de socorro en casos de desastre. La incorporación de tecnologías digitales está abriendo nuevas posibilidades para la radio, tales como la radio por Internet y los "podcasts" que se transmiten por Internet a ordenadores o dispositivos móviles, reduciendo aún más las dificultades de acceso y facilitando una difusión más amplia (...)".
+De acuerdo con la Comisión Interamericana de Derechos Humanos, es clara la función esencial que desempeñan los medios de comunicación para promover un verdadero debate democrático sobre los asuntos públicos y para cuantificar también el proceso de selección de preferencias en los asuntos privados o individuales. Por esta razón, la Corte Interamericana de Derechos Humanos ha sido enfática al señalar que la libertad y la diversidad deben ser principios rectores de la regulación de la radiodifusión.
+Así mismo, la Declaración Conjunta sobre diversidad en la radiodifusión de la OEA del 12 de diciembre de 2007 establece que "los diferentes tipos de medios de comunicación (públicos independientes del Poder Ejecutivo, privados con fines de lucro, y comunitarios o privados sin fines de lucro) deben ser reconocidos y deben poder tener acceso, en condiciones de equidad, a todas las plataformas de transmisión disponibles, incluyendo el nuevo dividendo digital."
+Por otro lado, a través de los "Indicadores de Desarrollo Mediático: Marco para evaluar los medios de comunicación social", publicados en 2008, la UNESCO clarifica la necesidad de que la gestión del espectro esté orientada a tener un entorno pluralista de medios. De acuerdo con ésta, se debe asegurar que los planes de uso del mismo compartan equitativamente las frecuencias de difusión entre los medios públicos, privados y comunitarios.
+Tomando en cuenta lo anterior, se establece el alcance de este acuerdo para todos los tipos de concesionarios de radiodifusión sonora: comerciales, públicos y sociales.
+TERCERO. REORGANIZACIÓN DEL ESPECTRO.- Que el Acuerdo 2008, entre otras cosas, buscaba mejorar las condiciones de competencia en el mercado de la radiodifusión sonora y, derivado de éste, 525 estaciones que operaban en la banda de Amplitud Modulada (en lo sucesivo, "AM") solicitaron y obtuvieron su cambio de frecuencia a la banda de Frecuencia Modulada (en lo sucesivo, "FM"). Por otro lado, 171 estaciones de AM establecidas en 48 localidades del país no pudieron presentar solicitud de cambio de frecuencia ya que no existió suficiencia espectral para llevar a cabo esta migración.
+El Decreto de Ley estableció en su artículo Décimo Octavo transitorio que el Instituto debería procurar, entre otros, la migración del mayor número posible de estaciones de la banda de AM a FM:
+      "(...) En la determinación del programa de trabajo, el Instituto procurará el desarrollo del mercado relevante de la radio, la migración del mayor número posible de estaciones de concesionarios de la banda AM a FM, el fortalecimiento de las condiciones de competencia y la continuidad en la prestación de los servicios (...)".
+Posteriormente, en el Acuerdo 2014 se establecieron acciones específicas con plazos para su ejecución. Las acciones 2 y 3 de dicho acuerdo se encuentran directamente relacionadas con el proceso de cambio de frecuencia de AM a FM:
+      Acción 2. Operación de estaciones de radiodifusión en FM en una misma localidad con separación entre portadoras principales inferiores a 800 kHz.
+-	Realizar los estudios técnicos necesarios que permitan comprobar la operación de estaciones de radiodifusión en FM con separaciones inferiores a 800 kHz entre sus portadoras principales, incluyendo el uso de transmisiones digitales.
+-	Previa consulta pública, emitir disposiciones de carácter general para el uso eficiente de la banda con las nuevas consideraciones.
+      Acción 3. Evaluación de alternativas para la migración de estaciones de radio en AM a FM.
+-	Definir y evaluar alternativas regulatorias para que los concesionarios de radio que operan estaciones de AM puedan contar con operaciones en la banda de FM.
+-	Previa consulta pública, implementar las alternativas que, en su caso, se hayan encontrado como viables para la migración del servicio de radiodifusión sonora de AM a FM.
+Como resultado, el día 5 de abril de 2016 fue publicada en el DOF la Disposición Técnica IFT-002-2016 "Especificaciones y Requerimientos para la Instalación y Operación de las Estaciones de Radiodifusión Sonora en Frecuencia Modulada en la Banda de 88 MHz a 108 MHz". En el Capítulo 12.1 del Anexo Único de dicha disposición se establece que:
+      "(...) el Instituto podrá establecer una separación entre frecuencias portadoras adyacentes de 400 kHz como mínimo, siempre y cuando se garantice su operación conforme a los parámetros establecidos en la presente Disposición Técnica. (...)".
+Obteniendo, con esto, la posibilidad de disponer de un mayor número de frecuencias en dicha banda, a partir del cual el Instituto llevó a cabo un análisis para identificar la disponibilidad de espectro en las localidades a que hace referencia este considerando, tomando en cuenta las disposiciones técnicas aplicables y los acuerdos bilaterales que tiene celebrados México con otros países. Con base en esto se identificaron 69 frecuencias disponibles, distribuidas en 40 localidades.
+Por otro lado, se destaca que la función de la radio social comunitaria e indígena es impulsar la inclusión social de los sectores históricamente marginados (como las comunidades indígenas), fomentando la creación de espacios públicos informativos para su desarrollo. Las concesiones sociales comunitarias e indígenas fueron creadas para favorecer a estas comunidades, y sus intereses son: el desarrollo de su comunidad, la difusión de su cultura, el servicio comunitario y la preservación de su lengua materna.
+La Comisión Interamericana de Derechos Humanos y la Relatora Especial para la Libertad de Expresión han reconocido que los medios de comunicación comunitarios cumplen en nuestra región una función fundamental para el ejercicio pleno de la libertad de expresión y el derecho de acceso a la información, han establecido que resulta necesario que los Estados los reconozcan y que se contemplen reservas de espectro para este tipo de medios, así como condiciones equitativas de acceso a las licencias que diferencien las realidades distintas de los medios no comerciales.
+El artículo 2o de la Constitución Política de los Estados Unidos Mexicanos establece que los tres niveles de gobierno tienen la obligación de extender la red de comunicaciones con el propósito de asegurar la integración de sus comunidades:
+      "(...) B. La Federación, los Estados y los Municipios, para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, establecerán las instituciones y determinarán las políticas necesarias para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con ellos.
+      Para abatir las carencias y rezagos que afectan a los pueblos y comunidades indígenas, dichas autoridades, tienen la obligación de:
+      (...)
+      VI. Extender la red de comunicaciones que permita la integración de las comunidades, mediante la construcción y ampliación de vías de comunicación y telecomunicación. Establecer condiciones para que los pueblos y las comunidades indígenas puedan adquirir, operar y administrar medios de comunicación, en los términos que las leyes de la materia determinen. (...)"
+Derivado de lo anterior, para el otorgamiento de concesiones de radiodifusión sonora para uso comunitario e indígena, el artículo 90 de la Ley prevé segmentos reservados de la banda de radiodifusión sonora en FM:
+      "(...) El Instituto deberá reservar para estaciones de radio FM comunitarias e indígenas el diez por ciento de la banda de radiodifusión sonora de FM, que va de los 88 a los 108 MHz. Dicho porcentaje se concesionará en la parte alta de la referida banda. (...)".
+Por lo anterior, y con el fin de cumplir con el mandato de Ley, se ha reservado un número de frecuencias igual al número de las frecuencias ubicadas en la parte alta de la banda de FM (106 MHz a 108 MHz) para cada localidad. Dando como resultado 22 frecuencias reservadas para estaciones comunitarias e indígenas.
+Por lo tanto, para el proceso de cambio de frecuencia, se dispone de 47 frecuencias en FM distribuidas en 40 localidades, como se muestra en la siguiente tabla.
+                                       
+
+Respecto a la tabla anterior, se deben tomar en consideración las siguientes observaciones:
+      La columna A) señala el estado de la República Mexicana en donde se encuentran las localidades objeto de este proceso.
+      La columna B) señala las localidades objeto del cambio de frecuencia.
+      La columna C) señala las localidades tomadas como referencia para la determinación de las frecuencias disponibles en determinado grupo de localidades.
+      La columna D) señala las coordenadas geográficas de la localidad de referencia, mismas que el Instituto utilizó como referencia para determinar las frecuencias disponibles.
+Con la finalidad de maximizar la asignación de nuevas frecuencias en FM, evitando interferencias, se determina que las estaciones que migren a FM serán Clase A, es decir, que su máxima potencia radiada aparente sea de 3 kW, con un alcance máximo de 24 km y con una separación de 400 kHz entre portadoras adyacentes.
+Cabe mencionar que para el caso de poblaciones situadas en la franja fronteriza con los Estados Unidos, el uso de las frecuencias indicadas está sujeta a los procesos de coordinación con las autoridades competentes de los Estados Unidos de América, de conformidad con los instrumentos bilaterales vigentes aplicables.
+Además, de acuerdo con el artículo 2 de la Ley, en todo momento el Estado mantendrá el dominio originario, inalienable e imprescriptible sobre el espectro radioeléctrico.
+Con base en este precepto, el artículo 105 de la Ley establece lo siguiente:
+      "El Instituto podrá cambiar o rescatar bandas de frecuencias o recursos orbitales en cualquiera de los siguientes casos:
+      I. Cuando lo exija el interés público;
+      II. Por razones de seguridad nacional, a solicitud del Ejecutivo Federal;
+      III. Para la introducción de nuevas tecnologías;
+      IV. Para solucionar problemas de interferencia perjudicial;
+      V. Para dar cumplimiento a los tratados internacionales suscritos por el Estado Mexicano;
+      VI. Para el reordenamiento de bandas de frecuencias, y
+      VII. Para la continuidad de un servicio público.
+      Tratándose de cambio de frecuencias, el Instituto podrá otorgar directamente al concesionario nuevas bandas de frecuencias mediante las cuales se puedan ofrecer los servicios originalmente prestados. (...)".
+Así pues, el Instituto cuenta con las facultades para reordenar las bandas de frecuencia cuando se presente alguno de los supuestos mencionados.
+Así mismo, el artículo 106 de la Ley señala que el cambio de bandas de frecuencia podrá realizarse de oficio o a solicitud de parte interesada y que cuando el concesionario solicite el cambio, el Instituto deberá resolver dentro de los 90 (noventa) días hábiles siguientes a la fecha de presentación de solicitud.
+Por otro lado, la Ley Federal de Derechos establece las cuotas que se tendrán que pagar por el estudio y, en su caso, la autorización de las solicitudes de modificaciones técnicas, administrativas, operativas y legales de los títulos de concesión en materia de telecomunicaciones y radiodifusión.
+CUARTO. Migración de estaciones de AM a FM.- Que en virtud de lo señalado en el considerando que antecede, el Instituto considera conveniente otorgar la posibilidad a aquellos concesionarios que operan en la banda de AM, de solicitar el cambio para operar en la banda de FM.
+El acuerdo establece claramente el proceso que deberán de seguir aquellos concesionarios que deseen migrar sus estaciones de AM a FM en aquellas localidades establecidas en el presente acuerdo. Con base en el artículo 106 de la Ley, el cambio de bandas de frecuencias podrá realizarse a solicitud de parte interesada, así mismo, el artículo 155 de la Ley establece que para cualquier cambio, en las estaciones radiodifusoras y sus complementarios, que afecte a las condiciones de propagación o de interferencia, el concesionario deberá presentar solicitud al Instituto, acompañada de la opinión favorable de la autoridad competente en materia aeronáutica.
+Por otro lado, con el fin de asegurar un adecuado proceso de análisis de las solicitudes presentadas y de otorgar certeza a los participantes, se considera oportuno establecer que cuando la solicitud correspondiente no contenga los datos y/o información requeridos por el Instituto, éste prevendrá al solicitante para que dentro del plazo de 15 (quince) días hábiles, contados a partir del siguiente a aquel en que surta efectos la notificación correspondiente, subsane la omisión o defecto correspondiente. Lo anterior, conforme al artículo 17-A de la "Ley Federal del Procedimiento Administrativo" que establece:
+      "Cuando los escritos que presenten los interesados no contengan los datos o no cumplan con los requisitos aplicables, la dependencia u organismo descentralizado correspondiente deberá prevenir a los interesados, por escrito y por una sola vez, para que subsanen la omisión dentro del término que establezca la dependencia u organismo descentralizado, el cual no podrá ser menor de cinco días hábiles contados a partir de que haya surtido efectos la notificación; transcurrido el plazo correspondiente sin desahogar la prevención, se desechará el trámite. (...)".
+Dado que el espectro radioeléctrico es un bien escaso e insuficiente para atender la demanda del sector de la radiodifusión y que el número de frecuencias en FM obtenidas a través de la reducción en la separación de frecuencias portadoras adyacentes, es considerablemente menor que el número de estaciones que operan en AM, es necesario establecer criterios de prelación claros y transparentes que permitan la asignación eficiente del espectro disponible.
+El proceso de migración busca cumplir principalmente con el objetivo migrar al mayor número posible de estaciones de la banda de AM a FM como lo establece el artículo Décimo Octavo transitorio:
+      "(...)En la determinación del programa de trabajo, el Instituto procurará el desarrollo del mercado relevante de la radio, la migración del mayor número posible de estaciones de concesionarios de la banda AM a FM, el fortalecimiento de las condiciones de competencia y la continuidad en la prestación de los servicios."
+Considerando que la audiencia en FM es considerablemente mayor que la de AM, al procurar la migración del mayor número posible de estaciones de AM a FM, se fortalece la función social de la radio. Además, se busca que el proceso de migración sea equitativo, beneficiando al mayor número de Grupos de Interés Económico (en lo sucesivo, "GIE").
+Con el establecimiento de criterios de prelación objetivos y claros, se busca fortalecer las condiciones de competencia y de libre concurrencia, y lograr el máximo aprovechamiento del espectro radioeléctrico disponible
+Por lo anterior, y con el propósito de llevar a cabo un proceso imparcial, se ha determinado que las primeras frecuencias disponibles se otorguen bajo la regla de que cada GIE solamente pueda recibir una frecuencia disponible por localidad, y, con la finalidad de que no queden frecuencias sin ser utilizadas, en caso de que hubiese más frecuencias disponibles, se determina que en los casos de aquellas localidades en que aún se cuente con frecuencias disponibles, después de haber otorgado una frecuencia a cada GIE, bajo los criterios de prelación, éstas se otorguen dando preferencia a los GIE que cuenten con menos estaciones en FM.
+En otro orden de ideas, la radiodifusión cohesiona, integra y conecta a la población con la información que motiva la reflexión y perfila las conductas y ánimos con los que se participa e interviene en la vida nacional. Desde diversos niveles de gobierno y campos institucionales, los medios radioelectrónicos llegan a la población con información y contenidos definidos. De acuerdo con la OEA, los medios públicos de comunicación pueden y deben desempeñar una función esencial para asegurar la pluralidad y diversidad de voces necesarias en una sociedad democrática. Su papel es fundamental a la hora de proveer contenidos no necesariamente comerciales, de alta calidad, articulados con las necesidades informativas, educativas y culturales de la población. Así pues, contribuyen al mejoramiento de la vida social y el desarrollo del país.
+Tomando en cuenta estos preceptos, el artículo 56 de la Ley establece:
+      "(...) El Instituto garantizará la disponibilidad de bandas de frecuencias del espectro radioeléctrico o capacidad de redes para el Ejecutivo Federal para seguridad nacional, seguridad pública, conectividad de sitios públicos y cobertura social y demás necesidades, funciones, fines y objetivos a su cargo. Para tal efecto, otorgará de manera directa, sin contraprestación, con preferencia sobre terceros, las concesiones de uso público necesarias, previa evaluación de su consistencia con los principios y objetivos que establece esta Ley para la administración del espectro radioeléctrico, el programa nacional de espectro radioeléctrico y el programa de bandas de frecuencias. (...)".
+Con base en este mandato, se establece dar preferencia a las concesiones de uso público del Ejecutivo Federal en el proceso de migración.
+Por otro lado, los concesionarios que obtengan la autorización del Instituto para llevar a cabo el cambio de frecuencia de AM a FM, tendrán que iniciar operaciones en FM de acuerdo con el plazo establecido por el artículo 156 de la Ley:
+      "El Instituto señalará un plazo no mayor de ciento ochenta días, para el inicio de la prestación de los servicios de una emisora así como para los cambios de ubicación de la planta transmisora de la misma, tomando en cuenta los cálculos que presente el concesionario, de conformidad con los planos aprobados.
+      En el caso de modificaciones de otros parámetros técnicos de operación de la estación, el Instituto fijará plazos no mayores a noventa días naturales, salvo que el concesionario presente información con la que sustente que requiere de un plazo mayor para la realización de dichos trabajos (...)".
+El cambio de frecuencia de AM a FM puede suponer cambios de ubicación de la planta transmisora, por lo que para iniciar operaciones en FM, se considera oportuno establecer el plazo de 180 (ciento ochenta) días a partir del día siguiente a aquel en que la aprobación de los parámetros técnico haya sido notificada.
+En otro orden de ideas, tomando en cuenta la tendencia del sector de la radiodifusión sonora a ofrecer transmisiones híbridas, esto podría obligar a los concesionarios que migren a FM a modernizar su infraestructura en un futuro cercano con el objetivo de ser competitivos y aprovechar las ventajas inherentes a la Radio Digital Terrestre (en lo sucesivo, "RDT").
+Así mismo, la estandarización del sistema In Band On Chanel (en lo sucesivo, "IBOC") para la transmisión de RDT se oficializó con el "Acuerdo por el que se adopta el estándar para la radio digital terrestre y se establece la política para que los concesionarios y permisionarios de radiodifusión en las bandas 535-1705 kHz y 88-108 MHz, lleven a cabo la transición a la tecnología digital en forma voluntaria", publicado el 16 de junio de 2011 en el DOF. En dicho acuerdo se estableció que los concesionarios y permisionarios de radiodifusión que deseen iniciar la transición a la RDT deberán utilizar el estándar IBOC en modo híbrido, y transmitir, cuando menos, la réplica digital de la señal analógica en su área de cobertura.
+El sistema de radiodifusión sonora IBOC posee la ventaja de facilitar la penetración progresiva de sistemas de radiodifusión digital a través de la transmisión híbrida de señales analógicas y digitales en la misma porción del espectro; con ello, se evita la necesidad de otorgar nuevos canales de espectro para transmitir la señal digital. Esta convivencia, además de permitir el uso eficiente del espectro radioeléctrico, permite una gradual y razonada transición a la radiodifusión digital.
+Algunas de las principales características de este sistema son la transmisión de una calidad de audio superior, semejante a la de un disco compacto, así como la transmisión de datos a través de sus portadoras adyacentes, los cuales permiten difundir información adicional tal como: nombre de la radiodifusora, título de la canción o programa, información sobre teléfonos en cabina e incluso servicios de información adicionales tales como el clima, noticias, tráfico, transmisión de imágenes relativas a la programación, avisos, etc.
+Además, con la adopción de IBOC, se abre la posibilidad de transmitir, además de la señal analógica, hasta cuatro canales digitales en el mismo ancho de banda, lo que se conoce como multiprogramación, logrando un uso más eficiente del espectro. La multiprogramación es de suma importancia para impulsar la penetración de la RDT, ya que el principal atractivo para que el público considere adquirir receptores digitales es tener la posibilidad de acceder a contenidos que no se encuentra disponibles en el servicio analógico.
+Dentro de las ventajas de la multiprogramación, inherentes a la RDT, se pueden mencionar las siguientes:
+      La oportunidad de comercializar canales de multiprogramación en caso de que el concesionario no tenga los contenidos suficientes para utilizarlos todos los canales adicionales.
+      Los usuarios pueden recibir beneficios específicos, por ejemplo, alertas de tránsito, de clima o de emergencias.
+      Ampliación en la oferta de contenidos. Al existir una mayor cantidad de oferta, habrá impactos positivos para la audiencia y para los anunciantes. Además, se premiará la generación de contenidos relevantes.
+      Facilidad para acceder a un "canal" de radio (canal de programación en Multiprogramación), ya que no tendrán que invertir en infraestructura o espectro.
+Por otro lado, la penetración de los receptores de RDT en el país ha sido lenta y los incentivos para su comercialización son bajos, dada la poca oferta de contenidos en esta plataforma.
+Al día de hoy existen en el país aproximadamente 32 estaciones en FM operando con tecnología digital, lo cual es bajo comparado con otros países: Estados Unidos (204), Reino Unido (238), Suiza (123), Noruega (108).
+Tomando en cuenta que el avance de la radio digital puede impulsarse desde la transmisión, a través de la adopción del estándar IBOC por parte de los concesionarios de radiodifusión sonora, y desde la recepción, a través de la comercialización de receptores digitales, con fundamento en las facultades del Instituto, se establece que los concesionarios de radiodifusión sonora cuya solicitud de cambio de frecuencia sea autorizada, migren a FM utilizando el estándar IBOC.
+Como se mencionó anteriormente, la RDT brinda la posibilidad de multiprogramar, lo que trae consigo muchas ventajas. Sin embargo, el artículo 8 de los "Lineamientos Generales para el Acceso a la Multiprogramación" establece:
+      "El acceso a la Multiprogramación es voluntario por parte de los Concesionarios de Radiodifusión (...)".
+Por lo que el concesionario tiene la libertad para multiprogramar de acuerdo a su conveniencia y posibilidades. Así pues, estará en condiciones, en caso de estar interesado, de brindar acceso a canales de programación en multiprogramación a otros programadores; incluidos, entre otros, programadores nacionales, independientes, extranjeros o concesionarios de radiodifusión.
+En otro orden de ideas, en tanto se lleva a cabo el proceso de cambio de frecuencias materia de este acuerdo, es necesario garantizar la prestación del servicio de radio a efecto de proteger la función social que éste desempeña, por lo que resulta conveniente que los concesionarios que se acojan a los beneficios de este acuerdo continúen utilizando la frecuencia de AM por un tiempo que no exceda de un año, siempre y cuando transmitan de manera simultánea la misma programación en ambas bandas. El Instituto podrá extender este plazo en caso de que dicha señal sea la única que se recibe en cierta zona o localidad.
+La autorización de cambio de frecuencia no debe modificar el plazo de vigencia de las concesiones o permisos otorgadas originalmente y además no debe extinguir las obligaciones contraídas por el titular de la concesión durante el uso, aprovechamiento o explotación de la frecuencia de AM objeto de transición. El artículo 107 de la Ley establece lo siguiente:
+      "En el caso del cambio de frecuencias por cualquiera de los supuestos previstos en el artículo 105, el concesionario deberá aceptar, previamente, las nuevas condiciones que al efecto establezca el Instituto.
+      Una vez que el concesionario acepte las nuevas condiciones, el Instituto realizará las modificaciones pertinentes a la concesión y preverá lo necesario para su explotación eficiente. El concesionario quedará sujeto a cumplir con las disposiciones legales, reglamentarias o administrativas aplicables.
+      En ningún caso se modificará el plazo de vigencia de la concesión. En el supuesto de que el concesionario no acepte el cambio o las condiciones establecidas por el Instituto, éste podrá proceder al rescate de las bandas de frecuencias (...)".
+Además, vale la pena mencionar que el artículo 113 de la Ley establece:
+      "La concesión única podrá prorrogarse por el Instituto, siempre y cuando el concesionario lo hubiere solicitado dentro del año previo al inicio de la última quinta parte del plazo de vigencia de la concesión, se encuentre al corriente en el cumplimiento de las obligaciones establecidas en la Ley y demás disposiciones aplicables, así como en su título de concesión y acepte, previamente, las nuevas condiciones que, en su caso, se establezcan. El Instituto resolverá lo conducente dentro de los ciento ochenta días hábiles siguientes a la presentación de la solicitud (...)".
+De igual manera, el artículo 114 de la Ley señala:
+      "Para el otorgamiento de las prórrogas de concesiones de bandas de frecuencias o de recursos orbitales, será necesario que el concesionario la solicite al Instituto dentro del año previo al inicio de la última quinta parte de la vigencia de la concesión, se encuentre al corriente en el cumplimiento de las obligaciones establecidas en la Ley y demás disposiciones aplicables, así como en su título de concesión. (...)"
+Por lo que debe quedar claro que la migración y la prórroga de las concesiones son trámites distintos y en consecuencia, deben tramitarse de manera independiente.
+QUINTO. CONSULTA PÚBLICA.- Que en cumplimiento con el artículo 51 de la Ley, bajo los principios de transparencia y participación ciudadana, el Instituto llevó a cabo la consulta pública de mérito del 20 de junio al 12 de agosto, dicha consulta arrojó 13 (trece) respuestas recibidas de 12 (doce) participantes, de los cuales, 7 (siete) corresponden a personas físicas y 5 (cinco) a personas morales, las cuales se valoraron y, en su caso, robustecieron los presentes lineamientos. En particular, derivado de dichas participaciones se modificaron y ajustaron diversas definiciones y se realizaron adecuaciones del Anteproyecto. 
+Los comentarios recibidos mediante la consulta pública antes mencionada fueron analizados y, en su caso, atendidos a fin de consolidar el proyecto de Lineamientos, las respuestas a todos los comentarios recibidos se encuentran publicadas en el portal de Internet del Instituto.
+Con fundamento en los artículos 28 párrafos vigésimo fracción IV de la Constitución Política de los Estados Unidos Mexicanos; 1, 2, 7, 15 fracción I, 17 fracción I, 54, 56 de la Ley Federal de Telecomunicaciones y Radiodifusión y el Décimo Octavo transitorio del Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión, y 4, fracción I, 6, fracción I, del Estatuto Orgánico del Instituto Federal de Telecomunicaciones, el Pleno del Instituto resuelve emitir el siguiente:
+                                    ACUERDO
+PRIMERO. Se aprueban y emiten los Lineamientos mediante los cuales el Instituto Federal de Telecomunicaciones establece los criterios para el cambio de frecuencias de estaciones de Radiodifusión Sonora que operan en la Banda de Amplitud Modulada a Frecuencia Modulada, mismos que como Anexo se adjuntan al presente Acuerdo.
+SEGUNDO. Publíquense los Lineamientos mediante los cuales el Instituto Federal de Telecomunicaciones establece los criterios para el cambio de frecuencias de estaciones de Radiodifusión Sonora que operan en la Banda de Amplitud Modulada a Frecuencia Modulada en el Diario Oficial de la Federación y en el portal de Internet del Instituto.
+El Comisionado Presidente, Gabriel Oswaldo Contreras Saldívar.- Rúbrica.- Los Comisionados: Ernesto Estrada González.- Rúbrica.- María Elena Estavillo Flores.- Rúbrica.- Adolfo Cuevas Teja.- Rúbrica.- Adriana Sofía Labardini Inzunza.- Mario Germán Fromow Rangel.- Rúbrica.- Javier Juárez Mojica.- Rúbrica.
+El presente Acuerdo fue aprobado por el Pleno del Instituto Federal de Telecomunicaciones en su XXXVII Sesión Ordinaria celebrada el 4 de noviembre de 2016, en lo general por unanimidad de votos de los Comisionados Gabriel Oswaldo Contreras Saldívar, Ernesto Estrada González, Adriana Sofía Labardini Inzunza, María Elena Estavillo Flores, Mario Germán Fromow Rangel, Adolfo Cuevas Teja y Javier Juárez Mojica.
+En lo particular, el Comisionado Ernesto Estrada González manifestó que se aparta de la exclusión del requisito de demostrar la capacidad económica de los concesionarios.
+La Comisionada Adriana Sofía Labardini Inzunza manifestó voto en contra del párrafo cuarto, del inciso b), del Artículo 6, de los Lineamientos.
+Por su parte, la Comisionada María Elena Estavillo Flores manifestó voto en contra de que se permita asignar más de una frecuencia por Grupo de Interés Económico; y en contra de la definición de Grupo de Interés Económico contenida en los Lineamientos.
+Asimismo, el Comisionado Adolfo Cuevas Teja manifestó voto en contra del Artículo 9 de los Lineamientos, por hacer obligatorio el uso del estándar IBOC; así como del Artículo 10, por lo que hace a la parte en la que se señala la obligación de transmitir en forma simultánea la señal híbrida de la banda de Frecuencia Modulada.
+Lo anterior, con fundamento en los párrafos vigésimo, fracciones I y III; y vigésimo primero, del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos; artículos 7, 16 y 45 de la Ley Federal de Telecomunicaciones y Radiodifusión; así como en los artículos 1, 7, 8 y 12 del Estatuto Orgánico del Instituto Federal de Telecomunicaciones, mediante Acuerdo P/IFT/041116/612.
+La Comisionada Adriana Sofía Labardini Inzunza previendo su ausencia justificada a la sesión, emitió su voto razonado por escrito, en términos de los artículos 45 tercer párrafo de la Ley Federal de Telecomunicaciones y Radiodifusión, y 8 segundo párrafo del Estatuto Orgánico del Instituto Federal  de Telecomunicaciones.
+LINEAMIENTOS MEDIANTE LOS CUALES EL INSTITUTO FEDERAL DE TELECOMUNICACIONES ESTABLECE LOS CRITERIOS PARA EL CAMBIO DE FRECUENCIAS DE ESTACIONES DE RADIODIFUSIÓN SONORA QUE OPERAN EN LA BANDA DE AMPLITUD MODULADA A FRECUENCIA MODULADA
+                                  CAPÍTULO I
+                            Disposiciones generales
+Artículo 1.- El objeto de los presentes Lineamientos es establecer los criterios, procedimientos y requisitos para realizar la migración a la Banda de Frecuencia Modulada del mayor número de estaciones de Radiodifusión Sonora que operan en la Banda de Amplitud Modulada, que son aplicables a las localidades referidas en el Anexo 1.
+Artículo 2.- Para los efectos de los presentes Lineamientos, se entenderá por:
+I.	Banda de Frecuencia Modulada. Segmento del espectro radioeléctrico comprendido de 88 a  108 MHz;
+II.	Banda de Amplitud Modulada. Segmento del espectro radioeléctrico comprendido de 535 a  1705 kHz;
+III.	Concesionario de Radiodifusión Sonora. Titular de una concesión para prestar el servicio de Radiodifusión Sonora para uso comercial, público o social, entre estos, se comprenden a los permisionarios de radiodifusión en términos del artículo Décimo Séptimo Transitorio del "Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión" publicado en el Diario Oficial de la Federación el 14 de julio de 2014;
+IV.	Grupo de Interés Económico. Conjunto de sujetos de derecho con intereses comerciales y financieros afines que coordinan sus actividades para participar en los mercados y actividades económicas, a través del control o influencia decisiva, directa o indirecta, que uno de sus integrantes ejerce sobre los demás;
+V.	Instituto. El Instituto Federal de Telecomunicaciones;
+VI.	Instructivo en materia de Competencia Económica. Documento que tiene la finalidad de orientar a los Concesionarios de Radiodifusión Sonora interesados respecto a los requisitos de información y documentación que deberán presentar en conjunto con la Solicitud de Cambio de Frecuencia, a fin de que se emita la opinión en materia de competencia económica, mismo que se encuentra contenido en el Anexo 2 de los presentes Lineamientos;
+VII.	Ley. Ley Federal de Telecomunicaciones y Radiodifusión;
+VIII.	Lineamientos. Lineamientos mediante los cuales el Instituto establece los criterios, procedimientos y requisitos para el cambio de frecuencias de estaciones de radiodifusión sonora que operan en la Banda de Amplitud Modulada a la Banda de Frecuencia Modulada;
+IX.	Radiodifusión Sonora. Propagación de ondas electromagnéticas de señales de audio, haciendo uso, aprovechamiento o explotación de las bandas de frecuencia del espectro radioeléctrico, atribuidas por el Instituto a tal servicio, con el que la población puede recibir de manera directa y gratuita las señales de su emisor utilizando los dispositivos idóneos para ello, y
+X.	Solicitud de Cambio de Frecuencia. Trámite mediante el cual el Concesionario de Radiodifusión Sonora que opera en la Banda de Amplitud Modulada solicita el cambio de frecuencia para operar en la Banda de Frecuencia Modulada.
+Las definiciones comprendidas en el presente artículo pueden ser utilizadas indistintamente en singular  o plural.
+Además de estas definiciones, se tendrán las previstas en la Ley y demás disposiciones legales, reglamentarias y administrativas aplicables.
+                                 Capítulo II
+                  De las solicitudes de cambio de frecuencia
+Artículo 3.- Los Concesionarios de Radiodifusión Sonora que operan en la Banda de Amplitud Modulada en las localidades señaladas en el Anexo 1 de los presentes Lineamientos, podrán solicitar ante el Instituto el cambio de frecuencia para operar una estación en la Banda de Frecuencia Modulada. Lo anterior, conforme a la disponibilidad espectral mostrada para cada localidad en el Anexo 1 y atendiendo a los plazos y requisitos establecidos en los presentes Lineamientos.
+Artículo 4.- Para estar en posibilidad de solicitar el cambio de frecuencia a que se refiere el artículo 3, los Concesionarios de Radiodifusión Sonora, que operan en la Banda de Amplitud Modulada deberán presentar ante el Instituto, para cada estación que deseen migrar, una Solicitud de Cambio de Frecuencia, dirigida al titular de la Unidad de Concesiones y Servicios, y que cumpla con los siguientes requisitos:
+a.	Datos Generales del Concesionario de Radiodifusión Sonora.
+(i)	Nombre, razón o denominación social;
+(ii)	La acreditación legal de la personalidad con la que se ostenta el interesado y/o representante legal;
+(iii)	Nombre comercial o marca, en su caso;
+(iv)	Distintivo de llamada, frecuencia asignada, localidad/población principal a servir, fecha de expedición, vigencia de la Concesión o Permiso;
+(v)	Domicilio para oír y recibir notificaciones;
+(vi)	Correo electrónico y teléfono del interesado y/o representante legal, y
+(vii)	Cédula de Identificación Fiscal o Constancia de Registro Fiscal.
+b.	Comprobante de pago de derechos por el estudio y, en su caso, la autorización de la solicitud de cambio de bandas de frecuencias en términos de la Ley Federal de Derechos.
+c.	Documentación e información establecida en el Instructivo en materia de Competencia Económica que se detalla en el Anexo 2 de los Lineamientos.
+                                 Capítulo III
+                  De la autorización de cambio de frecuencia
+Artículo 5.- El Instituto analizará y resolverá la Solicitud de Cambio de Frecuencia dentro de un plazo de 90 (noventa) días hábiles, contados a partir del día siguiente a la presentación de la misma, verificando que no se afecte la continuidad en la prestación de los servicios.
+Cuando la Solicitud de Cambio de Frecuencia no contenga los datos o no cumpla con los requisitos aplicables, o bien, que sea necesario que el solicitante realice aclaraciones, el Instituto, dentro de los primeros 30 (treinta) días hábiles, contados a partir de la recepción de la Solicitud de Cambio de Frecuencia, prevendrá al solicitante por escrito y por única ocasión, para que en el plazo de 15 (quince) días hábiles contados a partir del día hábil siguiente a aquel en que surta efectos su notificación, subsane la omisión, aclaración o defecto correspondiente.
+En el supuesto de que el solicitante no desahogue la prevención realizada por el Instituto dentro del plazo referido en el párrafo anterior, se desechará el trámite.
+El plazo con que cuenta el Instituto para resolver la Solicitud de Cambio de Frecuencia se suspenderá al surtir efecto la notificación de la prevención que corresponda y se reanudará al día siguiente hábil en que el solicitante desahogue la prevención.
+Artículo 6.- El Instituto resolverá sobre la Solicitud de Cambio de Frecuencia, considerando los siguientes criterios:
+a.	Se dará preferencia a las concesiones de uso público del Ejecutivo Federal.
+b.	Se otorgará el cambio de frecuencia a aquellos interesados que no sean titulares de concesiones para operar estaciones de radiodifusión en la Banda de Frecuencia Modulada que cubran la localidad de interés o que, perteneciendo a Grupos de Interés Económico, éstos no tengan estaciones en la Banda de Frecuencia Modulada que cubran la localidad de interés.
+	Una vez otorgado el cambio conforme al párrafo anterior, y de aún contar con frecuencias disponibles, se otorgará el cambio de frecuencia a los concesionarios que cuenten únicamente con una estación en la Banda de Frecuencia Modulada en la localidad o cuyos Grupos de Interés Económico, en caso de pertenecer a alguno, cuenten únicamente con una estación en la Banda de Frecuencia Modulada en la localidad.
+	De seguir contando con frecuencias disponibles en la Banda de Frecuencia Modulada, una vez otorgados los cambios de frecuencia conforme a los párrafos anteriores, en la asignación de dichas frecuencias, se dará preferencia a los concesionarios o Grupos de Interés Económico que tengan menos estaciones en la Banda de Frecuencia Modulada en la localidad.
+	Únicamente se autorizará un cambio de frecuencia por Grupo de Interés Económico, salvo en los casos de aquellas localidades en que aún se cuente con frecuencias disponibles, y que todavía haya estaciones en la Banda de Amplitud Modulada. Para estos casos, las frecuencias disponibles se otorgarán dando preferencia a los Grupos de Interés Económico que cuenten con menos estaciones en la Banda de Frecuencia Modulada.
+	En igualdad de condiciones, se privilegiará al solicitante que no cuente o cuente con menos concesiones para el servicio de televisión radiodifundida en la localidad.
+c.	En aquellas localidades en las que existiendo solicitantes en condiciones de igualdad y que no se pueda otorgar el cambio de frecuencias conforme a los criterios antes descritos, el Instituto someterá a sorteo las frecuencias entre aquellos concesionarios en igualdad de condiciones.
+	El sorteo se llevará a cabo en las instalaciones del Instituto, en el que podrá estar presente un representante de cada interesado, en la fecha y hora que se notifique a éstos, y consistirá en depositar papeletas con el nombre de cada interesado en una caja negra, que será ensamblada frente a los asistentes, a fin de que un funcionario del Instituto, ante la presencia de un testigo social que certifique la transparencia del proceso, obtenga la o las papeletas de los concesionarios que serán sujetos al cambio a la Banda de Frecuencia Modulada.
+	El resultado del sorteo será notificado a los participantes ganadores y publicado en la página electrónica del Instituto.
+	Aquellos concesionarios que cuenten con una estación en la Banda de Frecuencia Modulada en la que transmiten la programación de una estación en la banda de Amplitud Modulada en forma simultánea en la misma localidad de interés, no podrán solicitar el cambio de frecuencia a que se refieren los presentes Lineamientos.
+                                 Capítulo IV
+                              De las obligaciones
+Artículo 7.- En los supuestos en los que el Instituto autorice el cambio de frecuencia, el Concesionario de Radiodifusión Sonora deberá entregar en el plazo de 10 (diez) días hábiles, contados a partir del siguiente a aquel en que surta efectos su notificación, la aceptación lisa y llana, por escrito, de las nuevas condiciones que determine el Instituto, que incluyen, para el caso de las concesiones de uso comercial, el pago de la contraprestación correspondiente, independientemente de lo establecido en los presentes Lineamientos. Una vez aceptadas las nuevas condiciones, el Concesionario de Radiodifusión Sonora contará con un plazo de 30 (treinta) días hábiles para exhibir el comprobante de pago por concepto de la contraprestación determinada por el Instituto.
+En el caso de que el solicitante no acepte las condiciones que determine el Instituto o no presente el comprobante del pago por concepto de la contraprestación correspondiente, dentro de los plazos referidos en el párrafo anterior, quedará sin efectos la autorización del cambio de frecuencia y se dará por concluido el trámite.
+La frecuencia que resulte disponible por los supuestos señalados en el párrafo anterior, se asignará a otro concesionario, siempre y cuando éste haya presentado su Solicitud de Cambio de Frecuencia dentro del plazo establecido, conforme a los criterios mencionados en el artículo anterior.
+Artículo 8.- El Concesionario de Radiodifusión Sonora, deberá presentar al Instituto, en un plazo no mayor a 60 (sesenta) días hábiles contados a partir del día siguiente a aquel en que éste acepte las nuevas condiciones, los siguientes parámetros técnicos:
+a) El Estudio de Predicción de Área de Servicio (AS-FM);
+b) En caso de modificación del soporte estructural o de cambio de ubicación de la antena, el Plano de Ubicación (PU-FM), acompañado de la opinión favorable de la autoridad competente en materia aeronáutica o, en su caso, copia del escrito mediante el cual solicitó la opinión de la referida autoridad. El Instituto condicionará la aprobación a dicha opinión;
+e) Croquis de operación múltiple, de ser el caso, y
+d) Pago de los derechos correspondiente al estudio de la documentación.
+El Concesionario de Radiodifusión Sonora deberá iniciar operaciones en la frecuencia asignada de la Banda de Frecuencia Modulada en un plazo no mayor de 180 (ciento ochenta) días naturales, contados a partir del día siguiente a aquel en que la aprobación de los parámetros técnicos haya sido notificada.
+Para tal efecto, deberá dar aviso al Instituto de dicha situación dentro de los 5 (cinco) días naturales siguientes a que ello acontezca.
+Artículo 9.- El Concesionario de Radiodifusión Sonora, cuyo cambio de frecuencia haya sido autorizado por parte del Instituto, deberá migrar a la Banda de Frecuencia Modulada utilizando equipos transmisores de radiodifusión sonora híbrida, apegado a la Disposición Técnica IFT-002-2016 "Especificaciones y requerimientos para la instalación y operación de las estaciones de radiodifusión sonora en frecuencia modulada en la banda de 88 MHz a 108 MHz.", así como a lo dispuesto en el "Acuerdo por el que se adopta el estándar para la radio digital terrestre y se establece la política para que los concesionarios y permisionarios de radiodifusión en las bandas 535-1705 kHz y 88-108 MHz, lleven a cabo la transición a la tecnología digital en forma voluntaria", en lo que resulte aplicable y no contravenga a los presentes Lineamientos.
+Artículo 10.- El Concesionario de Radiodifusión Sonora quedará obligado a transmitir en forma simultánea el mismo contenido de programación en la Banda de Amplitud Modulada y en la señal híbrida de la Banda de Frecuencia Modulada, materia de la autorización, durante un año, contado a partir de la fecha de presentación del aviso del inicio de operaciones en la Banda de Frecuencia Modulada a que se refiere el artículo 8 de los presentes Lineamientos.
+Una vez transcurrido el plazo de transmisión simultánea, revertirá de pleno derecho al Estado la frecuencia en la Banda de Amplitud Modulada, y únicamente podrá prestar el servicio concesionado a través de la Banda de Frecuencia Modulada. Lo anterior, sin necesidad de pronunciamiento por parte de este Instituto, salvo que él mismo determine y notifique, previo a la conclusión del año de transmisión simultánea, que en la cobertura determinada, de conformidad con las disposiciones técnicas aplicables, de la estación de amplitud modulada, se encuentran poblaciones que únicamente reciben dicha señal, en cuyo caso el concesionario deberá continuar con la transmisión en forma simultánea del mismo contenido en ambas frecuencias, hasta que el Instituto determine y notifique al concesionario que la continuidad del servicio de Radiodifusión Sonora está debidamente garantizada.
+Artículo 11.- La autorización de cambio de frecuencia no modificará el plazo de vigencia de las concesiones o permisos otorgados originalmente. Asimismo, la autorización de cambio de frecuencia no extingue las obligaciones contraídas por el titular de la concesión durante el uso, aprovechamiento o explotación de la frecuencia de AM objeto de migración.
+Artículo 12.- El Instituto, en el marco de los Programas Anuales de Uso y Aprovechamiento de Bandas de Frecuencias, llevará a cabo los procesos de licitación o asignación correspondientes para el otorgamiento  de concesiones que garanticen la continuidad de servicio en la Banda de Amplitud Modulada en las localidades que se requiera.
+Artículo 13.- El incumplimiento por parte del Concesionario de Radiodifusión Sonora a las obligaciones derivadas de la autorización de cambio de frecuencia, será sancionado conforme a lo previsto en la Ley.
+La falsedad en la información o documentación entregada al Instituto para la obtención del cambio de frecuencia será sancionada en términos de la legislación aplicable.
+                                 TRANSITORIOS
+PRIMERO. Los presentes Lineamientos entrarán en vigor a los 30 (treinta) días hábiles siguientes a su publicación en el Diario Oficial de la Federación.
+SEGUNDO. Los Concesionarios de Radiodifusión Sonora interesados deberán presentar su Solicitud de Cambio de Frecuencia en términos del artículo 4 de los presentes Lineamientos, dentro del periodo de 10 (diez) días hábiles, contados a partir de su entrada en vigor.
+TERCERO. Para fijar el monto de la contraprestación a que hace referencia el artículo 7 de los presentes Lineamientos, se considerará la clase de estación, la población a servir, y el plazo restante de vigencia de la concesión respectiva, entre otros elementos, así como la previa opinión no vinculante de la Secretaría de Hacienda y Crédito Público.
+                                    ANEXO 1
+         Disponibilidad Espectral en la Banda de Frecuencia Modulada.
+                                       
+* Frecuencias adjudicadas a México bajo el Acuerdo Bilateral con Estados Unidos de América (EUA). Una vez recibidos los parámetros técnicos de estación por parte del concesionario, estos serán valorados para su aprobación y notificados a la Comisión Federal de Comunicaciones de EUA (FCC, por sus siglas en inglés).
+Condiciones de operación:
+1.	Estaciones clase A.
+2.	Alcance máximo de la estación: 24 km.
+3.	Separación a 400 kHz entre portadoras.
+                                    ANEXO 2
+Instructivo en materia de Competencia Económica para el Cambio de Frecuencias de estaciones de Radiodifusión Sonora que operan en la Banda de Amplitud Modulada a Frecuencia Modulada.
+Las personas interesadas en obtener una autorización para realizar el cambio a la Banda de Frecuencia Modulada de estaciones de Radiodifusión Sonora que operan actualmente en la Banda de Amplitud Modulada deberán presentar la información y la documentación requeridas en este Instructivo.
+Esta información y la documentación deberán adjuntarse a la Solicitud de Cambio de Frecuencia que se presente ante el Instituto, de conformidad con el artículo 4, inciso C, de los presentes Lineamientos.
+La información y documentación requerida, se utilizarán para determinar los siguientes elementos:
+i)	Identificar a los concesionarios solicitantes, en su dimensión de Grupo de Interés Económico, y considerando las personas con las que ese grupo tenga vínculos de tipo comercial, organizativo, económico o jurídico, involucrados en el cambio de frecuencias de la Banda de Amplitud Modulada a la Banda de Frecuencia Modulada, y
+ii)	Evaluar los efectos en la acumulación de espectro radioeléctrico, con el fin de prevenir fenómenos de concentración contrarios al interés público que afecten el proceso de competencia y libre concurrencia.
+El presente Instructivo lo emite el Instituto de conformidad con lo dispuesto en los artículos 28, párrafos décimo primero, décimo quinto y décimo sexto de la Constitución Política de los Estados Unidos Mexicanos; 1, 7, 15, fracciones I y XXVIII, y 54 de la Ley Federal de Telecomunicaciones y Radiodifusión y 4 de los Lineamientos, en relación con los artículos 58, 59, 61, 63 y 64 de la Ley Federal de Competencia Económica.
+La información y la documentación requeridas en este Instructivo se sujetarán a lo siguiente:
+1)	Debe presentarse por escrito, como parte integral de la Solicitud de Cambio de Frecuencia, en la oficialía de partes de este Instituto, así como en formato electrónico a través de un dispositivo de almacenamiento portátil (USB o CD) en aplicaciones de formato abierto de hojas de cálculo y/o procesadores de texto. Los archivos electrónicos deberán guardar plena identidad con los ejemplares impresos. En caso de diferencias, se tomará en cuenta la información presentada por escrito.
+2)	Deberá presentarse en idioma español. No obstante, podrá presentarse información y documentación en idioma distinto al español, sin perjuicio de que el Instituto pueda solicitar a los Agentes Económicos que se realice la traducción al idioma español, por un perito traductor, de  los aspectos que considere relevantes. Las traducciones realizadas por perito traductor serán a costa del interesado. En caso que no realice la traducción que ordene el Instituto, se tendrán por no presentados los documentos.
+3)	La información será clasificada y resguardada como pública, confidencial o reservada conforme lo acrediten los interesados.
+	Por información confidencial debe entenderse aquélla que de divulgarse pueda causar un daño o perjuicio en la posición competitiva de quien la haya proporcionado, contenga datos personales cuya difusión requiera su consentimiento, pueda poner en riesgo su seguridad o cuando por disposición legal se prohíba su divulgación. No podrá considerarse como información confidencial aquélla que se encuentre en registros públicos o fuentes de acceso público.
+4)	En caso de que la información y la documentación requerida ya obre en los expedientes del Instituto, debe señalar para qué trámite, procedimiento, número de expediente y/o área fue proporcionada, así como referir el contenido de la misma.
+Las dudas y aclaraciones referentes al presente Instructivo serán atendidas por la Dirección General de Concentraciones y Concesiones adscrita a la Unidad de Competencia Económica del Instituto a través de los números telefónicos 5015-4047 y 5015-4274 o de manera presencial en el domicilio del Instituto (Insurgentes Sur 1143, Col. Nochebuena, Delegación Benito Juárez, Ciudad de México, C.P. 03720) previa cita, que se podrá solicitar a través del número telefónico (55) 5015-4047 y/o los correos electrónicos manuel.hernandez@ift.org.mx y cesar.arias@ift.org.mx en horas hábiles de lunes a jueves en horario de 9:00 a 18:30 horas y viernes de 9:00 a 15:00 horas.
+                     Información y documentos requeridos
+1.	PROPÓSITO DE LA SOLICITUD
+1.1.	Describir las características de la estación de radio en la Banda de Amplitud Modulada objeto de la solicitud en el cuadro siguiente para su respuesta:
+                         Concesionario /Permisionario
+                      Distintivo de llamada y frecuencia
+                            Ubicación (Localidad)
+                             Perfil Programático
+                         Principal localidad a servir
+                           Ventas anuales Año 2013
+                           Ventas anuales Año 2014
+                           Ventas anuales Año 2015
+Las celdas vacías corresponden a los espacios que deben llenarse
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+
+1.2.	Describir brevemente cuáles son los motivos principales por los que tiene interés de realizar el cambio de frecuencia de la estación que opera en la Banda de Amplitud Modulada a la Banda de Frecuencia Modulada objeto de la Solicitud.
+2.	INFORMACIÓN DEL SOLICITANTE
+2.1.	En caso de que el solicitante sea una persona moral, identifique a cada uno de sus socios, accionistas o asociados, directos e indirectos, hasta llegar a un nivel de personas físicas según se indica a continuación. De aquí en adelante, a cada uno de esos socios, accionistas o asociados se les denominará: "Relacionados Accionistas". Identifique a las personas que tienen el control en última instancia del solicitante, las razones por las que así lo considera y, en su caso, los medios a través de los cuales ejerce o puede ejercer ese control.
+	Presente esta información en el Formato 1.1 y Formato 1.2, en las columnas 1 a 6 correspondientes.
+2.2.	Identifique a las personas físicas:
+a)	Con los que el solicitante o cada uno de los Relacionados Accionistas tengan relaciones de parentesco, consanguinidad, afinidad o civil, hasta el cuarto grado, y que
+b)	Participen, directa o indirectamente, en sociedades, asociaciones o empresas que cuenten con algún título de concesión o permiso que le permita ofrecer servicios de telecomunicaciones y/o radiodifusión sonora dentro del territorio nacional, a través de:
+          Tenencias accionarias o de partes sociales,
+          Órganos y/o empleos, cargos o comisiones encargados de tomar las decisiones sobre la administración, la definición de las políticas y los objetivos o la gestión, la conducción,  la ejecución y otros que trasciendan a sus actividades sustantivas. Esto incluye los miembros de los Consejos de Administración, directivos, gerentes, administradores o sus equivalentes.
+	De aquí en adelante, a cada una de las personas físicas que cumplan con estas dos condiciones se les denominará: "Relacionados por Parentesco". Para cada uno de estos Relacionados debe identificar:
+1)	Nombre,
+2)	RFC con homoclave,
+3)	Solicitante o Relacionado Accionista con el que está relacionado,
+4)	Tipo de relación de parentesco, consanguinidad, afinidad o civil,
+5)	Nombre o razón social de las sociedades, asociaciones o empresas donde participa, directa o indirectamente,
+6)	RFC con homoclave de las sociedades, asociaciones o empresas donde participa,
+7)	Participación en el capital social, en porcentaje,
+8)	Empleo, cargo o comisión que desempeña.
+	Presente esta información en el Formato 2 en las columnas 1 a 8 correspondientes.
+2.3.	Identifique las sociedades, asociaciones o empresas dentro del territorio nacional en las que i) el solicitante, ii) los Relacionados Accionistas y/o iii) los Relacionados por Parentesco tengan participaciones accionarias o societarias directas e indirectas, superiores al 5% (cinco por ciento). De aquí en adelante, a cada una de esas sociedades, asociaciones o empresas se les denominará: "Relacionados por Participación."
+	Para cada uno de los Relacionados por Participación debe identificar:
+1)	Nombre o razón social,
+2)	RFC con homoclave,
+3)	Actividades económicas que realiza,
+4)	Nombre o razón social de todos sus socios, accionistas o asociados,
+5)	RFC con homoclave de todos sus socios, accionistas o asociados,
+6)	Número de acciones, partes sociales o unidades de participación, así como porcentaje de participación en el capital social, que cada uno de sus socios, accionistas o asociados, tengan en cada uno de los Relacionados por Participación, y
+7)	Número de acciones con derecho a voto y participación porcentual, con respecto a todas las acciones con derecho a voto, que cada uno de sus socios, accionistas o asociados, tengan en cada uno de los Relacionados por participación.
+8)	Los derechos que, directa o indirectamente, que cada uno de sus socios, accionistas o asociados tengan para designar, nombrar, vetar o destituir a miembros que integren el o los órganos encargados de tomar las decisiones; y/o imponer decisiones en las asambleas generales de accionistas, de socios u órganos equivalentes de cada uno de los Relacionados por Participación.
+	Presente esta información en el Formato 3 en las columnas 1 a 8 correspondientes.
+2.4.	Identifique las sociedades (distintas a las identificadas en sus respuestas a las preguntas 2.1 a 2.3 anteriores) concesionarias de títulos de concesión para la operación y explotación comercial de canales del espectro radioeléctrico para la prestación de servicios de telecomunicaciones y/o radiodifusión dentro del territorio nacional, en las que i) el solicitante, ii) los Relacionados Accionistas, iii) los Relacionados por Parentesco, y/o iv) miembros de los órganos encargados de tomar las decisiones y/o directivos, gerentes, administradores o sus equivalentes de los Relacionados por Participación:
+a)	Participen en los órganos encargados de tomar las decisiones,
+b)	Sean directivos, gerentes, administradores o sus equivalentes,
+c)	Tengan participaciones accionarias o societarias directas e/o indirectas, superiores al 5% (cinco por ciento)
+	De aquí en adelante, a cada una de las sociedades concesionarias identificadas conforme a los incisos anteriores se les denominará: "Relacionados por Participación Directiva". Para cada uno de los Relacionados por Participación Directiva debe identificar:
+1)	Nombre o razón social,
+2)	RFC con homoclave,
+3)	Actividades económicas que realiza
+4)	Participación que tiene el solicitante, o cada uno de los Relacionados Accionistas, Relacionados por Parentesco y/o directivos/administradores de los Relacionados por Participación,
+5)	Nombre de los directivos/administradores de los Relacionados por Participación Directiva,
+6)	RFC con Homoclave de los directivos/administradores de los Relacionados por Participación Directiva, y
+7)	Empleo, cargo o comisión que desempeñan el solicitante, o cada uno de los Relacionados Accionistas, Relacionados por Parentesco y/o directivos/administradores de los Relacionados por Participación en los Relacionados por Participación Directiva
+Presente esta información en el Formato 4 en las columnas 1 a 7 correspondientes.
+3.	INFORMACIÓN ECONÓMICA
+3.1.	Identifique todos y cada uno de los títulos de concesión o permisos que detentan de manera directa o indirecta en radiodifusión sonora, cada una de las siguientes personas:
+          El solicitante,
+          Los Relacionados Accionistas,
+          Los Relacionados por Parentesco,
+          Los Relacionados por Participación, y/o
+          Relacionados por Participación Directiva.
+Para cada uno de los títulos identificados debe identificar:
+1)	Nombre o razón social del concesionario o permisionario,
+2)	RFC con Homoclave del concesionario o permisionario,
+3)	Tipo de concesión (comercial, social, permiso o de telecomunicaciones),
+4)	Concesión o permiso (número en el Registro Público de Concesiones),
+5)	Distintivo de llamada,
+6)	Banda,
+7)	Frecuencia,
+8)	Productos y/o servicios relacionados con radiodifusión y telecomunicaciones que ofrecen,
+9)	Localidad donde se ubica la estación asociada,
+10)	Localidad(es) Obligatoria(s)/ Principal(es) a servir, y
+11)	Localidades donde tiene cobertura (distintas a las identificadas en el inciso 10).
+Presente esta información en el Formato 5 en las columnas 1 a 11 correspondientes.
+3.2.	Identifique el distintivo y la frecuencia de las estaciones de radio abierta, por localidad, que se encuentren afiliadas, directa o indirectamente, para transmitir contenidos y/o publicidad, a las siguientes personas:
+          El solicitante,
+          Los Relacionados Accionistas,
+          Los Relacionados por Parentesco, y
+          Los Relacionados por Participación.
+Para efecto de este Instructivo, se entenderá que existen vínculos o relaciones de afiliación cuando los contratos, convenios o acuerdos, formales o informales, independientemente de quien los firme, permitan u obliguen a un concesionario (afiliado), a través de su estación concesionada, a destinar desde el 15% (quince por ciento) hasta la totalidad de su tiempo de contenido programático a retransmitir las señales de canales de programación pertenecientes a la empresa a la cual se afilia (Tiempo de Retransmisión). La afiliación puede consistir en las siguientes relaciones:
+a)	La afiliada paga a la empresa que afilia un monto monetario por el licenciamiento de la retransmisión de contenidos. En estos casos, generalmente, el afiliado es quien inserta y cobra por la publicidad dentro de la programación.
+b)	La empresa que afilia paga al afiliado un monto monetario por la retransmisión de contenidos. En estos casos, generalmente, el afiliado retransmite íntegramente la señal y es la empresa que afilia quien inserta y cobra por la publicidad.
+c)	El afiliado retransmite el contenido de la empresa que afilia y cada uno inserta y cobra por publicidad un porcentaje del tiempo total disponible para esos fines.
+El porcentaje de tiempo de retransmisión se calcula de la siguiente forma:
+                                       
+Donde:
+      TR (numerador): Total del tiempo a la semana (se considera el total del tiempo de lunes a viernes de las 6:00 a las 23:00 horas) que el afiliado retransmite contenido y/o publicidad de la empresa que afilia, puede ser en horas o minutos.
+  	Para efectos de calcular el TR se deberá contabilizar el tiempo que dura la retransmisión de los contenidos/programas pertenecientes a la empresa que afilia, incluyendo el correspondiente a las inserciones publicitarias, independientemente de quién comercialice el tiempo de publicidad.
+      TT (denominador): Total del tiempo a la semana (se considera el total del tiempo de lunes a viernes de las 6:00 a las 23:00 horas) del que dispone el afiliado para transmitir contenido y/o publicidad, puede ser en horas o minutos.
+Al momento de calcular el porcentaje debe usarse la misma unidad de medida de tiempo en el numerador y el denominador, es decir, si el numerador se contabiliza en minutos, también el denominador debe contabilizarse en minutos.
+De aquí en adelante, a los concesionarios de estaciones de radio abierta, identificados se les denominará "Relacionados por Afiliación". Para cada uno de los Relacionados por Afiliación debe identificar:
+1)	Nombre o razón social,
+2)	RFC con Homoclave,
+3)	Concesión (Número en el Registro Público de Concesiones),
+4)	Ubicación y principal(es) localidad(es) a servir,
+5)	Distintivo de llamada,
+6)	Banda,
+7)	Frecuencia,
+8)	Descripción de la relación por afiliación,
+9)	Total ingresos generados por las relaciones de afiliación durante el último año, especificando el porcentaje que representan respecto de los ingresos totales (montos anuales de dos mil quince) del afiliado,
+10)	Porcentaje de tiempo que representan los espacios publicitarios objeto de los contratos, convenios o acuerdos, formales o informales, de afiliación con respecto del total de tiempo de los espacios de publicidad emitido por las estaciones afiliadas (calcular el porcentaje como se indicó anteriormente considerando el tiempo de lunes a viernes de las 6:00 a las 23:00 horas),
+11)	Porcentaje de tiempo que representan los contenidos sujetos a los contratos, convenios o acuerdos, formales o informales, de afiliación con respecto del total de tiempo de la programación emitida por la estación afiliada (calcular el porcentaje como se indicó anteriormente considerando el tiempo de lunes a viernes de las 6:00 a las 23:00 horas).
+12)	Copia o principales términos de los contratos, convenios o acuerdos, y
+13)	Empresa que afilia.
+Presente esta información en el Formato 6 en las columnas 1 a 13 correspondientes.
+3.3.	Para cada una de las concesiones identificadas en los numerales 3.1 y 3.2 que tengan como servicio autorizado la explotación comercial del servicio de Radiodifusión Sonora y que tengan cobertura en la misma localidad principal a servir por la estación objeto de la solicitud, identifique con base en la mejor información disponible:
+      3.3.1.	El distintivo y frecuencia de las estaciones competidoras que tengan cobertura de servicio en la localidad;
+      3.3.2.	El concesionario y el Grupo de Interés Económico al que pertenecen tales estaciones competidoras.
+                                   Formatos
+Formato 1.1 Relacionados Accionistas
+Debe emplearse para dar respuesta al Numeral 2.1 del Instructivo
+                                      (1)
+                                      (2)
+                                      (3)
+                                      (4)
+                                      (5)
+                                      (6)
+            Nombre o razón social de los Relacionados Accionistas
+                               RFC con homoclave
+                            Actividades que realiza
+                            Tipo de Participación
+                  Participación accionaria en el solicitante
+                         Participación en porcentaje
+Persona física 1
+Las celdas vacías corresponden a los espacios que deben llenarse
+-
+-
+-
+-
+ ...
+-
+-
+-
+-
+-
+Persona física n
+-
+-
+-
+-
+-
+Persona Moral 1
+-
+-
+-
+-
+-
+                                      ...
+-
+-
+-
+-
+-
+Persona Moral n
+-
+-
+-
+-
+-
+
+Formato 1.2. Relacionados Accionistas que son Personas Morales
+Debe emplearse para dar respuesta al Numeral 2.1 del Instructivo
+                                      (1)
+                                      (2)
+                                      (3)
+                                      (4)
+                                      (5)
+                                      (6)
+            Nombre o razón social de los Relacionados Accionistas
+              Nombre o razón social de sus socios o accionistas
+                               RFC con homoclave
+                            Actividades que realiza
+                    Participación societaria o accionaria
+                         Participación en porcentaje
+                                Persona Moral 1
+                             Socio o accionista 1
+       Las celdas vacías corresponden a los espacios que deben llenarse
+-
+-
+-
+                                       
+                                      ...
+-
+-
+-
+-
+                                       
+                             Socio o accionista n
+-
+-
+-
+-
+                                      ...
+                                      ...
+-
+-
+-
+-
+                                Persona Moral n
+                             Socio o accionista 1
+-
+-
+-
+-
+                                       
+                                      ...
+-
+-
+-
+-
+                                       
+                             Socio o accionista n
+-
+-
+-
+-
+
+Formato 2. Relacionados por Parentesco
+Debe emplearse para dar respuesta al Numeral 2.2 del Instructivo
+                                      (1)
+                                      (2)
+                                      (3)
+                                      (4)
+                                      (5)
+                                      (6)
+                                      (7)
+                                      (8)
+                     Nombre del Relacionado por Parentesco
+               RFC con homoclave del Relacionado por Parentesco
+ Nombre del solicitante o Relacionado Accionista con el que está relacionado
+      Tipo de relación de parentesco, consanguinidad, afinidad o civil,1
+Sociedad, asociación o empresa donde participa directa o indirectamente el Relacionado por Parentesco
+RFC con homoclave de la sociedad, asociación o empresa donde participa el Relacionado por Parentesco
+Participación en el capital social (%) que tiene el Relacionado por Parentesco en la sociedad, asociación o empresa
+Empleo, cargo o comisión que desempeña el Relacionado por Parentesco en la sociedad, asociación o empresa
+Persona física 1
+Las celdas vacías corresponden a los espacios que deben llenarse
+-
+-
+-
+-
+-
+-
+                                      ...
+-
+-
+-
+-
+-
+-
+-
+Persona física n
+-
+-
+-
+-
+-
+-
+-
+[1]Identificar el grado en términos de los artículos 292 a 300 del Código Civil Federal.
+Formato 3. Relacionados por Participación
+Debe emplearse para dar respuesta al Numeral 2.3 del Instructivo
+                                      (1)
+                                      (2)
+                                      (3)
+                                      (4)
+                                      (5)
+                                      (6)
+                                      (7)
+                                      (8)
+         Nombre o razón social de los Relacionados por Participación
+                               RFC con Homoclave
+                            Actividades que realiza
+         Nombre o razón social de los socios, accionistas o asociados
+            RFC con Homoclave de los socios, accionistas o asociados
+ Número de acciones, partes sociales o unidades de participación, así como % de participación en el capital social
+ Número de acciones con derecho a voto y participación porcentual, con respecto a todas las acciones con derecho a voto
+ Los derechos que, directa o indirectamente, que tenga para designar, nombrar, vetar o destituir a miembros que integren el o los órganos encargados de tomar las decisiones
+Persona moral 1
+       Las celdas vacías corresponden a los espacios que deben llenarse
+                                       
+       Solicitante, Relacionado Accionista o Relacionado por Parentesco
+                                       -
+-
+-
+-
+
+                                       
+                                       
+                        Socio o accionista 1 (tercero)
+                                       -
+                                       -
+                                       -
+                                       -
+
+                                       
+                                       
+                                      ...
+                                       -
+                                       -
+                                       -
+                                       -
+
+                                       
+                                       
+                                      ...
+                                       -
+                                       -
+                                       -
+                                       -
+
+                                       
+                                       
+                        Socio o accionista n (tercero)
+                                       -
+                                       -
+                                       -
+                                       -
+Persona moral n
+                                       
+                                       
+       Solicitante o Relacionado Accionista o Relacionado por Parentesco
+                                       -
+                                       -
+                                       -
+                                       -
+                                       
+                                       
+                                       
+                        Socio o accionista 1 (tercero)
+                                       -
+                                       -
+                                       -
+                                       -
+                                       
+                                       
+                                       
+                                      ...
+                                       -
+                                       -
+                                       -
+                                       -
+                                       
+                                       
+                                       
+                                      ...
+                                       -
+                                       -
+                                       -
+                                       -
+                                       
+                                       
+                                       
+                        Socio o accionista n (tercero)
+                                       -
+                                       -
+                                       -
+                                       -
+
+Formato 4. Relacionados por Participación Directiva
+Debe emplearse para dar respuesta al Numeral 2.4 del Instructivo
+                                      (1)
+                                      (2)
+                                      (3)
+                                      (4)
+                                      (5)
+                                      (6)
+                                      (7)
+      Nombre o razón social del Relacionado por Participación Directiva
+                               RFC con homoclave
+                      Actividades económicas que realiza
+ Participación que tiene el solicitante, o cada uno de los Relacionados Accionistas, Relacionados por Parentesco o directivos / administradores de los Relacionados por Participación en el Relacionado por Participación Directiva
+ Nombre de los directivos / administradores de los Relacionados por Participación Directiva
+ RFC con homoclave de los directivos / administradores de los Relacionados por Participación Directiva
+ Empleo, cargo o comisión que desempeñan el solicitante, o cada uno de los Relacionados Accionistas, Relacionados por Parentesco o directivos / administradores de los Relacionados por Participación en el Relacionado por Participación Directiva
+                                Persona moral 1
+       Las celdas vacías corresponden a los espacios que deben llenarse
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                      ...
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                Persona moral n
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+
+Formato 5. Concesiones y permisos
+Debe emplearse para dar respuesta al Numeral 3.1 del Instructivo
+                                      (1)
+                                      (2)
+                                      (3)
+                                      (4)
+                                      (5)
+                                      (6)
+                                      (7)
+                                      (8)
+                                      (9)
+                                     (10)
+                                       
+           Nombre o razón social del concesionario o permisionario
+                               RFC con Homoclave
+                              Tipo de Concesión
+                           CC (Concesión Comercial)
+                            CS (Concesión Social)
+                                  P (permiso)
+                     T (Concesión de Telecomunicaciones)
+   Número de concesión o de permiso en el Registro Público de Concesiones
+                            Distintivo de llamada/1
+                                     Banda
+                                 Frecuencia/2
+Productos y servicios relacionados con radiodifusión y telecomunicaciones que ofrecen
+                Localidad donde se ubica la estación asociada
+    Área de cobertura que atienden o principal(es) localidad(es) a servir
+                       Localidades donde tiene cobertura
+Persona moral 1
+       Las celdas vacías corresponden a los espacios que deben llenarse
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                      ...
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+Persona moral n
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+Notas:
+1. Se refiere al distintivo de frecuencia de las estaciones de radio.
+2. Se refiere a la frecuencia en la que operan las estaciones de radio.
+
+Formato 6. Relacionados por Afiliación
+Debe emplearse para dar respuesta al Numeral 3.2 del Instructivo
+                                      (1)
+                                      (2)
+                                      (3)
+                                      (4)
+                                      (5)
+                                      (6)
+                                      (7)
+                                      (8)
+                                      (9)
+                                     (10)
+                                     (11)
+                                     (12)
+                                     (13)
+            Nombre o Razón Social del Relacionado por Afiliación
+                               RFC con homoclave
+         Número de concesión en el Registro Público de Concesiones
+              Ubicación y principal(es) localidad(es) a servir.
+                           Distintivo de llamada /1
+                                     Banda
+                                 Frecuencia/2
+                 Descripción de la relación por afiliación
+Total de ingresos generados por la relación de afiliación y porcentaje respecto de ingresos totales del afiliado (montos anuales de dos mil quince)
+Porcentaje de tiempo que representan los espacios publicitarios objeto del contrato de afiliación con respecto del total de tiempo de los espacios de publicidad emitido por la estacione afiliada (lunes a viernes de 6:00 a 23:00 horas)
+Porcentaje de tiempo que representan los contenidos sujetos al contrato de afiliación con respecto del total de tiempo de la programación emitida por la estación afiliada (lunes a viernes de 6:00 a 23:00 horas)
+     Copia o principales términos de los contratos, convenios o acuerdos
+                             Empresa que afilia /3
+                                Persona moral 1
+       Las celdas vacías corresponden a los espacios que deben llenarse
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                      ...
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                Persona moral n
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+                                       -
+Notas:
+1. Se refiere al distintivo de llamada de las estaciones de radio.
+2. Se refiere a las frecuencias en las que operan las estaciones de radio.
+3. Se refiere a la empresa con la cual tiene el contrato de afiliación.

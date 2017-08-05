@@ -1,0 +1,972 @@
+ACUERDO MEDIANTE EL CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES EXPIDE LOS LINEAMIENTOS PARA LA ACREDITACIÓN, AUTORIZACIÓN, DESIGNACIÓN Y RECONOCIMIENTO DE LABORATORIOS DE PRUEBA.
+
+                                 ANTECEDENTES
+                                       
+I.- El 28 de junio de 2011 se publicó en el Diario Oficial de la Federación (en lo sucesivo, el "DOF") el "ACUERDO de Reconocimiento Mutuo entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de los Estados Unidos de América para la Evaluación de la Conformidad de equipos de telecomunicaciones.", el cual tiene como objeto simplificar la Evaluación de la Conformidad para una amplia gama de equipos de telecomunicaciones y equipos afines y de ese modo facilitar el comercio entre las Partes.
+
+II.- El 28 de mayo de 2012 se publicó en el DOF el "ACUERDO de Reconocimiento Mutuo entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de Canadá para la Evaluación de la Conformidad de equipos de telecomunicaciones.", el cual también tiene el objetivo de simplificar la Evaluación de la Conformidad para una amplia gama de equipos de telecomunicaciones y equipos afines y de ese modo facilitar el comercio entre las Partes.
+
+III.- El 11 de junio de 2013 se publicó en el DOF  el "Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones", (en lo sucesivo, el "Decreto Constitucional"), mediante el cual se creó el Instituto Federal de Telecomunicaciones (en lo sucesivo, el "Instituto"), como un órgano autónomo con personalidad jurídica y patrimonio propio.
+
+IV.- El 14 de julio de 2014 se publicó en el DOF el "Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión" (en lo sucesivo, el "Decreto de Ley"), el cual, en términos de lo dispuesto por su artículo Primero transitorio, entró en vigor treinta días naturales siguientes a su publicación, esto es, el 13 de agosto de 2014.
+V.- El 4 de septiembre de 2014, se publicó en el DOF el Estatuto Orgánico del Instituto Federal de Telecomunicaciones (en lo sucesivo, el "Estatuto Orgánico"), mismo que entró en vigor el día 26 del mismo mes y año, el cual se modificó a través del "Acuerdo por el que se modifica el Estatuto Orgánico del Instituto Federal de Telecomunicaciones", publicado en el DOF el 17 de octubre de 2014.
+
+VI.- El Pleno del Instituto mediante el Acuerdo P/IFT/020915/392, emitido en su XVIII Sesión Ordinaria, de fecha de 2 de septiembre de 2015, aprobó someter a consulta pública el "ANTEPROYECTO DE ACUERDO MEDIANTE EL CUAL SE ESTABLECEN LOS LINEAMIENTOS PARA LA ACREDITACIÓN, DESIGNACIÓN Y RECONOCIMIENTO DE LABORATORIOS DE PRUEBA", ello en cumplimiento con lo establecido en el artículo 51 de la Ley Federal de Telecomunicaciones y Radiodifusión (en lo sucesivo, la "LFTR"); proceso de consulta que concluyó el 6 de noviembre de 2015.
+
+En atención a los antecedentes anteriores y:
+                                       
+                                 CONSIDERANDO
+                                       
+PRIMERO.- Competencia del Instituto. De conformidad con lo establecido en los artículos 28, párrafo vigésimo, fracción IV de la Constitución Política de los Estados Unidos Mexicanos (en lo sucesivo, la "Constitución"), así como en los diversos 1, 2, 7, 15 fracciones  I y XXXVIII, 51, 52 y 289 de la Ley Federal de Telecomunicaciones y Radiodifusión (en lo sucesivo, "LFTR"), y los artículos 1 y 23 fracción XIX del Estatuto Orgánico del Instituto Federal de Telecomunicaciones, el Instituto en su carácter de órgano autónomo, tiene por objeto regular y promover la competencia y el desarrollo eficiente y la prestación de los servicios públicos de radiodifusión y telecomunicaciones mediante la regulación, promoción y supervisión del uso, aprovechamiento y explotación del espectro radioeléctrico y de las redes y el acceso a infraestructura activa, pasiva y otros insumos esenciales, a fin de garantizar lo establecido en los artículos 6o. y 7o. de la Constitución, además de ser la autoridad en materia de competencia económica en los sectores de telecomunicaciones y radiodifusión.
+
+Aunado a lo anterior, el artículo 15, fracción I de la LFTR, señala que el Instituto tiene la atribución de expedir disposiciones administrativas de carácter general, planes técnicos fundamentales, lineamientos, modelos de costos, procedimientos de Evaluación de la Conformidad, procedimientos de homologación y certificación y ordenamientos técnicos en materia de telecomunicaciones y radiodifusión; así como demás disposiciones para el cumplimiento de lo dispuesto en la LFTR. Mientras que la fracción XXVI del citado artículo le establece la atribución de autorizar a terceros para que emitan certificación de Evaluación de la Conformidad y acreditar a Unidades de Verificación.
+
+Asimismo, el artículo 15 fracción XXXVIII de este artículo señala que el Instituto tiene la facultad de establecer y operar Laboratorios de Prueba o Autorizar a terceros a que lo hagan, a fin de fortalecer la autoridad regulatoria técnica en materias de validación de los métodos de prueba de las normas y disposiciones técnicas, aplicación de lineamientos para la homologación de productos destinados a telecomunicaciones y radiodifusión, así como sustento a estudios e investigaciones de prospectiva regulatoria en estas materias y las demás que determine, en el ámbito de su competencia, de conformidad con la disponibilidad presupuestaria autorizada.
+
+Al respecto, el artículo 289 del mismo ordenamiento legal señala que el Instituto podrá aplicar el reconocimiento mutuo de la Evaluación de la Conformidad de productos, equipos, dispositivos o aparatos destinados a telecomunicaciones o radiodifusión que hayan evaluado su conformidad en otro Estado con el que el gobierno mexicano haya suscrito un acuerdo o tratado internacional para estos efectos.
+
+Asimismo, el Instituto cuenta con facultades y atribuciones para emitir el "Acuerdo por el que el Pleno del Instituto Federal de Telecomunicaciones  expide los LINEAMIENTOS PARA LA ACREDITACIÓN, AUTORIZACIÓN DESIGNACIÓN Y RECONOCIMIENTO DE LABORATORIOS DE PRUEBA", los cuales establecen los requisitos y procedimientos para la Autorización, Acreditación y, en su caso, Designación y Reconocimiento de Laboratorios de Prueba de tercera parte, para realizar la Evaluación de la Conformidad, respecto a Normas, Disposiciones Técnicas o Reglamentos Técnicos relativos a la infraestructura y los equipos de telecomunicaciones y radiodifusión, así como la Autorización de los Organismos de Acreditación que acrediten Laboratorios de Prueba.
+
+Por lo anterior y con fundamento en los artículos 28, párrafos décimo quinto y vigésimo, fracción IV, de la Constitución; 1, 2, 7, 15, fracciones I, XXVI y XXXVIII y segundo párrafo del 289 de la LFTR, así como los artículos 1 y 23, fracción XIX del Estatuto Orgánico, el Instituto a través de su máximo Órgano de Gobierno, es competente para emitir lineamientos en materia de homologación y Evaluación de la Conformidad de equipos que se conecten a las redes de telecomunicaciones o que  hagan uso del espectro radioeléctrico.
+
+
+SEGUNDO.- Las telecomunicaciones y la radiodifusión como servicios públicos de interés general. Como lo ordena el artículo 28 de la Constitución, el Instituto tiene el mandato de garantizar lo establecido en los artículos 6o. y 7o. del mismo ordenamiento, los cuales prevén, entre otras cosas, el derecho  de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones y otorgan a dichos servicios la naturaleza de servicios públicos de interés general, respecto de los cuales el Estado señalará las condiciones de competencia efectiva para prestar los mismos. En ese orden de ideas, en términos de la fracción II del apartado B del artículo 6 de la Constitución y 2 de la LFTR, las telecomunicaciones son un servicio público de interés general, por lo que el Estado garantizará que sean prestadas en condiciones de competencia, calidad, pluralidad, cobertura universal, interconexión, convergencia, continuidad, acceso libre y sin injerencias arbitrarias.
+
+Asimismo, de conformidad con la fracción III del apartado B del artículo 6 de la Constitución y 2 de la LFTR, la radiodifusión es un servicio público de interés general, por lo que el Estado garantizará que sea prestado en condiciones de competencia y calidad y brinde los beneficios de la cultura a toda la población, preservando la pluralidad y la veracidad de la información, así como el fomento de los valores de la identidad nacional, contribuyendo a los fines establecidos en el artículo 3o. de la Constitución. 
+
+De lo expuesto, es relevante contar con un instrumento normativo que permita establecer los  requisitos y procedimientos para la Autorización, Acreditación y, en su caso, Designación y Reconocimiento de Laboratorios de Prueba de tercera parte, para realizar la Evaluación de la Conformidad, respecto a Normas, Disposiciones Técnicas o Reglamentos Técnicos relativos a la infraestructura y los equipos de telecomunicaciones y radiodifusión, así como la Autorización de los Organismos de Acreditación que acrediten Laboratorios de Prueba, ya que como se establece en el artículo 289 de la LFTR, los productos, equipos, dispositivos o aparatos destinados a telecomunicaciones o radiodifusión que puedan ser conectados a una red de telecomunicaciones o hacer uso del espectro radioeléctrico deberán homologarse conforme a las normas o disposiciones técnicas aplicables de conformidad con lo establecido en la Ley Federal sobre Metrología y Normalización.
+
+En el mismo tenor de ideas, se hace necesaria la emisión de un instrumento regulatorio que permita al Instituto aplicar el reconocimiento mutuo de la Evaluación de la Conformidad de productos, equipos, dispositivos o aparatos destinados a telecomunicaciones o radiodifusión que hayan evaluado su conformidad en otro Estado con el que el gobierno mexicano haya suscrito un acuerdo o tratado internacional para estos efectos. Tal es el caso de los Acuerdos de Reconocimiento Mutuo (ARM) signados por los Estados Unidos Mexicanos con los gobiernos de Estados Unidos de América y Canadá y publicados en el Diario Oficial de la Federación en 2011 y 2012, respectivamente. 
+
+TERCERO.- Marco técnico regulatorio. El Instituto, como la autoridad y regulador de los sectores de telecomunicaciones y radiodifusión, en términos de la LFTR tiene atribuciones para expedir disposiciones técnicas, procedimientos de Evaluación de la Conformidad, procedimientos de homologación y certificación, autorizar a terceros para que emitan certificación de Evaluación de la Conformidad, acreditar a peritos y unidades de verificación, y autorizar a terceros para que establezcan y operen Laboratorios de Prueba. De conformidad con los ARM que el gobierno de los Estados Unidos Mexicanos tiene celebrados con los gobiernos de Estados Unidos de América y Canadá, el Instituto, en su calidad de Autoridad Designadora, puede fungir como Organismo de Acreditación o bien, autorizar al Organismo de Acreditación para acreditar a Laboratorios de Prueba que realicen Evaluación de la Conformidad de disposiciones técnicas en materia de telecomunicaciones y radiodifusión. Lo anterior con fundamento en los artículos 28 y 133 de la Constitución, 1, 2, 7, 15, fracciones I, XXVI y LXIII, de la LFTR, con relación al inciso b), numeral 1), apartado II del Apéndice A de los Acuerdos de Reconocimiento Mutuo que el gobierno de los Estados Unidos Mexicanos tiene celebrados con los gobiernos de Estados Unidos y Canadá, respectivamente.
+
+CUARTO.- Impacto en el comercio exterior. El Instituto, conforme lo dispuesto en el artículo 289, segundo párrafo de la LFTR, tiene la facultad de aplicar el reconocimiento mutuo de la Evaluación de la Conformidad de productos, equipos, dispositivos o aparatos destinados a telecomunicaciones o radiodifusión que hayan evaluado su conformidad en otro Estado con el que el gobierno mexicano haya suscrito un acuerdo o tratado internacional para estos efectos. 
+
+En este tenor, la aplicación de lo dispuesto en los presentes Lineamientos coadyuvaría a simplificar la Evaluación de la Conformidad para una amplia gama de equipos e infraestructura de telecomunicaciones y radiodifusión entre México y los Estados con los que haya suscrito un acuerdo o tratado internacional para efectos de reconocimiento mutuo de la Evaluación de la Conformidad y, consecuentemente, facilitaría comercio entre éstos. 
+
+En este sentido, a través de la aplicación del presente instrumento regulatorio, se coadyuvará a la implementación de los ARM de mérito. Esto es, se llevará a cabo el reconocimiento mutuo de Reportes de Prueba de productos, equipos, dispositivos o aparatos destinados a telecomunicaciones o radiodifusión. Lo anterior, con el objetivo de reducir las barreras comerciales y fomentar la competencia y la libre concurrencia.
+
+Cabe señalar que se establece que los presentes Lineamientos entraran en vigor en180 días naturales a partir de su publicación en el DOF, lo anterior acorde a lo dispuesto en el artículo 5 párrafo 9 del Acuerdo sobre Obstáculos Técnicos al Comercio (Acuerdo OTC) de la Organización Mundial de Comercio (de la cual, México es Miembro) que establece que "los Miembros preverán un plazo prudencial entre la publicación de las prescripciones relativas a los procedimientos de Evaluación de la Conformidad y su entrada en vigor, ...".
+
+QUINTO.- Necesidad de emitir los Lineamientos para la Autorización, Acreditación, Designación y Reconocimiento de Laboratorios de Prueba. Como se establece en los Antecedentes, en cumplimiento a los compromisos asumidos en el Tratado de Libre Comercio de América del Norte (TLCAN), el Gobierno de los Estados Unidos signó Acuerdos de Reconocimiento Mutuo con los Gobiernos de los Estados Unidos de América y Canadá. Para la pronta implementación de los mismos, así como para la aplicación de futuros ARM, es necesario que el Instituto expida Lineamientos generales que establezcan los términos y plazos para realizar:
+
+ la Designación de los Laboratorios de Prueba de tercera parte nacionales para llevar a cabo la Evaluación de la Conformidad, respecto a Reglamentos Técnicos extranjeros relativos a la infraestructura y equipos de telecomunicaciones y radiodifusión y,
+ el Reconocimiento de Laboratorios de Prueba extranjeros, designados por una Autoridad Designadora de un Gobierno Extranjero, a efecto de reconocer que es competente para realizar la Evaluación de la Conformidad y de aceptar los Reportes de Prueba elaborados por dichos laboratorios respecto a Reglamentos Técnicos nacionales en materia de infraestructura y, equipos de telecomunicaciones y radiodifusión. 
+    
+    Así mismo, al no existir disposiciones relativas a la Acreditación y Autorización de Laboratorios de Prueba ni para la Autorización de Organismos de Acreditación en caso de que el Instituto no funja como tal, se establecen los requisitos y procedimientos para dichos efectos.
+
+En ese tenor, la expedición de los mencionados Lineamientos generaría los siguientes beneficios:
+ Fortalecer el nuevo marco normativo técnico del Instituto creado a raíz de la emisión de la LFTR;
+ Fortalecer el proceso de homologación y Evaluación de la Conformidad de productos destinados a telecomunicaciones y radiodifusión;
+ Simplificar la Evaluación de la Conformidad para infraestructura y, equipos de telecomunicaciones y radiodifusión entre México y los Estados que hayan suscrito un acuerdo o tratado internacional para efectos de reconocimiento mutuo de la Evaluación de la Conformidad, y
+ Coadyuvar en la implementación de los ARM mencionados y, de aquéllos que en un futuro el Gobierno de los Estados Unidos Mexicanos signe con otros Estados.
+
+Asimismo, el Instituto bajo el marco de las atribuciones que le confieren las leyes en la materia, establece como una mejor práctica regulatoria revisar en un periodo no mayor a cinco años los Lineamientos para la Acreditación, Autorización, Designación y Reconocimiento de Laboratorios de Prueba, a fin de identificar si la misma aún se requiere o si deben realizarse cambios en función de las condiciones que prevalezcan en el mercado. Lo anterior, de ninguna manera limita las atribuciones del Instituto para realizar dicha revisión en cualquier momento, dentro del periodo establecido.
+
+SEXTO.- Consulta pública. Con fundamento en lo establecido en el artículo 51 de la LFTR, el Instituto sometió a consulta pública bajo los principios de transparencia y participación ciudadana, el "ANTEPROYECTO DE ACUERDO MEDIANTE EL CUAL SE ESTABLECEN LOS LINEAMIENTOS PARA LA ACREDITACIÓN, DESIGNACIÓN Y RECONOCIMIENTO DE LABORATORIOS DE PRUEBAS.", durante un periodo de 44 días hábiles, comprendido del 7 de septiembre al 6 de noviembre 2015.
+
+Durante la consulta pública de mérito, se recibieron 7 participaciones de personas morales, dichas participaciones se centraron fundamentalmente en precisiones de carácter técnico en relación a los tiempos de vigencia de los diversos procedimientos, así como en diversas definiciones.  Las participaciones, así como las respuestas emitidas a los comentarios, se encuentran en el portal de Internet del Instituto.
+
+Lo anterior en línea con lo establecido en el artículo 5 párrafo 6 del Acuerdo OTC que establece que los Miembros "preverán un plazo prudencial para que los demás Miembros puedan formular observaciones por escrito" siempre que el procedimiento de Evaluación de la Conformidad pueda tener un efecto significativo en el comercio de otros Miembros.
+
+SÉPTIMO.- Análisis de Impacto Regulatorio. De conformidad con el segundo párrafo del artículo 51 de la LFTR, se establece que previo a la emisión de reglas, lineamientos o disposiciones administrativas de carácter general de que se trate, el Instituto deberá realizar y hacer público un análisis de impacto. Al respecto, de conformidad con lo establecido en los artículos 51 de la LFTR; 4 fracción VIII, inciso IV) y 75 fracción II del Estatuto, la Coordinación General de Mejora Regulatoria emitió, mediante oficio IFT/211/CGMR/016/2016 de 10 de febrero  de 2016, manifiesta la opinión no vinculante respecto del proyecto de "ACUERDO MEDIANTE EL CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES EXPIDE LOS  LINEAMIENTOS PARA LA ACREDITACIÓN, AUTORIZACIÓN, DESIGNACIÓN Y RECONOCIMIENTO DE LABORATORIOS DE PRUEBA.",  en dicha opinión, entre otros posicionamientos respecto al Análisis de Impacto Regulatorio del proyecto de Lineamientos en comento sobresale que "se considera que la información contenida  en el mismo  permitirá transparentar  los objetivos  que persigue el Instituto con la expedición del Anteproyecto, así como dar a conocer la problemática  a atender, las alternativas valoradas, la identificación de sus trámites  y acciones regulatorias contenidas,  una estimación  sobre sus posibles impactos  y los medios, mecanismos y recursos  a través  de los cuales  la Unidad de Política Regulatoria  estima aplicar  y evaluar las medidas contenidas  en el Anteproyecto en comento".
+
+Así, una vez garantizada la existencia del marco técnico regulatorio de mérito y derivado de los considerandos que nos anteceden con fundamento en lo dispuesto en los artículos 6o., apartado B, fracciones II y III y 28, párrafos décimo quinto y vigésimo, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos; artículos 1, 2, 7, 15 fracciones I, XXVI, XXXVIII, LXIII, 16, 17 fracción I y 289 de la Ley Federal de Telecomunicaciones y Radiodifusión  con relación a los incisos a) y b), numeral 1), apartado II del Apéndice A de los Acuerdos de Reconocimiento Mutuo que el  Gobierno de los Estados Unidos Mexicanos tiene celebrados con los Gobiernos de Estados Unidos y Canadá; artículos 1, 6 fracciones I, XXV y XXXVII, 23, fracción XIX del Estatuto Orgánico del Instituto Federal de Telecomunicaciones, el Pleno del Instituto expide el siguiente: 
+
+                                    ACUERDO
+
+PRIMERO.- Se expiden los LINEAMIENTOS PARA LA ACREDITACIÓN, AUTORIZACIÓN, DESIGNACIÓN Y RECONOCIMIENTO DE LABORATORIOS DE PRUEBA, mismos que se encuentran como Anexo Único del presente Acuerdo y que forma parte integrante de éste, los cuales entraran en vigor en180 días naturales a partir de su publicación en el Diario Oficial de la Federación 
+
+SEGUNDO.- Publíquese el presente Acuerdo y su Anexo Único en el Diario Oficial de la Federación.
+
+El presente Acuerdo fue aprobado por el Pleno del Instituto Federal de Telecomunicaciones en su IV Sesión Ordinaria celebrada el 17 de febrero de 2016, por unanimidad de votos de los Comisionados presentes Gabriel Oswaldo Contreras Saldívar, Luis Fernando Borjón Figueroa, Ernesto Estrada González, Adriana Sofía Labardini Inzunza, María Elena Estavillo Flores, Mario Germán Fromow Rangel y Adolfo Cuevas Teja; con fundamento en los párrafos vigésimo, fracciones I y III; y vigésimo primero, del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos; artículos 7, 16 y 45 de la Ley Federal de Telecomunicaciones y Radiodifusión; así como en los artículos 1, 7, 8 y 12 del Estatuto Orgánico del Instituto Federal de Telecomunicaciones, mediante Acuerdo P/IFT/170216/34.
+
+
+                                 ANEXO ÚNICO
+LINEAMIENTOS PARA LA ACREDITACIÓN, AUTORIZACIÓN, DESIGNACIÓN Y RECONOCIMIENTO DE LABORATORIOS DE PRUEBA. 
+                                       
+                                  CAPÍTULO I
+                           DISPOSICIONES GENERALES 
+
+PRIMERO. Los presentes Lineamientos tienen por objeto establecer requisitos y procedimientos para: 
+ La Acreditación y Autorización de Laboratorios de Prueba de tercera parte nacionales para realizar pruebas, o determinar una o más características de un producto o infraestructura de telecomunicaciones y radiodifusión  sujeto a la Evaluación de la Conformidad en concordancia con la  Norma ISO/IEC 17025: "Requisitos generales para la competencia de los Laboratorios de Prueba y calibración", y Normas, Disposiciones Técnicas o Reglamentos Técnicos extranjeros en materia de infraestructura y productos de telecomunicaciones y radiodifusión, de conformidad con la Ley Federal de Telecomunicaciones y Radiodifusión y el Acuerdo de Reconocimiento Mutuo correspondiente.
+ La Autorización de Organismos de Acreditación para efectos de que éstos otorguen la acreditación a los Laboratorios de Prueba de tercera parte nacionales, en concordancia con la Norma ISO/IEC17011: "Evaluación de la Conformidad - Requisitos Generales para los Organismos de Acreditación que realizan la Acreditación de organismos de Evaluación de la Conformidad".
+ La Designación de Laboratorios de Prueba de tercera parte nacionales para realizar pruebas como parte de las actividades de la Evaluación de la Conformidad de infraestructura y productos de telecomunicaciones y radiodifusión en relación con Reglamentos Técnicos extranjeros, cuyo cumplimiento es obligatorio en el marco del Acuerdo de Reconocimiento Mutuo correspondiente.
+ El Reconocimiento de Laboratorios de Prueba de tercera parte extranjeros, designados por una Autoridad Designadora de un Gobierno Extranjero, a efecto de reconocer que es competente para realizar pruebas como parte de las actividades de la Evaluación de la Conformidad y, de aceptar los Reportes de Prueba elaborados por dichos laboratorios con respecto a Disposiciones Técnicas en materia de productos e infraestructura de telecomunicaciones y radiodifusión en el marco del correspondiente Acuerdo de Reconocimiento Mutuo.
+Las disposiciones contenidas en los presentes Lineamientos aplican de manera obligatoria a:
+ Los Laboratorios de Prueba de tercera parte nacionales interesados en obtener la Acreditación y consecuente Autorización  del Instituto Federal de Telecomunicaciones en términos de la Ley Federal de Telecomunicaciones y Radiodifusión y  del Acuerdo de Reconocimiento Mutuo correspondiente, respecto de la Norma ISO/IEC 17025: "Requisitos generales para la competencia de los laboratorios de prueba y calibración",  y para efectos de la aplicación de pruebas, o determinación de una o más características de un producto o infraestructura de telecomunicaciones y radiodifusión sujeto a la Evaluación de la Conformidad conforme a  alguna Norma, Disposición Técnica o Reglamento Técnico extranjero en materia de telecomunicaciones y radiodifusión. 
+ Los Laboratorios de Prueba de tercera parte nacionales interesados en obtener la Designación del Instituto Federal de Telecomunicaciones en relación con Reglamentos Técnicos extranjeros para realizar pruebas como parte de las actividades de la Evaluación de la Conformidad de infraestructura y productos en materia de telecomunicaciones y radiodifusión. cuyo cumplimiento es obligatorio en el marco del Acuerdo de Reconocimiento Mutuo correspondiente. 
+ Los Laboratorios de Prueba de tercera parte extranjeros designados por la Autoridad Designadora de un Gobierno extranjero en el marco de un Acuerdo de Reconocimiento Mutuo interesados en su Reconocimiento por el Instituto Federal de Telecomunicaciones en su carácter de Autoridad Reguladora, respecto a Disposiciones Técnicas.
+ Los Organismos de Acreditación interesados en obtener la Autorización del Instituto para Acreditar Laboratorios de Prueba, en concordancia con la Norma ISO/IEC17011: "Evaluación de la Conformidad - Requisitos Generales para los Organismos de Acreditación que realizan la Acreditación de organismos de Evaluación de la Conformidad".
+
+SEGUNDO. La documentación y requisitos previstos en los presentes Lineamientos, deberán presentarse ante el Instituto Federal de Telecomunicaciones en idioma español. 
+Los formatos de solicitud contenidos en los Anexos 1, 2, 3 y 4, serán de libre reproducción para su utilización por parte de los interesados, y estarán disponibles en el portal de Internet del Instituto Federal de Telecomunicaciones a la entrada en vigor de los presentes Lineamientos.
+
+TERCERO. La interpretación, actualización y/o modificación de los presentes Lineamientos, así como la atención y resolución de los casos no previstos en los mismos, corresponderán al Instituto Federal de Telecomunicaciones. Asimismo, en caso de que los términos y plazos previstos tanto para el Instituto como para los particulares en los presentes Lineamientos lleguen a término en días inhábiles según lo previsto en el calendario oficial del Instituto, éstos fenecerán hasta el día hábil siguiente.
+
+
+                                 CAPÍTULO II
+                                 DEFINICIONES
+                                       
+CUARTO. Para los efectos de los presentes Lineamientos, además de las definiciones previstas en la Ley Federal de Telecomunicaciones y Radiodifusión, se entenderá por:
+   Acreditación: Acto por el cual el Instituto Federal de Telecomunicaciones por sí mismo, o a través de Organismos de Acreditación autorizados por éste, reconoce la competencia técnica y confiabilidad de los Laboratorios de Prueba de tercera parte nacionales, organismos de certificación y Unidades de Verificación para realizar  la Evaluación de la Conformidad de una Norma, Disposición Técnica o Reglamento Técnico extranjero, en materia de telecomunicaciones y radiodifusión, según corresponda; 
+   Acta Circunstanciada: Documento en el cual el servidor público designado por el Instituto hace constar los hechos  y omisiones observados durante el desarrollo de una visita de evaluación y/o Verificación;
+   Acuerdo de Reconocimiento Mutuo (ARM): Acuerdo de Reconocimiento, entre el Gobierno de los Estados Unidos Mexicanos y un Gobierno Extranjero para la Evaluación de la Conformidad de infraestructura y productos de telecomunicaciones y radiodifusión; 
+ Autoridad Designadora: Entidad facultada y competente para designar, listar, verificar el cumplimiento de, limitar y retirar la Designación de Laboratorios de Prueba dentro de su país, en términos de un ARM; 
+   Autorización: Acto por el cual el Instituto Federal de Telecomunicaciones reconoce la capacidad jurídica, técnica, administrativa y financiera de una persona moral para desarrollar tareas de Evaluación de la Conformidad, entre los que se encuentran Organismos de Acreditación, Laboratorios de Prueba, y Organismos de Certificación,  en el sector de las Telecomunicaciones y radiodifusión.  En caso de que el Instituto funja como un Organismo de Acreditación, se tendrá por autorizado un Laboratorio de Prueba o un Organismo de Certificación cuando sea acreditado por el mismo. 
+   CENAM: Centro Nacional de Metrología
+ Designación: Acto por el cual el Instituto Federal de Telecomunicaciones designa a un Laboratorio de Prueba de tercera parte nacional para evaluar si los productos  de telecomunicaciones y radiodifusión cumplen con los Reglamentos Técnicos extranjeros en términos de un ARM y realizar los Reportes de Prueba correspondientes;
+ Disposición Técnica (DT): Instrumento de observancia general y obligatoria expedido por el Instituto Federal de Telecomunicaciones, a través del cual se regulan características y la operación de productos y servicios de telecomunicaciones y radiodifusión, incluyendo infraestructura,  en su caso, la instalación de los equipos, sistemas y la infraestructura en general asociada a éstos, así como las especificaciones que se refieran a su cumplimiento o aplicación, entre otros.
+ Evaluación de la Conformidad: Todo procedimiento utilizado, directa o indirectamente, para determinar el grado de cumplimiento con las Normas, Disposiciones Técnicas y Reglamento Técnicos extranjeros aplicables; los procedimientos para la Evaluación de la Conformidad comprenden, entre otros, los de muestreo, prueba e inspección, evaluación, Verificación y garantía de la conformidad, registro, Acreditación y Autorización, separadamente o en distintas combinaciones. 
+ Identificación Única del Laboratorio de Prueba: Número generado por el sistema de gestión del Laboratorio de Prueba solicitante, de acuerdo al numeral 4.3.2.3 de la Norma ISO/IEC 17025: "Requisitos generales para la competencia de los laboratorios de prueba y calibración", para identificar todos los documentos generados por el Laboratorio de Prueba.
+   Instituto: Instituto Federal de Telecomunicaciones;
+ Laboratorios de Prueba de tercera parte (LP): Laboratorio formalmente establecido de acuerdo con las disposiciones legales y administrativas aplicables, y que cuenta con instalaciones, equipo, personal técnico calificado y demás medios necesarios para aplicar o realizar pruebas, o determinar una o más características de un producto o infraestructura de telecomunicaciones y radiodifusión sujeto a la Evaluación de la Conformidad, de acuerdo con un método o procedimiento, como se encuentra definido en la Norma ISO/IEC 17000:2004 Evaluación de la Conformidad  -  Vocabulario y principios generales;  y que es independiente de la persona u organización que proporciona el producto e infraestructura en materia de telecomunicaciones y radiodifusión, y de los que tienen interés como usuario de los mismos;
+   LFTR: Ley Federal de Telecomunicaciones y Radiodifusión; 
+ Norma: Documento aprobado por una institución reconocida que establece, para un uso común y repetido, entre otros, reglas, especificaciones, atributos, métodos de prueba, directrices, características o prescripciones aplicables en materia de telecomunicaciones y radiodifusión. También puede incluir prescripciones en materia de terminología, símbolos, embalaje, marcado o etiquetado aplicables a un producto, procesos o método de producción, o tratar exclusivamente de ellas; 
+ Organismos de Acreditación (OA): El Instituto, así como los organismos autorizados por el mismo ejerciendo su calidad de Autoridad Reguladora y Designadora en los términos del ARM correspondiente, para desarrollar tareas de Acreditación en el ámbito de las telecomunicaciones y radiodifusión, en todo momento cumpliendo con la Norma ISO/IEC17011: "Evaluación de la Conformidad - Requisitos Generales para los Organismos de Acreditación que realizan la Acreditación de organismos de Evaluación de la Conformidad"; 
+       
+ Reconocimiento: Acto mediante el cual el Instituto reconoce que un Laboratorio de Prueba de tercera parte extranjero es competente para realizar la Evaluación de la Conformidad y que los Reportes de Prueba de dicho Laboratorio serán aceptados  por una Autoridad Reguladora, en este caso el Instituto, en el marco del ARM correspondiente; 
+ Reglamentos Técnicos (RT): Documento en el que se establecen las características de un producto o los procesos y métodos de producción con ellas relacionados, con inclusión de las disposiciones administrativas aplicables, y cuya observancia es obligatoria en materia de telecomunicaciones y radiodifusión. También puede incluir prescripciones en materia de terminología, símbolos, embalaje, marcado o etiquetado aplicables a un producto, proceso o método de producción, o tratar exclusivamente de ellas. Las Disposiciones Técnicas expedidas por el Instituto son Reglamentos Técnicos;
+   Reporte de Prueba: Documento que emite el Laboratorio de Prueba de tercera parte nacional o extranjero con  los resultados de las  pruebas y, en su caso,  otra información pertinente a éstas, realizadas a la infraestructura y a los productos de telecomunicaciones y radiodifusión, de conformidad con el Acuerdo de Reconocimiento Mutuo correspondiente, la Ley Federal de Telecomunicaciones y Radiodifusión, Normas, Disposiciones Técnicas y/o Reglamentos Técnicos extranjeros;
+ Trazabilidad. Propiedad de un resultado de medida por la cual dicho resultado puede relacionarse con una referencia mediante una cadena ininterrumpida y documentada de calibraciones, cada una de las cuales contribuye a la incertidumbre de la medida.
+ Verificación.- La constatación ocular o comprobación mediante muestreo, medición, pruebas de laboratorio, o examen de documentos que se realizan para evaluar la conformidad en un momento determinado.
+                                                                               
+                                 CAPÍTULO III
+                             DE LA ACREDITACIÓN. 
+                                  Sección I
+             De la Acreditación y Autorización por el Instituto.
+                                       
+QUINTO. Los Laboratorios de Prueba de tercera parte nacionales acreditados por el Instituto se tendrán como autorizados por el mismo, en términos del artículo 15, fracción XXXVIII de la LFTR.
+Los Laboratorios de Prueba de tercera parte nacionales interesados en obtener la Acreditación y consecuente Autorización  por parte del Instituto en cumplimiento de  la  Norma ISO/IEC 17025: "Requisitos generales para la competencia de los laboratorios de prueba y calibración" y en relación a una Norma, DT o RT extranjero, respectivamente, para realizar pruebas, o determinar una o más características de un producto o infraestructura de telecomunicaciones y radiodifusión sujeto a la Evaluación de la Conformidad,  deberán cumplir con lo siguiente:
+ Recabar y enviar a través del portal de Internet del Instituto lo siguiente: 
+   Requisitos generales: 
+         Solicitud de Acreditación debidamente requisitada y firmada por el representante legal del solicitante (Anexo 1 disponible en el portal de Internet del Instituto). 
+         Copia certificada expedida por fedatario público del Acta Constitutiva en que conste que el Laboratorio de Prueba de tercera parte solicitante es una persona moral formalmente establecida y con domicilio en los Estados Unidos Mexicanos de acuerdo con las disposiciones legales aplicables, así como de los Estatutos que avalen que el LP solicitante es una persona moral cuyo objeto social es el de realizar la  Evaluación de la Conformidad de productos, procesos o servicios relacionados con el objeto y el alcance de las Normas, DT o RT extranjero en la que está solicitando la Acreditación, y
+         Copia certificada expedida por fedatario público del poder que faculta como representante legal a la persona que firma la solicitud de Acreditación, quien deberá tener domicilio en los Estados Unidos Mexicanos.
+    Los requisitos generales b) y c) se presentarán únicamente cuando sea la primera vez que el LP solicita al Instituto la Acreditación a que se refiere el presente capítulo y/o cuando se modifiquen las circunstancias o las personas a las que se refieren dichos requisitos.
+   Requisitos particulares
+ Identificación oficial con fotografía del representante legal del LP, encargado de gestionar la Acreditación; 
+ Original del comprobante de pago de aprovechamientos por el concepto de Acreditación del LP respecto la Norma ISO/IEC 17025: "Requisitos generales para la competencia de los laboratorios de prueba y calibración". 
+ En su caso, original del comprobante de pago por el concepto de dictamen del CENAM sobre la capacidad técnica de medición del LP interesado en obtener   la Acreditación para Evaluación de la Conformidad respecto de la Norma, DT o RT extranjero en referencia.
+  Los mecanismos para garantizar la independencia e imparcialidad con la que actuará en sus actividades y respecto de las personas u organizaciones que proporcionan el producto y/o infraestructura en materia de telecomunicaciones y radiodifusión, y de los que tienen interés de como usuario en los mismos.
+        
+   El requisito general a) y los requisitos particulares deberán cumplirse por el LP cada vez que solicite al Instituto la Acreditación respecto a una Norma, DT o RT extranjero.
+
+ Cuando la solicitud del LP interesado en obtener la Acreditación no cumpla con los requisitos o no se acompañe con la información correspondiente listada en la fracción I inmediata anterior, el Instituto prevendrá por escrito al LP interesado, por una sola vez, en un plazo que no excederá de quince días naturales contados a partir de la recepción de la solicitud de Acreditación. Dicha prevención se realizará a través del medio electrónico que establezca el Instituto, cuando así lo haya aceptado expresamente el solicitante. El interesado podrá subsanar la omisión dentro de un plazo que no excederá de veinticinco días naturales, contados a partir de la recepción de dicha prevención. Transcurrido dicho plazo sin desahogar la prevención, se tendrá por no presentada la mencionada solicitud.
+
+SEXTO.  Una vez que el Instituto tenga por recibida la solicitud de Acreditación a que se refiere este capítulo, con respecto a la Norma ISO/IEC 17025: "Requisitos generales para la competencia de los laboratorios de prueba y calibración" y a la Norma, DT o RT extranjero correspondiente, el Instituto revisará que la documentación presentada se encuentre completa, correcta y que cumpla con los requisitos previstos en el lineamiento QUINTO. Acto seguido, el Instituto integrará un grupo evaluador y podrá solicitar por escrito al CENAM su participación para que dictamine sobre la capacidad técnica de medición del LP interesado en obtener la Acreditación  para realizar Evaluación de la Conformidad respecto de la Norma, DT  o RT extranjero de  referencia.
+En su caso, el CENAM decidirá su participación en la visita de evaluación al LP que llevará a cabo el Instituto: 
+
+ Si decide participar, notificará por escrito a más tardar  tres días naturales después de haber recibido la solicitud de participación al Instituto para que integre a sus representantes al grupo evaluador, de no actualizarse el presente supuesto, se procederá al inciso b.
+            
+         Si decide no participar en la visita de evaluación, el Instituto le entregará una copia del Acta Circunstanciada mencionada en la fracción IV del presente lineamiento dentro de los diez días naturales posteriores a la referida visita, la cual será tomada en consideración para la elaboración del dictamen e informe del CENAM sobre la capacidad técnica de medición del LP interesado.
+            
+El grupo evaluador estará integrado por expertos registrados en un padrón generado por el Instituto.  Dicho padrón será conformado atendiendo al procedimiento que para tales efectos defina el Instituto, con la finalidad de garantizar la experiencia, competencia técnica, y la no existencia de conflictos de interés, el padrón deberá contener, de manera enunciativa más no limitativa lo siguiente:
+
+         Nombre.
+         Nivel académico.
+         Experiencia laboral y técnica en las áreas a evaluar, y
+         Número de cédula profesional del último grado de estudios.
+        
+A efecto de realizar la evaluación del LP, el Instituto seleccionará, de acuerdo a su campo de experiencia y competencia técnica, del padrón de expertos evaluadores a un grupo conformado por un número impar de integrantes, proporcional a las competencias técnicas y de confiabilidad que se requieran evaluar. Dicho grupo deberá contar con 1) un evaluador líder con voto de calidad, 2) un evaluador experto en la Norma ISO/IEC 17025:"Requisitos generales para la competencia de los laboratorios de prueba y calibración", y 3) evaluador(es) técnico(s) experto(s) en la materia de la Norma(s), DT(s) y/o RT(s) correspondientes.
+
+El evaluador líder será un servidor público del Instituto con el cargo de, al menos, Director de Área y deberá ser designado por el Comisionado Presidente del mismo.
+
+A efectos de realizar la visita de evaluación, se procederá de la siguiente manera:
+ El Instituto, en coordinación con el grupo evaluador, fijará la fecha para realizar en las instalaciones del LP la visita de evaluación correspondiente a más tardar treinta y cinco días naturales contados a partir de la recepción de la solicitud de Acreditación, con el objeto de comprobar que el LP cuente con las instalaciones, equipo, personal técnico, organización y métodos operativos adecuados, que garanticen la competencia técnica y la confiabilidad de sus servicios, y en particular lo relativo a la aplicación de métodos de prueba y Evaluación de la Conformidad de las características o especificaciones establecidas en la(s) Norma(s), DT(s) y/o RT(s) en la que solicita su Acreditación. Una vez determinada la fecha, el Instituto la notificará al LP solicitante.  
+ En la visita de evaluación el LP interesado en obtener la Acreditación  por parte del Instituto deberá comprobar y dar cumplimiento a la Norma ISO/IEC 17025:"Requisitos generales para la competencia de los laboratorios de prueba y calibración" y de la(s) Norma(s), DT(s) y/o RT(s) en las que solicita Acreditación; por lo tanto, deberá demostrar, entre otras cosas, lo siguiente:
+         
+ Que opera bajo un procedimiento de aseguramiento de la calidad que se encuentre previsto en las  Normas o lineamientos internacionales;
+          Que cuenta con un sistema de gestión apropiado al alcance de sus actividades;
+          Que cuenta con las instalaciones, instrumental y equipo necesarios y suficientes para la aplicación de los métodos de prueba y Evaluación de la Conformidad de las características o especificaciones establecidas en la Norma, DT o RT extranjero objeto de la solicitud de Acreditación, que garanticen su competencia técnica y la confiabilidad de sus servicios;
+          Que cuenta con personal técnico calificado con un amplio conocimiento y dominio de  la Norma, DT o RT extranjero objeto de la solicitud de Acreditación y que garanticen su competencia técnica y la confiabilidad de sus servicios; 
+          Que cuenta con la organización y métodos operativos adecuados y con los demás requisitos que establezca la normatividad aplicable, a efecto de que  garantice su competencia técnica y la confiabilidad de sus servicios; 
+          Que los aparatos e instrumentos de medición que habrá de utilizar el LP para las pruebas y Evaluación de la Conformidad respecto a la Norma, DT o RT extranjero objeto de la solicitud de Acreditación, cuentan con certificado o informe de calibración y Trazabilidad a los patrones nacionales aprobados por la Secretaría de Economía o en su defecto, a patrones extranjeros o internacionales confiables a juicio de ésta. Para la comprobación de dicha Trazabilidad deberá presentar el certificado o informe que avale la calibración realizada por un laboratorio con Trazabilidad a un laboratorio primario, ya sea nacional o extranjero y, en el primer caso, acreditado y aprobado en términos de la Ley Federal de Metrología y Normalización. Los certificados de calibración que se presenten deberán contener la información que se establece en las Normas Oficiales Mexicanas y en los lineamientos que para tal efecto dicte la Secretaría de Economía; 
+          Que los Reportes de Prueba que emita presenten, entre otra información pertinente, la incertidumbre estimada de la medición;
+          Que el personal que opera equipos específicos, realiza pruebas, evalúa los resultados de pruebas y firma los Reportes  de Prueba sea competente, es decir que cuente con el conocimiento y pericia necesario para realizar lo antes mencionado;
+          Que provea una supervisión apropiada cuando emplee personal en formación;
+          Que tiene y aplica un procedimiento para estimar la incertidumbre de la medición, en algunos casos la naturaleza del método de prueba puede excluir un cálculo riguroso, metrológicamente y estadísticamente válido de la incertidumbre de medición. En estos casos el LP deberá, por lo menos, tratar de identificar todos los componentes de la incertidumbre y hacer una estimación razonable; 
+          Que establece e implementa procedimientos para proteger los datos de los productos o infraestructura sujetos a pruebas; tales procedimientos deberán incluir, pero no limitarse a, la integridad y la confidencialidad de la entrada o recopilación, su almacenamiento, transmisión y procesamiento de los datos;
+          Que los equipos y software utilizado para las pruebas permitan lograr la exactitud requerida y que cumplan con las especificaciones pertinentes para las pruebas;
+          Que tenga e implemente un procedimiento para el transporte, la recepción, la manipulación, la protección, el almacenamiento, la conservación o la disposición final de los dispositivos sujetos de pruebas, incluidas todas las disposiciones necesarias para proteger la integridad del dispositivo objeto de las pruebas, y
+          Que actúa con imparcialidad, independencia e integridad, y que garantiza la confidencialidad y la privacidad, así como la solución a los posibles conflictos que puedan afectar la confianza que debe brindar.
+ El grupo evaluador designado por el Instituto realizará la visita de evaluación en las instalaciones del LP de tercera parte en la fecha programada atendiendo lo establecido en la fracción II del presente lineamiento. 
+ Al término de la visita de evaluación, el grupo evaluador levantará, en esa fecha y lugar, un Acta Circunstanciada de la visita de evaluación, a la cual se adjuntará, en su caso, el dictamen e informe del CENAM elaborado por sus representantes como parte del grupo evaluador. El Acta Circunstanciada deberá ser levantada y en presencia de dos testigos propuestos por el representante legal del LP evaluado, o en su defecto  por dos testigos propuestos por el evaluador líder, si es que el representante legal del LP se hubiese negado a proponerlos. Al final se dejará copia del Acta Circunstanciada a la persona con quien se entendió la visita de evaluación, aunque se hubiere negado a firmar, lo que no afectará la validez del Acta de Circunstanciada, siempre y cuando el evaluador líder haga constar tal circunstancia en la propia acta.
+ En el Acta  Circunstanciada se hará constar lo siguiente:
+ Nombre, denominación o razón social del LP;
+ Hora, día, mes y año en que inicie y en que concluya la visita de evaluación;
+ Calle, número, población o colonia, municipio o delegación, código postal y entidad federativa en que se encuentre ubicado el LP evaluado;
+ Número y fecha del oficio de comisión que la motivó;
+ Nombre y cargo del representante legal o persona que atendió la visita de evaluación;
+ Nombre y domicilio de las dos  personas que fungieron como testigos;
+ Datos relativos a la actuación;
+ En su caso, declaración del LP  solicitante y,
+ Nombre y firma de quienes intervinieron en la visita de evaluación, incluyendo los de quien la llevó a cabo.
+ El grupo evaluador analizará y valorará toda la información y evidencia recopilada durante la revisión de los documentos y registros de la visita de evaluación, lo que permitirá al grupo determinar el grado de competencia y conformidad del LP con los requisitos de la Acreditación.
+ El grupo evaluador, antes de levantar el Acta Circunstanciada, y de abandonar las instalaciones, deberá llevar a cabo una reunión con el representante legal del LP, en dicha reunión le proporcionará al personal del LP un informe oral y escrito sobre los hallazgos obtenidos del análisis realizado, considerando lo establecido en la fracción II anterior, asimismo se le dará la oportunidad de efectuar preguntas sobre los hallazgos y las no conformidades, si existieran. Todo lo anterior deberá asentarse en el Acta Circunstanciada. El LP tendrá derecho de agregar en el Acta Circunstanciada lo que a su derecho convenga.
+ En caso de existir no conformidades, el grupo evaluador invitará al LP a responder al informe oral y escrito sobre los hallazgos obtenidos del análisis realizado, y describir las acciones específicas a tomar, dentro de un tiempo determinado, para resolver, cualquier no conformidad identificada.
+         De ser el caso, el LP preparará y enviará al Instituto en un plazo no mayor a quince días naturales a partir de la visita de evaluación, las pruebas y defensas respecto a la visita realizada y las correcciones para la atención de las no conformidades que se hubiesen encontrado en la visita de evaluación.  El Instituto deberá dar vista con dicho escrito al CENAM y al grupo evaluador dentro de los cinco días naturales siguientes a su recepción.
+ Para efectos del inciso B. del presente lineamiento, el CENAM, tomando en consideración el Acta Circunstanciada, el informe oral y escrito sobre los hallazgos obtenidos del análisis realizado por el grupo evaluador y la descripción de las acciones específicas a tomar por parte del LP solicitante para resolver cualquier no conformidad identificada, elaborará su dictamen e Informe sobre la capacidad técnica de medición del LP interesado y lo remitirá al Instituto, dentro de los  veinte días naturales siguientes a que reciba dicha Acta. 
+ El grupo evaluador llevará a cabo una sesión de trabajo en donde se analizará la solicitud de Acreditación del LP de tercera parte interesado, en la cual se presentarán y discutirán los argumentos necesarios en relación con la evaluación del LP interesado y se elaborará el dictamen correspondiente.
+ Dentro de los cinco días naturales siguientes a la culminación de la referida sesión, el evaluador líder deberá contar con el dictamen correspondiente, conteniendo como mínimo la siguiente información:  
+          Acta Circunstanciada de la visita de evaluación;
+          La Identificación Única del LP;
+          La fecha de la visita de evaluación;
+          El o los nombres de los integrantes del grupo evaluador;
+          La Identificación Única de todas las instalaciones evaluadas;
+          El alcance propuesto de la Acreditación que fue evaluada;
+          En su caso,  dictamen e informe del CENAM;
+           El informe por escrito sobre los hallazgos obtenidos del análisis realizado y, en su caso, de las no conformidades que se hubiesen encontrado durante la visita de evaluación;
+          En su caso, una declaración acerca de la adecuación de la organización interna y los procedimientos adoptados por el LP para generar confianza en su competencia, determinada a través del cumplimiento de los requisitos de la Acreditación;
+          Información sobre la resolución de todas las no conformidades emitida por el grupo evaluador;
+          En su caso, el análisis del contenido del escrito previsto en el numeral VIII anterior, y
+          Cualquier información adicional que pueda ayudar a determinar el cumplimiento de los requisitos y la competencia del LP.
+              
+ El Instituto se cerciorará de que el documento que describa las acciones propuestas por el LP para resolver las no conformidades sea revisado por el grupo evaluador con el fin de comprobar si las acciones son suficientes y eficaces.  Si las respuestas del LP se consideran insuficientes, el Instituto requerirá mayor información a más tardar a los tres días naturales de que el Instituto reciba el documento con las propuestas para resolver las no conformidades por parte del LP solicitante. 
+         Adicionalmente, el Instituto podrá requerir evidencia de la implementación eficaz de las acciones tomadas o, realizar una evaluación de seguimiento para verificar la implementación eficaz de las acciones correctivas. 
+ El Instituto considerando 1) en su caso, dictamen e informe del CENAM sobre la capacidad técnica de medición del LP, 2) el dictamen del grupo evaluador y 3) la información referida en la fracción XII anterior, así como las pruebas y defensas respecto a la visita de evaluación realizada que, en su caso, hubiesen sido enviadas por el LP interesado, valorará y determinará la competencia técnica y confiabilidad respecto a la Norma ISO/IEC 17025:"Requisitos generales para la competencia de los laboratorios de prueba y calibración", así como el grado de cumplimiento por parte del LP interesado de la Norma, DT o RT extranjero y formulará la posición del Instituto respecto al otorgamiento o no de la Acreditación  al LP.
+ Si el Instituto determina Acreditar al LP, emitirá el Certificado de Acreditación correspondiente, asimismo lo tendrá por Autorizado en términos del artículo 15, fracción XXXVIII de la LFTR y   lo hará del conocimiento al LP solicitante dentro de los diez días naturales siguientes a la fecha de emisión del mismo. El Certificado deberá identificar (en la primera página, si es posible) lo siguiente:
+ La identidad y el logotipo del Instituto;
+ La identificación única del LP acreditado;
+ Todas las instalaciones en las cuales se llevan a cabo una o más actividades clave y que están cubiertas por la Acreditación;
+ El número de acreditación único del LP;
+ La fecha efectiva de otorgamiento de la Acreditación y su vigencia, la cual será de dos años;  
+ Una breve descripción del alcance de la Acreditación o referencia a ésta;
+ Declaración y referencia a las Normas, DT o RT extranjero u otros documentos normativos, incluida la edición/revisión utilizada para la evaluación del LP, y
+ Las pruebas o tipos de prueba realizados, los productos probados y, en su caso, los métodos utilizados.
+         
+         La vigencia del Certificado de Acreditación, y la consecuente Autorización de un LP será de dos años, contados a partir de la fecha efectiva de otorgamiento de las mismas. La vigencia de la Acreditación y Autorización de un LP podrá prorrogarse por períodos iguales, siempre y cuando no se incurra en alguna de las causas señaladas en los lineamientos DÉCIMO QUINTO, DÉCIMO SEXTO Y DÉCIMO SÉPTIMO de los presentes Lineamientos; para ello el LP acreditado deberá realizar la solicitud a través del medio electrónico que el Instituto determine, con tres meses de anticipación al término de su vigencia, además deberá encontrarse en pleno cumplimiento de las condiciones y requisitos bajo las cuales se le otorgó la Acreditación y comprobar que dichas condiciones y requisitos no han sufrido cambios, de no solicitar la prorroga con tres meses de anticipación, la Acreditación y Autorización perderá su vigencia en el término previsto en el Certificado de Acreditación a que hace referencia la fracción anterior sin  que la mencionada Acreditación y Autorización se pueda prorrogar.
+ El Instituto publicará en su portal de Internet los datos del LP que acreditó y autorizó para realizar los métodos de prueba y la Evaluación de la Conformidad, así como la Norma, DT o RT extranjero en materia de telecomunicaciones y radiodifusión para la cual se encuentra acreditado y autorizado. Esta publicación se llevará a cabo dentro de los siguientes quince días naturales a partir de la fecha de Acreditación del LP e incluirá los respectivos Certificados de Acreditación y las Autorizaciones emitidas por el Instituto.
+ Los LP acreditados con respecto a una Norma, DT o RT extranjero para la prestación o complementación de sus servicios, si así lo consideran pertinente, podrán subcontratar a otro LP competente siempre y cuando esté acreditado y autorizado por el Instituto para realizar la Evaluación de la Conformidad de la Norma, DT o RT extranjero y consecuentemente que cumpla con la Norma ISO/IEC 17025: "Requisitos generales para la competencia de los laboratorios de prueba y calibración". El LP deberá advertir a su cliente por escrito sobre la subcontratación con el LP y, obtener su aprobación por escrito.
+                                  Sección II
+De la Acreditación por un Organismo de Acreditación autorizado por el Instituto.
+SÉPTIMO.  Los Laboratorios de Prueba de tercera parte nacionales también podrán obtener la Acreditación por parte de un Organismo de Acreditación, siempre y cuando éste haya obtenido previamente la Autorización del Instituto en los términos que prevén los presentes Lineamientos. El Certificado de Acreditación que al efecto se emita por dos años contendrá los mismos elementos señalados en el Lineamiento Sexto, fracción XIV. 
+El Organismo de Acreditación autorizado, para efectos de otorgar la acreditación a los Laboratorios de Prueba de tercera parte nacionales interesados, se sujetará a los requisitos y procedimientos previstos en la Norma ISO/IEC 17011; "Evaluación de la Conformidad - Requisitos Generales para los Organismos de Acreditación que realizan la Acreditación de organismos de Evaluación de la Conformidad", la Norma ISO/IEC 17025; "Requisitos generales para la competencia de los laboratorios de prueba y calibración", las Normas, DTs o RTs en materia de infraestructura y productos de telecomunicaciones y radiodifusión, los presentes Lineamientos,  y en su caso, el ARM correspondiente y la LFTR.
+                                 CAPÍTULO IV
+DE LA AUTORIZACIÓN A ORGANISMOS DE ACREDITACIÓN Y A LABORATORIOS DE PRUEBA. 
+                                  Sección I 
+                Autorización a un Organismo de Acreditación.
+OCTAVO.  A efecto de que el Instituto autorice a un OA para desarrollar tareas de Acreditación de Laboratorios de Prueba de tercera parte nacionales en el ámbito de las telecomunicaciones y radiodifusión, éste deberá apegarse a lo establecido en el presente capítulo, asimismo deberá demostrar el cumplimiento con la Norma ISO/IEC17011: "Requisitos generales para los organismos de Acreditación que realizan la Acreditación de los organismos de Evaluación de la Conformidad" y: 
+  Recabar y enviar a través del portal de Internet del Instituto lo siguiente: 
+       Requisitos generales: 
+ Solicitud de Autorización debidamente requisitada y firmada por el representante legal del OA solicitante (Anexo 2, disponible en el portal de Internet del Instituto). 
+ Copia certificada expedida por fedatario público del Acta Constitutiva que avale al organismo solicitante como una persona moral formalmente establecida y con domicilio en los Estados Unidos Mexicanos, de acuerdo con las disposiciones legales aplicables, así como de los Estatutos que avalen que el organismo solicitante es una persona moral cuyo objeto social es el de realizar la Acreditación de organismos de la Evaluación de la Conformidad.
+ Copia certificada expedida por fedatario público del poder que faculta como representante legal a la persona que firma la solicitud de Autorización, quien deberá tener domicilio en los Estados Unidos Mexicanos.
+ Expresar si consiente o no las notificaciones a través de medios electrónicos. En caso de que sí lo acepte, deberá señalar un correo electrónico para recibir ello. En su defecto, deberá señalar domicilio en la Ciudad de México para oír y recibir notificaciones. 
+       Requisitos particulares:
+     Identificación oficial del representante legal del OA, encargado de gestionar la Autorización. 
+     Una carpeta en formato digital que contenga los siguientes documentos correspondientes al último año de operaciones del OA:
+ Alcance de la Autorización que pretende obtener, en el que se describa claramente sus actividades de Acreditación haciendo referencia a las correspondientes Normas internacionales, guías y otros documentos normativos;
+ Estructura (diagrama);
+ Manual de procedimientos y políticas;
+ Documento que pruebe la existencia e implementación de un sistema de gestión apropiado al tipo, alcance y volumen de trabajo ejecutado;
+ Procedimiento de control documental;
+ Procedimiento para la identificación y gestión de no conformidades en sus propias operaciones;
+ Resultados de la última auditoría interna;
+ Resultados de las últimas evaluaciones entre pares;
+ Participación en actividades internacionales;
+ Tendencias en las no conformidades;
+ El estado de las acciones preventivas y correctivas;
+ El cumplimiento de los objetivos;
+ Registro de las calificaciones, formación, experiencia y competencia pertinentes de cada persona involucrada en el proceso de Acreditación;
+ Los cambios que podrían afectar al sistema de gestión;
+ Las apelaciones;,
+ Los mecanismos para garantizar la independencia e imparcialidad respecto de los LP que le soliciten Acreditación, y 
+ El análisis de las quejas.
+                  
+ Cuando la solicitud del OA interesado en obtener la Autorización no cumpla con los requisitos o no se acompañe con la información correspondiente listada en la fracción inmediata anterior, el Instituto prevendrá por escrito al OA interesada por una sola vez, en un plazo que no excederá los quince días naturales contados a partir de la recepción de la solicitud de Autorización. Dicha prevención se realizará a través del medio electrónico que establezca el Instituto, cuando así lo haya aceptado expresamente el solicitante. El interesado podrá subsanar la omisión dentro de un plazo que no excederá de veinticinco días naturales, contados a partir de la recepción de dicha prevención. Transcurrido dicho plazo sin desahogar la prevención, se tendrá por no presentada la solicitud.
+       
+NOVENO.  El Instituto, de conformidad con la LFTR, su Estatuto Orgánico y valorando la información presentada por el OA, decidirá respecto al otorgamiento de la Autorización, con el objeto de que dicho OA acredite a los Laboratorios de Prueba de tercera parte nacionales solicitantes en los sectores de las telecomunicaciones y radiodifusión.
+
+                                   Sección II 
+                     Autorización de Laboratorios de Prueba.
+
+DÉCIMO.  A efecto de que el Instituto autorice a un Laboratorio de Prueba de tercera parte nacional para desarrollar tareas de Evaluación de la Conformidad en el ámbito de las telecomunicaciones y radiodifusión, acreditado por un OA diferente al Instituto, dicho LP deberá: 
+
+ Recabar y enviar a través del portal de Internet del Instituto lo siguiente: 
+             Requisitos generales: 
+ Solicitud de Autorización debidamente requisitada y firmada por el representante legal del LP solicitante (Anexo 4, disponible para estos efectos en el portal de Internet del Instituto). 
+ Copia certificada expedida por fedatario público del Acta Constitutiva que avale al LP solicitante como una persona moral formalmente establecida y con domicilio en los Estados Unidos Mexicanos de acuerdo con las disposiciones legales aplicables, así como de los Estatutos que avalen que el LP solicitante es una persona moral cuyo objeto social es el de realizar pruebas en laboratorio para la Evaluación de la Conformidad.
+ Copia certificada expedida por fedatario público del poder que faculta como representante legal a la persona que firma la solicitud de Autorización, quien deberá tener domicilio en los Estados Unidos Mexicanos.
+              Requisitos particulares
+ Identificación oficial del representante legal del LP encargado de gestionar la Autorización. 
+ Copia del documento en el que un OA autorizado por el Instituto otorga al LP la Acreditación en virtud de cumplir con la Norma ISO/IEC 17025, donde se señale su alcance, mismo que debe corresponder al solicitado por el LP para la Autorización.
+ Lista de Verificación empleada en la Acreditación, en relación con la Norma ISO/IEC 17025.
+ Lista de Verificación relacionada con los métodos de prueba de la Norma, DT o RT extranjero que haya integrado el OA, en el proceso de Acreditación.
+     Lista de no-conformidades y la relación de soluciones dadas a éstas por el LP solicitante.
+     Plan de re-evaluación y vigilancia para el LP solicitante a que se refiere la cláusula 7.11.3 de la Norma ISO/IEC17011. 
+    Los requisitos generales y los requisitos particulares deberán cumplirse por el LP cada vez que solicite al Instituto Autorización respecto a una Norma, DT o RT extranjero adicional.
+    
+      Cuando la solicitud del LP interesado en obtener la Autorización sea presentada y ésta no cumpla con los requisitos o no se acompañe con la información correspondiente listada en la fracción inmediata anterior, el Instituto prevendrá al LP interesado. Dicha prevención se realizará a través del medio electrónico que establezca el Instituto, cuando así lo haya aceptado expresamente el solicitante. El interesado podrá subsanar la omisión dentro de un plazo que no excederá de veinticinco días naturales, contados a partir de la recepción de dicha prevención. Transcurrido dicho plazo sin desahogar la prevención, se tendrá por no presentada la mencionada solicitud.
+
+     El Instituto revisará y evaluará todos los documentos referidos en las fracciones I y II del presente lineamiento. 
+
+     Particularmente el Instituto constatará los documentos mediante los cuales el OA autorizado por el Instituto otorga la Acreditación y el soporte de ésta, sí dichos documentos de la Acreditación contienen la información completa y correcta respecto a dicha Acreditación. El Instituto emitirá la Autorización correspondiente, notificará formalmente dicho documento al LP, dentro de un plazo que no excederá de diez días naturales contados a partir de la fecha de presentación por parte del LP, dando así por atendida y resuelta su solicitud de Autorización.
+    
+      El Instituto publicará en su portal de Internet los datos del LP Acreditado y Autorizado; así como la Norma, DT o RT extranjero en materia de telecomunicaciones y radiodifusión para la cual se encuentra autorizado, especificando si la Acreditación y Autorización es por método de prueba o en la totalidad de la Norma, DT o RT extranjero. 
+      
+DÉCIMO PRIMERO.  La vigencia de la Autorización del OA y Autorización del LP será de dos años, contados a partir de la fecha que se establezca en la referida Autorización. 
+La vigencia podrá prorrogarse hasta por un período igual, para lo cual el OA y LP autorizado deberán realizar la solicitud a través del medio electrónico que el Instituto determine, con tres meses de anticipación al término de su vigencia; además, deberá encontrarse en pleno cumplimiento de las condiciones y requisitos bajo las cuales se le otorgó la Autorización y comprobar que dichas condiciones y requisitos no han sufrido cambios.
+ La Autorización de un LP podrá ser revocada cuando el OA autorizado por el Instituto informe al mismo sobre la revocación de la correspondiente Acreditación del LP.
+      
+                                  CAPÍTULO V
+ DE LAS OBLIGACIONES DE LOS LABORATORIOS DE PRUEBA ACREDITADOS Y AUTORIZADOS.
+DÉCIMO SEGUNDO. Los Laboratorios de Prueba de tercera parte nacionales acreditados en los términos de los presentes Lineamientos, durante la vigencia de su Autorización, deberán:
+   Ajustarse a las reglas, procedimientos y métodos establecidos en las Normas, DT o RT extranjero, a los procedimientos correspondientes de Evaluación de la Conformidad establecidos por el Instituto, y a las condiciones y términos conforme a los cuales les fue otorgada la Acreditación y Autorización correspondiente;
+   Sujetarse a las disposiciones legales y administrativas aplicables en materia de telecomunicaciones y radiodifusión, Evaluación de la Conformidad, metrología y demás normatividad aplicable relativas;
+   Prestar sus servicios a los interesados en condiciones no discriminatorias;
+   Evitar conflictos de interés directo o indirecto, esto es, cuando un miembro del LP:
+ Tenga parentesco con alguno de los interesados o sus representantes en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado y  en la colateral por afinidad hasta el segundo, con alguno de los interesados o sus representantes;
+ Tenga interés personal, familiar o de negocios en el asunto, incluyendo aquellos de los que pueda resultar algún beneficio para él, su cónyuge o sus parientes en los grados que expresa el inciso a) de la presente fracción, y
+ Su cónyuge o alguno de sus parientes en línea recta sin limitación de grado, sea heredero, legatario, donatario o fiador de alguno de los interesados o sus representantes, si aquéllos han aceptado la herencia, el legado o la donación.
+ En caso de que se actualice alguno de los supuestos previstos en la fracción anterior, el LP evitará la participación del o los miembros que se encuentren en conflicto de interés directo o indirecto y deberá informar tal situación al Instituto en un plazo no mayor a quince días naturales al respecto;
+ Atender aclaraciones de cualquier interesado en un plazo máximo de quince días naturales;
+ Presentar anualmente al Instituto las medidas implementadas a efecto de garantizar que sus servicios se lleven a cabo en un marco de calidad y confidencialidad;
+   Permitir la revisión de sus actividades, así como la realización de visitas de Verificación por parte del Instituto o de los terceros autorizados por el Instituto para llevarlas a cabo;  
+ Proporcionar al Instituto, en un plazo no mayor a quince días naturales, los documentos, informes y datos a partir de que éste les requiera, para fines del cumplimiento de la LFTR y demás disposiciones derivadas de las mismas; 
+   Presentar al Instituto, a través del medio electrónico que éste determine, en los meses de enero y julio, un informe de actividades relativo a la emisión de los Reportes de Prueba, el cual debe incluir al menos la siguiente información:
+  Número de Reportes de Prueba emitido por Norma, DT y/o RT extranjero.
+  Número de reclamaciones recibidas por Reporte de Pruebas emitido.
+  Tiempo promedio de entrega del Reporte de Prueba al solicitante. 
+ Lo anterior con base en el cumplimiento de las especificaciones de la Norma, DT o RT extranjero correspondiente e información relativa a las reclamaciones y a las soluciones provistas por el LP. Lo anterior, sin perjuicio de los informes adicionales que le solicite el Instituto, en términos de la LFTR y demás disposiciones jurídicas aplicables;
+
+ Hacer constar en un Reporte de Prueba, el resultado de las pruebas que realicen respecto a una Norma, DT o RT extranjero en que han sido acreditados y autorizados, mismo que será firmado por el (los) signatario(s) autorizado(s). Asimismo, el LP mantendrá informado al Instituto, a través del medio electrónico que éste determine, respecto del signatario (s) autorizado(s) para firmar los correspondientes Reportes de Prueba. En caso de cambios de los signatarios, el LP informará al Instituto mediante el correo electrónico que el Instituto determine para tales efectos, en un plazo máximo de dos días naturales antes de que dichos cambios ocurran. 
+   Cuando el Reporte de Prueba sea parte de la aplicación de procedimientos de Evaluación de la Conformidad establecidos por el Instituto, los LP deberán mantener la coordinación necesaria con éste, sujetando su actuación a los procedimientos de Evaluación de la Conformidad previstos. 
+   Informar al Instituto en un plazo máximo de un día natural, a partir de que ocurran los cambios en alguna de las condiciones o requisitos bajo los cuales se le otorgó la Acreditación respectiva. Lo anterior, con el objeto de que el Instituto evalúe y determine las acciones que deberá realizar el LP, a fin de mantener las condiciones y requisitos que se cumplieron para el otorgamiento de dicha Acreditación.
+  Contar con una política y un procedimiento para la resolución de quejas presentadas por los interesados, clientes o de otras partes; asimismo, deberá mantener los registros de todas las quejas, su seguimiento y correspondiente resolución, así como de las investigaciones y de las acciones correctivas. 
+  Efectuar periódicamente, de acuerdo con un calendario y un procedimiento determinados por el mismo LP, auditorías internas para verificar que sus operaciones continúan cumpliendo con los presentes Lineamientos y la normatividad aplicable.
+  Emitir los Reportes de Prueba en forma exacta, clara, no ambigua y objetiva, de acuerdo con las instrucciones específicas de los métodos de pruebas.
+  Cada Reporte de Prueba deberá incluir al menos la siguiente información:
+               Título.
+               El nombre y dirección del LP y el lugar en donde se realizaron las pruebas, si fuera diferente de la dirección del LP.
+               Una identificación única del Reporte de Prueba (tal como el número de serie), y en cada página una identificación para asegurar que la página es reconocida como parte del Reporte de Prueba.
+               El nombre y dirección del cliente.
+               La identificación del método utilizado.
+               Una descripción, la condición y una identificación no ambigua del o los dispositivos objetos de la prueba.
+               La fecha de recepción del o los dispositivos objetos de las pruebas, cuando ésta sea esencial para la validez y la aplicación de los resultados, y la fecha de ejecución de la prueba.
+               Una referencia al plan y a los procedimientos de muestreo utilizados por el LP u otros organismos, cuando éste sea esencial para la validez y la aplicación de los resultados, y la fecha de ejecución de la prueba.
+               Los resultados de las pruebas en sus unidades de medida, cuando corresponda, incluyendo su incertidumbre estimada.
+               El o los nombres, funciones y firmas o una identificación equivalente de la o las personas que autorizan el Reporte de Prueba.
+               Cuando corresponda, una declaración de que los resultados sólo están relacionados con los dispositivos objeto de las pruebas.
+               Las modificaciones de fondo a un Reporte  de Prueba, después de su emisión, deben ser hechas solamente en la forma de un nuevo documento,  que incluya la declaración:
+                 "suplemento al Reporte de Prueba, número de serie [u otra identificación]", o una forma equivalente de redacción.
+  DÉCIMO TERCERO.  Los LP acreditados podrán solicitar la ampliación al alcance de su Acreditación a otros métodos de prueba del cumplimiento de las características o especificaciones establecidas en una Norma, DT o RT extranjero. Dicha solicitud de ampliación deberá tramitarse observando el procedimiento y los requisitos referidos en el lineamientos QUINTO y OCTAVO de los presentes Lineamientos, según corresponda, en el entendido de que si alguno de esos requisitos ya fueron presentados para gestionar la Acreditación anterior y bajo protesta de decir verdad se manifiesta que no han cambiado las circunstancias o las personas a las que se refiere, no tendrán que presentarse nuevamente. 
+                                 CAPÍTULO VI
+        DE LAS VISITAS DE VERIFICACIÓN, SUSPENSIÓN Y REVOCACIÓN DE ACREDITACION DE LABORATORIOS DE PRUEBA POR EL INSTITUTO FUNGIENDO COMO OA.
+                                           
+DÉCIMO CUARTO.  El Instituto podrá solicitar en todo momento al CENAM su apoyo para que dictamine sobre la capacidad técnica de medición del LP, para la Evaluación de la Conformidad respecto una Norma, DT o RT extranjero objeto de su Acreditación o cuando el Instituto lleve a cabo visitas de Verificación al LP. 
+
+DÉCIMO QUINTO. El Instituto, de conformidad con la normatividad aplicable, los presentes Lineamientos y de acuerdo con un programa que al respecto determine, realizará visitas de Verificación a los LP acreditados.
+La visita de Verificación tendrá como finalidad que el LP acreditado y autorizado demuestre el cumplimiento de la Norma ISO/IEC 17025: "Requisitos generales para la competencia de los laboratorios de prueba y calibración", y la competencia técnica para realizar los métodos de prueba de la Norma, DT o RT extranjero objeto de la Acreditación. El LP deberá demostrar, entre otras cosas, lo siguiente:
+  
+ Que opera bajo un procedimiento de aseguramiento de la calidad que se encuentre previsto en Normas o lineamientos nacionales e internacionales;
+ Que actúa con imparcialidad, independencia e integridad, y que garantiza la confidencialidad y la solución a los posibles conflictos que puedan afectar la confianza que debe brindar; 
+ Que cuenta con instalaciones, instrumental y equipo necesario y suficiente para la aplicación de los métodos de prueba del cumplimiento de las características o especificaciones establecidas en la Norma, DT o RT extranjero objeto de su Acreditación, que garantice su competencia técnica y la confiabilidad de sus servicios; 
+ Que cuenta con personal técnico calificado con un amplio conocimiento y dominio de la Norma, DT o RT extranjero en la que fue acreditado por el Instituto, que garantice su competencia técnica y la confiabilidad de sus servicios; 
+ Que cuenta con la organización y métodos operativos adecuados que garanticen su competencia técnica y la confiabilidad de sus servicios; 
+ Que los aparatos e instrumentos de medición que utiliza el LP para la Evaluación de la Conformidad respecto a la Norma, DT o RT extranjero para las que fue acreditado por el Instituto, cuentan con Trazabilidad a los patrones nacionales aprobados por la Secretaría de Economía o en su defecto, a patrones extranjeros o internacionales confiables a juicio de ésta. Para la comprobación de dicha Trazabilidad deberá presentar el documento que avale la calibración realizada por un laboratorio con Trazabilidad a un laboratorio primario, ya sea nacional o extranjero y en el primer caso acreditado y aprobado. Los Certificados de Calibración que se presenten deberán contener la información que se establece en las Normas Oficiales Mexicanas y en los lineamientos que para tal efecto dicte la Secretaría de Economía.
+ Que los Reportes de Prueba que emitan, presenten entre otra información pertinente, la incertidumbre estimada de la medición, y  
+ Que garantice la confidencialidad y el uso adecuado de la información de sus interesados y clientes.
+  
+De toda visita de Verificación se levantará un Acta Circunstanciadaen presencia de dos testigos propuestos por el representante legal del LP evaluado, o en su defecto por dos testigos propuestos por el evaluador líder, si es que el representante legal del LP se hubiese negado a proponerlos. Al final se dejará copia del Acta Circunstanciada a la persona con quien se entendió la visita de evaluación, aunque se hubiere negado a firmar, lo que no afectará la validez del Acta de Circunstanciada, siempre y cuando el evaluador líder haga constar tal circunstancia en la propia acta.
+
+DÉCIMO SEXTO.  El Instituto podrá suspender la Acreditación y consecuentemente la Autorización de un LP por cualquiera de las siguientes causas:
+    Cuando el LP no proporcione en forma oportuna y completa al Instituto los informes que les sean requeridos respecto a su funcionamiento y operación; 
+    Cuando el LP impida u obstaculice funciones de Verificación; 
+    Cuando en la visita de Verificación el LP no cumpla con uno o varios de los incisos mencionados en el lineamiento DÉCIMO SEGUNDO; 
+    Cuando el LP disminuya los recursos o la capacidad necesarios para realizar sus funciones, o dejen de observar las condiciones y requisitos conforme a las cuales se le otorgó la Acreditación; 
+    Cuando el LP haga mal uso de alguna contraseña oficial, marca registrada o emblema, o 
+    Cuando cambie la Norma, DT o RT extranjero bajo la cual fue autorizado el LP, siempre y cuando dichos cambios incidan en el ámbito y condiciones de la Acreditación.
+
+Una vez que el Instituto valore el cumplimiento de las obligaciones antes descritas, emitirá el correspondiente dictamen de Verificación, y lo notificará al LP en su domicilio y, en su caso, le otorgará un plazo de veinticinco días naturales para subsanar las prevenciones que obren en dicho dictamen de Verificación.
+En caso que el LP requiera de un plazo adicional para la atención a las prevenciones del dictamen de Verificación, deberá solicitarlo con al menos diez días naturales previos al vencimiento del plazo mencionado en el párrafo inmediato anterior, y el Instituto podrá otorgar un nuevo plazo de hasta quince días naturales para ello. Vencido este plazo el Instituto dispondrá de un máximo de veinticinco días naturales para resolver en definitiva si procede o no la suspensión a la Acreditación y Autorización del LP. La suspensión se mantendrá en tanto el LP no acredite cumplir con los requisitos u obligaciones respectivas. 
+En el caso de que el LP no requiera del plazo adicional previsto en el párrafo anterior, el Instituto dispondrá de veinticinco días naturales para valorar la respuesta dada por el LP al dictamen de Verificación, tiempo en el cual resolverá en definitiva si procede o no la suspensión a la Acreditación y Autorización del LP.
+En caso de que procede en definitiva la suspensión, el LP tendrá diez días naturales para acreditar ante el Instituto el cumplimiento cabal de la causal o causales objeto de la suspensión.
+Cuando por circunstancias ajenas a su voluntad, tales como caso fortuito o fuerza mayor, el LP acreditado se viera obligado a suspender los servicios objeto de su Acreditación, informará al Instituto, mediante el medio electrónico que éste establezca, dentro del plazo de un día natural a partir de que ocurra el acontecimiento, y lo notificará formalmente dentro de un periodo de dos días naturales siguientes. 
+Cuando la suspensión en los servicios se deba a circunstancias diferentes a un caso fortuito o de fuerza mayor, el LP acreditado deberá informar al Instituto, mediante el medio electrónico que éste establezca, con al menos un día natural de anticipación a dicha suspensión, las causas o razones de dicha suspensión así como la fecha de reanudación de la prestación de los servicios.
+
+DECIMO SÉPTIMO.   El Instituto podrá revocar la Acreditación de un LP, por cualquiera de las siguientes causas: 
+            Cuando el LP emita un Reporte de Prueba o algún otro documento, que contenga información falsa, relativa a las actividades para las cuales fueron autorizados;
+            Cuando el LP no reanude las prestación de los servicios en la fecha indicada derivado de caso fortuito o de fuerza mayor, o cuando el LP se niegue  injustificadamente a proporcionar el servicio que se les solicite;
+             Cuando el LP reincida en los supuestos a que se refiere el lineamiento DÉCIMO SEXTO o en la disminución de recursos o de capacidad para emitir informes de pruebas o los Reportes de Prueba se prolonguen por más de tres meses consecutivos; 
+            Cuando el LP renuncie expresamente a la Acreditación otorgada, o
+            Cuando la suspensión prevista en el Lineamiento anterior dure más de dos años.
+            
+Una vez que el Instituto valore el cumplimiento de las obligaciones antes descritas, emitirá el correspondiente dictamen de Verificación, y lo notificará al LP en su domicilio, otorgándole un plazo de veinticinco días naturales para subsanar, en su caso, las prevenciones que obren en dicho dictamen de Verificación.
+
+En caso que el LP requiera de un plazo adicional para la atención a las prevenciones del dictamen de Verificación, deberá solicitarlo con al menos diez días naturales previos al vencimiento del plazo mencionado en el párrafo inmediato anterior, y el Instituto podrá otorgar un nuevo plazo de hasta quince días naturales para ello. Vencido este plazo el Instituto dispondrá de un máximo de veinticinco días naturales para resolver en definitiva si procede o no la revocación a la Acreditación del LP. 
+En el caso de que el LP no requiera del plazo adicional previsto en el párrafo anterior, el Instituto dispondrá de veinticinco días naturales para valorar la respuesta dada por el LP al dictamen, tiempo en el cual resolverá en definitiva si procede o no la revocación a la Acreditación del LP. 
+La revocación conllevará al cese de las actividades objeto de la Acreditación y Autorización, por lo tanto deberá entregar al Instituto un informe relativo a las actividades realizadas para las cuales dicho LP fue acreditado. Quedando prohibido el ostentarse como tal, así como la utilización de cualquier tipo de información o emblema pertinente a tales actividades, sin perjuicio de los documentos adicionales que le solicite el Instituto, en términos de la LFTR y demás disposiciones jurídicas aplicables.
+Lo anterior sin perjuicio de que en un periodo posterior mínimo de seis meses contados a partir de la fecha en que haya quedado firme la revocación, el LP puede iniciar un nuevo trámite de Acreditación y Autorización, si así lo desea.
+                                 CAPÍTULO VII
+                 DE LA DESIGNACIÓN DE LABORATORIOS DE PRUEBA.
+DÉCIMO OCTAVO.  A efectos de que un LP de tercera parte nacional acreditado y autorizado obtenga la Designación del Instituto en relación con un RT extranjero conforme a pruebas de infraestructura y productos de telecomunicaciones y radiodifusión cuyo cumplimiento es obligatorio en el marco del ARM correspondiente, deberá cumplir con lo siguiente:
+ Recabar y enviar a través del portal de Internet del Instituto los siguientes:
+        Requisitos generales: 
+ Solicitud de Designación debidamente requisitada y firmada por el representante legal del solicitante (Anexo 3, disponible para estos efectos en el portal de internet del Instituto). 
+ Certificado de Acreditación vigente emitido por el Instituto o un OA autorizado por el Instituto con respecto a un RT extranjero, en los términos de los lineamientos QUINTO, SEXTO y SÉPTIMO.
+ Documento vigente mediante el cual el Instituto autorizo al LP con respecto a un RT extranjero, en el caso de que éste haya sido acreditado por un OA diferente al Instituto.
+ Copia certificada expedida por fedatario público del Acta Constitutiva que avale al LP solicitante como una persona moral formalmente establecida y con domicilio en los Estados Unidos Mexicanos de acuerdo con las disposiciones legales aplicables, así como de los Estatutos, que avalen que el LP solicitante es una persona moral cuyo objeto social es el de realizar pruebas de productos, procesos o servicios relacionados con el objeto y el alcance de RT extranjero en los que está solicitando la Designación para la Evaluación de la Conformidad.
+ Copia certificada expedida por fedatario público del poder que faculta como representante legal a la persona que firma la solicitud de Designación, quien deberá tener domicilio en los Estados Unidos Mexicanos.
+ Datos personales y de localización del LP solicitante: nombre, identificador único, dirección física y postal, persona de contacto, número telefónico y correo electrónico. 
+Los requisitos generales b) al e) se presentarán únicamente cuando sea la primera vez que el LP acreditado solicite al Instituto la Designación respecto de un RT extranjero y/o cuando cambien las circunstancias o las personas a las que se refieren dichos requisitos.
+        Requisitos particulares:
+ Identificación oficial con fotografía del representante legal del LP, encargado de gestionar la Designación. 
+ En su caso, copia del documento en el que el instituto o un OA otorga al LP la Acreditación, al cumplir con la Norma ISO/IEC 17025: "Requisitos generales para la competencia de los laboratorios de prueba y calibración", donde se señale su alcance, mismo que debe corresponder al solicitado por el LP para la Designación.
+ Lista de Verificación en relación con la Norma ISO/IEC 17025:"Requisitos generales para la competencia de los laboratorios de prueba y calibración". 
+ Lista de Verificación que esté relacionada con los métodos de pruebas del RT extranjero que esté dentro del alcance acreditado, que haya integrado la OA o el Instituto. 
+ Lista de no conformidades y la relación de soluciones dadas a éstas por el LP solicitante.
+ Plan de re evaluación y Verificación para el LP solicitante a que se refiere la cláusula 7.11.3 de la Norma ISO/IEC17011: "Evaluación de la Conformidad- Requisitos generales para los Organismos de Acreditación que realizan la Acreditación de organismos de Evaluación de la Conformidad".
+ El LP de tercera parte nacional acreditado y autorizado también debe presentar los documentos específicos y/o la información adicional, según se requiere bajo los términos aplicables de la Autoridad Reguladora de acuerdo al ARM correspondiente.
+      Los requisitos generales a) y b), así como los requisitos particulares deberán cumplirse por el LP cada vez que solicite al Instituto la Designación respecto de un RT extranjero.
+      
+   Cuando la solicitud del LP interesado en obtener la Designación, no cumpla con los requisitos o no se acompañe con la información correspondiente listada en la fracción inmediata anterior, el Instituto prevendrá por escrito al LP interesado por una sola vez en un plazo que no excederá los quince días naturales contados a partir de la recepción de la solicitud de Designación. Dicha prevención se realizará a través del medio electrónico que establezca el Instituto, cuando así lo haya aceptado expresamente el solicitante. El interesado podrá subsanar la omisión dentro de un plazo que no excederá de veinticinco días naturales, contados a partir de la recepción de dicha prevención. Transcurrido dicho plazo sin desahogar la prevención, se tendrá por no presentada la solicitud.
+   El Instituto publicará en su portal de Internet los datos del LP designado para la Evaluación de la Conformidad, así como el RT extranjero para el cual se encuentra acreditado, autorizado y designado en materia de telecomunicaciones y radiodifusión. Esta publicación se llevará a cabo dentro de los siguientes catorce días naturales a partir de la fecha de Designación.
+   Una vez que el Instituto haya designado a un LP, se seguirá con el procedimiento establecido en el ARM correspondiente.
+
+DÉCIMO NOVENO.  El LP designado por el Instituto, deberá durante la vigencia de la Designación: 
+   Ajustarse a las reglas, procedimientos y métodos establecidos en los RT extranjeros, a los procedimientos correspondientes de Evaluación de la Conformidad, establecidos por el Instituto, y a las condiciones y términos conforme a los cuales le fueron otorgada la Designación correspondiente, así como a los ARM correspondientes.
+   Sujetarse a las disposiciones legales aplicables en materia de telecomunicaciones y radiodifusión, Evaluación de la Conformidad, metrología y demás materias relativas. 
+   Prestar sus servicios a los interesados en condiciones no discriminatorias. 
+ Evitar conflictos de interés directo o indirecto, esto es, cuando un miembro del LP:
+ Tenga parentesco con los interesados o sus representantes en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado y en la colateral por afinidad hasta el segundo, con alguno de los interesados o sus representantes;
+ Tenga interés personal, familiar o de negocios en el asunto, incluyendo aquellos de los que pueda resultar algún beneficio para él, su cónyuge o sus parientes en los grados que expresa el inciso a)  de la presente fracción;
+ Su cónyuge o alguno de sus parientes en línea recta sin limitación de grado, sea heredero, legatario, donatario o fiador de alguno de los interesados o sus representantes, si aquéllos han aceptado la herencia, el legado o la donación;
+      En caso de que se actualice alguno de los supuestos   previstos en esta fracción, el LP deberá informarlo al Instituto en un plazo no mayor a quince días naturales.
+   Atender reclamaciones de cualquier interesado en un plazo máximo de quince días naturales.
+   Presentar anualmente al Instituto las medidas a efectos de garantizar que sus servicios se lleven a cabo en un marco de calidad y confidencialidad. 
+   Permitir la revisión de sus actividades así como la realización de visitas de Verificación por parte del Instituto, o de los terceros autorizados por el Instituto para llevarlos a cabo.
+   Proporcionar oportunamente al Instituto, en un plazo no mayor a quince días naturales, los documentos, informes y datos que les requiera por escrito, para los fines del cumplimiento de la LFTR y demás disposiciones derivadas de las mismas.
+   Presentar al Instituto, a través del medio electrónico que éste determine, en los meses de enero y julio, un informe de actividades relativo a la emisión de los Reportes de Prueba, el cual debe incluir al menos la siguiente información:
+ Número de Reportes de Prueba emitido por Norma, DT y/o RT extranjero.
+ Número de reclamaciones recibidas por Reporte de Prueba emitido.
+ Tiempo promedio de entrega del Reporte de Prueba al solicitante. 
+  Lo anterior con base en el cumplimiento de las especificaciones de la RT extranjero correspondiente e información relativa a las reclamaciones y a las soluciones provistas por el LP. Lo anterior, sin perjuicio de los informes adicionales que le solicite el Instituto, en términos de la LFTR y demás disposiciones legales aplicables. 
+   Hacer constar el resultado de las pruebas que realicen respecto a un RT extranjero en que han sido designados en un Reporte de Prueba que será firmado por el (los) signatario(s) autorizado(s). Asimismo, el LP mantendrá informado al Instituto, a través del medio electrónico que éste determine, respecto de las personas facultadas para firmar sus Reportes de Prueba. En caso de cambios de las personas facultadas, el LP informará al Instituto en un plazo máximo de dos días naturales antes de que estos cambios ocurran, e   informará al Instituto, a través del medio electrónico que éste determine, en un plazo máximo de un día natural, a partir de que ocurran cambios en alguna de las condiciones o requisitos bajo los cuales se le otorgó la Designación. Lo anterior, con el objeto de que el Instituto evalúe y determine las acciones que deberá realizar el LP, a fin de mantener las condiciones y requisitos que se cumplieron para el otorgamiento de dicha Designación.
+
+VIGÉSIMO. Los LP designados podrán ampliar el alcance de su Designación a otros métodos de prueba del cumplimiento de las características o especificaciones establecidas en un RT extranjero. Dichas ampliaciones de Designación deberán tramitarse observando el procedimiento y los requisitos referidos en el lineamiento DÉCIMO OCTAVO. 
+
+VIGÉSIMO PRIMERO. La vigencia de la Designación de un LP será de dos años, contados a partir de la fecha que se establezca en el documento de Designación emitido por el Instituto. La vigencia podrá prorrogarse por períodos iguales, siempre y cuando no se incurra en alguna de las causas señaladas en los lineamientos VIGÉSIMO CUARTO y VIGÉSIMO QUINTO del presente instrumento para ello el LP acreditado y designado deberá realizar la solicitud a través del medio electrónico que el Instituto determine, con tres meses de anticipación al término de  su vigencia, además deberá encontrarse en pleno cumplimiento de las condiciones y requisitos bajo las cuales se le otorgó la Acreditación y Designación respectiva y comprobar que dichas condiciones y requisitos no han sufrido cambios, de no solicitar la prorroga con tres meses de anticipación, la vigencia de la Designación perderá su validez en el término previsto sin  que la mencionada Designación se pueda prorrogar. 
+
+La Designación del LP no podrá prorrogarse en el caso de que las condiciones y requisitos bajo las cuales se le otorgó la Acreditación y Designación hayan cambiado. Al efecto, el LP deberá solicitar la Designación, procediendo como lo establece el lineamiento DÉCIMO OCTAVO. 
+                                CAPÍTULO VIII
+        DE LAS VISITAS DE VERIFICACIÓN, SUSPENSIÓN Y REVOCACIÓN DE LA DESIGNACIÓN DE LABORATORIOS DE PRUEBA. 
+  
+VIGÉSIMO SEGUNDO.  El Instituto podrá solicitar en todo momento al CENAM su apoyo para que dictamine sobre la capacidad técnica de medición del LP para la Evaluación de la Conformidad respecto a un RT extranjero objeto de su Designación, cuando el Instituto lleve a cabo visitas de Verificación al referido LP. 
+
+VIGÉSIMO TERCERO. El Instituto, de conformidad con la normatividad aplicable, los presentes Lineamientos y de acuerdo con un programa de trabajo que al respecto determine realizará visitas de Verificación a los LP designados.
+La visita de Verificación tendrá como finalidad que el LP interesado mantenga la competencia técnica para realizar los métodos de prueba de un RT extranjero objeto de la  Designación; por lo tanto, deberá demostrar, entre otras cosas, lo siguiente:
+ Que opera bajo un procedimiento de aseguramiento de la calidad que se encuentre previsto en Normas, DT, RT extranjero o lineamientos internacionales;
+ Que actúa con imparcialidad, independencia e integridad, y que garantiza la confidencialidad y la solución a los posibles conflictos que puedan afectar la confianza que debe brindar;
+ Que cuenta con las instalaciones, instrumental y equipos necesarios y suficientes para la aplicación de los métodos de prueba del cumplimiento de las características o especificaciones establecidas en la Norma, o RT extranjero objeto de la solicitud de Designación, que garanticen su competencia técnica y la confiabilidad de sus servicios;
+ Que cuenta con personal técnico calificado con un amplio conocimiento y dominio del RT extranjero en el que fue acreditado y designado, que garantice su competencia técnica y la confiabilidad de sus servicios;
+ Que cuenta con la organización y métodos operativos adecuados que garanticen su competencia técnica y la confiabilidad de sus servicios;
+ Que los aparatos e  instrumentos de medición que habrá de utilizar el LP para la Evaluación de la Conformidad respecto al RT extranjero para el que fue acreditado y designado, cuenten con Trazabilidad a los patrones nacionales aprobados por la Secretaría de Economía o en su defecto, a patrones extranjeros o internacionales confiables a juicio de ésta. Para la comprobación de dicha Trazabilidad deberá presentar el certificado que avale la calibración realizada por un laboratorio con Trazabilidad a un laboratorio primario, ya sea nacional o extranjero y en el primer caso acreditado y aprobado. Los certificados de calibración que se presenten deberán contener la información que se establece en las Normas Oficiales Mexicanas y en los lineamientos que para tal efecto dicte la Secretaría de Economía, y
+ Que los Reportes de Prueba que emita, presenten entre otra información pertinente, la incertidumbre estimada de la medición.
+  
+De toda visita de Verificación se levantará un Acta Circunstanciada  en presencia de dos testigos propuestos por el representante legal del LP evaluado, o en su defecto por dos testigos propuestos por el evaluador líder, si es que el representante legal del LP se hubiese negado a proponerlos. Al final se dejará copia del Acta Circunstanciada a la persona con quien se entendió la visita de evaluación, aunque se hubiere negado a firmar, lo que no afectará la validez del Acta de Circunstanciada, siempre y cuando el evaluador líder haga constar tal circunstancia en la propia acta.
+
+VIGÉSIMO CUARTO. El Instituto podrá suspender la Designación de un LP por cualquiera de las siguientes causas:
+ Cuando el LP no proporcione en forma oportuna y completa al Instituto los informes que les sean requeridos respecto a su funcionamiento y operación; 
+    Cuando el LP impida u obstaculice las funciones de Verificación; 
+    Cuando en la visita de Verificación el LP, no cumpla con uno o varios de los incisos mencionados en el  lineamiento VIGÉSIMO TERCERO;
+    Cuando el LP disminuya los recursos o la capacidad necesarios para realizar sus funciones, o dejen de observar las condiciones y requisitos conforme a las cuales se le otorgó la Designación; 
+    Cuando se suspenda la Acreditación correspondiente otorgada al LP por el Instituto o por un OA, o cuando se suspenda la Autorización otorgada por el Instituto.
+    Cuando el LP haga mal uso de alguna contraseña oficial, marca registrada o emblema, o 
+ Cuando cambie el RT extranjero bajo el cual fue acreditado el LP, siempre y cuando dichos cambios incidan en el ámbito y condiciones de la Designación.
+
+Una vez que el Instituto valore las causas antes descritas, emitirá el correspondiente dictamen de Verificación, y lo notificará al LP en su domicilio y, en su caso, le otorgará un plazo de veinticinco días naturales para subsanar las prevenciones que obren en dicho dictamen de Verificación.
+
+En caso que el LP requiera de un plazo adicional para la atención a las prevenciones del dictamen de Verificación, deberá solicitarlo con al menos diez días naturales previos al vencimiento del plazo mencionado en el párrafo inmediato anterior, y el Instituto podrá otorgar un nuevo plazo de hasta quince días naturales para ello. Vencido este plazo el Instituto dispondrá de un máximo de veinticinco días naturales para resolver en definitiva si procede o no la suspensión a la Designación del LP. La suspensión se mantendrá en tanto el LP no acredite el cumplimiento de los requisitos u obligaciones respectivas. 
+
+En el caso de que el LP no requiera del plazo adicional previsto en el párrafo anterior, el Instituto dispondrá de veinticinco días naturales para valorar la respuesta dada por el LP al dictamen de Verificación, tiempo en el cual resolverá en definitiva si procede o no la suspensión a la Designación del LP.
+
+Cuando por circunstancias ajenas a su voluntad, tales como caso fortuito o fuerza mayor, el LP designado se viera obligado a suspender los servicios objeto de su Designación, informará al Instituto, mediante el medio electrónico que éste establezca, dentro de un periodo de un día natural a partir de que ocurra el acontecimiento, y lo notificará formalmente dentro de un periodo de dos días naturales siguientes. 
+
+Cuando la suspensión en los servicios se deba a circunstancias diferentes a un caso fortuito o de fuerza mayor, el LP designado deberá informar al Instituto, mediante el medio electrónico que éste establezca, con al menos un día natural de anticipación a dicha suspensión, las causas o razones de dicha suspensión, así como la fecha de reanudación de la prestación de los servicios.
+En el caso de que un LP haya sido reconocido por alguna Autoridad Reguladora extranjera en términos del ARM correspondiente, y el Instituto suspenda la Designación de dicho LP (por cualquiera de las razones  previstas en el lineamiento Vigésimo Cuarto de los presentes Lineamientos) informará con prontitud a la Autoridad Reguladora Extranjera, las razones y el tiempo por el cual el LP fue suspendido, y en su caso, si la Designación ha sido restablecida, proporcionando la evidencias correspondiente a la Autoridad Reguladora Extranjera.
+
+VIGÉSIMO QUINTO.  El Instituto podrá revocar la Designación de un LP, por cualquiera de las siguientes causas: 
+ Cuando al LP le sea revocada la Acreditación;
+ Cuando el LP emita Reporte de  Prueba, o algún otro documento, que contenga información falsa, relativos a las actividades para las cuales fueron designados;
+ Cuando el LP no reanude las prestación de los servicios en la fecha indicada derivado de caso fortuito o de fuerza mayor;
+ Cuando el LP  se niegue a proporcionar  injustificadamente el servicio que se le solicite; 
+ Cuando el LP reincida en los supuestos a que se refieren las fracciones del lineamiento VIGÉSIMO CUARTO, o en el caso de la fracción IV de dicho lineamiento, la disminución de recursos o de capacidad para emitir Reportes de Prueba se prolongue por más de tres meses consecutivos;
+ Cuando el LP renuncie expresamente a la Designación otorgada, o
+ Cuando la suspensión prevista en el Lineamiento anterior dure más de dos años.
+  
+Una vez que el Instituto valore los supuestos antes descritos, emitirá el correspondiente dictamen de Verificación, y lo notificará al LP en su domicilio, otorgándole un plazo de veinticinco días naturales para subsanar las prevenciones que obren en dicho dictamen.
+El Instituto dispondrá de un plazo máximo de veinticinco días naturales para valorar la respuesta dada por el LP al dictamen, tiempo en el cual resolverá en definitiva si procede o no la revocación a la Designación del LP. 
+En caso que la respuesta otorgada por el LP y a petición de parte del mismo, y atendiendo a las prevenciones del dictamen dada la magnitud o alcance de dichas prevenciones se requiera un plazo adicional para subsanar dichas prevenciones, el Instituto le otorgará un nuevo plazo de quince días naturales para ello. Vencido este plazo el Instituto dispondrá de un máximo de quince días naturales para resolver en definitiva si procede o no la revocación a la Designación del LP.
+La revocación conlleva al cese de las atribuciones relativas a la Designación misma, por lo tanto deberá entregar al Instituto la documentación relativa a las actividades realizadas para las cuales dicho LP fue designado. 
+Lo anterior sin perjuicio de que en un periodo posterior mínimo de seis meses contados a partir de la fecha en que haya quedado firme la revocación, el LP puede iniciar un nuevo trámite de Acreditación, si así lo desea. En el caso de que un LP haya sido reconocido por alguna Autoridad Reguladora en términos del ARM correspondiente, y el Instituto revoque la Designación de dicho LP (por cualquiera de las razones previstas en el lineamiento Vigésimo Cuarto de los presentes Lineamientos), el Instituto informará con prontitud a la Autoridad Reguladora Extranjera, las razones por las que al LP le fue revocada la Designación.
+                                 CAPÍTULO IX
+RECONOCIMIENTO DE LABORATORIOS DE PRUEBA DESIGNADOS POR UNA AUTORIDAD DESIGNADORA DE UN GOBIERNO EXTRANJERO.
+                                       
+VIGÉSIMO SEXTO.  Cuando el Instituto reciba una notificación por escrito proveniente de su homólogo en relación a la Designación de un LP de tercera parte que esté constituido en el extranjero en términos de un ARM, el Instituto evaluará y tomará una decisión sobre el Reconocimiento de dicho LP en términos y condiciones no menos favorables que aquellos otorgados a los LP nacionales que soliciten ser designados en el marco de los presentes Lineamientos y del ARM correspondiente. Al respecto, el Instituto tomará la decisión sobre el Reconocimiento del LP dentro de los sesenta días naturales posteriores a la fecha en que la notificación de Designación del LP extranjero fue provista.
+
+VIGÉSIMO SÉPTIMO. Si el Instituto determina no reconocer un LP designado, en su totalidad o en parte, el Instituto, dentro de sesenta días naturales posteriores a la fecha en que la notificación de la Designación le fue provista, deberá proporcionar a la Autoridad Designadora, y al Laboratorio de Prueba designado, una explicación por escrito de las razones de su determinación, así mismo se  proporcionará un plazo no menor a sesenta  días naturales  posteriores a la fecha en que la notificación fue provista, para que el Laboratorio de Prueba extranjero pueda presentar información respondiendo o corrigiendo cualquier deficiencia que conforma las razones de la determinación del Instituto de no reconocer el Laboratorio de Prueba.
+Cuando se presente información adicional de los hechos de acuerdo a lo anterior, el Instituto reevaluará su determinación y tomará una nueva determinación sobre el Reconocimiento de dicho Laboratorio de Prueba designado, a la luz de la información adicional presentada, bajo términos y condiciones no menos favorables que aquellos otorgados a los Laboratorios de Prueba en el territorio nacional que solicitan ser reconocidos. Dentro de treinta días naturales a partir de la fecha en la cual la información adicional sea presentada bajo los términos de lo anterior, el Instituto notificará a la Autoridad Designadora, y al Laboratorio de Prueba designado, su nueva determinación.
+
+VIGÉSIMO OCTAVO. El Instituto reconocerá a un LP previamente designado de acuerdo con los procedimientos del ARM entre el Gobierno de los Estados Unidos Mexicanos y un Gobierno extranjero. Por lo tanto, para el Reconocimiento se seguirá con el procedimiento establecido en el ARM correspondiente, considerando los presentes Lineamientos y lo siguiente: 
+ Procedimiento utilizado por la Autoridad Designadora extranjera para designar el Laboratorio de Prueba extranjero.
+ Nombre, ubicación y la información de contacto del Laboratorio de Prueba que se encuentra físicamente en el país de la Autoridad Designadora.
+ Número de identificación otorgado por la Autoridad Designadora. 
+ Una indicación de si el Laboratorio de Prueba extranjero lleva a cabo pruebas para otras entidades.
+ Certificado de Acreditación con respecto al cumplimiento de la NOM ISO/IEC 17025. 
+ La Disposición Técnica o la sección de la misma que se acredita.
+ La fecha de vencimiento y el período de la acreditación (él cual deberá de ser de dos años). 
+ El cumplimiento de las funciones y responsabilidades del Laboratorio de Prueba Acreditado.
+
+VIGÉSIMO NOVENO. Una vez que el Instituto haya reconocido un LP designado por un Gobierno Extranjero en el marco de un ARM, aceptará los Reportes de Prueba elaborados por el LP reconocido de acuerdo con los procedimientos establecidos en el ARM correspondiente con el objetivo de simplificar la Evaluación de la Conformidad para infraestructura y productos de telecomunicaciones y radiodifusión.
+
+TRIGÉSIMO. Los LP nacionales designados por el Instituto y reconocidos por un Gobierno Extranjero, para la prestación o complementación de sus servicios, si así lo consideran pertinente, podrán subcontratar a otro LP competente acreditado y designado por el Instituto con el alcance de la Acreditación correspondiente y reconocido por el mismo Gobierno Extranjero para la realización de pruebas de Evaluación de la Conformidad. El LP deberá advertir a su cliente por escrito respecto a dicha subcontratación y cuando corresponda, obtener su aprobación por escrito. 
+                                  CAPÍTULO X
+SUSPENSIÓN DEL RECONOCIMIENTO DE LABORATORIOS DE PRUEBA O DE LA ACEPTACIÓN DE REPORTES DE PRUEBA.
+                                       
+TRIGÉSIMO PRIMERO. El Instituto podrá suspender el Reconocimiento de un LP designado por un Gobierno Extranjero en el marco de un ARM o suspender la aceptación de los Reportes de Prueba proporcionados por un LP reconocido, de conformidad con los requisitos y procedimientos establecidos en el ARM correspondiente y en los presentes Lineamientos.
+                                 TRANSITORIOS
+
+PRIMERO. Las disposiciones contenidas en el presente ordenamiento entrarán en vigor a los ciento ochenta días naturales contados a partir de su publicación en el Diario Oficial de la Federación, y serán revisadas por el Instituto por lo menos a los 5 años contados a partir de su entrada en vigor, salvo disposición en contrario conforme a lo establecido en los artículos transitorios siguientes.
+
+SEGUNDO. Las disposiciones contenidas en los lineamientos QUINTO y SEXTO entrarán en vigor una vez que el Instituto se encuentre en condiciones de cumplir con lo establecido en la Norma ISO/IEC17011:"Evaluación de la Conformidad-Requisitos generales para organismos de Acreditación acreditando organismos de Evaluación de la Conformidad" (o aquella que la reemplace), de acuerdo a la normatividad y los mecanismos aplicables y, así se comunique mediante aviso en el Diario Oficial de la Federación.
+
+TERCERO. Los LP que a la fecha de entrada en vigor de los presentes Lineamientos cuenten con aprobación para la aplicación de métodos de prueba del cumplimiento de las características o especificaciones establecidas en una Norma Oficial Mexicana para la Evaluación de la Conformidad, seguirán ajustándose a las reglas, procedimientos y métodos establecidos en la referida Norma objeto de su aprobación, así como a los procedimientos de Evaluación de la Conformidad que les apliquen y a las condiciones y términos conforme a los cuales les fue otorgada la aprobación respectiva. 
+
+CUARTO. Para efectos del Reconocimiento de un Laboratorio de Prueba acreditado y aprobado con respecto a Normas Oficiales Mexicanas vigentes, listadas en el Acuerdo de Reconocimiento Mutuo correspondiente, a la entrada en vigor de los presentes lineamientos, se seguirá lo establecido en el Capítulo IX. 
+
+QUINTO. Para efectos del lineamiento SEXTO, el Instituto publicará el procedimiento para el establecimiento del padrón de expertos evaluadores una vez que el Instituto se encuentre en condiciones de cumplir con lo establecido en la Norma ISO/IEC17011: "Evaluación de la Conformidad-Requisitos generales para organismos de Acreditación acreditando organismos de Evaluación de la Conformidad" (o aquella que la reemplace), de acuerdo a la normatividad y los mecanismos aplicables, publicando dicho procedimiento en el portal de Internet del Instituto.
+                                    ANEXO 1
+
+SOLICITUD DE  ACREDITACIÓN DE UN LABORATORIO DE PRUEBA ESTABLECIDO EN TERRITORIO NACIONAL PARA LA EVALUACIÓN DE LA CONFORMIDAD RELATIVA A NORMAS, DISPOSICIONES TÉCNICAS O REGLAMENTOS TÉCNICOS EXTRANJEROS EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN.
+                                       
+PARA USO EXLUSIVO DEL INSTITUTO
+
+Número de solicitud:
+
+
+
+Fecha de recepción:
+
+
+
+Plazo de resolución:
+
+
+
+   DATOS DEL LABORATORIO DE PRUEBA SOLICITANTE
+
+1. Nombre o razón social del laboratorio:
+
+ ____________________________________________________________________________________
+
+2. Registro Federal de Contribuyentes (R.F.C.): ________________________________________________
+
+3. Domicilio o ubicación:
+ 	Calle: _________________________________________________________________________ Número Exterior: ________ Número Interior: ________ Colonia: _________________________ Municipio o Delegación Política: ________________________ Código Postal: _______________ Entidad Federativa:____________________________________________________________________
+
+4. Teléfono(s): ___________________________________ Fax: _____________________________ Correo Electrónico: _______________________ Página electrónica: ____________________________ 
+
+
+
+
+   DATOS DEL REPRESENTANTE LEGAL
+
+1. Nombre, Apellido Paterno, Apellido Materno:
+	___________________________________________________________________________________
+
+2. Registro Federal de Contribuyentes (RFC): ________________________________________________
+
+3. Clave Única del Registro de Población (CURP): _____________________________________________
+
+4. Domicilio legal:
+  Calle: _______________________________________________________________________________ Número Exterior: ________ Número Interior: _________ Colonia: ________________________ Municipio o Delegación Política: ________________________ Código Postal: _______________ Entidad Federativa ____________________________________________________________________
+
+5. Teléfono(s) :____________________________________ Fax:__________________________________
+  Otorgo mi consentimiento para ser notificado vía correo electrónico:____________________
+  Correo Electrónico:____________________________________________________________________
+
+
+   PRUEBAS EN LAS QUE SOLICITA LA ACREDITACIÓN.
+Indicar la Norma,  DT  o  RT extranjeros en materia de telecomunicaciones y radiodifusión con el título completo y su año de publicación, así como la prueba o método correspondiente.*
+TÍTULO COMPLETO DE LA NORMA, DISPOSICIÓN TÉCNICA O REGLAMENTO TÉCNICO EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN CON AÑO DE PUBLICACIÓN:
+                               PRUEBA O MÉTODO:
+                        (Establecer inciso y párrafo 
+                            cuando así lo amerite)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ *Anexar las hojas que considere necesarias.
+   REQUISITOS ANEXOS
+Marcar con una "X" los documentos que se anexan a la presente solicitud.
+
+REQUISITOS GENERALES
+
+
+Acta Constitutiva 
+□
+Poder que faculta al representante legal
+□
+REQUISITOS PARTICULARES
+
+Identificación oficial de la persona representante del Laboratorio encargada de gestionar la Autorización  y Acreditación
+□
+Comprobante de pago de aprovechamientos por Acreditación
+□
+En su caso, comprobante de pago por el concepto de emisión de dictamen   del CENAM sobre la capacidad técnica de medición del LP interesado en obtener la Acreditación 
+□
+
+Declaro, bajo protesta de decir verdad, que los datos asentados en esta solicitud y en los documentos o requisitos que se adjuntan son verdaderos y manifiesto ser la persona responsable de dar respuesta a averiguaciones relacionadas con la presente solicitud.
+
+
+     Firma del representante legal del Laboratorio de Prueba solicitante.
+
+La Información requerida en el presente formato será tratada por el Instituto Federal de Telecomunicaciones en los términos de la Ley General De Transparencia y Acceso a la Información Pública y demás disposiciones aplicables.
+
+
+                                    ANEXO 2
+
+SOLICITUD DE AUTORIZACIÓN DE UN ORGANISMO DE ACREDITACIÓN EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN.
+
+PARA USO EXCLUSIVO DEL INSTITUTO
+
+Número de solicitud:
+
+
+
+Fecha de recepción:
+
+
+
+Plazo de resolución:
+
+
+                                       
+ DATOS DEL ORGANISMO DEACREDITACIÓN SOLICITANTE
+
+1. Nombre o razón social del Organismo de Acreditación:
+
+ ____________________________________________________________________________________
+
+2. Registro Federal de Contribuyentes (R.F.C.): ________________________________________________
+
+3. Domicilio o ubicación:
+ 	Calle: _________________________________________________________________________ Número Exterior: ________ Número Interior: ________ Colonia: _________________________ Municipio o Delegación Política: ________________________ Código Postal: _______________ Entidad Federativa:____________________________________________________________________
+
+4. Teléfono(s): ___________________________________ Fax: _____________________________ Correo Electrónico: _______________________ Página electrónica: ____________________________ 
+
+
+ DATOS DEL REPRESENTANTE LEGAL.
+
+1. Nombre, Apellido Paterno, Apellido Materno:
+	___________________________________________________________________________________
+
+2. Registro Federal de Contribuyentes (RFC): ________________________________________________
+
+3. Clave Única del Registro de Población (CURP): _____________________________________________
+
+5. Domicilio:
+  Calle: _______________________________________________________________________________ Número Exterior: ________ Número Interior: _________ Colonia: ________________________ Municipio o Delegación Política: ________________________ Código Postal: _______________ Entidad Federativa ____________________________________________________________________
+
+6. Teléfono(s) :____________________________________ Fax:__________________________________
+  Otorgo mi consentimiento para ser notificado vía correo electrónico: _____________________________
+  Correo electrónico:________________________________________________
+
+
+ REQUISITOS ANEXOS
+Marcar con una "X" los documentos que se anexan a la presente solicitud.
+
+REQUISITOS GENERALES
+
+
+Acta Constitutiva 
+□
+Poder que faculta al representante legal
+□
+REQUISITOS PARTICULARES
+
+Carpeta en formato digital
+□
+
+Declaro, bajo protesta de decir verdad, que los datos asentados en esta solicitud y en los documentos o requisitos que se adjuntan son verdaderos y manifiesto ser la persona responsable de dar respuesta a averiguaciones relacionadas con la presente solicitud.
+
+
+   Firma del representante legal del Organismo de Acreditación solicitante.
+
+La Información requerida en el presente formato será tratada por el Instituto Federal de Telecomunicaciones en los términos de la Ley General De Transparencia y Acceso a la Información Pública y demás disposiciones aplicables.
+
+                                    ANEXO 3
+                                       
+SOLICITUD DE DESIGNACIÓN DE UN LABORATORIO DE PRUEBA ESTABLECIDO EN TERRITORIO NACIONAL PARA LA EVALUACIÓN DE LA CONFORMIDAD RELATIVA A REGLAMENTOS TÉCNICOS EXTRANJEROS EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN EN EL MARCO DE UN ACUERDO DE RECONOCIMIENTO MUTUO.
+
+
+PARA USO EXLUSIVO DEL INSTITUTO
+
+Número de solicitud:
+
+
+
+Fecha de recepción:
+
+
+
+Plazo de resolución:
+
+
+                                       
+ DATOS DEL LABORATORIO DE PRUEBA SOLICITANTE.
+
+1. Nombre o razón social del laboratorio:
+
+ ____________________________________________________________________________________
+
+2. Registro Federal de Contribuyentes (R.F.C.): ________________________________________________
+
+3. Domicilio o ubicación:
+ 	Calle: _________________________________________________________________________ Número Exterior: ________ Número Interior: ________ Colonia: _________________________ Municipio o Delegación Política: ________________________ Código Postal: _______________ Entidad Federativa:____________________________________________________________________
+
+4. Teléfono(s): ___________________________________ Fax: _____________________________ Correo Electrónico: _______________________ Página electrónica: ____________________________ 
+
+
+
+
+ DATOS DEL REPRESENTANTE LEGAL.
+
+1. Nombre, Apellido Paterno, Apellido Materno:
+	___________________________________________________________________________________
+
+2. Registro Federal de Contribuyentes (RFC): ________________________________________________
+
+3. Clave Única del Registro de Población (CURP): _____________________________________________
+
+5. Domicilio:
+  Calle: _______________________________________________________________________________ Número Exterior: ________ Número Interior: _________ Colonia: ________________________ Municipio o Delegación Política: ________________________ Código Postal: _______________ Entidad Federativa ____________________________________________________________________
+
+6. Teléfono(s) :____________________________________ Fax:__________________________________
+  Otorgo mi consentimiento para ser notificado vía correo electrónico:_______________________
+  Correo Electrónico:____________________________________________________________________
+
+
+ PRUEBAS EN LAS QUE SOLICITA LA DESIGNACIÓN.
+Indicar los Reglamentos Técnicos extranjeros en materia de telecomunicaciones y radiodifusión en el marco de un ARM con el título completo y su año de publicación, así como la prueba o método correspondiente.*
+TÍTULO COMPLETO DEL REGLAMENTO TÉCNICO EXTRANJERO EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN CON AÑO DE PUBLICACIÓN:
+                               PRUEBA O MÉTODO:
+                        (Establecer inciso y párrafo 
+                            cuando así lo amerite)
+
+
+
+
+
+
+
+
+ * Anexar las hojas que considere necesarias.
+
+ REQUISITOS ANEXOS
+Marcar con una "X" los documentos que se anexan a la presente solicitud.
+
+REQUISITOS GENERALES
+
+Acta Constitutiva 
+□
+Identificación del representante legal
+□
+
+REQUISITOS PARTICULARES
+
+Certificado de Acreditación/Autorización con respecto a RT emitido por el Instituto
+□
+Copia del Acta Constitutiva
+□
+Copia del poder que faculta al representante legal
+□
+Identificación oficial del representante legal
+□
+Copia de la Acreditación emitida por un Organismo  de Acreditación
+□
+Documento  vigente mediante el cual el Instituto autorizo al LP con respecto a un RT extranjero, en el caso de que éste haya sido acreditado por un OA diferente al Instituto
+□
+Lista de Verificación en relación con la Norma ISO/IEC 17025
+□
+Lista de Verificación que esté relacionada con los métodos de prueba del RT extranjero que esté dentro del alcance acreditado, que haya integrado al OA o el Instituto.
+□
+Lista de no conformidades y la relación de soluciones dadas a éstas por el LP solicitante
+□
+Plan de re evaluación y Verificación para el LP solicitante a que se refiere la cláusula 7.11.3 de la Norma ISO/IEC17011:2004
+□
+
+Declaro, bajo protesta de decir verdad, que los datos asentados en esta solicitud y en los documentos o requisitos que se adjuntan son verdaderos y manifiesto ser la persona responsable de dar respuesta a averiguaciones relacionadas con la presente solicitud.
+
+
+     Firma del representante legal del Laboratorio de Prueba solicitante.
+La Información requerida en el presente formato será tratada por el Instituto Federal de Telecomunicaciones en los términos de la Ley General De Transparencia y Acceso a la Información Pública y demás disposiciones aplicables.
+                                    ANEXO 4
+                                       
+SOLICITUD DE  AUTORIZACIÓN DE UN LABORATORIO DE PRUEBA ESTABLECIDO EN TERRITORIO NACIONAL PARA LA EVALUACIÓN DE LA CONFORMIDAD RELATIVA A NORMAS, DISPOSICIONES TÉCNICAS O REGLAMENTOS TÉCNICOS EXTRANJEROS EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN.
+
+PARA USO EXLUSIVO DEL INSTITUTO
+
+Número de solicitud:
+
+
+
+Fecha de recepción:
+
+
+
+Plazo de resolución:
+
+
+                                       
+ DATOS DEL LABORATORIO DE PRUEBA SOLICITANTE.
+
+1. Nombre o razón social del laboratorio:
+
+ ____________________________________________________________________________________
+
+2. Registro Federal de Contribuyentes (R.F.C.): ________________________________________________
+
+3. Domicilio o ubicación:
+ 	Calle: _________________________________________________________________________ Número Exterior: ________ Número Interior: ________ Colonia: _________________________ Municipio o Delegación Política: ________________________ Código Postal: _______________ Entidad Federativa:____________________________________________________________________
+
+4. Teléfono(s): ___________________________________ Fax: _____________________________ Correo Electrónico: _______________________ Página electrónica: ____________________________ 
+
+
+
+ DATOS DEL REPRESENTANTE LEGAL.
+
+1. Nombre, Apellido Paterno, Apellido Materno:
+	___________________________________________________________________________________
+
+2. Registro Federal de Contribuyentes (RFC): ________________________________________________
+
+3. Clave Única del Registro de Población (CURP): _____________________________________________
+
+5. Domicilio:
+  Calle: _______________________________________________________________________________ Número Exterior: ________ Número Interior: _________ Colonia: ________________________ Municipio o Delegación Política: ________________________ Código Postal: _______________ Entidad Federativa ____________________________________________________________________
+
+6. Teléfono(s) :____________________________________ Fax:__________________________________
+  Otorgo mi consentimiento para ser notificado vía correo electrónico:_______________________
+  Correo Electrónico:____________________________________________________________________
+
+
+ PRUEBAS EN LAS QUE SOLICITA LA DESIGNACIÓN.
+Indicar las Normas , Disposiciones Técnicas o Reglamentos Técnicos extranjeros  en materia de telecomunicaciones y radiodifusión con el título completo y su año de publicación, así como la prueba o método correspondiente.*
+TÍTULO COMPLETO DE LA NORMA, DISPOSICIÓN TÉCNICA O REGLAMENTO TÉCNICO EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN CON AÑO DE PUBLICACIÓN:
+                               PRUEBA O MÉTODO:
+                        (Establecer inciso y párrafo 
+                            cuando así lo amerite)
+
+
+
+
+
+
+
+
+
+
+
+
+ * Anexar las hojas que considere necesarias.
+ REQUISITOS ANEXOS
+Marcar con una "X" los documentos que se anexan a la presente solicitud.
+
+REQUISITOS GENERALES
+
+Acta Constitutiva 
+□
+Poder que faculta al representante legal
+□
+
+REQUISITOS PARTICULARES
+
+Identificación oficial de la persona representante del Laboratorio encargada de gestionar la Autorización  y Acreditación
+
+Certificado de Acreditación con respecto a Norma, DT o RT extranjero emitido por el Instituto o por un OA autorizado por el Instituto
+□
+Lista de Verificación en relación con la Norma ISO/IEC/ 17025 
+□
+Lista de Verificación que esté relacionada con los métodos de prueba del RT que esté dentro del alcance acreditado, que haya integrado al OA o el Instituto.
+□
+Lista de no conformidades y la relación de soluciones dadas a éstas por el LP solicitante
+□
+Plan de re evaluación y Verificación para el LP solicitante a que se refiere la cláusula 7.11.3 de la Norma ISO/IEC/ 17011 
+□
+
+Declaro, bajo protesta de decir verdad, que los datos asentados en esta solicitud y en los documentos o requisitos que se adjuntan son verdaderos y manifiesto ser la persona responsable de dar respuesta a averiguaciones relacionadas con la presente solicitud.
+
+
+     Firma del representante legal del Laboratorio de Prueba solicitante.
+
+La Información requerida en el presente formato será tratada por el Instituto Federal de Telecomunicaciones en los términos de la Ley General De Transparencia y Acceso a la Información Pública y demás disposiciones aplicables.
+
+        INSTRUCCIONES DE LLENADO DE LOS FORMATOS DEL ANEXO 1, 2, 3 y 4:
+
+INDICACIONES GENERALES PARA EL LLENADO DE LOS FORMATOS PARA LA ACREDITACIÓN, AUTORIZACIÓN y DESIGNACIÓN DE LABORATORIOS DE PRUEBA.
+
+- Antes de llenar los formatos, lea completa y cuidadosamente el instructivo.
+- No se permiten borraduras, tachaduras ni enmendaduras en los formatos.
+- La firma deberá ser autógrafa con bolígrafo de tinta negra. 
+- El llenado deberá ser a mano con letra legible, con máquina de escribir o computadora con tinta de color negro.
+- Registre la información con letras mayúsculas y números arábigos.
+- Cancele con una línea los renglones no utilizados.
+
+                              LLENADO DEL FORMATO
+I. DATOS DEL LABORATORIO DE PRUEBA O EL ORGANISMO DE ACREDITACIÓN SOLICITANTE
+ Nombre o razón social del Laboratorio de Prueba o del Organismo de Acreditación solicitante.
+Indique el nombre completo o razón social del Laboratorio de Prueba o del Organismo de Acreditación solicitante
+ Registro Federal de Contribuyentes (R.F.C.)
+Indique el RFC del Laboratorio de Prueba o del Organismos de Acreditación solicitante.
+ Domicilio o ubicación:
+Indique el domicilio o ubicación del Laboratorio de Prueba o del Organismo de Acreditación en el siguiente orden: Calle, Número exterior, Número interior, Colonia, Municipio o Delegación Política, Código Postal, Entidad Federativa.
+ Teléfonos
+Indique el número telefónico a cinco dígitos
+      Fax:
+Indique el número de fax 
+      Correo electrónico
+Indique el correo electrónico
+      Página electrónica
+Indique la página electrónica
+
+
+II. DATOS DEL REPRESENTANTE LEGAL DEL LABORATORIO DE PRUEBA O EL ORGANISMO DE ACREDITACIÓN SOLICITANTE.
+ Nombre del representante legal
+Indique el nombre completo del representante legal del Laboratorio de Prueba o del Organismo de Acreditación en el siguiente orden: primer apellido, segundo apellido y nombre(s).
+ Registro Federal de Contribuyentes (RFC)
+Indique el RFC del Representante legal del Laboratorio de Prueba o del Organismo de Acreditación
+ Clave Única del Registro de Población (CURP):
+Indique la Clave Única del Registro de Población (CURP) del Representante Legal.
+ Domicilio legal:
+Domicilio legal para recibir notificaciones en el siguiente orden: calle, número exterior, número interior, Colonia, Municipio o Delegación Política, Código Postal y Entidad Federativa.
+ Teléfonos
+Indique el número telefónico a diez dígitos
+Fax
+Indique el número de Fax 
+      Otorgo mi consentimiento para ser notificado vía correo electrónico
+Exprese su autorización para que sea notificado vía correo electrónico
+      Correo Electrónico
+Indique el correo electrónico en el que recibirá notificaciones, si así fue su voluntad en el punto anterior.
+
+III. PRUEBAS EN LAS QUE SOLICITA LA ACREDITACIÓN, AUTORIZACIÓN O DESIGNACIÓN
+      TÍTULO COMPLETO DE LA NORMA, DISPOSICIÓN TÉCNICA O REGLAMENTO TÉCNICO EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN CON AÑO DE PUBLICACIÓN:
+Indicar la Norma o DT en materia de telecomunicaciones y radiodifusión con el título completo y su año de publicación, así como la prueba o método correspondiente
+
+IV. REQUISITOS ANEXOS
+  Marcar con una "X" los documentos que se anexan a la presente solicitud
+  Marcar con una "X" los documentos que se anexan a la presente solicitud
+Firma del representante legal del Laboratorio de Prueba o del Organismo de Acreditación solicitante
+Firma autógrafa del representante legal del Laboratorio de Prueba o del Organismo de Acreditación solicitante, con bolígrafo de tinta negra.
+

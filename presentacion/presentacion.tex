@@ -51,6 +51,35 @@ handout,usenames,dvipsnames] {beamer}
 
 \section{Introducción}
 
+
+\frame{
+\frametitle{Objetivos del PLN}
+\Large
+\begin{itemize}
+	\item Crear aplicaciones que puedan manipular,
+interpretar y generar lenguaje humano
+	\item Modelar la capacidad lingüística
+humana.
+	\item Representar el conocimiento lingüístico de una manera computacional.
+\end{itemize}
+}
+
+
+\frame{
+\frametitle{Objetivos del curso}
+\Large
+\begin{itemize}
+	\item Introducción al lenguaje de programación Python.
+	\item Instrucción a la programación y módulos con un enfoque para PLN.
+\begin{itemize}
+	\large
+	\item Expresiones regulares
+	\item NLTK (natural language tool kit).
+\end{itemize}
+\end{itemize}
+}
+
+
 \subsection{Herramientas}
 
 \frame{
@@ -59,7 +88,7 @@ handout,usenames,dvipsnames] {beamer}
 \begin{itemize}
 	\item Intérprete Python
 	\item Editor de texto
-	\large
+	\Large
 	\item Internet
 \end{itemize}
 }
@@ -67,7 +96,7 @@ handout,usenames,dvipsnames] {beamer}
 \begin{itemize}
 	\item En este curso utilizaremos en particular el intérprete de Python 3.
 	\item En cuanto al editor, cualquier editor de texto será suficiente, desde el bloc de notas hasta cualquier IDE profesional con el que se sientan cómodos.
-	\item Además, bueno, me parece que el internet es un requerimiento ya para todo, pero en este curso en particular descargaremos herramientas que se necesitan para trabajar, python incluido, si es que no lo tienen ya.
+	\item El internet es un requerimiento ya para todo, pero en este curso en particular descargaremos herramientas que se necesitan para trabajar, python incluido, si es que no lo tienen aún.
 \end{itemize}
 }
 
@@ -453,7 +482,7 @@ x\ \textcolor{BrickRed}{=}\ \textcolor{Purple}{2}\ \textcolor{BrickRed}{+}\ \tex
 \ttfamily
 \small
 \mbox{}\\
-archivo$\_$abierto\textcolor{BrickRed}{=}\textbf{\textcolor{Black}{open}}\textcolor{BrickRed}{(}\texttt{\textcolor{Red}{"{}C:\textbackslash\textbackslash{}RUTA\textbackslash\textbackslash{}P$\_$IFT$\_$290216$\_$73$\_$Acc.txt"{}}}\textcolor{BrickRed}{)} \\
+archivo$\_$abierto\textcolor{BrickRed}{=}\textbf{\textcolor{Black}{open}}\textcolor{BrickRed}{(}\texttt{\textcolor{Red}{"{}C:\textbackslash\textbackslash{}RUTA\textbackslash\textbackslash{}Libros\textbackslash\textbackslash{}texto\_291.txt"{}}}\textcolor{BrickRed}{)} \\
 \mbox{}
 }}
 }
@@ -514,7 +543,7 @@ archivo$\_$abierto\textcolor{BrickRed}{.}\textbf{\textcolor{Black}{close}}\textc
 \ttfamily
 \small
 \mbox{}\\
-archivo$\_$abierto\textcolor{BrickRed}{=}\textbf{\textcolor{Black}{open}}\textcolor{BrickRed}{(}\texttt{\textcolor{Red}{"{}C:\textbackslash\textbackslash{}RUTA\textbackslash\textbackslash{}P$\_$IFT$\_$290216$\_$73$\_$Acc.txt"{} }}\textcolor{BrickRed}{)} \\
+archivo$\_$abierto\textcolor{BrickRed}{=}\textbf{\textcolor{Black}{open}}\textcolor{BrickRed}{(}\texttt{\textcolor{Red}{"{}C:\textbackslash\textbackslash{}RUTA\textbackslash\textbackslash{}Libros\textbackslash\textbackslash{}texto\_291.txt"{} }}\textcolor{BrickRed}{)} \\
 \mbox{}texto\textcolor{BrickRed}{=}archivo$\_$abierto\textcolor{BrickRed}{.}\textbf{\textcolor{Black}{read}}\textcolor{BrickRed}{()} \\
 \mbox{}\textbf{\textcolor{Blue}{print}}\textcolor{BrickRed}{(}texto\textcolor{BrickRed}{)} \\
 \mbox{}archivo$\_$abierto\textcolor{BrickRed}{.}\textbf{\textcolor{Black}{close}}\textcolor{BrickRed}{()} \\
@@ -641,7 +670,7 @@ archivo$\_$abierto\textcolor{BrickRed}{=}\textbf{\textcolor{Black}{open}}\textco
 \ttfamily
 \mbox{}\\
 c\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbackslash{}\textbackslash{}Users\textbackslash{}\textbackslash{}user\textbackslash{}\textbackslash{}Desktop\textbackslash{}\textbackslash{}Documentos\textbackslash{}\textbackslash{}"{}}} \\
-\mbox{}e\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}P$\_$IFT$\_$290216$\_$73$\_$Acc.txt"{}}} \\
+\mbox{}e\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}Libros\textbackslash\textbackslash{}texto\_291.txt"{}}} \\
 \mbox{}s\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}archivo$\_$nuevo.txt"{}}} \\
 \mbox{}e2\textcolor{BrickRed}{=}\textbf{\textcolor{Black}{open}}\textcolor{BrickRed}{(}c\textcolor{BrickRed}{+}e\textcolor{BrickRed}{,}\texttt{\textcolor{Red}{"{}r"{}}}\textcolor{BrickRed}{)} \\
 \mbox{}s2\textcolor{BrickRed}{=}\textbf{\textcolor{Black}{open}}\textcolor{BrickRed}{(}c\textcolor{BrickRed}{+}s\textcolor{BrickRed}{,}\texttt{\textcolor{Red}{"{}w"{}}}\textcolor{BrickRed}{)} \\
@@ -670,7 +699,7 @@ c\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbackslash{}\textbacksl
 \small
 \mbox{}\\
 carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbackslash{}\textbackslash{}Users\textbackslash{}\textbackslash{}user\textbackslash{}\textbackslash{}Desktop\textbackslash{}\textbackslash{}Documentos\textbackslash{}\textbackslash{}"{}}} \\
-\mbox{}archivo$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}P$\_$IFT$\_$290216$\_$73$\_$Acc.txt"{}}} \\
+\mbox{}archivo$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}Libros\textbackslash\textbackslash{}texto\_291.txt"{}}} \\
 \mbox{}salida$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}archivo$\_$nuevo.txt"{}}} \\
 \mbox{} \\
 \mbox{}entrada$\_$abierto\textcolor{BrickRed}{=}\textbf{\textcolor{Black}{open}}\textcolor{BrickRed}{(}carpeta$\_$nombre\textcolor{BrickRed}{+}archivo$\_$nombre\textcolor{BrickRed}{,}\texttt{\textcolor{Red}{"{}r"{}}}\textcolor{BrickRed}{)} \\
@@ -709,7 +738,7 @@ carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbacksl
 \small
 \mbox{}\\
 carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbackslash{}\textbackslash{}Users\textbackslash{}\textbackslash{}user\textbackslash{}\textbackslash{}Desktop\textbackslash{}\textbackslash{}Documentos\textbackslash{}\textbackslash{}"{}}} \\
-\mbox{}archivo$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}P$\_$IFT$\_$290216$\_$73$\_$Acc.txt"{}}} \\
+\mbox{}archivo$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}Libros\textbackslash\textbackslash{}texto\_291.txt"{}}} \\
 \mbox{} \\
 \mbox{}with\ \textbf{\textcolor{Black}{open}}\textcolor{BrickRed}{(}carpeta$\_$nombre\textcolor{BrickRed}{+}archivo$\_$nombre\textcolor{BrickRed}{,}\texttt{\textcolor{Red}{"{}r"{}}}\textcolor{BrickRed}{)}\ as\ archivo\textcolor{BrickRed}{:} \\
 \mbox{}\ \ \ \ \ \ \ \ texto\textcolor{BrickRed}{=}archivo\textcolor{BrickRed}{.}\textbf{\textcolor{Black}{read}}\textcolor{BrickRed}{()} \\

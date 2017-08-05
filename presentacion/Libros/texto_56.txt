@@ -1,0 +1,6145 @@
+La vida cotidiana está regida por una ley universal, que afirma que no se puede saber cuál es la profundidad de un charco hasta que no se ha metido el pie en él, o que nada es tan bonito de cerca como de lejos. Adentrarse en las páginas de este libro es un antídoto contra el mal humor, aunque leerlo no evita que la tostada se siga cayendo por el lado de la mantequilla.
+
+
+
+
+
+Arthur Bloch
+
+
+
+
+
+La ley de Murphy
+
+
+
+
+
+
+
+INTRODUCCIÓN
+
+
+¿Nunca ha sonado el teléfono de su casa en el preciso instante en que usted se sentaba en el excusado? ¿Tampoco ha aparecido el autobús que llevaba horas esperando justo cuando se ha encendido un cigarrillo? ¿Nunca ha llovido a cántaros, precisamente el día que había llevado el coche a lavar, ni ha dejado de llover nada más comprar un paraguas? Es posible que usted se diera cuenta en ese momento de que se estaba tramando algo, que existía un principio universal más allá de su comprensión y que estaba muerto de rabia por que le pusieran un nombre. También, es posible que usted deseara recurrir a la Ley de Murphy, el Principio de Peter o la Ley de la Gravitación Selectiva, si es que había oído hablar de ellas, sólo para darse cuenta de que se le había olvidado el nombre exacto.
+
+Aquí tenemos un pequeño compendio de referencias, que parten del juicio y de la sabiduría de nuestros tecnólogos, burócratas, humanistas y observadores antisociales más deliciosamente dementes. Lo han elaborado y nos lo presentan con la finalidad de proporcionarnos un ligero «alivio kármico». Hemos hecho un listado lo más completo posible. Mientras investigábamos estos preceptos interdisciplinarios, nos encontramos con numerosas redundancias (que apoyaban la validez de las observaciones), frecuentes reclamaciones sobre la paternidad de los mismos y facturas de donantes anónimos. No tenemos más remedio que agradecer la contribución del inimitable Zymurgy, que afirmó: «Una vez que se abre una lata de gusanos, la única manera de volver a enlatarlos es usar una lata mayor.» Al aplicar este fragmento múrphico al presente volumen, nos dimos cuenta de que este proyecto, una vez emprendido, crecería en volumen y envergadura a medida que nuestra búsqueda de la verdad mera revelando más principios, nuevos y viejos.
+
+A lo largo de la historia, los eruditos y los sabios nos han divertido con las leyes del Universo, las estructuras sutiles aunque inmutables que rigen el orden cósmico. Hemos recibido las Leyes Morales de los religiosos; las Leyes del Karma de los místicos; las Leyes de la Lógica de los racionalistas y las Leyes de la Estética de los artistas. Ahora es el turno de los tecnólogos y de aguzar nuestro oído colectivo.
+
+La filosofía oficial de la tecnología, de toda ciencia en sí, es la desesperación. Si lo duda, considere las Leyes de la termodinámica tal y como se exponen en el Teorema de Ginsberg. El universo hierve a fuego lento como un estofado gigante que llevara en la lumbre cuatro billones de años. Antes o después, seremos incapaces de distinguir las zanahorias de las cebollas.
+
+«Pero, ¿qué pasa a corto plazo, con el tradicional sistema cerrado?», se puede preguntar usted, mirando por la ventana de su lujoso apartamento mientras toma un sorbito de martini con vodka y observa a una multitud de criaturas de Dios que se afanan en sus asuntos. Bueno, lo único que tenemos que hacer es contemplar este asunto, como ilustra la auténtica burocracia, a través de los ojos de Peter, Parkinson y otros. Nos daremos cuenta de que sólo es cuestión de tiempo que las partículas microscópicas, a las que llamamos «asuntos importantes y de Gobierno», pierdan la capacidad de salir bien, a pesar de ser como son, lo mismo que les pasa a sus homologas universales.
+
+«Estamos al otro lado del tapiz», dijo el padre Brown, el famoso clérigo detective de G. K. Chesterton. Y la verdad es que sí. Como mucho lo que se nos concede ver de la gran obra celestial del mejor fabricante de tapices son algunos cabos sueltos y algunas hebras.
+
+Muy pocos, en su búsqueda de la verdad, se han atrevido a explorar los bordes del tapiz y a desafiar las iras del guardián del tapiz. A ellos les dedicamos este volumen.
+
+
+
+
+
+MURPHYOLOGÍA
+
+
+
+Ley de Murphy
+
+Si algo puede salir mal, saldrá mal.
+
+
+Corolarios
+
+Nada es tan fácil como parece.
+
+Todo lleva más tiempo del que usted piensa.
+
+Si existe la posibilidad de que varias cosas vayan mal, la que cause más perjuicios será la única que vaya mal.
+
+Si usted intuye que hay cuatro posibilidades de que una gestión vaya mal y las evita, al momento aparecerá espontáneamente una quinta posibilidad.
+
+Cuando las cosas se dejan a su aire, suelen ir de mal en peor.
+
+En cuanto se ponga a hacer algo, se dará cuenta de que hay otra cosa que debería haber hecho antes.
+
+Cualquier solución entraña nuevos problemas.
+
+Es inútil hacer cualquier cosa a prueba de tontos, porque los tontos son muy ingeniosos.
+
+La naturaleza siempre está de parte de la imperfección oculta.
+
+La madre Naturaleza es una lagartona.
+
+
+
+
+
+Filosofía de Murphy
+
+Sonría. Mañana puede ser peor.
+
+
+Constante de Murphy
+
+El deterioro de las cosas es directamente proporcional a su valor.
+
+
+Cuantificación y revisión de la Ley de Murphy
+
+Si tenemos muchas pérdidas porque las cosas van mal, debemos tomar todas las precauciones posibles para que vayan mejor.
+
+Si los cambios no nos pueden provocar ningún perjuicio, nos relajaremos.
+
+Si los cambios sólo nos pueden proporcionar ventajas, nos relajaremos.
+
+Si no importa, pues no importa.
+
+
+
+
+
+Lamento de Lofta
+
+Nadie, por sí mismo, puede hacer las cosas lo suficientemente bien.
+
+
+Comentario de O’Toole sobre la Ley de Murphy
+
+Murphy era un optimista.
+
+
+Séptima excepción de Zymurgy sobre la ley de Murphy
+
+Cuando llueve, diluvia.
+
+
+Postulado de Boling
+
+Si se encuentra bien, no se preocupe. Se le pasará.
+
+
+Comentario de Chris
+
+Siempre hay que perder algo para conseguir otra cosa que se desea más.
+
+
+Afirmación de White
+
+No pierda la cabeza.
+
+
+Comentario de Owen sobre la Afirmación de White
+
+Es posible que se la quieran cortar.
+
+
+Apostilla de Byrd al Comentario de Owen sobre la Afirmación de White
+
+Y quieren evitar que el proceso sea largo.
+
+
+Ley de Ile
+
+Siempre hay una manera más sencilla de hacerlo.
+
+
+Corolarios
+
+Cuando busque directamente esa manera más sencilla, en especial durante largos períodos, no la encontrará.
+
+Ile tampoco.
+
+
+
+
+
+Ley de Heymann
+
+La mediocridad se reproduce.
+
+
+Primera ley de Chisholm
+
+Cuando las cosas vayan bien, algo habrá que haga que vayan mal.
+
+
+Corolarios
+
+Cuando parece que ya nada puede ir peor, empeora.
+
+Cuando le parezca que las cosas van mejor, es que se le ha pasado algo por alto.
+
+
+
+
+
+Segunda ley de Chisholm
+
+Las propuestas nunca son juzgadas tal y como las entiende el que las hace.
+
+
+Ley de la idea genial
+
+Cuando a usted se le ocurra la solución ideal, alguien habrá resuelto ya el problema.
+
+
+Ley de la mentira
+
+No importa la frecuencia con que se demuestre que una mentira es falsa. Siempre habrá cierto porcentaje de gente que crea que es verdad.
+
+
+Ley de Kranske
+
+Guárdese del día en que no tenga nada que lamentar.
+
+
+Corolarios
+
+Si usted explica algo con tanta claridad que nadie lo pueda malinterpretar, no se preocupe, alguien lo hará.
+
+Si usted hace algo y está seguro de que contará con la aprobación de todo el mundo, a alguien le disgustará.
+
+Los métodos para conseguir más fácilmente el objetivo no suelen funcionar.
+
+
+
+
+
+Primera ley de Scott
+
+Lo que va mal, por lo general, tiene aspecto de funcionar bien.
+
+
+Segunda ley de Scott
+
+Cuando se ha detectado y corregido un error, se suele descubrir que no era un error.
+
+
+Corolario
+
+Después de la corrección, será imposible volver a poner en la ecuación la cantidad original.
+
+
+Primera ley de Finagle
+
+Si un experimento funciona, es que algo ha ido mal.
+
+
+Segunda ley de Finagle
+
+No importa cuál sea el resultado previsto. Siempre habrá alguien impaciente por: malinterpretarlo;
+
+imitarlo, o
+
+creer que ha sido a causa de su teoría favorita.
+
+
+
+
+
+Tercera ley de Finagle
+
+En cualquier grupo de datos, la cifra que evidentemente es correcta, sin ninguna necesidad de comprobación, es la errónea.
+
+
+Corolarios
+
+Si le pide ayuda a alguien, no sabrá ver el error.
+
+Cualquiera que le eche un vistazo, sin que usted se lo pida, lo verá inmediatamente.
+
+
+
+
+
+Cuarta ley de Finagle
+
+Si un trabajo se ha atascado, todo lo que haga para arreglarlo sólo conseguirá empeorarlo.
+
+
+Reglas de Finagle
+
+Para estudiar mejor un asunto, entiéndalo en profundidad antes de empezar.
+
+Lleve siempre un registro de datos; así demostrará que ha estado trabajando.
+
+Primero dibuje curvas y después elabore el texto.
+
+En caso de duda, que suene muy convincente.
+
+Los experimentos deben ser análogos, es decir, todos deben fallar de la misma manera.
+
+No crea en los milagros, confíe en ellos.
+
+
+
+
+
+Axioma de Wingo
+
+Se pueden soslayar todas las leyes de Finagle en cuanto se aprende el simple arte de actuar sin pensar.
+
+
+Ley de Gumperson
+
+La probabilidad de que suceda algo es inversamente proporcional a lo que quiera que suceda.
+
+
+Leyes de Issawi sobre el progreso
+
+La trayectoria del progreso:
+
+La mayor parte de las cosas empeoran de forma ininterrumpida.
+
+La marcha del progreso:
+
+El atajo es la distancia más larga entre dos puntos. La dialéctica del progreso:
+
+La acción directa produce una reacción directa.
+
+El ritmo del progreso:
+
+La sociedad es una mula, no un coche. Si se la presiona mucho, cocea y derriba al jinete.
+
+
+Teorema de Ginsberg
+
+Usted no puede ganar.
+
+Tampoco puede empatar.
+
+Ni siquiera puede abandonar el juego.
+
+
+
+
+
+Comentario de Freeman sobre el Teorema de Ginsberg
+
+Cualquier filosofía importante que intente dar un sentido a la vida se fundamenta en la negación de una parte del Teorema de Ginsberg. Por ejemplo:
+
+El capitalismo se fundamenta en la suposición de que usted puede ganar.
+
+El socialismo se fundamenta en la suposición de que puede empatar.
+
+El misticismo se fundamenta en la suposición de que puede abandonar el juego.
+
+
+
+
+
+Primera ley de Sodd
+
+Cuando una persona emprende una tarea, la intervención inconsciente de otra presencia (animada o inanimada) desbaratará sus planes. Sin embargo, algunas tareas se pueden terminar debido a que esa presencia que interviene también está realizando una tarea y, evidentemente, también está expuesta a que usted intervenga.
+
+
+Segunda ley de Sodd
+
+Antes o después, puede tener la más completa seguridad de que se producirán las circunstancias más desfavorables.
+
+
+Corolario
+
+Todo sistema se debe diseñar para que se pueda oponer a las circunstancias más desfavorables.
+
+
+Ley de Simón
+
+Todo lo que está armado, antes o después se desarma.
+
+
+Ley de George
+
+Todos los más tienen sus menos.
+
+
+Aforismo de Aristóteles
+
+Siempre se debe preferir el imposible probable al posible improbable.
+
+
+Ley de Rudin
+
+En esas situaciones de crisis en las que la gente se ve obligada a elegir entre varias opciones alternativas de acción, la mayor parte de las personas escogen la peor posible.
+
+
+Comentario de Ehrman
+
+Las cosas empeoran antes de mejorar.
+
+¿Quién dijo que las cosas mejorarían?
+
+
+
+
+
+Paradoja de Murphy
+
+Siempre es más fácil hacerlo de la forma más difícil.
+
+
+Ley de Everitt sobre la Termodinámica
+
+En la sociedad, la confusión aumenta siempre. Solamente en el caso de que alguien o algo trabaje con denuedo, esta confusión se puede convertir en orden, en una zona limitada. Sin embargo, el resultado de este esfuerzo es un aumento de la confusión total del conjunto de la sociedad.
+
+
+Creencia de Bobby
+
+La confusión no sólo reina, también gobierna.
+
+
+Ley de Murphy sobre la Termodinámica
+
+Todo empeora a elevadas presiones.
+
+
+Regla de Lunsford sobre el esfuerzo científico
+
+El resultado de una solución compleja siempre tiene una explicación simple.
+
+
+Principio Nobel de Rudnicki
+
+Sólo alguien que entiende algo en profundidad es capaz de explicarlo de tal forma que no lo entienda nadie.
+
+
+Ley de Commoner sobre Ecología
+
+Nada desaparece nunca.
+
+
+Ley de Pudder
+
+Todo lo que empieza bien, acaba mal.
+
+Todo lo que empieza mal, acaba puta pena.
+
+
+Teorema de Stockmayer
+
+Si parece fácil, es difícil.
+
+Si parece difícil, es asquerosamente imposible.
+
+
+Ley de Wynne
+
+Toda parte negativa tiende a incrementarse.
+
+
+Postulado de Tylczak sobre la probabilidad
+
+Los sucesos fortuitos tienden a suceder todos juntos.
+
+
+Ley de Zymurgy sobre los sistemas dinámicos en evolución
+
+Si usted abre una lata de gusanos, la única forma de volverlos a enlatar es utilizando una lata mayor.
+
+
+Ley de Sturgeon
+
+El noventa por ciento de todo es asqueroso.
+
+
+La ley impronunciable
+
+En cuanto usted menciona algo: si es bueno, desaparece;
+
+si es malo, sucede.
+
+
+
+
+
+Leyes no recíprocas de las expectativas
+
+Las expectativas negativas producen resultados negativos.
+
+Las expectativas positivas producen resultados negativos.
+
+
+Ley de los resultados negativos
+
+El año pasado siempre fue mejor.
+
+
+
+
+
+MURPHYOLOGÍA APLICADA
+
+
+
+Ley de Booker
+
+Un gramo de aplicación equivale a una tonelada de abstracción.
+
+
+Leyes de Klipstein
+
+Aplicadas a la Ingeniería General:
+
+Una aplicación evidente vendrá precedida por una similar, presentada una semana antes por un trabajador independiente.
+
+El cumplimiento de los plazos de entrega es inversamente proporcional a la cantidad de pedidos.
+
+Las dimensiones siempre se expresarán en las unidades menos habituales. Por ejemplo, la velocidad vendrá en estadios por quincena.
+
+Cualquier cable cortado a la medida exacta será demasiado corto.
+
+
+
+
+
+Aplicadas a la Construcción de Prototipos y Producción:
+
+Las tolerancias se acumularán de forma unidireccional hacia la máxima dificultad de montaje.
+
+Si para un proyecto hacen falta n componentes, en el almacén habrá n — 1.
+
+Un motor siempre rotará en la dirección que no debe.
+
+Un circuito a prueba de fallos destruirá todos los demás.
+
+Un transistor protegido por un fusible rápido protegerá al fusible explotando.
+
+Una unidad no presentará fallo alguno hasta que haya pasado la inspección final.
+
+Un componente o instrumento recién comprado durará lo suficiente, y sólo lo suficiente, para pasar una revisión.
+
+Después de haber quitado la última de las dieciséis tuercas de una entrada de acceso descubriremos que hemos desmontado la cubierta que no era.
+
+Después de haber asegurado una cubierta con dieciséis tuercas, descubriremos que se nos ha olvidado la junta.
+
+Después de haber montado un instrumento, encontraremos varias piezas suyas por el suelo.
+
+
+
+
+
+Ley de Pattison sobre la Electrónica
+
+Si los cables se pueden conectar de dos formas diferentes, la primera de ellas es la que funde los plomos.
+
+
+Ley de Farrell sobre los elementos más sofisticados
+
+El componente más caro es el que se rompe.
+
+
+Leyes universales sobre los métodos recomendados por el comité de la Sociedad Internacional de los Ingenieros Filósofos para ingenieros ingenuos
+
+En cualquier cálculo, si se tiene que colar un error, se colará.
+
+Cualquier error de cualquier cálculo, será el que más daños produzca.
+
+En cualquier fórmula, las constantes (especialmente las que se han sacado de libros de Ingeniería) se deben considerar como variables.
+
+La mejor aproximación a las condiciones de funcionamiento en el laboratorio, ni siquiera se aproximará a las condiciones reales de funcionamiento.
+
+La dimensión más importante de cualquier plano o proyecto es la que tiene más posibilidades de que la pasemos por alto.
+
+Si sólo existe una oferta para un determinado proyecto, lo más seguro es que el precio no sea razonable.
+
+Si una instalación de prueba funciona perfectamente, las unidades que produzca no funcionarán en absoluto.
+
+Todas las promesas sobre los plazos de entrega deben multiplicarse por un factor igual a 2,0.
+
+Los cambios importantes de diseño se solicitarán cuando el proceso de fabricación esté a punto de terminar.
+
+Las piezas que no se puedan montar más que en un cierto orden, se podrán intercambiar.
+
+Las piezas intercambiables, por el contrario, demostrarán que no lo son.
+
+Las especificaciones del fabricante sobre el rendimiento se deben multiplicar por un factor igual a 0,5.
+
+Las afirmaciones del personal del Departamento de Ventas sobre el rendimiento se deben multiplicar por un factor igual a 0,25.
+
+Las instrucciones de instalación y funcionamiento que vienen con el aparato, las habrán tirado los del Departamento de Recepción de Mercancías.
+
+La pieza que precise algún ajuste será la menos accesible.
+
+Las condiciones de servicio, tal y como vienen en las instrucciones, se quedarán cortas rápidamente.
+
+Si hay más de una persona a la que se le pueda echar la culpa de un error de cálculo, la culpa no será de nadie.
+
+Aparatos idénticos que han tenido el mismo comportamiento en las pruebas, no se comportarán igual en la práctica.
+
+Si, en la práctica existe un factor de seguridad que ha determinado la experiencia, siempre habrá algún idiota ingenioso que lo sobrepase.
+
+Las cláusulas de garantía expiran al pago de la factura.
+
+
+
+
+
+Axioma de Hansen sobre la biblioteca
+
+La biblioteca más próxima no cuenta con el material que le hace falta.
+
+
+Ley de London sobre la biblioteca
+
+Necesite el libro que necesite, será el último del montón.
+
+
+Corolario de Atwood
+
+Los únicos libros que desaparecen de las bibliotecas son los que usted necesita.
+
+
+Ley de Johnson
+
+Si se le pasa por alto un artículo de una revista, será éste el que explicaba lo que usted tenía más ganas de leer.
+
+
+Corolario
+
+Y sus amigos lo han perdido o lo han tirado.
+
+
+Ley de la revista Harper
+
+No descubrirá que había un artículo interesante hasta que no la haya tirado.
+
+
+Leyes complementarias de Richard sobre la propiedad
+
+Si conserva algo el tiempo suficiente, puede tirarlo.
+
+Si tira cualquier cosa, la necesitará en cuanto no pueda recuperarla.
+
+
+
+
+
+Ley de Gillette sobre las mudanzas
+
+Si se le perdió algo la primera vez que se mudó de casa, lo encontrará en el segundo traslado.
+
+
+Principio de Heisenberg sobre la incertidumbre
+
+La localización de todos los objetos no se puede conocer de forma simultánea.
+
+
+Corolario
+
+Si se encuentra un objeto que estaba perdido, desaparecerá otro.
+
+
+Observación de Oiens
+
+La forma más rápida de encontrar algo es empezar a buscar otra cosa.
+
+
+Ley De Boob
+
+Las cosas siempre se encuentran en el último sitio en que se mira.
+
+
+Ley de Glatum sobre la codicia materialista
+
+La utilidad de cualquier artículo es inversamente proporcional a su utilidad real una vez que se ha pagado y llevado a casa.
+
+
+Ley de Lewis
+
+No importa el tiempo que haya estado buscando un artículo. En cuanto lo haya comprado, lo rebajarán.
+
+
+Primera ley de Perlweig
+
+La gente que menos se puede permitir pagar el alquiler, lo paga.
+
+La gente que más se lo puede permitir, protesta.
+
+
+Leyes sobre la jardinería
+
+Las herramientas ajenas sólo funcionan en los jardines ajenos.
+
+Las herramientas sofisticadas no funcionan.
+
+Si nadie lo usa, por algo será.
+
+Conseguirá las mejores prestaciones de lo que menos necesite.
+
+
+
+
+
+Máxima monetaria de Murphy
+
+La inflación nunca lo va a tener tan bien ni a colaborar con tanta rapidez como en la actualidad.
+
+
+Ley de McLaughry del aparcamiento
+
+Cuando vaya andado, habrá montones de huecos para dejar el coche.
+
+Cuando vaya en coche, no habrá ni uno.
+
+
+Regla de la frustración felina
+
+Cuando el gato se le haya dormido en el regazo y tenga un aspecto plácido y adorable, le entrarán ganas de ir al lavabo.
+
+
+Ley de Gillette sobre la dinámica telefónica
+
+La llamada que lleva horas esperando se produce en cuanto llega usted al portal.
+
+
+Fenómenos telefónicos de Frank
+
+Si tiene lápiz, no tiene papel.
+
+Si tiene papel, no tiene lápiz.
+
+Si tiene las dos cosas, nadie le deja un recado.
+
+
+
+
+
+Ley de Wolter
+
+Si tiene tiempo, no tendrá dinero. Si tiene dinero, no tendrá tiempo.
+
+
+Ley de Park sobre primas de seguros e impuestos
+
+Todo lo que sube, permanece arriba.
+
+
+Primera ley sobre la dinámica del dinero
+
+Un ingreso imprevisto viene acompañado de un gasto inesperado por la misma cantidad.
+
+
+Ley de Heid sobre las colas
+
+Llegue a la hora que llegue, siempre habrá más gente en la cola.
+
+
+Ley de Johnson y Laird
+
+Los dolores de muelas empiezan siempre los viernes por la noche.
+
+
+Corolario
+
+Si usted es el jefe, los dolores de muelas de sus empleados empiezan siempre los lunes por la mañana.
+
+
+Ley de Parson sobre los pasaportes
+
+Nadie es tan feo como en la foto del pasaporte.
+
+
+
+
+
+MURPHYOLOGÍA AVANZADA
+
+
+
+Ley de Murphy
+
+Si algo tiene que salir mal, saldrá mal.
+
+
+Síntesis de Schnatterly sobre los corolarios
+
+Si algo no puede salir mal, saldrá mal.
+
+
+Paradoja de Siverman
+
+Si la Ley de Murphy tiene que salir mal, saldrá mal.
+
+
+Extensión de la Ley De Murphy
+
+Si una serie de sucesos puede salir mal, saldrá mal en la peor secuencia posible.
+
+
+Corolario de Farndick del quinto corolario
+
+Después de que las cosas hayan ido de mal en peor, el ciclo se repetirá.
+
+
+Extensión de Gattuso de la Ley de Murphy
+
+Nada es tan malo nunca como para qué no pueda empeorar.
+
+
+Ley de Lynch
+
+Cuando la pelea es dura, todos abandonan.
+
+
+Comentario de Nagler respecto al origen de la Ley de Murphy
+
+La Ley de Murphy no fue enunciada por Murphy, sino por otro que se llamaba igual.
+
+
+Corolario de Kohn a la Ley de Murphy
+
+Dos errores son sólo el principio.
+
+
+Corolario de McDonald a la Ley de Murphy
+
+En cualquier conjunto dado de circunstancias, el curso apropiado de acción lo determinan los acontecimientos posteriores.
+
+
+Ley de Murphy sobre el gobierno
+
+Si algo puede ir mal, lo hará por triplicado.
+
+
+Ley de Maahs
+
+Las cosas salen bien para después poder ir mal.
+
+
+Anexo a la Ley de Murphy
+
+En términos matemáticos precisos, 1 + 1 = 2, donde el símbolo «=» significa «rara vez, si acaso».
+
+
+Principio de Murphy sobre la incertidumbre
+
+Sólo se dará cuenta de que algo ha fallado cuando cometa un número impar de equivocaciones.
+
+
+Ley de Tussman
+
+Nada es tan inevitable como un error al que le ha llegado su momento.
+
+
+Ley de Gualtieri sobre la inercia
+
+Donde hay un quiero, siempre hay un no puedo.
+
+
+Regla de Fahnstock sobre el fracaso
+
+Si no atina a la primera, destruya todas las evidencias de que lo ha intentado.
+
+
+Comentario de Kaiser sobre Zymurgy
+
+Nunca abra una lata de gusanos, a menos que haya pensado ir de pesca.
+
+
+Ley de Evans y Bjorn
+
+No importa qué es lo que va mal, siempre hay alguien que ya lo sabía.
+
+
+Principio de Benedict (antes, noveno colorario de Murphy)
+
+La Naturaleza siempre se pone de parte de la imperfección oculta.
+
+
+Ley de la revelación
+
+La imperfección oculta nunca permanece oculta.
+
+
+Leyes de Langsam
+
+Todo depende.
+
+Nada es eterno.
+
+Todo pasa algunas veces.
+
+
+
+
+
+Ley de Hellrung
+
+Si usted espera, desaparecerá.
+
+
+Extensión de Shavelson
+
+Pero sólo después de causarle más perjuicios.
+
+
+Anexo de Grelb
+
+Si fue malo, volverá.
+
+
+Cita equivocada de Grossman sobre H. L. Mencken
+
+Los problemas complejos tienen soluciones erróneas sencillas y fáciles de entender.
+
+
+Precepto de Ducharme
+
+La oportunidad siempre se presenta en el momento más inoportuno.
+
+
+Ley de Flugg
+
+Cuando se necesita tocar madera es cuando nos damos cuenta de que el mundo está compuesto de aluminio y vinilo.
+
+
+Primer postulado del Isomurphysmo
+
+Las cosas que no son iguales a otras, son iguales entre sí.
+
+
+Ley de Imbesi sobre la conservación de la suciedad
+
+Para limpiar algo, hay que ensuciar otra cosa.
+
+
+Extensión de Freeman
+
+Pero se puede ensuciar todo sin limpiar nada.
+
+
+Ley avanzada de la búsqueda
+
+El primer sitio donde se debe empezar a buscar algo, es en el ultimo donde se esperaría encontrarlo.
+
+
+Ley de Maryann
+
+Siempre se encuentra lo que no se busca.
+
+
+Regla de Rune
+
+Si no le importa dónde está, es que no se le ha perdido.
+
+
+Afirmación de Coit y Murphy sobre el poder del pensamiento negativo
+
+Es imposible que un optimista se sorprenda agradablemente.
+
+
+Precepto de Ferguson
+
+Una crisis consiste en no poder decir: «olvidemos este tema».
+
+
+Ley inaplicable
+
+Lavar el coche para que llueva no suele dar resultado.
+
+
+Gracia salvadora de Murphy
+
+Lo peor es enemigo de lo malo.
+
+
+Acertijo cardinal
+
+Un optimista cree que vivimos en el mejor de los mundos.
+
+Un pesimista teme que eso sea verdad.
+
+
+Ley de Naeser
+
+Puede hacer algo a prueba de tontos, pero no puede hacerlo a prueba de ese maldito tonto.
+
+
+Ley de Dude sobre la dualidad
+
+De dos acontecimientos posibles, sólo ocurrirá el no deseado.
+
+
+Ley de Hane
+
+No existen límites para que las cosas vayan mal.
+
+
+Ley de Perrussel
+
+No hay tarea tan simple que no se pueda hacer mal.
+
+
+Comentario de Mae West
+
+Errar es humano, pero sienta divino.
+
+
+Ley de Thine
+
+La Naturaleza abomina de la gente.
+
+
+Ley de Borkowski
+
+No nos podemos defender de lo arbitrario.
+
+
+Leyes de Lackland
+
+Nunca sea el primero.
+
+Nunca sea el último.
+
+Nunca se presente voluntario para nada.
+
+
+
+
+
+Ley de Higdon
+
+El buen juicio proviene de las malas experiencias. Las experiencias provienen del mal juicio.
+
+
+Principio de Parouzzi
+
+Dado un mal comienzo, los problemas se incrementarán en proporción exponencial.
+
+
+El factor Chi
+
+Cantidad = 1/calidad; o la cantidad es inversamente proporcional a la calidad.
+
+
+Ley de Ken
+
+Una partícula que se desplaza, buscará el ojo más próximo.
+
+
+Ley de Schopenhauer sobre la entropía
+
+Si se añade una cucharada de vino a un barril lleno de deshechos, se obtienen deshechos.
+
+Si se añade una cucharada de deshechos a un barril lleno de vino, se obtienen deshechos.
+
+
+Ley de Allen
+
+Casi siempre es más fácil entrar que salir.
+
+
+Ley de Frothingham
+
+La urgencia es algo inversamente proporcional a su importancia.
+
+
+Principio de Rockefeller
+
+Nunca haga nada que sólo le gustaría que le vieran haciéndolo una vez muerto.
+
+
+Ley de Young sobre la movilidad inanimada
+
+Todos los objetos inanimados, pueden moverse lo suficiente como para estorbar.
+
+
+
+
+
+BUROCRACIA, JERARQUEOLOGÍA Y COMITEOLOGÍA
+
+
+
+Principio de la burocracia
+
+Sólo la burocracia puede combatir a la burocracia.
+
+
+Fox sobre la burocracia
+
+Una burocracia puede esperar más que cualquier otra cosa.
+
+
+Corolario
+
+Nunca se deje atrapar entre dos burocracias.
+
+
+Ley de Young
+
+La madera muerta es la que sostiene al árbol.
+
+
+Corolario
+
+Que esté en pie, no significa que no esté muerto.
+
+
+Principio de Hoffstedt sobre el empleo
+
+La confusión crea empleo.
+
+
+Ley de Soper
+
+Cualquier burocracia que se reorganiza para incrementar la eficiencia, inmediatamente se hace indistinguible de su predecesora.
+
+
+Máxima de McKerman
+
+Los que no son capaces de aprender de las reuniones anteriores, están condenados a repetirlas.
+
+
+Teoría de Owen sobre la desviación organizativa
+
+Toda organización tiene asignado un cierto número de plazas para que las ocupen personas no cualificadas.
+
+
+Corolario
+
+Cuando una de esas personas no cualificadas deja el puesto, se contrata a otra.
+
+
+Teoría de Goia
+
+La persona menos cualificada es la que da más opiniones.
+
+
+Observación sobre la dirección
+
+La ineficacia y la estupidez del personal corresponde a la ineficacia y estupidez de los directivos.
+
+
+Axioma de Ainger
+
+No importa lo bien que desempeñe su trabajo, un superior siempre le querrá modificar los resultados.
+
+
+Ley de Amand sobre dirección
+
+Todo el mundo está siempre en otro sitio.
+
+
+El peligro del genio
+
+Cualquier jefe despedirá a un empleado que siempre tenga razón.
+
+
+Lema de Lippman
+
+La gente se especializa siempre en el campo que menos conoce.
+
+
+Fox sobre niveología
+
+Lo que hará que le asciendan un nivel, le matará en otro.
+
+
+Ley de Courtois
+
+Si la gente se escuchara a sí misma más a menudo, hablaría menos.
+
+
+Ley de Hutchins
+
+No se puede hablar más que un hombre que no sabe de lo que está hablando.
+
+
+Cosas en las que se puede confiar en una crisis
+
+Marketing dice que sí.
+
+Finanzas dice que no.
+
+El Departamento Legal tiene que revisarlo.
+
+El Departamento de Personal está preocupado.
+
+El Departamento de Planificación está frenético.
+
+Ingeniería pasa de todo.
+
+Fabricación quiere más espacio.
+
+Dirección quiere responsabilizar a alguien.
+
+
+
+
+
+Ley de Fahnstock sobre el debate
+
+Todo tema que merezca la pena debatir, merece la pena evitarlo por completo.
+
+
+Ley de Hartz sobre la retórica
+
+Cualquier discusión que se prolongue lo suficiente, terminará en semántica.
+
+
+Regla de Kim sobre los comités
+
+Si se ha dedicado una hora a modificar una frase, alguien propondrá eliminar el párrafo.
+
+
+Undécimo mandamiento
+
+No comitirás.
+
+
+Leyes de Mitchell sobre la comiteología
+
+Cualquier problema sencillo se puede convertir en insoluble si se celebran suficientes reuniones para discutirlo.
+
+Una vez que se presente al comité la forma de echar a perder el proyecto, será aceptada invariablemente como la solución más acertada.
+
+Después de que esa solución haya hecho fracasar el proyecto, todos los que la apoyaron inicialmente dirán: «¡Ojalá hubiera expresado entonces mis dudas!».
+
+
+
+
+
+Comentario de Kennedy sobre los comités
+
+Un comité lo constituyen doce hombres haciendo el trabajo de uno.
+
+
+Comentario de Kirby sobre los comités
+
+Un comité es la única forma de vida que tiene doce estómagos, pero carece de cerebro.
+
+
+Ley de Sweeney
+
+La longitud de un informe de mejoras es inversamente proporcional a la cantidad de mejoras que produce.
+
+
+Ley de Morris sobre las conferencias
+
+El informe más interesante se leerá a la vez que el segundo informe más interesante.
+
+
+Principio de Collins sobre las conferencias
+
+El orador con voz más monótona siempre habla después de comer.
+
+
+Ley de la dinámica de los comités
+
+Todos los que más se oponen a formar parte de un comité, son elegidos presidentes.
+
+
+Ley de Matilda sobre la formación de un subcomité
+
+Si abandona la sala, saldrá elegido.
+
+
+Ley de Jacobson
+
+Cuanto menos trabajo tiene una organización, con más frecuencia se reorganiza.
+
+
+
+
+
+JERARQUEOLOGÍA Y COMITEOLOGÍA
+
+
+
+Postulado de Perkin
+
+Cuanto más grandes son, más daño hacen.
+
+
+Postulado de Harrison
+
+Para cualquier acción, existe una crítica igual y antagónica.
+
+
+Regla de Roger
+
+Se concederá autorización para un proyecto únicamente cuando ninguno de los que lo autorizan pueda ser culpado si el proyecto fracasa, pero todos se lo puedan atribuir si resulta un éxito.
+
+
+Hipótesis de Mollison sobre la burocracia
+
+Si una idea puede superar una inspección burocrática y ponerse en práctica, es que no valía la pena.
+
+
+Ley de Conway
+
+En una organización, siempre hay una persona que sabe qué es lo que se cuece. Hay que despedirla inmediatamente.
+
+
+Ley de Stewart sobre la retroactividad
+
+Es más fácil ser perdonado que conseguir permiso para hacer algo.
+
+
+Teorema de Bachman sobre la inestabilidad
+
+Cuanto mayor sea el coste para poner en práctica un plan, menor probabilidad existe de que se abandone, aunque posteriormente se demuestre que no era conveniente.
+
+
+Corolario
+
+Cuanto más alto sea el nivel de prestigio que un plan proporcionará a las personas que lo han ideado, menor será la posibilidad de abandonarlo.
+
+
+Teoría de Loftus sobre la contratación de personal
+
+El talento que llega de fuera, siempre parece mejor que el que ha crecido en casa.
+
+La contratación de personal constituye un triunfo de la esperanza sobre la experiencia.
+
+
+
+
+
+Ley de Loftus sobre la dirección de empresa
+
+Algunos dirigen una empresa según un libro, aunque no sepan quién lo escribió ni lo que dice.
+
+
+Primera regla de inferioridad superior
+
+No permita que sus superiores se den cuenta de que usted es superior a ellos.
+
+
+Ley de Whistler
+
+Nunca se sabe quién tiene razón, pero siempre se sabe quién manda.
+
+
+Leyes de Spencer sobre los datos
+
+Cualquiera puede tomar una decisión si se le proporcionan datos suficientes.
+
+Un buen gerente puede tomar una decisión sin datos suficientes.
+
+Un gerente perfecto puede trabajar en la más perfecta ignorancia.
+
+
+
+
+
+Regla de Gottlieb
+
+El jefe que pretenda impresionar a su personal con sus conocimientos sobre detalles complicados es que ha perdido de vista el objetivo final.
+
+
+Ley de Drew sobre las prácticas profesionales
+
+El cliente que paga menos es el que más se queja.
+
+
+Primera ley de la anticipación negativa
+
+Se evitará muchas preocupaciones innecesarias si no quema sus puentes hasta que haya llegado a ellos.
+
+
+Ley de Cohn
+
+En cualquier burocracia, el trabajo de oficina aumentará a medida que usted pase cada vez más tiempo redactando informes sobre lo poco que hace. La estabilidad se alcanzará sólo cuando usted se pase todo el tiempo redactando informes sobre lo que, en absoluto, está haciendo.
+
+
+Ley de McDonald
+
+Los auditores son unos místicos que le piden un número a la empresa y luego se lo devuelven.
+
+
+Ley de Dingle
+
+Cuando a alguien se le cae una cosa al suelo, todo el mundo la pisa en vez de recogerla.
+
+
+Ley de Kusher
+
+Las probabilidades de que alguien haga algo son inversamente proporcionales al número de personas que pueden hacerlo en su lugar.
+
+
+Principio de Pfeifer
+
+Nunca tome una decisión si puede lograr que la tome otro en su lugar.
+
+
+Corolario
+
+Nadie lleva un registro de las decisiones que usted pudo haber tomado, pero se evitaron. Todo el mundo lleva un registro de las que tomó y resultaron un desastre.
+
+
+Ley de Thal
+
+Por cada visión existe una revisión igual, pero antagónica.
+
+
+Ley de Joe
+
+El contacto interno que usted ha logrado con tantos esfuerzos es la primera persona de la que se prescinde en cualquier reorganización.
+
+
+Ley de McDonald
+
+Es difícil que le cambien de departamento cuando, en realidad, sobra.
+
+
+Ley de la dispersión probable
+
+Cualquier cosa que choque contra el ventilador no se distribuirá uniformemente.
+
+
+Principio de Luposchainski de dése prisa y espere
+
+Si llega pronto, lo suspenderán.
+
+Si se esfuerza demasiado por llegar a tiempo, tendrá que esperar.
+
+Si llega con retraso, será demasiado tarde.
+
+
+
+
+
+Axioma de Gourd
+
+Una reunión es una situación en la que se levantan actas y se pierden horas.
+
+
+Primera ley de las reuniones de negocios
+
+La rotura de la punta del lápiz es directamente proporcional a la importancia de las notas que haya que tomar.
+
+
+Segunda ley de las reuniones de negocios
+
+Si hay dos maneras de pronunciar el nombre de una persona, usted lo pronunciará de la que no es.
+
+
+Ley de Wellington sobre la autoridad
+
+La crema sube a la superficie.
+
+La mierda, también.
+
+
+Ley de Heller
+
+El primer mito sobre la dirección de empresas es que ésta existe.
+
+
+Corolario de Johnson
+
+En realidad, nadie sabe qué es lo que pasa en una empresa.
+
+
+Principio de Peter
+
+En cualquier jerarquía, todo empleado tiende a incrementar su nivel de incompetencia.
+
+
+Corolarios
+
+Con el tiempo, todos los puestos tienden a que los ocupe un empleado incompetente.
+
+El trabajo lo realiza un empleado que todavía no ha alcanzado el nivel ideal de incompetencia.
+
+
+
+
+
+Inversión de Peter
+
+La coherencia interna se valora más que un trabajo eficaz.
+
+
+Postulado oculto de Peter según Godin
+
+Todos los empleados empiezan a trabajar a su nivel de competencia.
+
+
+Observación de Peter
+
+La supercompetencia es peor que la incompetencia.
+
+
+Ley de Peter sobre la evolución
+
+La competencia siempre oculta la semilla de la incompetencia.
+
+
+Regla de Peter sobre la incompetencia creativa
+
+Cree la impresión de que ya ha alcanzado su nivel de incompetencia.
+
+
+Teorema de Peter
+
+Incompetencia + Incompetencia = Incompetencia.
+
+
+Ley de Peter sobre la sustitución
+
+Cuide las toperas, las montañas se cuidarán solas.
+
+
+Pronóstico de Peter
+
+Si confirmar que algo es necesario le lleva el tiempo suficiente, la necesidad desaparecerá.
+
+
+Placebo de Peter
+
+Un gramo de imagen equivale a un kilo de rendimiento.
+
+
+Ley de Godin
+
+La generalización de la incompetencia es directamente proporcional a lo elevado de la jerarquía.
+
+
+Regla de Freeman
+
+Las circunstancias pueden forzar a un incompetente a que sea competente, por lo menos, en un campo especializado.
+
+
+Axioma de Vail
+
+En cualquier empresa humana, el trabajo busca el nivel jerárquico inferior.
+
+
+Ley de Imhoff
+
+La organización de cualquier burocracia se parece mucho a un tanque séptico. Los trozos más grandes, siempre suben a la superficie.
+
+
+Primera ley de Parkinson
+
+Cualquier trabajo se expande hasta agotar el tiempo destinado a que se haga. El incremento de la importancia de lo que hay que hacer es directamente proporcional al tiempo que se tarda en hacerlo.
+
+
+Segunda ley de Parkinson
+
+Los gastos aumentan hasta cubrir los ingresos.
+
+
+Tercera ley de Parkinson
+
+Expansión implica complejidad y la complejidad deterioro.
+
+
+Cuarta ley de Parkinson
+
+El número de personas que integran un grupo de trabajo tiende a aumentar independientemente del trabajo que haya que realizar.
+
+
+Quinta ley de Parkinson
+
+Si existe una manera de retrasar una decisión importante, una burocracia eficaz, pública o privada, la encontrará.
+
+
+Ley de Parkinson sobre el retraso
+
+El retraso es la peor forma de negación.
+
+
+Axiomas de Parkinson
+
+Un funcionario quiere multiplicar el número de sus subordinados, no el de sus rivales.
+
+Los funcionarios se ayudan a la hora de hacer el trabajo.
+
+
+
+
+
+Ley de hierro sociológica de la oligarquía
+
+En cualquier actividad organizada, sea el campo que sea, un pequeño número de personas se convertirán en líderes oligarcas y el resto, en seguidores.
+
+
+Ley de Cornuelle
+
+La autoridad tiende a asignar tareas a los menos capaces de realizarlas.
+
+
+Ley de Oeser
+
+La persona que se encuentra en el puesto más elevado de una organización tiende a pasarse el tiempo en reuniones de comités o firmando cartas.
+
+
+Ley de Zymurgy sobre el trabajo voluntario
+
+La gente siempre está dispuesta a trabajar en tiempo pasado.
+
+
+Ley de Quile sobre la consulta
+
+Le ofrecerán un trabajo con salario más elevado cuando no tenga tiempo para hacerlo.
+
+
+Axioma del Salario
+
+El aumento de salario es suficiente para pagar más impuestos, pero no para incrementar la cantidad que se lleva a casa a finales de mes.
+
+
+Primera ley de los artistas freelance
+
+Los encargos urgentísimos, pero muy bien pagados, sólo llegan cuando usted ha aceptado un encargo urgentísimo, pero mal pagado.
+
+
+Segunda ley de los artistas freelance
+
+Tendrá que entregar el mismo día todos los trabajos urgentísimos.
+
+
+Tercera ley de los artistas freelance
+
+El trabajo urgentísimo con el que pasó la noche trabajando, no lo necesitan hasta pasado mañana.
+
+
+Observación de Murphy sobre los negocios
+
+Lo más difícil de los negocios es que te preocupen.
+
+
+Las diez reglas de Spark para el director de proyectos
+
+Esfuércese por tener siempre un aspecto tremendamente importante.
+
+Intente que le vean con gente importante.
+
+Hable con autoridad, pero sólo de hechos evidentes y comprobados.
+
+No entre en discusiones. Pero, si le acorralan, haga una pregunta intranscendente y eche el cuerpo hacia atrás con una sonrisa satisfecha. Cuando su oponente intente entender que es lo que pasa, aproveche para cambiar de tema.
+
+Escuche absorto como los demás discuten el problema. Ataque a un asunto trivial y apabulle a los otros.
+
+Si un subordinado le hace una pregunta inoportuna, mírele como si se hubiera vuelto loco. Cuando mire al suelo, diríjale a él la misma pregunta con otras palabras.
+
+Consiga un encargo importante, pero no se convierta en el centro de atención.
+
+Cuando salga de la oficina, camine con rapidez. Esto reduce al mínimo las posibilidades de preguntas de los subordinados y superiores.
+
+Mantenga cerrada siempre la puerta de su despacho. Esto hará que sus visitantes se pongan a la defensiva o piensen que usted está en una reunión importante.
+
+Dé siempre verbalmente todas las órdenes, que no queden pruebas escritas.
+
+
+
+
+
+Dilema del trabajador
+
+Haga lo que haga, nunca será suficiente.
+
+Lo que no haga, siempre será más importante que lo que haga.
+
+
+
+
+
+Ley de comunicaciones
+
+El inevitable resultado de la mejor y más amplia comunicación ente los distintos niveles jerárquicos es una zona cada vez más vasta de falta de entendimiento.
+
+
+Ley de Dow
+
+En una organización jerárquica, a medida que se asciende de nivel aumenta la confusión.
+
+
+Ley de Bunuel
+
+Siempre es peligroso hacer las cosas excesivamente bien, incluso cuando se alcanza la eficiencia.
+
+
+Axiomas del director
+
+Piense antes de actuar: ese dinero no es suyo.
+
+La buena dirección es la expresión de una buena idea.
+
+Ningún ejecutivo dedica ningún esfuerzo a comprobar que se ha equivocado.
+
+Si para justificar una acción necesita cálculos muy complicados, no la emprenda.
+
+
+
+
+
+Ley de Jay
+
+Para los directivos, cambiar las cosas es fundamental, y cambiarlas antes que otras personas es el colmo de la creatividad.
+
+
+Máxima de Match
+
+Un tonto en una posición elevada es como un hombre en la cima de una montaña. Al segundo, todo le parece pequeño y él le parece pequeño a todo el mundo.
+
+
+Ley de hierro de la distribución
+
+El que tiene, consigue.
+
+
+Leyes de Mencken
+
+El que puede, lo hace.
+
+El que no puede, se dedica a la enseñanza.
+
+
+Extensión de Martin
+
+Los que no pueden dedicarse a la enseñanza, son funcionarios.
+
+
+Axioma del ejército
+
+Toda orden que se pueda malinterpretar es que ya se ha malinterpretado antes.
+
+
+Ley de Jones
+
+El hombre capaz de sonreír cuando las cosas van mal, ya ha pensado a quien le echará la culpa.
+
+
+Ley de socioeconomía
+
+En un sistema jerárquico, el aumento de la retribución por un trabajo dado es inversamente proporcional a la dificultad del mismo y lo desagradable que sea.
+
+
+Lamento de Harris
+
+Los buenos puestos de trabajo ya están ocupados.
+
+
+Ley de Putt
+
+El mundo de la tecnología está dominado por dos tipos de personas:
+
+Los que entienden lo que no dirigen.
+
+Los que dirigen lo que no entienden.
+
+
+
+
+
+COMITEOLOGÍA
+
+
+
+Ley de Old y Kahn
+
+La eficiencia de un comité es inversamente proporcional al número de participantes que haya y al tiempo que se invierta en las deliberaciones.
+
+
+Ley de Shanahan
+
+La duración de una reunión es directamente proporcional al número de participantes.
+
+
+Ley de la trivialidad
+
+El tiempo dedicado a discutir cualquier punto del orden del día es inversamente proporcional a la suma implicada.
+
+
+Leyes de Issawi sobre la comiteodinámica
+
+Comitas comitatum, omnia comitas.
+
+Cuanto menos le guste participar en comités, más probable es que le insistan en que su presencia es indispensable.
+
+
+
+
+
+Ley de Hendrickson
+
+Si a causa de un problema se convocan muchas reuniones, las reuniones llegarán a ser más importantes que el problema.
+
+
+Ley de Lord Falkland
+
+Cuando no es necesario tomar una decisión, es necesario no tomarla.
+
+
+Ley de Fairfax
+
+Cualquier argumento que se esgrima en la discusión y dé los resultados apetecidos, es congruente.
+
+
+Regla de McNaughton
+
+En un sistema burocrático, cualquier discusión que merezca la pena emprender, se debe poder expresar con una frase simple que se convertirá en verdad evidente una vez que se haya pronunciado.
+
+
+Ley de Truman
+
+Si no puede convencerlos, confúndalos.
+
+
+Primera ley del debate
+
+No discuta nunca con un tonto. Puede que la gente no aprecie la diferencia.
+
+
+Leyes de la indecisión
+
+La indecisión acorta la tarea y traslada a otra persona (el jefe que puso la fecha límite) la responsabilidad de que se concluya.
+
+Reduce la ansiedad, ya que disminuye la calidad esperada del proyecto por tener que hacerlo en tan poco tiempo.
+
+Se gana prestigio ante los demás, y ante uno mismo, ya que se supone que la importancia del trabajo justifica la tensión nerviosa.
+
+Generalmente, también se puede conseguir evitar las interrupciones (por ejemplo, que le asignen nuevas tareas) para que el trabajador, evidentemente, agobiado se pueda concentrar en lo que está haciendo.
+
+La indecisión evita el aburrimiento. Nunca se tiene la sensación de que no hay nada importante que hacer.
+
+Se puede eliminar la tarea, en el caso de que deje de hacer falta antes de que esté concluida.
+
+
+
+
+
+Ley de Swipple sobre el orden
+
+El que grita más, tiene la palabra.
+
+
+Leyes de Boren
+
+Cuando tenga dudas, hable entre dientes.
+
+Cuando tenga problemas, delegue.
+
+Cuando sea el jefe, medite.
+
+
+
+
+
+Ley de Patton
+
+Un buen plan es mejor hoy que un plan perfecto mañana.
+
+
+
+
+
+ARTE DE DIRIGIR Y ECONOMURPHYOLOGÍA
+
+
+
+Ley de Lieberman
+
+Todo el mundo miente pero no importa, porque nadie escucha.
+
+
+Ley de la mentira
+
+No importa la frecuencia con que se demuestre que una mentira es falsa. Siempre habrá algunas personas que crean que es verdad.
+
+
+Ley de la salchicha
+
+Hay personas a quienes les gustan las salchichas y respetan las leyes y es debido a que no han visto como se elaboran ninguna de las dos cosas.
+
+
+Ley de la acción legislativa
+
+El tiempo necesario para que el Parlamento apruebe una ley es inversamente proporcional al número de grupos que la apoyan.
+
+
+Los dos principios políticos de Todd
+
+Le digan lo que le digan, no es toda la verdad.
+
+Hablen de lo que hablen, hablan de dinero.
+
+
+
+
+
+Ley de Kamin
+
+Si intenta predecir y pronosticar los movimientos macroeconómicos de la legislación económica con la ayuda de un político, no deje que le despiste lo que dice; fíjese en lo que hace.
+
+
+Principio de Watergate
+
+Siempre que se informa sobre la corrupción del Gobierno, se hace en tiempo pasado.
+
+
+Ley de Alinski para radicales
+
+Los más moralistas son los más alejados del problema.
+
+
+Ley de Lee
+
+En cualquier trato con un colectivo, la gente siempre será más hortera de lo que, en un principio, se esperaba.
+
+
+Ley de Evans
+
+Si consigue mantener la calma cuando todo el mundo pierde la cabeza, entonces es que no se entera del problema.
+
+
+Regla de defactualización
+
+En las burocracias, la información se deteriora en sentido ascendente.
+
+
+Ley de Rusk sobre la delegación
+
+Cuando se exagera la importancia de delegar, la responsabilidad, al igual que los posos, se va al fondo.
+
+
+Ley de las pirañas
+
+Cuando los gastos escandalosos se dividen en porciones pequeñas, el público no tendrá intereses suficientes en ninguno de los capítulos como para reclamar.
+
+
+Corolario
+
+Un número suficiente de pirañas se puede comer el erario público.
+
+
+Regla de Good para relacionarse con burocracias
+
+Cuando las soluciones de un departamento de Gobierno no se ajusten a su problema, usted modifica el problema, no la solución.
+
+
+Ley de Mark sobre las compensaciones monetarias
+
+Su dinero y un tonto se harán enseguida socios.
+
+
+Principio de Heisenberg sobre la inversión
+
+Se puede saber hacia dónde se dirige el mercado, pero lo que no hay forma de saber es qué dirección tomará después de invertir.
+
+
+Teoría de Jeff sobre la Bolsa
+
+La variación del precio de un paquete de acciones es inversamente proporcional al número de acciones que lo componen.
+
+
+Observación de Horngren
+
+Entre los economistas, con frecuencia, el mundo real es un caso especial.
+
+
+Leyes de Spencer sobre contabilidad
+
+Balances de comprobación, no.
+
+Capital en movimiento, no.
+
+La liquidez tiende a escurrirse.
+
+Las utilidades sobre inversiones no existirán.
+
+
+
+
+
+Leyes de Price
+
+Si nadie lo quiere, nadie lo adquiere.
+
+Al hombre masa se le debe atender con medios masa.
+
+Todo es contagioso.
+
+
+
+
+
+Ley de O’Brien
+
+Nunca se hace nada por las razones correctas.
+
+
+Fórmula de Glyme del éxito
+
+El secreto del éxito es la sinceridad. En cuanto pueda fingirla, lo habrá conseguido.
+
+
+Regla de Helga
+
+Diga no y luego negocie.
+
+
+Reglas de Brown del liderazgo
+
+Para tener éxito en política, a veces tendrá que pasar sobre sus principios.
+
+La mejor manera de tener éxito en política es encontrar una multitud que se dirija a alguna parte y colocarse al frente de ella.
+
+
+
+
+
+Regla de la ley
+
+Si los hechos están en su contra, invoque a la ley.
+
+
+Si la ley está en su contra, insista en los hechos.
+
+Si los hechos y la ley están en su contra, grite como un poseso.
+
+
+Ley de Miles
+
+Su posición depende de donde se siente.
+
+
+Extensión de Fibley a la ley de miles
+
+El lugar donde se siente depende de a quién conozca.
+
+
+Fox sobre el poder
+
+La prepotencia es, con demasiada frecuencia, la compañera de la excelencia.
+
+
+Ley de Walton sobre la política
+
+Un tonto y su dinero se eligen pronto.
+
+
+Regla de la política
+
+Cuando un político tiene una idea, generalmente está equivocado.
+
+
+Ley de Wilkie
+
+Un buen lema político puede paralizar el análisis durante cincuenta años.
+
+
+Regla de Sherman sobre las conferencias de prensa
+
+La explicación de un desastre la dará un sustituto.
+
+
+Ley de Roche
+
+Toda cruzada americana termina por convertirse en un timo.
+
+
+Ley de Miller
+
+Las excepciones confirman la regla… y hunden el presupuesto.
+
+
+Ley de Buckwald
+
+A medida que la economía mejora, todo lo demás empeora.
+
+
+Ley de Ogden Nash
+
+Quizás el progreso haya sido bueno en cierto momento, pero ha ido demasiado lejos.
+
+
+Ley de Finnigan
+
+Cuanto más lejos esté el futuro, más bonito nos parece.
+
+
+ley de simón sobre el destino
+
+La gloria puede ser efímera, pero la oscuridad es eterna.
+
+
+Teorema de Thompson
+
+Cuando las circunstancias se vuelven extrañas, los extraños se vuelven profesionales.
+
+
+Primera ley de la política
+
+Sea fiel a los que no están en el poder.
+
+
+Ley de los viajes de promoción
+
+La fatiga se acumula de forma unidireccional hacia la máxima dificultad para actuar.
+
+
+Ley de mini-max de Robin sobre el Gobierno
+
+Cualquier mínimo de criterio empleado será el máximo valor usado.
+
+
+Ley de Lowe
+
+El éxito siempre tiene lugar en privado y el fracaso a la luz pública.
+
+
+
+
+
+PERICIOLOGÍA
+
+
+
+Regla de Horowitz
+
+La sabiduría consiste en saber cuándo debe evitar la perfección.
+
+
+Ley de De Nevers sobre la complejidad
+
+Los temas más sencillos son aquéllos de los que no sabe nada.
+
+
+Teorema de Christie-Davis
+
+Si sus datos son falsos, pero su lógica es perfecta, entonces sus conclusiones serán inevitablemente falsas. Por tanto, si comete errores con su lógica, tiene al menos una probabilidad aleatoria de llegar a la conclusión correcta.
+
+
+Ley de McClellan sobre la cognición
+
+Sólo las categorías nuevas escapan al pensamiento estereotipado asociado a las viejas abstracciones.
+
+
+Principio de Hartz sobre la incertidumbre
+
+La ambigüedad es invariable.
+
+
+Ley de De Nevers sobre el debate
+
+Dos monólogos no constituyen un diálogo.
+
+
+Observación de Emerson
+
+En todas las obras de los genios reconocemos los pensamientos que hemos rechazado.
+
+
+Ley de Hiram
+
+Si se consultan suficientes expertos, se puede confirmar cualquier opinión.
+
+
+Ley de Jordan
+
+Un informante que nunca proporciona información equivocada es demasiado anormal como para confiar en él.
+
+
+Ley perdida de De Nevers
+
+Nunca especule sobre aquello que pueda saber con certeza.
+
+
+Ley de Las Vegas
+
+Si piensa que su suerte debe estar a punto de cambiar, no apueste nunca por un perdedor.
+
+
+Ley de Van Roy
+
+Si puede distinguir entre los buenos y los malos consejos es que no necesita consejos.
+
+
+Ley de Howe
+
+Todos tenemos un plan que nunca funcionará.
+
+
+Corolario de Munder a la Ley de Howe
+
+Los que no trabajan tienen un proyecto que sí funciona.
+
+
+Fox sobre el carácter decidido
+
+El carácter decidido no es, en sí mismo, una virtud.
+
+Decidir o no decidir es una decisión. Dejar de decidir es un fracaso.
+
+Una de las razones importantes que justifican la existencia de los ejecutivos es la de hacer excepciones razonables a las normas.
+
+
+
+
+
+Clave del éxito según Ely
+
+Cree una necesidad y satisfágala.
+
+
+Regla de Bralek sobre el éxito
+
+Confíe sólo en aquéllos que perderían tanto como usted si las cosas fueran mal.
+
+
+Regla de oro del arte y las ciencias
+
+Los que tienen el oro hacen las reglas.
+
+
+Regla de Gummidge
+
+La cantidad de conocimientos es inversamente proporcional al número de informaciones que entiende la gente de la calle.
+
+
+Ley de Dunne
+
+La retaguardia de la retórica suele estar minada de errores.
+
+
+Ley de Malek
+
+Cualquier idea simple se puede expresar de la forma más compleja que exista.
+
+
+Precepto de Allison
+
+La manera más sencilla de comprobar sus conocimientos en un determinado campo es la capacidad para ganar dinero en una serie de apuestas sobre futuros sucesos en ese campo.
+
+
+Corolario de Weinberger
+
+Un experto es la persona que evita los errores pequeños mientras sigue su avance inexorable hacia la gran falacia.
+
+
+Ley de Ross
+
+La importancia de una afirmación, no la defina nunca por adelantado.
+
+
+Ley de la salida
+
+Para reafirmar una explicación poco convincente, abandone la sala.
+
+
+Primera ley de Clarke
+
+Cuando un famoso, aunque anciano, científico asegura que algo es posible, suele tener razón. Cuando afirma que algo es imposible, suele estar equivocado.
+
+
+Segunda ley de Clarke
+
+La única forma de descubrir los límites de lo posible es traspasarlos en dirección a lo imposible.
+
+
+Ley de Clarke sobre las ideas revolucionarias
+
+Todo campo revolucionario —ciencia, política, arte o cualquier otro— produce tres formas de reacción. Se pueden resumir en tres frases:
+
+«Es imposible. No me haga perder el tiempo.»
+
+«Es posible, pero no merece la pena.»
+
+«Siempre dije que era una idea magnífica.»
+
+
+
+
+
+Regla de los grandes
+
+Cuando alguien a quien usted admira y respeta parezca ensimismado, pensativo, lo más probable es que esté pensando en la cena.
+
+
+Tercera ley de Clarke
+
+Cualquier tecnología avanzada es indistinguible de la magia.
+
+
+Ley de la superioridad
+
+El primer ejemplar de un principio superior es siempre inferior al ejemplar desarrollado del principio inferior.
+
+
+Ley de Blaauw
+
+La tecnología existente tiende a mantenerse, a pesar de la nueva tecnología.
+
+
+Ley de Cohen
+
+Lo que realmente importa es el nombre que usted asignará a los hechos, no los hechos en sí.
+
+
+Ley de Fitz-Gibbon
+
+La variación de la creatividad es inversamente proporcional al número de cocineros que preparan el caldo.
+
+
+Distinción de Barth
+
+Hay dos clases de personas: las que dividen a las personas en dos tipos y las que no lo hacen.
+
+
+Ley de Runamok
+
+Hay cuatro clases de personas:
+
+Las que se sientan en silencio y no hacen nada.
+
+Las que hablan de sentarse en silencio y no hacer nada.
+
+Las que hacen cosas.
+
+Las que hablan de hacer cosas.
+
+
+
+
+
+Primera ley de Levy
+
+Ninguna dosis de genio puede vencer la preocupación por el detalle.
+
+
+Segunda ley de Levy
+
+Sólo Dios puede hacer una selección aleatoria.
+
+
+Ley de Segal
+
+Un hombre con un reloj sabe qué hora es. Un hombre con dos relojes nunca está seguro.
+
+
+Ley de Miller
+
+No se puede saber la profundidad de un charco hasta que no se ha metido el pie.
+
+
+Ley de Weiler
+
+Nada hay imposible para el hombre si no lo tiene que hacer él mismo.
+
+
+Regla de LaCombe de los porcentajes
+
+La incidencia de cualquier cosa que merezca la pena es de 15-25 por 100 o del 80-90 por 100.
+
+
+Primera ley de Weinberger
+
+Si los constructores edificaran de la misma manera que los programadores elaboran los programas, el primer pájaro carpintero que pasara volando acabaría con la civilización.
+
+
+
+
+
+PERICIOLOGÍA AVANZADA
+
+
+
+Regla de Mars
+
+Un experto es cualquiera que no sea de la ciudad.
+
+
+Definición de Webwer
+
+Un experto es aquel que sabe cada vez más sobre menos cosas, hasta que sabe absolutamente todo sobre nada.
+
+
+Regla de Warren
+
+Si quiere identificar al experto, escoja al que predice que el trabajo durará más tiempo y costará más.
+
+
+Regla de Winger
+
+Si se sienta en su mesa durante quince minutos, usted acaba de convertirse en un experto.
+
+
+Ley de Schroeder
+
+La indecisión es el fundamento de la flexibilidad.
+
+
+Corolario
+
+Cree problemas para los que sólo usted tenga la solución.
+
+
+Máxima de Matz
+
+Una conclusión es el punto en el que usted se cansó de pensar.
+
+
+Regla de Fagin sobre la predicción del pasado
+
+La percepción retrospectiva es una ciencia exacta.
+
+
+Regla fundamental de la Historia
+
+No es que la Historia se repita, es que los historiadores se copian unos a otros.
+
+
+Leyes de Dunlap sobre la física
+
+Un hecho es una opinión consolidada.
+
+Los hechos pueden debilitarse en condiciones extremas de calor y presión
+
+La verdad es elástica.
+
+
+
+
+
+Máxima de Merkin
+
+En caso de duda, anuncie que la tendencia se mantendrá.
+
+
+Solución de Halgren
+
+Cuando tenga problemas, ofúsquese.
+
+
+Teoría de Hawkins sobre el progreso
+
+El progreso no consiste en sustituir una teoría equivocada por otra correcta, sino en sustituir una teoría falsa por otra más sutilmente errónea.
+
+
+Ley de Meyer
+
+Es tarea fácil hacer que las cosas parezcan complejas, pero es complicado hacerlas sencillas.
+
+
+Ley de Hlade
+
+Si tiene una tarea difícil, confíesela a un hombre vago. Él encontrará la forma más fácil de hacerla.
+
+
+Ley de Hunt
+
+Cualquier gran idea tiene una desventaja mayor o igual a la grandeza de la misma.
+
+
+Navaja de Hanlon
+
+No le atribuya nunca a la malicia lo que puede explicar la estupidez.
+
+
+
+
+
+CONTABILIDOLOGÍA
+
+
+
+Falacia de Frothingham
+
+El tiempo es oro.
+
+
+Ley de Crane
+
+No hay comidas gratuitas, tal cosa no existe.
+
+
+Ley de Wiker
+
+El Gobierno se expande hasta absorber los beneficios y todo lo que caiga.
+
+
+Ley de Tucille sobre la realidad
+
+La industria siempre avanza para rellenar un vacío económico.
+
+
+Regla de Westheimer
+
+Cálculo del tiempo que se necesita para llevar a cabo una tarea:
+
+Calcule el tiempo que usted considere necesario.
+
+Multiplíquelo por dos.
+
+Cambie a la unidad de medida inmediatamente superior.
+
+
+
+
+
+Así, le asignaremos dos días a un trabajo de media hora.
+
+
+Ley de Gresham
+
+Los asuntos triviales se solucionan con rapidez. Los asuntos importantes no se resuelven nunca.
+
+
+Ley de Gray sobre la programación
+
+Se espera que se terminen n + 1 tareas triviales en el mismo tiempo en que se concluirían n tareas.
+
+
+Refutación de Logg a la Ley de Gray
+
+Para concluir n + 1 tareas triviales hace falta el doble de tiempo que para n.
+
+
+La regla 90/90 de programación de proyectos
+
+El primer 90 por 100 del trabajo requiere el 10 por 100 del tiempo y el último 10 por 100, el 90 por 100 restante.
+
+
+Regla de Weinberger
+
+El progreso se lleva a cabo un viernes sí y otro no.
+
+
+Principio de los pedidos
+
+Los materiales necesarios para el experimento de ayer no se deben encargar después de mañana al mediodía.
+
+
+Ley de Keops
+
+No hay nada que se termine en los plazos previstos y que no se salga del presupuesto.
+
+
+Extensión del principio de Epstein-Heisenberg
+
+En una órbita R & D, sólo se pueden definir simultáneamente dos de los tres parámetros existentes. Estos parámetros son: la tarea, el tiempo y los recursos ($).
+
+Si se sabe cual es la tarea que se tiene que realizar y hay un tiempo límite para llevarla a cabo, entonces no se puede tener idea de lo que costará.
+
+Si el tiempo y los recursos están claramente definidos, entonces es imposible saber cual es la parte de la tarea que se terminará.
+
+Si la tarea está bien definida y se ha calculado cuidadosamente la cantidad de dinero necesaria para realizarla, entonces no se puede predecir cuando se finalizará, en caso de que se termine.
+
+
+
+
+
+Si se tiene la suerte de que se puedan definir los tres parámetros con exactitud, entonces es que nos hemos salido del mundo real.
+
+
+Ley de Pareto (Ley 20/80)
+
+El 20 por 100 de los clientes justifica el 80 por 100 del volumen de ventas.
+
+El 20 por 100 de los componentes justifica el 80 por 100 del coste, etc.
+
+
+Principio de O’Brien (Teoría de los 357,73$)
+
+Los auditores siempre rechazan cualquier cuenta de gastos cuyo total sea divisible por 5 o por 10.
+
+
+Observación de Issawi sobre el consumo de papel
+
+Todo sistema cuenta con su propia forma de consumir enormes cantidades de papel. En los sistemas socialistas hay que rellenar por cuadruplicado impresos kilométricos. En las sociedades capitalistas se colocan inmensas vallas publicitarias y se envuelve todo con cuatro capas de cartulina.
+
+
+Ley de Brown sobre el éxito en los negocios
+
+El trabajo administrativo de nuestros clientes son beneficios. Nuestro trabajo administrativo son pérdidas.
+
+
+Corolario colateral de John
+
+Para conseguir un crédito, lo primero que tiene que hacer es demostrar que no lo necesita.
+
+
+Ley de Brien
+
+En algún momento de su ciclo vital, virtualmente, en todas las organizaciones, desaparece su capacidad para tener éxito, a pesar de seguir siendo ellas mismas.
+
+
+Ley de las instituciones
+
+La magnificencia de la recepción es inversamente proporcional a la solvencia de la empresa.
+
+
+Ley de Paulg
+
+En EE.UU., lo importante no es lo que cuesta un artículo, sino lo que usted se ahorra.
+
+
+Ley de Juhani
+
+El acuerdo siempre será más costoso que cualquiera de los puntos que se pacten.
+
+
+
+
+
+DISEÑOLOGÍA
+
+
+
+Profecía de Poulsen
+
+Si se usa cualquier cosa hasta su máxima capacidad, se rompe.
+
+
+Ley de Mayne
+
+Nadie nota los errores grandes.
+
+
+Principio de inercia del diseño
+
+Al principio, todos los cambios parecen horribles.
+
+
+Principio de Eng
+
+Cuanto más fácil sea hacerlo, más difícil será cambiarlo.
+
+
+Ley de Robertson
+
+La garantía de calidad no existe.
+
+
+Ley de Wright sobre la calidad
+
+La calidad es inversamente proporcional al tiempo que queda para terminar el proyecto.
+
+
+Ley de la planificación corporativa
+
+Cualquier cosa que se pueda cambiar, se cambiará hasta que no quede tiempo para cambiar nada.
+
+
+Ley de Beach
+
+No hay dos piezas idénticas que se parezcan.
+
+
+Ley de Edwards sobre el esfuerzo/tiempo
+
+Esfuerzo x Tiempo = Constante. Dado un tiempo inicial grande para hacer algo, el esfuerzo inicial será pequeño.
+
+A medida que el tiempo se aproxima a cero, el esfuerzo tiende a infinito.
+
+
+
+
+
+Corolario
+
+Si no fuera por el último minuto, no se haría nada.
+
+
+Ley de Willoughby
+
+Cuando se intenta demostrar a alguien que una máquina no funciona, comienza a funcionar.
+
+
+Ley básica de la construcción
+
+Córtelo grande y encájelo en su sitio a patadas.
+
+
+Ley de Meissner
+
+Cualquier entidad productora es la última en utilizar su propio producto.
+
+
+Teoría de McPherson sobre la Entropía
+
+Se requiere menos energía para sacar un objeto de su sitio que para volverlo a colocar.
+
+
+Ley especial
+
+La mesa de trabajo siempre está más desordenada que ayer.
+
+
+Ley general
+
+El caos del universo siempre se incrementa.
+
+
+Primera ley de Schrank
+
+Si no funciona, amplíelo.
+
+
+Corolario
+
+Cuanto mayor sea el tamaño, menos se notará que no funciona.
+
+
+Postulado de Bitton sobre la Electrónica
+
+Si lo entiende, es que se ha quedado antiguo.
+
+
+Leyes de Manubay para los programadores
+
+Si funciona la modificación de un programador a un programa ya existente, es probable que no sea lo que quieren los usuarios.
+
+Los usuarios no saben realmente lo que quieren, pero saben con certeza lo que no quieren.
+
+
+
+
+
+Axioma de Jose
+
+No hay nada tan temporal como lo que se denomina permanente.
+
+
+Corolario
+
+No hay nada tan permanente como lo que se denomina temporal.
+
+
+Ley de Washlesky
+
+Es más fácil desarmar cualquier cosa que montarla.
+
+
+Regla de Rudnicki
+
+Lo que no se puede desarmar, se caerá en pedazos.
+
+
+Ley de Rap sobre la reproducción inanimada
+
+Si usted desarma una cosa, la vuelve a montar y repite el proceso varias veces, al final tendrá dos cosas.
+
+
+Ley de Osborn
+
+Las variables no lo serán; las constantes no lo son.
+
+
+Ley de Klipstein sobre las especificaciones
+
+En este caso, la Ley de Murphy sustituye a la de Ohm.
+
+
+Primera ley de las revisiones
+
+Al diseñador se le notificará que es necesario modificar el diseño después —y sólo después— de que haya terminado los planos. (A menudo, es denominada como la Ley de «¡Y nos lo dicen ahora!».)
+
+
+Corolario
+
+En ciertos casos en los que se advierte que hay una forma correcta evidente y una errónea, se aconseja elegir la equivocada para acelerar la revisión posterior.
+
+
+Segunda ley de las revisiones
+
+Cuanto más inofensiva parezca una modificación, más influencia tendrá y más planos se tendrán que volver a dibujar.
+
+
+Tercera ley de las revisiones
+
+Si, a punto de terminar un diseño, nos proporcionan las dimensiones reales de campo —en vez de las que nos dieron en un principio—, lo más sencillo es volver a empezar.
+
+
+Corolario
+
+Por lo general, es poco práctico preocuparse de antemano por las interferencias. Si no había, alguien se encargará de arreglarlo.
+
+
+Ecuaciones de Snafu
+
+En cualquier problema con n ecuaciones siempre habrá n + 1 incógnitas.
+
+La información más necesaria siempre será la más inaccesible.
+
+Cuando haya agotado todas las posibilidades y fracase, aparecerá una solución simple y evidente que estaba delante de sus narices,
+
+Lo malo siempre viene a oleadas.
+
+
+
+
+
+Ley del centímetro perdido
+
+Si está diseñando cualquier cosa, no corrija totalmente ninguna dimensión del conjunto después de las 4,40 horas de la madrugada de un viernes.
+
+
+Corolarios
+
+En las mismas condiciones, si algunas de las dimensiones vienen en dieciseisavos de centímetro, no se podrán sumar.
+
+La suma total correcta será absolutamente evidente el lunes a las 9,01 horas de la mañana.
+
+
+
+
+
+Teorema de Wyszowski
+
+Las unidades que utilicen proveedor y cliente no tienen ninguna importancia. El fabricante siempre utilizará arbitrariamente las suyas propias, que transformará en las del proveedor o en las del cliente por medio de caprichosos factores de conversión.
+
+
+Constante de Skinner (Factor chanchullo de Flannagan)
+
+Es esa cantidad que cuando se multiplica, divide, suma o resta del resultado que usted ha obtenido, le proporciona el resultado que debería haber obtenido.
+
+
+Leyes de la confusión aplicada
+
+1. La única pieza que olvidaron enviar de fábrica es la que mantiene el 75 por 100 del equilibrio de la remesa.
+
+
+
+
+
+Corolario
+
+No es que se les olvidara enviarla, es que se les olvida hacerlo en el 50 por 100 de los casos.
+
+2. Los envíos por carretera que suelen tardar un día, tardarán cinco cuando usted esté esperando al camión.
+
+3. Después de sumarle dos semanas al plazo de entrega en concepto de retrasos imprevistos, súmele otras dos en concepto de retrasos imprevistos.
+
+4. En cualquier estructura, elija la única pieza que se debe marcar correctamente y cruce los dedos para que a los de la fábrica no se les crucen los cables.
+
+
+
+
+
+Corolarios
+
+En cualquier conjunto de piezas a las que haya puesto la misma marca, siempre hay una que no debería llevarla.
+
+No lo descubrirá hasta que no intente montarla donde debería ir, según la marca.
+
+No discuta nunca un error con fábrica. Se ha comprobado que estaba todo, hasta los agujeros que les faltan a las tuercas.
+
+
+
+
+
+Ley de Miksch
+
+Si una cuerda tiene un extremo, entonces debe tener otro.
+
+
+Leyes de la programación de ordenadores
+
+Cualquier programa, cuando funciona, es que se ha quedado antiguo.
+
+Cualquier programa cuesta más caro y necesita más tiempo.
+
+Si un programa es útil, habrá que cambiarlo.
+
+Si un programa es inútil, habrá que demostrarlo.
+
+Cualquier programa se expandirá hasta ocupar toda la memoria del ordenador.
+
+La complejidad de un programa aumenta hasta que supera la capacidad del programador que debe revisarlo.
+
+
+
+
+
+Postulados de Troutman sobre programación
+
+Si una instalación de comprobación funciona perfectamente bien, todos los sistemas posteriores funcionarán mal.
+
+El error más terrible de un programa sólo se detectará cuando lleve, por lo menos, seis meses de funcionamiento.
+
+Las tarjetas de control que definitivamente no se pueden colocar desordenadas, lo estarán.
+
+Las cintas intercambiables no lo serán.
+
+Si se ha diseñado el editor de entrada de tal forma que rechace las entradas nocivas, siempre habrá algún idiota que descubra el método para que se cuelen los datos que no deben.
+
+El único lenguaje que conocen bien todos los programadores es el de los profanos.
+
+
+
+
+
+Reglas de Gilb sobre la no habilidad
+
+Los ordenadores no son fiables, pero los seres humanos lo son menos aún.
+
+Cualquier sistema que dependa de la fiabilidad humana, no es fiable.
+
+La variedad de los errores indetectables es infinita en contraste con los errores detectables que son, por definición, limitados.
+
+Las inversiones en fiabilidad aumentarán hasta que superen el coste probable de los errores o hasta que alguien insista en que el trabajo se haga bien.
+
+
+
+
+
+Ley de Brook
+
+Si se añade mano de obra a un proyecto de Informática que va retrasado, se retrasa todavía más.
+
+
+Leyes de Informática según Golub
+
+Los objetivos difusos de un proyecto se utilizan para evitar lo violento que resulta calcular los costes aproximados.
+
+Para terminar un proyecto planificado con descuido hace falta tres veces más el tiempo que se esperaba; uno cuidadosamente planificado, sólo necesita el doble.
+
+El esfuerzo que se precisa para corregir algo aumenta en progresión geométrica con el paso del tiempo.
+
+Los equipos que trabajan en un proyecto detestan los informes semanales del progreso del mismo, porque queda en evidencia que no progresa nada.
+
+
+
+
+
+Ley de Lubarsky sobre la entomología cibernética
+
+Siempre queda algún virus.
+
+
+Principio de Shaw
+
+Construya un sistema que pueda utilizar hasta un tonto y sólo lo querrán utilizar los tontos.
+
+
+
+
+
+MAQUINOLOGÍA
+
+
+
+Principio de Pollyanna sobre la IBM
+
+Las máquinas deben funcionar y las personas pensar.
+
+
+Ley de la perversidad de la naturaleza
+
+No se puede determinar a priori en que lado de la tostada hay que poner la mantequilla.
+
+
+Ley de la gravedad selectiva
+
+Todos los objetos se caen al suelo de tal forma que causen más desperfectos.
+
+
+Corolario de Jenning
+
+La probabilidad de que la tostada caiga con la mantequilla hacia abajo es directamente proporcional al precio de la alfombra.
+
+
+Corolario de Klipstein
+
+La pieza más delicada será la que se caiga antes.
+
+
+Ley de Sprinkel
+
+Las cosas siempre caen en ángulo recto.
+
+
+Ley de la molestia
+
+Cuando esté haciendo un trabajo manual, si guarda una herramienta porque está seguro de que no la utilizará más, la volverá a necesitar en breves momentos.
+
+
+Ley de Anthony sobre el taller
+
+Cualquier herramienta, cuando se suelta, rueda hasta el rincón más inaccesible de todo el taller.
+
+
+Corolario
+
+Cuando vaya a recogerla, tropezará con otras herramientas y se hará polvo los dedos de los pies.
+
+
+Principio de los repuestos
+
+Los repuestos son más o menos accesibles y esto es directamente proporcional a su tamaño e inversamente proporcional a la urgencia de terminar el trabajo.
+
+
+Ley de Paul
+
+Es imposible caerse del suelo.
+
+
+Ley de Johnson
+
+Si un artilugio mecánico falla, lo hará en el momento más inoportuno.
+
+
+Ley de Watson
+
+La fiabilidad de la máquina es inversamente proporcional al número y a la categoría de las personas que la manejan.
+
+
+Ley de Wyszkowski
+
+Cualquier cosa puede llegar a funcionar si se tiene en las manos el tiempo suficiente.
+
+
+Ley de Sattinger
+
+Funcionaría mejor si la enchufara.
+
+
+Ley de Lowery
+
+Si se traba, fuércela; si se rompe, es que había que cambiarla de todas maneras.
+
+
+Regla del tocadiscos
+
+El accesorio más caro es el que menos se utiliza.
+
+
+Ley de Schmidt
+
+Si manosea una cosa durante mucho tiempo, se romperá.
+
+
+Ley de Fudd sobre la oposición
+
+Cuando se empuje algo con mucha fuerza, se caerá al suelo.
+
+
+Ley de Anthony sobre la fuerza
+
+No lo fuerce. Cómprese un martillo más grande.
+
+
+Postulado de Horner sobre los manazas
+
+La destreza es directamente proporcional al número de aparatos que haya estropeado por completo.
+
+
+Axioma de Cahn
+
+Cuando todo falle, lea las instrucciones.
+
+
+Principio de los aparatos de múltiples usos
+
+Cuantas menos cosas pueda hacer un aparato, mejor las hará.
+
+
+Principio de Cooper
+
+Todas las máquinas son amplificadores.
+
+
+Ley de Jenkinson
+
+De todas maneras, no funcionará.
+
+
+
+
+
+INVESTIGACIONOLOGÍA Y ACADEMIOLOGÍA
+
+
+
+Ley de Gordon
+
+Si una investigación no merece la pena, tampoco merece la pena hacerla bien.
+
+
+Ley de Murphy sobre la investigación
+
+Las investigaciones que realice, sobre todo si son muchas, tenderán a apoyar sus teorías.
+
+
+Ley de Maier
+
+Si los hechos no se ajustan a la teoría, tendrá que deshacerse de ellos.
+
+
+Corolarios
+
+Cuanto más amplia sea una teoría, mejor.
+
+Se puede considerar que el experimento ha sido un éxito cuando (para que se ajuste a la teoría) no hay que eliminar más del 50 por 100 de las medidas.
+
+
+
+
+
+Ley de Williams y Holland
+
+Si se reúnen suficientes datos, se puede demostrar cualquier cosa con ayuda de la estadística.
+
+
+Teoría de Edington
+
+El número de hipótesis diferentes que se aventuran para probar un fenómeno biológico dado es inversamente proporcional a lo que se sabe de dicho fenómeno.
+
+
+Ley de Peer
+
+La solución de un problema cambia la naturaleza del mismo.
+
+
+Ley de Harvard
+
+En condiciones rigurosamente controladas de presión, temperatura, volumen, humedad y otras variables, el organismo actúa como le sale de las narices.
+
+
+Cuarta ley de las revisiones
+
+Después de cuidadísimos y exactísimos análisis de una muestra, siempre resulta que no era esa la que se tenía que analizar.
+
+
+Ley de Hersh
+
+La Bioquímica se expande hasta ocupar todo el espacio y tiempo disponibles en el campo editorial.
+
+
+Ley de Fett del laboratorio
+
+Nunca intente repetir un experimento que haya salido bien.
+
+
+Ley de Wyszowski
+
+Ningún experimento es reproducible.
+
+
+Regla de la exactitud
+
+Cuando se está trabajando para encontrar la solución a un problema, siempre resulta de gran ayuda saber la respuesta.
+
+
+Ley de Young
+
+Todos los grandes descubrimientos se hacen por error.
+
+
+Corolario
+
+Cuanto mayor es la subvención, más tiempo hace falta para cometer el error.
+
+
+Factor de inutilidad
+
+Ningún experimento es un fracaso absoluto. Siempre puede servir de ejemplo negativo.
+
+
+Ley de Parkinson sobre la investigación médica
+
+Las investigaciones que tienen éxito atraen las mayores subvenciones, y esto imposibilita las posteriores investigaciones en ese campo.
+
+
+Ley de Parkinson
+
+El progreso de la ciencia es inversamente proporcional al número de revistas especializadas que se publican.
+
+
+Principio de la panorámica
+
+Los científicos que se dedican a la investigación están tan concentrados en sus mezquinos esfuerzos, que no tienen una visión panorámica de nada, incluyendo su propia investigación.
+
+
+Corolario
+
+El director de investigaciones debería saber lo menos posible sobre lo que se está investigando.
+
+
+Ley de Brooke
+
+Cuando un sistema está completamente definido, siempre hay algún estúpido que encuentra algo que, o bien lo anula, o bien lo expande hasta que no haya Dios que lo reconozca.
+
+
+Ley de Campbell
+
+La Naturaleza abomina de los experimentadores bobos.
+
+
+Ley de Freivald
+
+Sólo un tonto puede reproducir la obra de otro tonto.
+
+
+Ley de Tenenbaun sobre la replicabilidad
+
+Los resultados más interesantes tienen lugar sólo una vez.
+
+
+Ley de Sounder
+
+La repetición de un experimento no asegura la validez del mismo.
+
+
+Ley de Hanggi
+
+Cuanto más trivial sea una investigación, más personas la leerán y estarán de acuerdo con ella.
+
+
+Corolario
+
+Cuanto más vital sea una investigación, menos personas la entenderán.
+
+
+Guía de Handy para la ciencia moderna
+
+1. Si es verde o se retuerce, es Biología.
+
+2. Si apesta, es Química.
+
+3. Si no funciona, es Física.
+
+
+
+
+
+Extensiones de Cerf a la Guía de Handy para la ciencia moderna
+
+4. Si es incomprensible, es Matemáticas.
+
+5. Si no tiene sentido, es Economía o Filosofía.
+
+
+
+
+
+Comentario de Young sobre el método científico
+
+No se puede llegar aquí desde allí.
+
+
+Comentario de Macbeth sobre la evolución
+
+La mejor teoría es ipso facto una buena teoría.
+
+
+Principio de Barr sobre la inercia
+
+Pedirle a un grupo de científicos que revisen sus teorías es lo mismo que pedirle a un grupo de policías que revisen la ley.
+
+
+La falacia de Sagan
+
+Decir que un ser humano no es más que un conjunto de moléculas, es como decir que una obra de Shakespeare no es más que un conjunto de palabras.
+
+
+Principio de fiabilidad
+
+La diferencia entre las Leyes de la Naturaleza y la Ley de Murphy es que, con las primeras, se puede tener la certeza de que las cosas se fastidiarán siempre de la misma manera.
+
+
+Ley de Darwin
+
+La Naturaleza, si puede, le venderá la moto.
+
+
+Extensión de Bloch
+
+Y también los discípulos de Darwin.
+
+
+Primera ley de la Física de partículas
+
+Cuanto más corta es la vida de una partícula, más caro resultará producirla.
+
+
+Segunda ley de la Física de partículas
+
+Los bloques básicos que constituyen la materia no se dan en la naturaleza.
+
+
+Observación de Einstein
+
+En tanto los teoremas matemáticos están relacionados con la realidad, no son seguros; en cuanto son seguros, no tienen nada que ver con la realidad.
+
+
+Primera ley del progreso científico
+
+El avance de la ciencia se puede medir por la velocidad con que se acumulan las excepciones a las leyes anteriormente establecidas.
+
+
+Corolarios
+
+Las excepciones son siempre más numerosas que las reglas.
+
+Siempre hay excepciones para las excepciones establecidas.
+
+Cuando se llegan a dominar las excepciones, nadie recuerda a que regla corresponden.
+
+
+
+
+
+Ley de Finman sobre las Matemáticas
+
+Nadie quiere leer las fórmulas de otro.
+
+
+Exclusiones de Golomb a los modelos matemáticos
+
+No crea en las consecuencias de 33º orden de un modelo de primer orden.
+
+Lema publicitario: Cum grano salis.
+
+No extrapole más allá de la región indicada.
+
+Lema publicitario: «No se pase de la raya».
+
+No aplique ningún modelo hasta que no entienda los supuestos simplificados sobre los que se fundamenta y compruebe que es aplicable.
+
+Lema publicitario: «Utilícese según las indicaciones».
+
+No crea que el modelo es la realidad.
+
+Lema publicitario: «No coma el menú».
+
+No distorsione la realidad para que se ajuste al modelo.
+
+Lema publicitario: «El Método Procusto».
+
+No se limite a un solo modelo. Emplear más de uno puede ser útil para entender los distintos aspectos de un mismo fenómeno.
+
+Lema publicitario: «Legalización de la poligamia».
+
+No defienda un modelo desprestigiado.
+
+Lema publicitario: «No pida peras al olmo».
+
+No se enamore de su modelo.
+
+Lema publicitario: «Pigmalión».
+
+No aplique la terminología del Tema A al Tema B si no es para enriquecer alguno de los dos.
+
+Lema publicitario: «Renovarse o morir».
+
+No piense que ha destruido un demonio sólo porque le ha puesto nombre.
+
+Lema publicitario: «Rumpelstiltskin».
+
+
+
+
+
+Ley de Felson
+
+Robar ideas a una persona es plagio. Robárselas a muchas es investigación.
+
+
+Ley de Valery
+
+La Historia es la ciencia que estudia lo que nunca sucede dos veces.
+
+
+Comentario de Darrow sobre la Historia
+
+La Historia se repite. Ese es uno de los errores de la Historia.
+
+
+Reglas de Pavlu para la economía en la investigación
+
+Niegue la última verdad establecida de la lista.
+
+Añada su verdad.
+
+Envíe la lista a sus colegas.
+
+
+
+
+
+Ley del señor Cooper
+
+Si no entiende un término específico en un texto técnico, páselo por alto. El texto tendrá sentido sin él.
+
+
+Corolario de Bogovich a la Ley del señor Cooper
+
+Si el texto no tiene sentido sin esa palabra, tampoco lo tendría con ella.
+
+
+Ley de supervivencia en la Universidad de Meredith
+
+Nunca permita que el profesor de su especialidad se entere de que usted existe.
+
+
+Ley de Ellard
+
+Los que quieren aprender, aprenderán.
+
+Los que no quieren aprender, serán directores de empresa.
+
+Los que sean incapaces de aprender y de dirigir empresas, serán los que controlen hasta la muerte la concesión de becas y empresas.
+
+
+
+
+
+Ley de Vile para los educadores
+
+Nadie atiende en clase hasta que usted mete la pata.
+
+
+Ley de Seeger
+
+Todo lo que se refiere a la paternidad, se puede ignorar.
+
+
+Ley de Vile sobre el orden de los papeles
+
+Todos los papeles de un montón que van después del primero, están, o bien al revés, o bien boca abajo, hasta que usted los ordena. Luego, se repite el proceso.
+
+
+Ley de Weiner sobre las bibliotecas
+
+Nunca hay respuestas, sino referencias a otros textos.
+
+
+
+
+
+INVESTIGACIONOLOGÍA AVANZADA
+
+
+
+Ley del trabajo de laboratorio
+
+El vidrio caliente tiene la misma apariencia que el vidrio frío.
+
+
+Regla básica para los trabajadores de los laboratorios
+
+Cuando no sepa que es lo que esta haciendo, hágalo con esmero y primor.
+
+
+Regla de Finagle
+
+El trabajo en equipo es esencial. Le permitirá echarle la culpa al otro.
+
+
+Credo de Finagle
+
+La ciencia es verídica, no deje que le engañen los hechos.
+
+
+Ley de Muench
+
+No hay nada que perfeccione tanto una innovación como la falta de control.
+
+
+Ley de May sobre la Estratigrafía
+
+La calidad de la correlación entre dos sucesos es inversamente proporcional a la densidad del control.
+
+
+Ley de Lerman sobre la tecnología
+
+Cualquier problema técnico se puede solucionar si se cuenta con suficiente tiempo y dinero.
+
+
+Corolario de Lerman
+
+Nunca se cuenta con suficiente tiempo y dinero.
+
+
+Ley de Vesilind sobre la experimentación
+
+Si la repetición del experimento puede plantear problemas, hágalo sólo una vez.
+
+Si se requiere un ajuste en línea recta, halle solamente dos puntos de referencia.
+
+
+
+
+
+Lema de Rocky para evitar la innovación
+
+A menos que los resultados se conozcan con anticipación, los patrocinadores rechazarán el proyecto.
+
+
+Primer postulado de Thumb
+
+Es mejor resolver un problema con una aproximación grosera y conocer la verdad, 10 por 100 más o menos, que exigir una solución exacta y desconocer la verdad.
+
+
+Segundo postulado de Thumb
+
+Una falsedad práctica y fácil de entender es más útil que una verdad compleja e incomprensible.
+
+
+La regla de las reglas
+
+La línea recta no existe.
+
+
+Ley de Jones
+
+Cualquier persona que haga una contribución significativa en cualquier campo y permanezca en este campo el tiempo suficiente, se convierte en un obstáculo para su progreso y esto es directamente proporcional a la importancia de su contribución original.
+
+
+Ley de Mann (generalizada)
+
+Si un científico descubre un hecho publicable, éste pasará a ser el centro de su teoría.
+
+
+Corolario
+
+Y, a la vez, su teoría se convertirá en el centro de todo su pensamiento científico.
+
+
+Ley de Grelb sobre los errores
+
+En cualquier serie de cálculos, los errores tienden a aparecer justo en el punto opuesto a aquel en el que usted empieza a comprobar si existen errores.
+
+
+Axioma de Robert
+
+Lo único que existe son los errores.
+
+
+Corolario de Berman al axioma de Robert
+
+El error de un hombre es la información de otro.
+
+
+Ley de la falta de fiabilidad
+
+Errar es humano, pero para liar las cosas de verdad, hace falta un ordenador.
+
+
+Regla de Sutin
+
+De todas las cosas que se pueden hacer con un ordenador, las más inútiles son las más divertidas.
+
+
+Ley de Greer
+
+Un programa de ordenador hace lo que usted le ordena que haga, no lo que quiere usted que haga.
+
+
+Axiomas informáticos de McCristy
+
+Los archivos de apoyo nunca están completos.
+
+Los fallos de software se pueden corregir sólo cuando la industria considera que se ha quedado obsoleto.
+
+
+
+
+
+Axioma informático de Leo Beiser
+
+Cuando archive algo en la memoria, acuérdese de donde lo guardo.
+
+
+Norma de Steinbach para los sistemas de programación
+
+No trate nunca de verificar una condición de error que no sepa manejar.
+
+
+
+
+
+ACADEMIOLOGÍA
+
+
+
+Leyes para la programación de clases
+
+1. Si la asignatura que más le apetecía hacer tenía un número límite de n estudiantes, usted será el n + 1 que solicitó matricularse.
+
+2. Los horarios se elaboraran con el único y exclusivo objeto de que los estudiantes pierdan el máximo tiempo posible entre las clases. Corolario. Si, por casualidad, consigue tener dos clases seguidas, se impartirán en los dos edificios más distantes entre sí de todo el recinto universitario.
+
+
+
+
+
+Corolario
+
+Si, por casualidad, consigue tener dos clases seguidas, se impartirán en los dos edificios más distantes entre sí de todo recinto universitario.
+
+3. Si para hacer una asignatura, que le apetece mucho necesita estudiar otra previamente, esta última sólo se ofrecerá durante el cuatrimestre siguiente a la deseada.
+
+
+
+
+
+Primera ley de los exámenes finales
+
+Las pilas de la calculadora de bolsillo, que han durado todo el curso, se agotarán durante el examen final de matemáticas.
+
+
+Corolario
+
+Si lleva pilas de recambio, serán defectuosos.
+
+
+Segunda ley de los exámenes finales
+
+En su examen final más difícil, la compañera de clase más maciza y atractiva se sentará a su lado por primera vez en todo el curso.
+
+
+Leyes del terror aplicado
+
+1. Cuando repase sus apuntes antes de un examen, se dará cuenta de que lo más importante es ilegible.
+
+2. Cuanto más haya estudiado para un examen, menos seguro estará de cual es la respuesta que le piden.
+
+3. El 80 por 100 del examen final está extraído de la clase a la que faltó y del libro que no ha leído.
+
+4. La noche antes del parcial de Historia, el profesor de Biología le mandará que se lea doscientas páginas sobre insectos.
+
+
+
+
+
+Corolario
+
+Todos los profesores dan por sentado que lo único que usted tiene que hacer es estudiar su asignatura. 5. Si tiene que hacer un examen en el que se pueden usar libros, se le olvidará llevarlos.
+
+
+
+
+
+Corolario
+
+Si tiene que redactar un trabajo en casa, se le olvidará donde vive.
+
+6. A final de curso se acordará de que se había matriculado en una asignatura… y nunca ha ido a clase.
+
+
+
+
+
+Ley de Natalie sobre el álgebra
+
+No lo comprenderá hasta después del examen.
+
+
+Ley de Seit sobre la educación superior
+
+La única asignatura que le queda para licenciarse no se impartirá durante el segundo cuatrimestre.
+
+
+Normas de Rominger para los estudiantes
+
+Cuanto más general sea el título del curso, menos aprenderá en él.
+
+Cuanto más específico sea, menos posibilidades tendrá de poder aplicarlo después.
+
+
+
+
+
+Ley de Murphy del trabajo de fin de curso
+
+El libro o la revista fundamental para terminar su trabajo de fin de curso será el único que no esté en la biblioteca.
+
+
+Corolario
+
+Si no falta, le habrán arrancado las páginas más importantes.
+
+
+Ley de Duggan sobre la investigación erudita
+
+No podrá determinar la fuente de la cita más valiosa.
+
+
+Corolario
+
+La fuente de la cita que usted olvidó consignar, aparecerá en la crítica más desfavorable a su trabajo.
+
+
+Ley de Whittington sobre la comunicación
+
+Si un escritor elabora un manuscrito sobre un tema del que no entiende, sólo lo entenderán los lectores que saben del tema más que el propio escritor.
+
+
+Corolario
+
+Los textos que se elaboran de esa manera no cumplen el primer objetivo de la comunicación: informar al desinformado.
+
+
+Reglas de Rominger para los enseñantes
+
+Cuando un estudiante le pregunte por segunda vez si ya ha leído su resumen del libro, quiere decir que él no lo había leído.
+
+Si la asistencia diaria a clase es obligatoria, un examen anunciado producirá un mayor absentismo. Si es opcional, verá caras que no había visto nunca antes.
+
+
+
+
+
+MURPHYOLOGÍA DEL TRABAJO Y LA OFICINA
+
+
+
+Ley de Hardin
+
+Nunca se puede hacer solamente una cosa.
+
+
+Ley de Hetch
+
+No hay mejor momento que el presente para que retrase lo que no quiere hacer.
+
+
+Lema de Grossman
+
+Cualquier cosa que vale la pena hacer, ayer también valía la pena hacerla.
+
+
+Derivado de Knagg de la Ley de Murphy
+
+Cuanto más complicado y grandioso sea un plan, mayores serán las posibilidades de que se vaya al traste.
+
+
+Axioma de Dehay
+
+Los trabajos sencillos siempre se dejan para después, porque ya habrá tiempo de hacerlos.
+
+
+Ley de Westhern sobre el juicio condicional
+
+La suposición es la madre de todas las pifias.
+
+
+Reglas de Ray sobre precisión
+
+Mida con micrómetro. Marque con tiza. Corte con hacha.
+
+
+Extensión de Einstein a la Ley de Murphy
+
+Un proyecto de trabajo se expande hasta llenar todo el espacio disponible.
+
+
+Corolario
+
+No importa lo grande que sea el espacio. Si hay dos proyectos que deben hacerse a la vez, los dos requerirán la misma porción de espacio de trabajo.
+
+
+Cuatro principios de taller
+
+La llave inglesa o el taladro que usted necesite serán precisamente los que falten en la caja de herramientas.
+
+Para la mayor parte de los montajes hacen falta tres manos.
+
+Las tuercas sobrantes nunca ajustan con los tornillos sobrantes.
+
+Cuanto más cuidadosamente se planifique un proyecto, mayor confusión se producirá cuando algo falle.
+
+
+
+
+
+Ley de las reparaciones
+
+Si no se ha roto, no lo podrá arreglar.
+
+
+Regla del pensamiento inteligente
+
+Guarde todas las piezas.
+
+
+Ley de Smith sobre la reparación de ordenadores
+
+Los orificios de acceso tendrán medio milímetro menos de diámetro.
+
+
+Corolario
+
+Los que tengan el diámetro adecuado, no estarán en el sitio que les corresponda.
+
+
+Ley de Jaruk
+
+Si fuera más barato comprar uno nuevo, la empresa insistiría en arreglar el viejo.
+
+
+Dilema de Devries
+
+Si golpea al mismo tiempo dos teclas de la máquina de escribir, la letra que sale en el papel es la otra.
+
+
+Teoría de la supervisión selectiva
+
+El único momento del día en que uno se apoya cómodamente en el respaldo de la silla y se relaja es cuando el jefe se da una vuelta por la oficina.
+
+
+Observación de Launegayer
+
+Es más fácil hacer preguntas estúpidas que corregir errores estúpidos.
+
+
+Leyes de Gore sobre la ingeniería de diseño
+
+La función primaria de la ingeniería del diseño es poner las cosas difíciles al fabricante e imposibles a los de mantenimiento.
+
+En cualquier circuito, el componente que tenga menor duración se instalará en el punto menos accesible.
+
+Cualquier circuito de diseño debe tener, por lo menos, una pieza obsoleta, dos que sean imposibles de encontrar y tres que se encuentren aún en periodo de prueba.
+
+
+
+
+
+Corolarios
+
+El ingeniero del proyecto cambiará los planos en el último momento.
+
+Los cambios no aparecerán en el manual de funcionamiento.
+
+
+
+
+
+Seis leyes de Murphyología de oficina
+
+1. Las cartas importantes que no tienen faltas, engendrarán varias cuando estén en el correo.
+
+
+
+
+
+Corolario
+
+Los errores correspondientes aparecerán en la carta mientras la esté leyendo el jefe.
+
+2. Las máquinas de la oficina, que funcionan perfectamente en las horas normales de trabajo, se descompondrán en cuanto vaya de tapadillo por la noche y las utilice para asuntos personales.
+
+3. Las máquinas que se hayan roto, funcionarán perfectamente en cuanto aparezca el técnico a repararlas.
+
+4. Los sobres y sellos que no se pegan cuando se chupan, se quedan adheridos a cualquier cosa cuando menos se desea.
+
+5. Los papeles vitales demostrarán su vitalidad moviéndose espontáneamente desde el sitio en el que usted los dejó hasta donde no se puedan encontrar.
+
+6. La última persona que se marchó o despidieron de la empresa, será la que tenga la culpa de que todo vaya mal… hasta que despidan a otra.
+
+
+
+
+
+Ley de Bogovich
+
+El que duda, probablemente tiene razón.
+
+
+Ley de Strano
+
+Cuando todo falle, intente lo que le sugirió el jefe.
+
+
+Ley de Brintnall
+
+Si le dan dos órdenes contradictorias, obedezca las dos.
+
+
+Ley de Shapiro de la recompensa
+
+El que hace menos trabajo, está mejor considerado.
+
+
+Ley de Johnson
+
+El número de enfermedades menores entre los empleados es inversamente proporcional a la salud de la empresa.
+
+
+Principio de Tillis sobre organización
+
+Si lo archiva, sabrá donde está, pero nunca le hará falta. Si no lo archiva, lo necesitará pero nunca sabrá donde se encuentra.
+
+
+Ley de Owen sobre las secretarias
+
+En cuanto se siente a tomar un café, el jefe le pedirá que haga algo que se prolongará hasta que el café se haya quedado frío.
+
+
+Ley de Sandiland
+
+El tiempo libre del que puede disponer de una forma imprevista, lo malgastará inevitablemente
+
+
+Ley de Doane sobre la demora
+
+Cuanto más eficiente se sea para llegar tarde, menos eficiente se será para todo lo demás.
+
+Cuanto más despacio se trabaja, menos errores se cometen.
+
+
+Ley de Scott sobre los negocios
+
+No vaya nunca por el pasillo de su empresa sin llevar un papel en la mano.
+
+
+Ley de Harbour
+
+La fecha límite es una semana después de la fecha límite inicial.
+
+
+Ley de Eddie sobre los negocios
+
+No negocie nada nunca antes de las diez de la mañana ni después de las cuatro de la tarde. Antes de las diez, pensarán que está muy impaciente y después de las cuatro, que está desesperado.
+
+
+Tabla de excusas útiles para la oficina
+
+Siempre se ha hecho así.
+
+No sabía que lo necesitara con urgencia.
+
+Nadie me dijo que lo hiciera.
+
+Estaba esperando su permiso.
+
+¿Cómo iba a saber que esto era diferente?.
+
+Este es su trabajo, no el mío.
+
+Espera hasta que vuelva el jefe y pregúntale.
+
+No hemos cometido muchos errores.
+
+No creía que fuera tan importante.
+
+Estoy tan ocupado que no puedo dedicarle ni un minuto.
+
+Creía que te lo había dicho.
+
+No me contrataron para hacer esto.
+
+
+
+
+
+Ley de Connor
+
+Si hay un documento confidencial, alguien se lo dejará en la fotocopiadora.
+
+
+Ley de Drummond sobre la contratación de personal
+
+El currículum ideal llegará a sus manos un día después de que se haya cubierto la plaza.
+
+
+Ley de Gluck
+
+Dé las vueltas que dé antes de entrar en el ascensor, los botones siempre estarán a su espalda.
+
+
+Ley de Lynch
+
+En cuanto deje la cartera en el suelo, llegará el ascensor.
+
+
+Fox sobre los que siempre dicen que sí al jefe
+
+Vale la pena intrigar para ser portador de buenas noticias.
+
+
+Corolario
+
+No esté en el edificio cuando lleguen las malas noticias.
+
+
+Ley de Pinto
+
+Si le hace a alguien un favor, le tendrá que hacer muchos más.
+
+
+Axioma ornitológico de Langsam
+
+Es difícil elevarse como las águilas cuando se trabaja con pavos.
+
+
+
+
+
+SISTEMÁNTICA[1]
+
+
+
+Teorema fundamental
+
+Los nuevos sistemas generan nuevos problemas.
+
+
+Corolario
+
+No es aconsejable multiplicar innecesariamente el número de sistemas.
+
+
+Principio de la incertidumbre generalizada
+
+Los sistemas tienden a crecer y, a medida que lo hacen, se pasan de la raya.
+
+Formulaciones alternativas:
+
+Los sistemas complicados producen resultados inesperados.
+
+No se puede predecir el comportamiento global de los grandes sistemas.
+
+
+
+
+
+Corolario: Teorema de la No Aditividad del Comportamiento de los Sistemas
+
+Un sistema grande, que se ha creado aumentando las dimensiones de un sistema pequeño, no se comporta de la misma manera que el sistema más pequeño
+
+
+Engaño del funcionario
+
+Las personas que trabajan con sistemas, no hacen lo que los sistemas dicen que están haciendo.
+
+
+Falacia operativa
+
+El propio sistema no hace lo que dice que está haciendo.
+
+
+Primera ley de la Sistemántica
+
+Está demostrado que un sistema complejo, que funciona, se ha creado siempre a partir de un sistema simple que funciona.
+
+
+Segunda ley de la Sistemántica
+
+Un sistema complejo diseñado partiendo de cero, no funciona nunca y no se puede modificar para que funcione. Hay que volver a empezar, partiendo de un sistema sencillo que funcione.
+
+
+Postulados fundamentales de la teoría avanzada de sistemas
+
+Todo es un sistema.
+
+Todo es parte de un sistema mayor.
+
+El Universo está infinitamente sistematizado, tanto hacia arriba (sistemas más grandes) como hacia abajo (sistemas más pequeños).
+
+Todos los sistemas son infinitamente complejos (La ilusión de que son simples proviene de centrar la atención en una o pocas variables).
+
+
+
+
+
+Principio de Le Chatelier
+
+Los sistemas complejos tienden a oponerse a sus propias funciones.
+
+
+
+
+
+MURPHYOLOGÍA SITUACIONAL
+
+
+
+Ley de Drazen sobre la restitución
+
+El tiempo necesario para rectificar una situación es inversamente proporcional al tiempo que se tardó en crearla.
+
+Ejemplo número 1
+
+Hace falta más tiempo para pegar un florero que para romperlo.
+
+Ejemplo número 2
+
+Hace falta más tiempo para perder x kilos que para ganarlos.
+
+
+Ley de los autoservicios
+
+El plato que le llamó la atención desde que se puso usted en la cola se lo llevará el que va delante de usted.
+
+
+Ley de Davis
+
+Si el titular de un periódico es una pregunta, la respuesta es «no».
+
+
+Observación de Etorre
+
+La otra cola es más rápida.
+
+
+Variación de O’Brien a la observación de Etorre
+
+Si cambia de cola, la que acaba de dejar empezará a avanzar más deprisa que la nueva.
+
+
+Corolario de Kenton
+
+Si vuelve a la primera, lo único que conseguirá es que se produzca un tumulto y todo el mundo se mosquee con usted.
+
+
+Principio de la espera
+
+Cuanto más tiempo lleva en una cola, más probabilidades hay de que se haya equivocado de ventanilla.
+
+
+Regla de Flugg
+
+El cajero más lento siempre está en la caja rápida.
+
+
+Regla de Witten
+
+Siempre que se corte las uñas, le picará algo una hora después.
+
+
+Ley de Storry sobre el procesamiento criminal
+
+El grado de culpabilidad es directamente proporcional a la vehemencia con que se niega todo.
+
+
+Observación de Tracy sobre el tiempo
+
+Los buenos momentos terminan enseguida. Los malos se prolongan hasta la eternidad.
+
+
+Ley de Norris
+
+La ola de calor aparece justo cuando se estropea el aire acondicionado de la oficina.
+
+
+Leyes del reverendo Chichester
+
+Si hace un tiempo terriblemente malo, la asistencia a la iglesia será escasa.
+
+Si hace un tiempo estupendo, la asistencia a la iglesia será escasa.
+
+Si quedan pocas hojas parroquiales, la asistencia superará todas las previsiones.
+
+
+
+
+
+Ley del Equilibrio
+
+Los malos hábitos inutilizan a los buenos. Ejemplo: El zumo de naranja que se tomó para desayunar, quedará neutralizado por el cigarrillo que se fumó después y la chocolatina que se comió a media mañana.
+
+
+Ley de Jilly
+
+Cuanto más horrendo sea el corte de pelo, más despacio le crecerá.
+
+
+Ley de Jan y Martha sobre la peluquería
+
+Le harán los comentarios más elogiosos sobre su cabello momentos antes de que acuda a la peluquería.
+
+
+Observación de Hughe
+
+La hierba que crece entre las grietas de las aceras nunca se pone amarillenta.
+
+
+Ley de la decoración navideña
+
+Las luces para la puerta, que funcionaban perfectamente en la tienda, se fundirán en cuanto las instale.
+
+
+Regla de Milstead sobre la tarjeta de Navidad
+
+En cuanto haya terminado de enviar todas las felicitaciones de Navidad, recibirá una tarjeta de alguien en quien no había pensado.
+
+
+Ley de Jones sobre la imprenta
+
+Hay errores que pasan desapercibidos hasta que el libro está en la imprenta.
+
+
+Corolario de Block
+
+Cuando el autor recibe las pruebas y abre el libro al azar, se encuentra con el error más garrafal.
+
+
+Ley de Wallace Wood sobre el dibujo
+
+No dibuje nunca lo que pueda copiar.
+
+No copie nunca lo que pueda calcar.
+
+No calque nunca lo que pueda recortar y pegar.
+
+
+
+
+
+Ley de Hutchinson
+
+Si una situación exige toda su atención, al mismo tiempo sucederá algo que le distraerá por completo.
+
+
+Ley de Fuller sobre el periodismo
+
+Cuanto más lejos sucede un accidente, mayor número de muertos y heridos hace falta para que sea noticia.
+
+
+Leyes de la veracidad en los reportajes
+
+Cuanto más cerca se encuentre del lugar de los hechos, más evidentes serán los errores de los periódicos que cubran la información.
+
+Cuanto más lejos se encuentre del lugar de los hechos, experimentará mayor tendencia a creer lo que cuentan los periódicos que cubren la información.
+
+
+
+
+
+Ley de la carta
+
+La mejor manera de inspirar nuevas ideas es sellar las cartas con lacre.
+
+
+Ley de Jones sobre los zoológicos y museos
+
+Los ejemplares más interesantes no tienen nombre.
+
+
+Ley de Dowling sobre la fotografía
+
+Si se deja pasar la oportunidad de hacer una fotografía, surge el deseo de comprar dos piezas nuevas para el equipo.
+
+
+Leyes del fotógrafo
+
+La posibilidad de hacer las mejores instantáneas surge siempre nada más terminar la última foto del carrete.
+
+Las mejores instantáneas posteriores intentaron hacerse con la tapa del objetivo puesta.
+
+Las mejores instantáneas que sobrevivieron se estropearon cuando alguien abrió distraídamente la puerta del cuarto de revelar y entró un chorro de luz.
+
+
+
+
+
+Ley de Dedera
+
+En un edificio de tres plantas con un único ascensor, éste se encontrará en otro piso nueve de cada diez veces.
+
+
+Ley de Sir Walter
+
+La tendencia del humo de un cigarrillo, parrilla, fuego de campamento, etc., a dirigirse a la cara de una persona es directamente proporcional a la sensibilidad de esa persona al humo.
+
+
+Ley de Kauffman sobre los aeropuertos
+
+La distancia a la puerta de embarque es inversamente proporcional al tiempo que se dispone para no perder el vuelo.
+
+
+Ley de Rogers
+
+En cuanto la azafata sirve el café, el avión entra en zona de turbulencias.
+
+
+Explicación de Davis a la Ley de Rogers
+
+Servir café en un avión produce turbulencias.
+
+
+Principio básico del equipaje
+
+Se ponga junto a la cinta transportadora que se ponga, su equipaje vendrá por otra.
+
+
+Axioma de Angus sobre cambio de moneda
+
+Cuando se viaja al extranjero, el tipo de cambio mejorará mucho al día siguiente de haber comprado las divisas.
+
+
+Corolario
+
+Al regresar a casa, el tipo de cambio bajará de nuevo en cuanto se hayan cambiado todas las divisas sobrantes.
+
+
+Ley de Sigstad
+
+Cuando le toque a usted, se cambiarán las reglas.
+
+
+Principio del Póquer
+
+No haga nunca juegos de cartas con el grupo de amigos que juegan al póquer con usted.
+
+
+Ley de Lefty Gómez
+
+Si no la tira, no se la pueden devolver (?).
+
+
+Ley de Stenderup
+
+Cuanto antes se caiga de espaldas, más tiempo tendrá para cogerla (?).
+
+
+Ley de Wagner sobre las retransmisiones deportivas
+
+Cuando la cámara se centra en un atleta, éste escupirá, se hurgará la nariz o se rascará.
+
+
+Ley de Dorr sobre atletismo
+
+En un vestuario vacío, dos individuos cualesquiera tienen armarios contiguos.
+
+
+Ley de la práctica
+
+Las jugadas que, en teoría, funcionan, en la práctica no funcionan.
+
+Las jugadas que funcionan en la práctica, no funcionan durante el partido.
+
+
+Ley de Crosby
+
+Se puede saber lo malo que es un musical por el número de veces que el coro grita «¡Amor!».
+
+
+Ley de Fulton sobre la gravedad
+
+El esfuerzo para recoger al vuelo un objeto que se puede romper, producirá un desastre mucho mayor que dejarlo caer.
+
+
+Ley avanzada de Vile sobre el arte de hacer cola
+
+Si se dirige corriendo hacia una cola corta, antes de que llegue será larguísima.
+
+Cuando esté esperando en una cola muy larga, la gente que está detrás de usted maniobrará y se colocará en la caja que acaba de abrir.
+
+Si abandona durante un segundo una cola corta, se convertirá en una larga hilera.
+
+Si se encuentra usted en una cola corta, la gente de delante colará a todos sus amigos y parientes y se convertirá en una cola larguísima.
+
+Una cola corta en el exterior de un edificio se convertirá en una cola larguísima en el interior.
+
+Si se queda parado en un sitio el tiempo suficiente, se formará una cola detrás de usted.
+
+
+
+
+
+Ley de Howden
+
+Sólo se acordará de que tiene que echar una carta cuando no haya ningún buzón cerca.
+
+
+Leyes del reparto de correos
+
+Las cartas de amor, los contratos de negocios y el dinero que le deben siempre llegan con tres semanas de retraso.
+
+La publicidad siempre llega el mismo día en que la enviaron.
+
+
+
+
+
+Ley de McLaughlin
+
+En todos los árboles genealógicos y en una posición clave, siempre hay un tal Juan Pérez de Burgos.
+
+
+Ley de Wright
+
+Un médico puede enterrar sus errores, pero un arquitecto sólo le puede aconsejar al cliente que plante geranios.
+
+
+Ley de Rush sobre la gravedad
+
+Cuando una máquina de tabaco o de chicle le devuelve el cambio, los duros se le caerán a los pies, mientras que las monedas de veinticinco rodarán lejos de su vista.
+
+
+Ley de Reynold sobre la climatología
+
+La velocidad del tiempo es directamente proporcional al coste de la factura que acaba de pagar en la peluquería.
+
+
+
+
+
+SOCIOMURPHYOLOGÍA (HUMANISMO)
+
+
+Ley de Shirley
+
+La mayor parte de las personas se merecen a su pareja.
+
+Leyes de Arthur sobre el amor
+
+1. Las personas que le atraen invariablemente, piensan que usted les recuerda a alguien.
+
+2. La carta de amor que finalmente tuvo el valor de enviar, se retrasará en el correo el tiempo suficiente como para que usted haga el ridículo personalmente.
+
+3. Los gestos románticos de otras personas parecen originales y excitantes. Los gestos románticos propios parecen ridículos y torpes.
+
+
+
+Ley de las peculiaridades humanas
+
+Todo el mundo quiere que le miren, pero nadie quiere que le observen.
+
+Ley de Thomas sobre la felicidad en el matrimonio
+
+La duración de un matrimonio es inversamente proporcional a la cantidad gastada en la boda.
+
+Primera ley de Murphy sobre los maridos
+
+La primera vez que salga a la calle después del cumpleaños de su esposa, verá el regalo que le compró con un descuento del 50 por 100.
+
+Corolario
+
+Si ella va con usted, dará por sentado que lo compró porque era muy barato.
+
+Segunda ley de Murphy sobre los maridos
+
+Los regalos que usted le compra a su esposa nunca son tan aparentes como los que su vecino le compra a la suya.
+
+Tercera ley de Murphy sobre los maridos
+
+Los cachivaches que atesora su esposa, siempre estarán colocados encima de los que atesora usted.
+
+Primera ley de Murphy sobre las esposas
+
+Si le pide a su marido que compre cinco cosas en la tienda y luego añade otra más que se le acaba de ocurrir, se le olvidarán dos de las cinco primeras.
+
+Segunda ley de Murphy sobre las esposas
+
+Su marido siempre sale más favorecido en las fotos que le hace usted que usted en las que le hace él.
+
+Tercera ley de Murphy sobre las esposas
+
+Haga la división que haga de las tareas domésticas, a su marido siempre le tocarán las más sencillas.
+
+Teoría de Jana sobre el amor
+
+En el amor, la mujer nunca consigue lo que espera y el hombre nunca espera lo que consigue.
+
+Primera ley de Jana sobre el amor
+
+Una amapola de un enamorado tiene más valor que una orquídea regalada por un amigo.
+
+Segunda ley de Jana sobre el amor
+
+Es mejor que te regalen una piedrecita por amor que un diamante por obligación.
+
+Aforismo de J. S. Gillette
+
+Los únicos esfuerzos que merece la pena hacer son los esfuerzos del amor.
+
+Regla sobre los compañeros de cama
+
+El que ronca es el que se duerme primero.
+
+Leyes (asexuadas) de Gileson sobre las expectativas
+
+1. Nunca se haga ilusiones sobre una cita a ciegas por el tono de voz que escuchó por teléfono.
+
+2. Nunca se haga ilusiones sobre una persona por el aspecto que tiene de espaldas.
+
+
+
+Premisas lógicas de Colvard
+
+La probabilidad de que ocurra cualquier cosa es del 50 por 100. O sucede o no sucede.
+
+Comentario desmedido de Colvard
+
+Esto es cierto, especialmente, en el caso de las mujeres.
+
+Comentario de Grelb sobre la Premisa de Colvard
+
+Sin embargo, las probabilidades reales son del 90 por 100 en contra suya.
+
+Credo del agricultor
+
+Siembra tu amor el sábado por la noche y… reza el domingo para que se pierda la cosecha.
+
+Comentario de Esquire
+
+Cuanto mejor empieza una relación, antes pierde su color.
+
+Principio de Ruby sobre los encuentros
+
+La probabilidad de que se encuentre con un conocido aumenta cuando esté en compañía de alguien con quien no quiere que le vean.
+
+Ley de Denniston
+
+En la virtud está la penitencia.
+
+Lamento de Cheit
+
+Si ayuda a un amigo con problemas, se acordará de usted con toda seguridad… la próxima vez que los tenga.
+
+Corolario de Denniston
+
+Si hace algo bueno una vez, alguien le pedirá que lo repita.
+
+Comentario de Bloch
+
+El Corolario de Denniston se puede aplicar perfectamente a la siguiente afirmación: «La acción virtuosa nunca queda sin castigo.» La Ley de Denniston tiene implicaciones mucho más profundas.
+
+Ley de Mason sobre la sinergia
+
+El día que uno vendería su alma a cualquier precio, sobran almas.
+
+Observaciones de Ron para adolescentes
+
+1. Las espinillas aparecen justo una hora antes de la cita.
+
+2. El arañazo del disco siempre cae en su canción favorita.
+
+
+
+Ley de Schrimpton sobre la oportunidad de los adolescentes
+
+Cuando la oportunidad llame a su puerta, tendrá los auriculares puestos.
+
+Principio fundamental de Sociogenética
+
+La superioridad es recesiva.
+
+Lema del profesor Block
+
+Perdona y recuerda.
+
+Ley de Jacob
+
+Errar es humano. Echarle la culpa a otro es más humano todavía.
+
+Consejo de Edelstein
+
+No se preocupe por lo que otros piensen de usted. Están demasiado ocupados preocupándose por lo que usted piensa de ellos.
+
+Ley de Meader
+
+Cualquier cosa que le suceda, ya le habrá ocurrido a todas las personas que conoce, pero de forma más grave.
+
+Ley de Blockage
+
+El que ríe el último… probablemente lo hace porque no ha entendido el chiste.
+
+Principio de Beifeld
+
+La probabilidad de que un hombre conozca a una joven receptiva y deseable aumenta en proporción piramidal cuando está en compañía de:
+
+Otra joven.
+
+Su esposa.
+
+Un amigo más guapo y con dinero.
+
+
+
+Primera ley de Sociogenética
+
+El celibato no es hereditario.
+
+Ley de Farber
+
+La necesidad es madre de… extraños compañeros de cama.
+
+Ley de Hartley
+
+Nunca se acueste con nadie que esté más loco que usted.
+
+Ley de Beckhap
+
+Belleza por cerebro igual a constante.
+
+Postulados de Pardo
+
+1. Todas las cosas buenas de la vida son ilegales, inmorales o engordan.
+
+2. Las tres cosas más leales de la vida son el dinero, un perro y una mujer vieja.
+
+3. No se preocupe por el dinero, mientras pueda vivir bien y tener todo lo que le apetezca.
+
+
+
+Extensión de Steinkopff al primer Postulado de Pardo
+
+Las cosas buenas de la vida también producen cáncer a las ratas de laboratorio y tienen impuestos escandalosos.
+
+Ley de Parker
+
+La belleza es interior. La fealdad aflora rápidamente a la superficie.
+
+Ley del capitán Penny
+
+Podrá engañar algunas veces a todo el mundo, y a algunas personas siempre. Pero nunca podrá engañar a MAMA.
+
+Ley de Issawi sobre la conservación del mal
+
+La cantidad de maldad, en cualquier sistema, permanece constante. Por tanto, cualquier disminución en un senado —pobreza, desempleo, etc.— produce un aumento en otro, por ejemplo, delincuencia o contaminación.
+
+Ley de Katz
+
+Los hombres y las naciones actúan razonablemente cuando ya han agotado todas las otras posibilidades.
+
+Ley de Parker sobre las declaraciones políticas
+
+La veracidad de cualquier proposición no tiene nada que ver con su credibilidad y viceversa.
+
+Axioma del señor Cole
+
+La cantidad total de inteligencia del planeta permanece constante. La población, sin embargo, sigue aumentando.
+
+Ley de la individualidad
+
+A nadie le importa ni entiende lo que hacen las otras personas.
+
+Plagio de Steele a la filosofía de alguien
+
+Todos deberíamos creer en algo. Yo creo que me tomaré otra copa.
+
+Ley de Levy
+
+El segmento de la sociedad por el que usted siente más simpatía por su talante liberal resulta ser el más cerrado, fanático e intolerante.
+
+Reforma de Kelly
+
+Los tipos majos terminan no siendo majos.
+
+La constante de Kennedy
+
+No se enfade, vénguese.
+
+Lema de Canada Bill Jones
+
+Es un desatino moral permitir que los primos conserven su dinero.
+
+Suplemento:
+
+Es mejor una Smith & Wesson que cuatro ases.
+
+Lema de Jones
+
+Los amigos van y vienen, pero los enemigos se amontonan.
+
+Anexo de McClaughry al Lema de Jones
+
+Si quiere tener un enemigo, haga un favor a alguien.
+
+Ley de Vique
+
+Un hombre sin religión es como un pez sin bicicleta.
+
+Ley de Heidi
+
+La liberación de la mujer no fue tal.
+
+Quinta Regla
+
+Se ha tomado a sí mismo demasiado en serio.
+
+Observación de Sartre
+
+El infierno son los demás.
+
+Observación de Dooley
+
+Fíjese en todo el mundo, pero sea usted el que corte el bacalao.
+
+Ley de Zappa
+
+Hay dos cosas en la tierra que son universales: el hidrógeno y la estupidez.
+
+Recordatorio de Grelb
+
+El 80 por 100 de las personas se consideran mejores conductores que la media.
+
+Teorema de Munder
+
+Por cada «10» hay diez «1».
+
+Ley de Dykstra
+
+Cada uno de nosotros es la persona más rara del mundo según el otro.
+
+Ley de Meyers
+
+En una situación social, lo más difícil de hacer suele ser lo correcto.
+
+Principio de Young sobre la individualización emergente
+
+Todo el mundo quiere pelar su propio plátano.
+
+Ley de Cohen
+
+Las personas se dividen en dos grupos: los perfectos y los imperfectos… y son los perfectos los que marcan la división.
+
+Regla del criterio amplio
+
+La gente que se resiste al cambio no puede resistir cambiar a peor.
+
+Postulado de Weatherwax
+
+La vehemencia con que usted reacciona ante una información es inversamente proporcional a la exactitud de la misma.
+
+Principio de la ira
+
+No intente nunca calmar a nadie que se encuentre en el punto máximo de la ira.
+
+Ley de Thiessen sobre el arte
+
+El requisito previo definitivo para la grandeza de un artista es su propia muerte.
+
+Ley de Kent sobre la familia
+
+No cambie nunca los planes a causa del tiempo.
+
+Ley de Ely
+
+Use la ropa adecuada y el papel se representará sólo.
+
+Primera regla de la actuación
+
+Pase lo que pase, haga creer que fue intencionado.
+
+Principio de Python sobre la moralidad en televisión
+
+No tiene nada de malo el sexo en la televisión, siempre y cuando no se caiga al suelo.
+
+Leyes de Livingstone sobre la gordura
+
+1. La grasa se expande y llena cualquier ropa que se ponga.
+
+2. Una persona obesa camina siempre por el medio del pasillo.
+
+
+
+Corolario
+
+Dos personas obesas, se conozcan o no, caminarán siempre la una al lado de la otra.
+
+Ley de la llegada
+
+Los que viven más cerca, llegan más tarde.
+
+Ley de Zadra sobre la Biomecánica
+
+La intensidad del picor es inversamente proporcional a la facilidad de acceso del punto en que se produce.
+
+Las tres frases menos creíbles
+
+1. «El cheque ya está enviado».
+
+2. «Claro que te respetaré por la mañana».
+
+3. «Soy del Gobierno y estoy aquí para ayudarle».
+
+
+
+Ley de Voltaire
+
+No hay nada más respetable que una maldad antigua.
+
+
+
+
+
+MURPHYOLOGÍA MÉDICA
+
+
+
+Seis principios para los pacientes
+
+1. Sólo porque el médico sepa el nombre de su enfermedad, no significa que sepa lo que es.
+
+2. Cuanto más viejas y aburridas sean las revistas de la sala de espera, más tiempo tendrá que aguardar a que le reciban.
+
+3. Sólo los adultos tienen problemas con las botellas a prueba de niños.
+
+4. Nunca quedan bastantes pastillas para el último día de tratamiento.
+
+5. Las pastillas que hay que tomar en las comidas son las más asquerosas.
+
+
+
+
+
+Corolario
+
+Hasta el agua sabe mal cuando se toma por prescripción facultativa.
+
+6. Si parece que sus padecimientos están mejorando, lo más probable es que su médico esté poniéndose enfermo.
+
+
+
+
+
+Comentario de Lord Cohen
+
+La viabilidad de una operación no es el mejor indicativo de sus resultados.
+
+
+Leyes de Telesco sobre la enfermería
+
+Todas las intravenosas están al otro extremo del pasillo.
+
+La capacidad de un médico es inversamente proporcional a su tiempo disponible.
+
+Existen dos tipos de esparadrapo: el que no se pega y el que no puede despegarse.
+
+Todo el mundo quiere al mismo tiempo una inyección calmante.
+
+Todos los que no quieren una inyección calmante cuando usted las ofreció, la quieren cuando pasa las pastillas para dormir.
+
+
+
+
+
+Ley de Barach
+
+Un alcohólico es aquel que bebe más que su médico.
+
+
+Advertencia de Matz
+
+Tenga cuidado con el médico que es muy hábil para salir de dificultades.
+
+
+Ley de Silver sobre los médicos
+
+Nunca cicatriza bien.
+
+
+Regla de Matz sobre las medicinas
+
+Una medicina es una sustancia que, cuando se inyecta a una rata, produce un informe científico.
+
+
+Aforismo de Cochrane
+
+Antes de hacerse un análisis, decida que es lo que hará si sale:
+
+positivo.
+
+negativo.
+
+
+
+
+
+Si las dos respuestas son iguales, no se lo haga.
+
+
+Ley de Edd sobre la radiología
+
+Cuanto más fría esté la placa de las radiografías, más se la pegarán al cuerpo.
+
+
+Precepto de Bernstein
+
+La flor nacional de los radiólogos es la evasiva.
+
+
+
+
+
+DEPORTIVISMOLOGÍA
+
+
+
+Lamento del hincha sabio
+
+Los tontos entran precipitadamente… y consiguen los mejores asientos.
+
+
+Regla de Breda
+
+En todos los espectáculos, las personas cuyos asientos están más lejos del pasillo son las que llegan tarde.
+
+
+Ley de Moser sobre los deportes espectáculo
+
+Las jugadas emocionantes siempre suceden cuando usted está mirando el marcador o ha salido a comprar palomitas.
+
+
+Ley de Bob sobre los deportes televisados
+
+Si durante un partido cambia de un canal a otro para no ver los anuncios, en el segundo canal también habrá anuncios.
+
+
+Leyes de Murray sobre la pista
+
+No hay nada tan malo que no se pueda empeorar despidiendo al entrenador.
+
+El peor delantero centro es el que está en el campo.
+
+Un agente libre es todo menos eso.
+
+El fútbol es un deporte en el que participan once buenos jugadores y el equipo de casa.
+
+Todo lo que pueda ir al Madrid, irá.
+
+
+
+
+
+Leyes de Smith sobre el bridge
+
+Si tiene un semifallo o no tiene nada, entonces su compañero no pasa.
+
+Si tiene la K, la J y el 9 de diamantes y el as de picas, el idiota de su derecha tendrá el as, la Q y el 10 de diamantes y el rey de picas.
+
+Cuando es usted el que da, siempre pinta lo que peor le viene.
+
+
+
+
+
+Ley de Thomas
+
+El que no quiere jugar es el que gana todas las manos.
+
+
+Rasgo de Henry sobre la naturaleza humana
+
+Nadie ama a un ganador que gana siempre.
+
+
+Ley de Todd
+
+Si todo sigue igual, usted perderá.
+
+
+Corolario
+
+Si todo se pone a su favor, perderá lo mismo.
+
+
+Ley de Jensen
+
+Gane o pierda, perderá.
+
+
+Leyes de Porkingham sobre la pesca
+
+1. El tiempo del que disponga para ir de pesca disminuirá a medida que se acerque la temporada.
+
+2. El pescador con menos experiencia siempre es el que pesca el pez más grande.
+
+
+
+
+
+Corolario
+
+Cuanto más sofisticado y caro sea su equipo, más probabilidades tiene de pararse en la pescadería a la vuelta.
+
+3. Cuanto más se le haya enredado el sedal, más peces habrá por los alrededores.
+
+
+
+
+
+Ley de Mitchell para los futuros escaladores
+
+La montaña parece más empinada a medida que se acerca.
+
+
+Corolario de Frothingham
+
+Parece que la montaña esté más cerca de lo que está.
+
+
+Ley de Shedenhelm sobre la marcha en montaña
+
+Todos los senderos tienen más tramos cuesta arriba que cuesta abajo, independientemente del sentido de la marcha.
+
+
+Ley del Mus
+
+El compañero siempre tiene la culpa.
+
+
+Ley indiscutible de los contratos deportivos
+
+Cuanto mayor es la cantidad que figura en el contrato, menos eficaz es la temporada siguiente.
+
+
+Principio de Knox sobre la calidad de la estrella
+
+Cuando traspasan a una superestrella a su equipo favorito, se apaga. Cuando su equipo traspasa a un desconocido inútil, inmediatamente se eleva al estrellato.
+
+
+Ley de Hertzberg para caminar sobre el ala
+
+Nunca se suelte de donde esté agarrado hasta que no se haya agarrado a otra cosa.
+
+
+Ley de Lavia del tenis
+
+Un jugador mediocre se hundirá hasta el nivel de su adversario.
+
+
+Ley del Rally
+
+La única forma de compensar el haberse perdido es hacer un tiempo récord mientras está perdido.
+
+
+Leyes de Deal sobre la navegación
+
+La cantidad de viento variará en una relación inversamente proporcional al número y experiencia de las personas que lleve a bordo.
+
+No importa lo fuerte que sea la brisa cuando sale del muelle; en cuanto llegue al punto más alejado del puerto, el viento se quedará en calma.
+
+
+
+
+
+CORTESÍA EN CARRETERA
+
+
+
+Ley de Oliver sobre la posición
+
+Vaya donde vaya, ahí está.
+
+
+Primera ley del viaje
+
+Siempre se tarda más en ir que en volver.
+
+
+Ley del avión
+
+Cuando tiene que hacer un trasbordo, si el avión en el que va lleva retraso, el otro no lo lleva.
+
+
+Ley de la bicicleta
+
+Vaya por donde vaya, es siempre cuesta arriba y contra el viento.
+
+
+Ley de Kelly sobre la navegación aérea
+
+La información más importante de cualquier carta de navegación está en el doblez.
+
+
+Ley del abuelo Charnock
+
+No sabrá lo que es blasfemar hasta que no aprenda a conducir.
+
+
+Ley de Vile sobre la carretera
+
+Su coche gasta más gasolina y aceite que el de los demás.
+
+
+Principio de Phillip
+
+Conducir un vehículo de cuatro ruedas significa simplemente que puede quedarse atascado en los lugares más inverosímiles.
+
+
+Ley de Humphries sobre ciclismo
+
+El camino más corto es el que tiene las cuestas más empinadas.
+
+
+Ley del camino de la vida
+
+Si todo viene hacia usted, es que se ha equivocado de carril.
+
+
+Leyes de Athena de la cortesía al volante
+
+Si permite que alguien se ponga delante de usted:
+
+El coche de delante será el último en atravesar un paso a nivel y usted se quedará sin poder moverse hasta que termine de pasar un tren largo y lento; o
+
+Los dos irán al mismo sitio y el otro ocupará la última plaza de aparcamiento libre.
+
+
+
+
+
+Postulado de Lemar sobre el aparcamiento
+
+Si tuvo que dejar el coche a seis manzanas, encontrará dos huecos justo a la entrada del edificio.
+
+
+Ley de Gray para los autobuses
+
+Un autobús que no llega, sólo aparecerá cuando el pasajero potencial haya ido andando hasta un punto tan cercano al destino que ya no merezca la pena coger el autobús.
+
+
+Ley de McKee
+
+Cuando no tenga prisa, el semáforo se pondrá verde antes de parar el coche.
+
+
+Ley de Quigley
+
+Un coche y un camión que se van a cruzar en una carretera desierta, se encontrarán siempre en el paso más estrecho.
+
+
+Primera ley del tráfico
+
+El carril lento en el que ha estado parado tanto tiempo, empezará a moverse cuando usted se haya cambiado al otro.
+
+
+Segunda ley del tráfico
+
+La hora de margen que tomó por el tráfico se quedará corta, porque se pasará hora y media en un atasco.
+
+
+Ley de Reece
+
+La velocidad de un vehículo que se acerca es directamente proporcional al espacio de la zona de cruce.
+
+
+Ley de Lovka sobre la conducción
+
+No habrá tráfico hasta que necesite torcer a la izquierda.
+
+
+Axioma de Freeway
+
+El conductor de detrás quiere ir cinco kilómetros por hora más deprisa.
+
+
+Parachoques contra parachoques
+
+La congestión de tráfico es directamente proporcional al tiempo que lleva el guardia dirigiendo la circulación.
+
+
+Ley de Drew sobre la biología en la autopista
+
+El primer bicho que se estrella contra un parabrisas limpio lo hace siempre a la altura de los ojos.
+
+
+Ley de la construcción de autopistas
+
+Las carreteras por las que pasan más coches son las que están más tiempo en obras.
+
+
+Definición de Karinthy
+
+Un autobús es un vehículo que va por el otro carril y en sentido contrario.
+
+
+Axioma de Winfield sobre el arte de dar una dirección
+
+La posibilidad de perderse es directamente proporcional al numero de veces que le digan «no puedes perderte».
+
+
+Ley de Jean sobre los automotores
+
+Todo coche que se utilice como «segundo vehículo» se romperá en cuanto el otro tenga una avería.
+
+
+Leyes de Bromberg sobre la reparación de automóviles
+
+Si puede localizar la pieza averiada, no tendrá herramientas para sacarla.
+
+Cuando pueda sacarla, en la tienda de repuestos le dirán que no la tienen ahora, pero que está pedida.
+
+Si en la tienda tienen existencias, es que no necesitaba cambiarla.
+
+
+
+
+
+Ley de Miller sobre los seguros
+
+El seguro lo cubre todo excepto lo que pasa.
+
+
+Principio de Milstead sobre conducción
+
+Si necesita parar un momento para retocarse el maquillaje, todos los semáforos estarán en verde.
+
+
+Ley de Femo sobre la reparación del motor
+
+Si se le cae algo, nunca llegará al suelo.
+
+
+Leyes de Bromberg sobre la reparación del motor
+
+Cuando se presenta la necesidad, cualquier objeto o herramienta que tenga a mano se conviene en un martillo.
+
+Aunque la reparación sea pequeña, usted terminará lleno de grasa y de aceite.
+
+En caso necesario, pueden usarse indistintamente las herramientas en sistema métrico o en pulgadas.
+
+
+
+
+
+MURPHYOLOGÍA DOMÉSTICA
+
+
+
+Ley de O’Reilly sobre la cocina
+
+La limpieza es algo casi imposible.
+
+
+Siete reglas del desorden en la cocina
+
+1. Los aparatos multiusos no cumplen adecuadamente ninguna de sus funciones.
+
+
+
+
+
+Corolario
+
+Cuanto más caro sea el artefacto, menos se usará.
+
+2. Cuanto más sencillas sean las instrucciones (por ejemplo, «Presionar aquí»), más difícil será abrir la caja.
+
+3. Si encuentra una receta de su abuela en un libro viejo, el ingrediente más importante será ilegible.
+
+
+
+
+
+Corolario
+
+Descubrirá que es ilegible sólo después de haber mezclado todos los demás ingredientes.
+
+4. Una vez que se haya estropeado un guiso, cualquier cosa que añada para arreglarlo lo empeorará.
+
+5. Siempre recibirá alabanzas por el plato más fácil de preparar.
+
+Ejemplo:
+
+Si hace «pato à l’orange» le felicitarán por las patatas asadas.
+
+6. Su invitado será alérgico al único ingrediente que le costó trabajo encontrar.
+
+7. Cuanto más tiempo y energía dedique a preparar un plato, más posibilidades tiene de que sus invitados se pasen la comida comentando los manjares que han tomado en otros sitios.
+
+
+
+
+
+Leyes de trabajo de la cocinera
+
+Si no recuerda si ha sacado la carne del congelador, es que no lo ha hecho.
+
+Si no recuerda si se ha dejado la cafetera enchufada, es que sí se la ha dejado.
+
+Si no recuerda si tiene que comprar pan y huevos, es que no quedan.
+
+Si no sabe si tiene suficiente dinero para invitar a su familia a comer fuera, es que no tiene.
+
+
+
+
+
+Leyes de Alice Hammond sobre la cocina
+
+Los soufflés suben y la crema queda bien batida sólo para la familia y para los comensales a los que se ve obligado a invitar.
+
+El huevo podrido será el que ponga en la masa del pastel.
+
+Cualquier utensilio que acabe de poner en el lavavajillas lo necesitará inmediatamente para otra cosa; cualquier taza de medida que haya empleado para un líquido la necesitará inmediatamente después para un ingrediente seco.
+
+El tiempo que se tarda en consumir una comida es inversamente proporcional al tiempo que usted invirtió en prepararla.
+
+Haga lo que haga de cena, alguien lo habrá tomado a la hora de comer.
+
+
+
+
+
+Ley de la fiesta
+
+Cuantas más cosas prepare, menos comerán los invitados.
+
+
+Ley de la señora Weiler
+
+Se puede comer cualquier cosa siempre que se parta en trocitos muy pequeños.
+
+
+Ley de Fausner sobre las tareas domésticas
+
+Siempre se cortará un dedo con ese cuchillo mal afilado que no sirve ni para el pan.
+
+
+Regla de Hamilton para limpiar la cristalería
+
+La mancha que está limpiando siempre está al otro lado.
+
+
+Corolario
+
+Si está en el interior, quedará fuera de su alcance.
+
+
+Definición de Fausner
+
+El trabajo doméstico es eso que no se nota a no ser que no se haya hecho.
+
+
+Ley de Yeager
+
+Las lavadoras sólo se rompen cuando están funcionando.
+
+
+Corolarios
+
+Todas las averías suceden el día de descanso del fontanero.
+
+El precio de la reparación se obtiene multiplicando el precio de su abrigo nuevo por 1,75 dólares o el de una lavadora nueva por 0,75 centavos.
+
+
+
+
+
+Ley de Walker para el trabajo domestico
+
+Siempre hay más ropa para lavar que ropa limpia.
+
+
+Refutación de Clive a la Ley de Walker
+
+Si está limpia, no es ropa.
+
+
+Ley de Skoff
+
+Un niño nunca derramará nada en un suelo sucio.
+
+
+Ley de Van Roy
+
+Un juguete irrompible sirve para romper otros.
+
+
+Leyes de Witzling sobre el comportamiento de la progenie
+
+Cualquier niño que habla sin parar en casa, se niega obstinadamente a abrir la boca cuando se le pide que diga una gracia delante de las visitas.
+
+Cualquier niño introvertido y tímido escogerá un lugar público y lleno de gente para ensayar a voz en grito su nuevo vocabulario (coño, joder, etc.).
+
+
+
+
+
+Leyes de H. Fish sobre el comportamiento animal
+
+La probabilidad de que un gato coma no tiene nada que ver con el precio de la lata.
+
+La probabilidad de que un animal doméstico organice un escándalo, porque quiere entrar o salir, es directamente proporcional al número e importancia de los invitados.
+
+
+
+
+
+Corolario de Fiske sobre los adolescentes para la Ley de Parkinson
+
+El estómago se expande hasta alojar cantidades ingentes de porquerías.
+
+
+Principio del Plátano
+
+Si compra plátanos o aguacates antes de que estén maduros, no quedará ninguno para cuando estén maduros. Pero si los compra maduros, se pudren antes de que nadie se los coma.
+
+
+Ley de Ballance sobre la relatividad
+
+La duración de un minuto depende del lado de la puerta del baño en que se encuentre.
+
+
+Postulado de Britt sobre las plantas
+
+La esperanza de vida de una planta es inversamente proporcional al precio y directamente proporcional a la fealdad de la misma.
+
+
+Primera ley de Marquette sobre las reparaciones domésticas
+
+La herramienta que necesita es exactamente la que no tiene a mano.
+
+
+Segunda ley de Marquette sobre las reparaciones domésticas
+
+El primer repuesto que compre no será del tamaño adecuado.
+
+
+Tercera ley de Marquette sobre las reparaciones domésticas
+
+Encontrará la herramienta que ha perdido inmediatamente después de comprar otra igual.
+
+
+Ley de Malone sobre las tareas domésticas
+
+Si espera al fontanero durante todo el día, se estará todo el tiempo metido en casa. Si sale cinco minutos, cuando llegue ya se habrá marchado.
+
+
+Ley de Minton sobre la pintura
+
+Todas las pinturas, sea cual sea su composición, se adhieren permanentemente a cualquier superficie (preparada o no) si caen sobre ella accidentalmente.
+
+
+Ley de Kitman
+
+Los diálogos babosos suelen gotear de la pantalla de televisión.
+
+
+Ley de las reposiciones
+
+Si ha visto sólo una vez una serie de televisión, cuando la vuelva a ver será una reposición del mismo capítulo.
+
+
+Leyes de Jones sobre la programación de televisión
+
+Si sólo hay dos programas que merece la pena ver, serán a la misma hora.
+
+El único programa nuevo que merece la pena ver lo suprimirán.
+
+El programa que ha estado deseando ver toda la semana estará codificado.
+
+
+
+
+
+Principios universales de Bess
+
+Siempre suena el teléfono cuando usted está al otro lado de la puerta y no encuentra las llaves.
+
+Cogerá el aparato justo a tiempo para oír colgar a quien llamaba.
+
+
+
+
+
+Problema de Kovac
+
+Cuando se equivoca al marcar, nunca está comunicando.
+
+
+Aplicación de Ryan a la Ley de Parkinson
+
+El número de cachivaches aumenta hasta superar el espacio disponible para guardarlos.
+
+
+Ley de Ringwald sobre la geometría doméstica
+
+Toda superficie horizontal desaparece bajo una pila de objetos varios.
+
+
+Principio de la piña
+
+Es imposible separar las partes mejores de las malas.
+
+
+Axioma de O’Toole
+
+Un niño no es suficiente, pero dos son una muchedumbre.
+
+
+Relatividad para Niños
+
+El tiempo pasa más despacio en un vehículo que se mueve a toda velocidad.
+
+
+Dilema de Diner
+
+Las corbatas limpias atraen la sopa.
+
+
+Ley de Thiessen sobre la gastronomía
+
+La dureza de la mantequilla es directamente proporcional a la blandura de la tostada.
+
+
+Teorema de Bell
+
+Cuando un cuerpo se sumerge en agua suena el teléfono.
+
+
+Ley de los supermercados
+
+La calidad de la marca de la casa es inversamente proporcional al tamaño de la cadena de tiendas.
+
+
+Ley de la bolsa de la compra
+
+La chocolatina que pensaba comerse por el camino siempre está en el fondo de la bolsa.
+
+
+Principio de Woodside sobre la compra
+
+La bolsa que se rompe siempre es la de los huevos.
+
+
+Principio de Stitzer sobre las vacaciones
+
+Cuando esté haciendo el equipaje, meta la mitad de la ropa que había pensado y el doble de dinero.
+
+
+Ley de Snider
+
+No se puede hacer nada en un solo viaje.
+
+
+Ley de Esther
+
+A la persona más exigente siempre le tocará la taza de café desconchada, el vaso con restos de pintura de labios o el pelo en la sopa.
+
+
+Ley de Pope
+
+Los platos desportillados no se rompen.
+
+
+Principio del animal doméstico
+
+Se ponga al lado de la puerta que se ponga, siempre estará donde no debe.
+
+
+Ley de Boren sobre los gatos
+
+En caso de duda, lávelo.
+
+
+Ley de Horowitz
+
+Siempre que ponga la radio, escuchará las últimas notas de su canción favorita.
+
+
+Ley de Zelman sobre la recepción radiofónica
+
+Su radio de pilas no sintoniza la emisora que más le apetece escuchar.
+
+
+Ley de Gerard
+
+Cuando tiene fondos en su cuenta corriente, tardan dos semanas en pasarle los cheques. Cuando no tiene fondos, se los pasan el mismo día.
+
+
+Principio de Seymour sobre inversión
+
+No invierta nunca en nada que coma.
+
+
+Última ley del diseño de productos
+
+Si no lo puede arreglar, tírelo.
+
+
+Ley de Pantuso
+
+El libro por el que acaba de pagar 7.800 pesetas saldrá mañana en edición de bolsillo.
+
+
+Leyes de Riley sobre las «Leyes de Murphy»
+
+Las librerías que tienen el volumen I no saben nada del volumen II.
+
+En las librerías que tienen el volumen II se les ha agotado el volumen I.
+
+Ed Murphy no conoce la existencia de ninguno de los dos libros.
+
+
+
+
+
+Ley de Vile sobre el valor
+
+Cuanto más caro es un artefacto, más lejos está el taller de reparaciones.
+
+
+Leyes de Murray
+
+No le pregunte nunca a un peluquero si le hace falta un corte de pelo.
+
+No le pregunte nunca a un vendedor si su precio es ajustado.
+
+
+
+
+
+Ley de Glaser
+
+Si la etiqueta dice “Talla única”, le quedará fatal a todo el mundo.
+
+
+Reglas de Goldenstern
+
+Contrate siempre a un abogado rico.
+
+No le compre nada a un vendedor rico.
+
+
+
+
+
+CONSUMIDOROLOGÍA Y EL ARTE DE VENDER
+
+
+
+Ley de Herblock
+
+Si es bueno, dejan de fabricarlo.
+
+
+Ley de Gold
+
+Si el zapato le queda bien, es feísimo.
+
+
+Leyes de Hadley sobre la compra de ropa
+
+Si le gusta, no tienen su talla.
+
+Si le gusta y tienen su talla, no le sienta bien.
+
+Si le gusta y le sienta bien, es tan caro que no puede comprarlo.
+
+Si le gusta, le sienta bien y se puede permitir el lujo de comprarlo, se romperá la primera vez que se lo ponga.
+
+
+
+
+
+Principio de Finman sobre la sección de oportunidades
+
+Lo que usted quiere nunca está rebajado.
+
+
+Corolario de Baker al Principio de la Sección de Oportunidades de Finman
+
+Lo que puede comprar siempre es feo.
+
+
+Axioma de Madison Avenue de McGowan
+
+Si se anuncia que el precio de un artículo es «menos de 15.000», se puede apostar la cabeza a que no costará 2.130.
+
+
+Reglas de Hershiser
+
+Cualquier cosa que lleve la etiqueta «NUEVA» y/o «FÓRMULA PERFECCIONADA», no lo es.
+
+La etiqueta «NUEVA» y/o «FÓRMULA PERFECCIONADA», significa que ha subido.
+
+La etiqueta «COMPLETAMENTE NUEVO», «TODO NUEVO» o «GRAN NOVEDAD», significa que el precio se ha puesto por las nubes.
+
+
+
+
+
+Ley del mercado
+
+Si sólo se puede obtener un precio para una cotización de bolsa, este precio no será nada razonable.
+
+
+Segunda ley del mercado
+
+Las ofertas de fin de semana no son tales.
+
+
+Ley de Sineto sobre el consumismo
+
+Una garantía de sesenta días es la promesa de que el objeto se autodestruirá el día sexagésimo primero.
+
+
+Ley de Savignano sobre los pedidos por correo
+
+Si no escribe una carta de reclamación, no recibirá su pedido.
+
+Si la escribe, recibirá sus artículos antes de que la carta llegue a su destino.
+
+
+Ley de Beryl
+
+El artículo sobre un producto en «La Revista del Consumidor» aparecerá justo una semana después de que lo haya comprado.
+
+
+Corolarios
+
+El que usted compró, estará clasificado como «Inaceptable».
+
+El que estuvo a punto de comprar, pero no se decidió, recibirá la calificación de «El Mejor».
+
+
+
+
+
+Ley de Yount sobre las compras por correo
+
+El artículo más importante de un pedido estará agotado.
+
+Para el segundo más importante, le pondrán en lista de espera y se lo enviarán a los seis meses.
+
+Durante esos seis meses, lo verá más barato en casi todas las tiendas.
+
+En cuanto entre en la categoría de «agotado», ya no lo podrá encontrar en ningún sitio y a ningún precio.
+
+
+
+
+
+Ley de Lewis
+
+La gente compra cualquier cosa de la que se venda un sólo artículo por comprador.
+
+
+
+
+
+PROBLEMÁTICA
+
+
+
+Ley de Smith
+
+Ningún problema verdadero tiene solución.
+
+
+Ley de Hoare sobre los grandes problemas
+
+En cada problema grande hay un problema pequeño que lucha por salir.
+
+
+Ley inversa de Schainker a la Ley de Hoare sobre los grandes problemas
+
+En cada problema pequeño hay un problema grande que lucha por salir.
+
+
+Ley de Big Al
+
+A casi todos los problemas se les puede aplicar con éxito una buena solución.
+
+
+Observación de Baruch
+
+Si todo lo que tiene es un martillo, cualquier cosa que vea le parecerá un clavo.
+
+
+Fox sobre la problemática
+
+Cuando un problema desaparece, la gente que se esforzaba por resolverlo no lo hace.
+
+
+Aforismo de Disraeli
+
+El error es, con frecuencia, más impetuoso que la verdad.
+
+
+Principio de Waldrop
+
+La persona ausente es la que está intentando solucionar el problema.
+
+
+Ley de Biondi
+
+Si su proyecto no funciona, investigue la parte que pensó que no tenía importancia.
+
+
+Ley de Van Gogh
+
+Sea cual sea el proyecto, siempre hay una dificultad oculta en alguna parte.
+
+
+Regla romana
+
+El que afirma que no se puede hacer, no debe interrumpir al que lo está haciendo.
+
+
+Observación de Blair
+
+Los mejores proyectos realizados por hombres y por ratones, suelen ser casi iguales.
+
+
+Ley de Seay
+
+Nada sale nunca como se planeó
+
+
+Ley de Ruckert
+
+No hay nada tan pequeño que no pueda explotar violentamente.
+
+
+Ley de Van Herpen
+
+La solución de un problema consiste en encontrar a alguien que lo resuelva.
+
+
+Ley de Baxter
+
+El error en la premisa aparecerá en la conclusión.
+
+
+Ley de Hall
+
+Los medios justifican los medios. El enfoque de un problema es más importante que su solución.
+
+
+Ley de McGee
+
+Es sorprendente el tiempo que se necesita para terminar algo en lo que no se está trabajando.
+
+
+Homilía de Holten
+
+El único momento en que conviene ser positivo es cuando se está positivamente seguro de estar equivocado.
+
+
+Ley de Sevareid
+
+La causa principal de los problemas son las soluciones.
+
+
+
+
+
+COSMOMURPHYOLOGÍA
+
+
+
+Ley de la Vida
+
+En cuanto se ponga a hacer lo que siempre ha deseado, se dará cuenta de que le apetece hacer otra cosa.
+
+
+Ley de Olivier
+
+La experiencia es algo que se consigue cuando ya no se necesita.
+
+
+Primera regla de patología
+
+La mayor parte de los caminos más transitados no conducen a ninguna parte.
+
+
+Observación de Gabitol
+
+Los sabios están satisfechos cuando descubren la verdad; los necios, cuando descubren la falsedad.
+
+
+Ley de Foster
+
+Las únicas personas que encuentran lo que buscan en la vida son los criticones.
+
+
+Primer principio de autodeterminación
+
+Si resiste, vencerá.
+
+
+Ley de Colridge
+
+Los extremos se tocan.
+
+
+Preceptos de Steiner
+
+El conocimiento que se fundamenta en la evidencia externa, no es fiable.
+
+La lógica no puede decidir nunca lo que es posible y lo que no lo es.
+
+
+
+
+
+Principio de Feinberg
+
+La memoria sirve a su propio amo.
+
+
+Ultima ley de la robótica
+
+Los únicos errores reales son los errores humanos.
+
+
+Ley de Young
+
+Sólo cuando tropiece con sus zapatos, empezará a recogerlos.
+
+
+Ley de Hoffer
+
+Cuando las personas son libres de hacer lo que quieran, suelen imitarse unas a otras.
+
+
+Primera Ley de Berra
+
+Se puede observar mucho si simplemente se presta atención.
+
+
+Segunda Ley de Berra
+
+Cualquiera que sea popular está condenado a caer antipático.
+
+
+Ley de Perlsweig
+
+Todo lo que gira da vueltas.
+
+
+Máxima de Meadow
+
+No se puede empujar una cuerda.
+
+
+Ley de Oppenheimer
+
+La experiencia instantánea no existe.
+
+
+Regla de Disimoni sobre la cognición
+
+Creer es ver.
+
+
+Principio Suddharta
+
+No se puede cruzar un río de dos zancadas.
+
+
+Observación de Kierkegaard
+
+La vida sólo se comprende mirando hacia atrás, pero se debe vivir hacia delante.
+
+
+Argumento de Lord Balfour
+
+No hay nada que importe mucho y muy pocas cosas tienen alguna importancia.
+
+
+
+
+
+METALEYES
+
+
+
+Metaley de Los Miserables
+
+Todas las leyes, buenas, malas o indiferentes, se deben obedecer al pie de la letra.
+
+
+Postulado de Persig
+
+El número de hipótesis que pueden explicar un fenómeno dado es infinito.
+
+
+Metaley de Lilly
+
+Todas las leyes son simulacros de la realidad.
+
+
+Principio fundamental
+
+Por definición, cuando usted está investigando lo desconocido no sabe qué es lo que va a descubrir.
+
+
+Metaley de Cooper
+
+La proliferación de leyes nuevas produce una proliferación de trampas.
+
+
+Ley de Digiovanni
+
+El número de leyes se multiplicará hasta cubrir todo el espacio editorial disponible.
+
+
+Bendición de Leo Rogers para el volumen II
+
+Si merece la pena hacerlo, merece la pena hacerlo exageradamente bien.
+
+
+Observación de Rogers sobre las leyes
+
+En una jerarquía burocrática, cuanto más se asciende en el escalafón, menos se perciben las Leyes de Murphy, las Leyes de Peter, etc.
+
+
+Postulado político de Andra
+
+La fundación de un partido político señala la disolución del movimiento.
+
+
+Principios de la elaboración de Las Leyes de Oak
+
+La velocidad a que se expande una ley es proporcional a los recursos para que se cumpla.
+
+Una ley mala tiene más probabilidades de ser sustituida que derogada.
+
+La legislación social no puede derogar las leyes de la física.
+
+
+
+
+
+Regla política de Marx
+
+En cuanto se hacen ricos, se vuelven conservadores.
+
+
+Precepto de Jaffe
+
+Es imposible conocer algunas cosas, pero es imposible saber cuáles son.
+
+
+Regla de las promesas políticas
+
+La verdad varía.
+
+
+Regla de Muir
+
+Si tratamos de aislar algo, lo encontraremos asociado a todo lo que existe en el universo.
+
+
+Axioma de Ducharm
+
+Si observa su problema muy de cerca, se reconocerá como parte de él.
+
+
+Ley de la distinción arbitraria
+
+Puede dividir cualquier cosa en tantas partes como desee.
+
+
+Corolario
+
+Todo se puede dividir en tantas partes como usted desee.
+
+
+Comentario al colorario
+
+En este caso, se puede considerar que todo es un subconjunto de cualquier cosa.
+
+
+Observación de Wallace
+
+Todas las cosas se encuentran en estado de desmelene absoluto.
+
+
+Ley última
+
+Si algunas cosas que podían haber ido mal no se han torcido, a la larga hubiera sido beneficioso que hubieran ido mal.
+
+
+Axioma de Welwood
+
+El desorden se expande proporcionalmente a la indulgencia con el mismo.
+
+
+Ley de Hartley
+
+Puede meter a un caballo en el agua, pero si consigue que se ponga de espaldas y haga el muerto, es usted Superman.
+
+
+Ley de Weaver
+
+Cuando varios periodistas van en el mismo taxi a cubrir una noticia, paga el que va delante.
+
+
+Corolario de Doyle
+
+Vayan los que vayan y pague quien pague, todos incluyen el precio de la carrera en su cuenta de gastos.
+
+
+Ley de Johnson
+
+Si en el transcurso de varios meses sólo se producen tres acontecimientos sociales importantes, sucederán la misma noche.
+
+
+Ley de Matsch
+
+Es mejor tener un horrible final que sufrir horrores sin fin.
+
+
+Postulado de Jacquin sobre el Gobierno democrático
+
+Ni la vida del ciudadano, ni su libertad, ni sus propiedades se encuentran a salvo mientras está reunido el Senado.
+
+
+Ley de Fowler
+
+Lo único imperfecto en la naturaleza es la raza humana.
+
+
+Ley de Terman sobre la innovación
+
+Si quiere que un equipo resulte vencedor en el salto de altura, debe buscar una persona que salte 2,40 m en vez de ocho que salten 30 cm.
+
+
+Paradoja de Trischmann
+
+Una pipa proporciona tiempo al sabio para pensar y algo que llevarse a la boca al necio,
+
+
+Ley de Bucy
+
+Un hombre razonable nunca termina nada.
+
+
+Comentario de Churchill sobre el hombre
+
+En ocasiones, el hombre tropieza con la verdad pero, casi siempre, evita caerse y sigue adelante.
+
+
+Ley de Haldane
+
+El universo no sólo es más misterioso de lo que imaginamos, sino que lo es más de lo que podemos imaginar.
+
+
+Ley de Kerr-Martin
+
+Cuando tratan de resolver sus propios problemas, los enseñantes son de lo más conservadores.
+
+Cuando tratan de resolver problemas ajenos son extremadamente liberales.
+
+
+
+
+
+Ley de observación
+
+Nada es tan bonito de cerca como de lejos.
+
+O… nada es tan bonito de lejos como de cerca.
+
+
+Axioma de Aquino
+
+Lo que los dioses pueden hacer impunemente, les está prohibido a las vacas.
+
+
+Séptima ley (poco conocida) de Newton
+
+Es mejor un pájaro en mano que uno volando.
+
+
+Teorema de Chappaquiddick de White
+
+Cuanto antes se anuncien las malas noticias y cuantos más detalles se den, mejor.
+
+
+
+
+
+Notas.-
+
+
+
+* * *
+
+
+
+1) De la obra Systemantics, de John Gall (Quadrangle/New York Times Book Co., 1977).[volver]
+
+
+
+
+

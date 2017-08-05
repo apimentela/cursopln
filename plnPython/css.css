@@ -28,7 +28,6 @@ h2 {
 	font-size:4vmin;
 	clear: both;
 	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
-	background: #ADD8E6;
 }
 
 .encabezado {
@@ -48,7 +47,14 @@ h2 {
 
 .titulo {
 	clear:both;
+}
+
+h2 , .titulo {
 	background: #ADD8E6;
+/*
+	border-top-style:solid;
+	border-top-color:#7F7F7F;
+*/
 }
 
 .herramientas {
@@ -131,6 +137,14 @@ input[type=radio]:checked + .info-button img{
     border-bottom-color: green;
 }
 
+label[for=cierre] img{
+	border-radius:5px;
+	padding:2px;
+	border-style: solid;
+	border-color:white;
+    border-top-color: green;
+}
+
 .herramientas .corpus-block img{
 	max-width:80%;
 	max-height:120px;
@@ -148,6 +162,55 @@ input[type=checkbox]:checked + .corpus-block{
 	height:auto;
 }
 
+
+
+.clases {
+	text-align: center;
+}
+
+.clases .contenido {
+	padding:12px;
+	vertical-align:middle;
+/*
+	background:#E6E6FA;
+*/
+}
+
+
+.clases .elemento{
+	display:inline-block;
+	width:25%;
+	padding:2%;
+}
+
+.clases .icono{
+	display:inline-block;
+	max-width:80%;
+}
+
+.clases .icono img{
+	border-radius:10px;
+	vertical-align:middle;
+	max-width:100%;
+	max-height:80px;
+	padding:1.5px;
+}
+
+.clases .icono img:hover{
+	padding:0;
+	border-bottom-style:solid;
+	border-right-style:solid;
+	border-color:#7F7F7F;
+}
+
+.clases .icono a:visited{
+	display:inline-block;
+	border-radius:10px;
+	background:#BFB0BF;
+}
+
+
+
 .contacto .contenido {
 	display:inline-block;
 	margin:auto;
@@ -156,6 +219,12 @@ input[type=checkbox]:checked + .corpus-block{
 
 .pie {
 	text-align: center;
+}
+
+.patrocinio , .fin img{
+/*
+	background:#E6E6FA;
+*/
 }
 
 .pie .logos {
@@ -176,6 +245,6 @@ input[type=checkbox]:checked + .corpus-block{
 
 .fin img{
 	max-height: 100px;
-	margin-top:5%;
+	padding-top:5%;
 	width:100%;
 }

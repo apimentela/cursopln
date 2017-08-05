@@ -1,0 +1,192 @@
+RESOLUCIÓN MEDIANTE LA CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES DETERMINA LAS CONDICIONES DE INTERCONEXIÓN NO CONVENIDAS ENTRE LA EMPRESA TOTAL PLAY TELECOMUNICACIONES S.A. DE C.V. Y LAS EMPRESAS AT&T OPCO UNE MEX, S. DE R.L. DE C.V., AT&T DESARROLLO EN COMUNICACIONES DE MÉXICO, S. DE R.L. DE C.V., AT&T DEL GOLFO, S. DE R.L. DE C.V., AT&T COMCENTRO, S. DE R.L. DE C.V., AT&T DEL OCCIDENTE, S. DE R.L. DE C.V., AT&T SURESTE, S. DE R.L. DE C.V., AT&T NORTE, S. DE R.L. DE C.V. Y AT&T CENTRAL, S. DE R.L. DE C.V. APLICABLES DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2016.
+  
+                                 ANTECEDENTES
+  
+ Concesión de Total Play Telecomunicaciones S.A. de C.V., (en lo sucesivo, "Total Play"), es un Operador  que cuenta con una concesión para instalar, operar y explotar una red pública de telecomunicaciones al amparo de los títulos de concesión otorgados conforme a la legislación aplicable e inscritos en el Registro Público de Concesiones del Instituto Federal de Telecomunicaciones (en los sucesivo, el "Instituto").
+
+ Concesiones de las empresas AT&T Central, S. de R.L. de C.V., AT&T del Golfo, S. de R.L. de C.V., AT&T Comcentro, S. de R.L. de C.V., AT&T del Occidente, S. de R.L. de C.V., AT&T Norte, S. de R.L. de C.V., AT&T Desarrollo en Comunicaciones de México, S. de R.L. de C.V., y AT&T Sureste, S. de R.L. de C.V. (en lo sucesivo, "Grupo AT&T "), y AT&T Opco Une Mex, S. de R.L. de C.V., (en los sucesivo, "AT&T Opco Une Mex), Grupo AT&T y AT&T Opco Une Mex son Operadores que cuentan con una concesión para instalar, operar y explotar una red pública de telecomunicaciones al amparo de los títulos de concesión otorgados conforme a la legislación aplicable e inscritos en el Registro Público de Concesiones del Instituto.
+
+ Metodología para el cálculo de costos de interconexión. El 18 de diciembre de 2014, se publicó en el Diario Oficial de la Federación (en lo sucesivo, "DOF"), el "ACUERDO mediante el cual el Pleno del Instituto Federal de Telecomunicaciones emite la metodología para el cálculo de costos de interconexión de conformidad con la Ley Federal de Telecomunicaciones y Radiodifusión", aprobado mediante Acuerdo P/IFT/EXT/161214/277 (en lo sucesivo, la "Metodología de Costos").
+      
+ Sistema Electrónico de Solicitudes de Interconexión. El 29 de diciembre de 2014 se publicó en el DOF el "ACUERDO mediante el cual el Pleno del Instituto Federal de Telecomunicaciones establece el Sistema Electrónico de Solicitudes de Interconexión" (en lo sucesivo, el "Acuerdo del Sistema"), mediante el cual se estableció el Sistema Electrónico de Solicitudes de Interconexión, (en lo sucesivo, el "SESI").
+
+ Publicación de Tarifas de Interconexión del año 2016. El 1 de octubre de 2015, el Instituto publicó en el DOF el "ACUERDO mediante el cual el Pleno del Instituto Federal de Telecomunicaciones determina las tarifas de interconexión resultado de la metodología para el cálculo de costos de interconexión que se utilizará para resolver los desacuerdos de interconexión que se presenten respecto de las condiciones aplicables al año 2016", aprobado mediante Acuerdo P/IFT/EXT/120815/347 (en lo sucesivo, el "Acuerdo de Tarifas 2016").
+  
+ Procedimiento de resolución de condiciones de interconexión no convenidas El 15 de enero de 2016, los representantes legales de Grupo AT&T, AT&T Opco Une Mex y Total Play presentaron de manera conjunta, ante el Instituto, escritos mediante los cuales solicitaron su intervención para resolver los términos, tarifas y condiciones que no pudieron convenir para la interconexión de sus respectivas redes públicas de telecomunicaciones, aplicables para el periodo 2016 (en lo sucesivo, las "Solicitudes de Resolución").
+  
+  Las Solicitudes de Resolución se admitieron a trámite asignándoles los números de expediente que se indican más adelante. Asimismo y toda vez que los procedimientos iniciados de manera conjunta por una parte por Grupo AT&T y Total Play y por la otra por AT&T Opco Une Mex y Total Play tienden al mismo efecto, en términos del artículo 45 de la Ley Federal de Procedimiento Administrativo (en lo sucesivo, la "LFPA") y siendo legalmente factible, se ordenó la acumulación del más nuevo al más antiguo, quedando acumulados en el procedimiento administrativo iniciado de manera conjunta por AT&T Opco Une Mex y Total Play, identificado con el número de expediente IFT/221/UPR/DG-RIRST/004.151016/ITX.
+  
+                                Folio del SESI
+                           Expediente administrativo
+                                   Modalidad
+                            Inicio de negociaciones
+IFT/UPR/2088
+IFT/221/UPR/DG-RIRST/005.151016/ITX
+Red Local Fija de Total Play - Red Local Móvil Grupo AT&T para el periodo 2016.
+                                  19-nov-2015
+IFT/UPR/2092
+IFT/221/UPR/DG-RIRST/004.151016/ITX
+Red Local Fija de Total Play - Red Local fija AT&T Opco Une Mex para el periodo 2016.
+                                  19-nov-2015
+  
+  El procedimiento fue sustanciado en todas y cada una de sus etapas en estricto apego a lo establecido en el artículo 129 de la LFTyR, lo cual se encuentra plenamente documentado en las constancias que integran el expediente administrativo en comento, mismo que ha estado en todo momento a disposición de las partes, las cuales tienen pleno conocimiento de su contenido.
+  
+  Es así que con fecha 5 de febrero de 2016, el Instituto notificó a las partes que el procedimiento guardaba estado para que el Pleno del Instituto dictase la resolución correspondiente.
+  
+En virtud de los referidos Antecedentes, y
+
+                                 CONSIDERANDO
+
+PRIMERO.- Competencia del Instituto. De conformidad con los artículos 6, apartado B fracción II y 28, párrafos décimo quinto y décimo sexto de la Constitución Política de los Estados Unidos Mexicanos (en lo sucesivo, la "Constitución") y 7 de la LFTyR; el Instituto es un órgano público autónomo, independiente en sus decisiones y funcionamiento, con personalidad jurídica y patrimonio propio, que tiene por objeto regular y promover la competencia y el desarrollo eficiente de las telecomunicaciones y la radiodifusión en el ámbito de las atribuciones que le confiere la Constitución y en los términos que fijan la LFTyR y demás disposiciones aplicables. 
+
+Con fundamento en los artículos 7, 15, fracción X, 17, fracción I y 129 de la LFTyR, el Pleno del Instituto está facultado, de manera exclusiva e indelegable, para resolver y establecer los términos, condiciones y tarifas de interconexión que no hayan podido convenir los concesionarios respecto de sus redes públicas de telecomunicaciones, una vez que se solicite su intervención.
+
+Por lo anterior y de conformidad con lo dispuesto en los artículos indicados, el Pleno del Instituto es competente para emitir la presente Resolución que determina los términos, condiciones y tarifas de interconexión no convenidas entre los concesionarios de redes públicas de telecomunicaciones, que forman parte en el presente procedimiento.
+
+SEGUNDO.- Importancia y obligatoriedad de la interconexión e Interés Público.- El artículo 6, apartado B, fracción II de la Constitución establece que las telecomunicaciones son servicios públicos de interés general, y es el deber del Estado garantizar que se presten en condiciones de competencia, calidad, pluralidad, cobertura universal, interconexión, convergencia, continuidad, acceso libre y sin injerencias arbitrarias.
+
+Por su parte, el artículo 2 de la LFTyR, en concordancia con la Constitución señala que las telecomunicaciones son servicios públicos de interés general y que corresponde al Estado ejercer la rectoría en la materia, proteger la seguridad y la soberanía de la Nación y garantizar su eficiente prestación. Para tales efectos el Instituto establecerá condiciones de competencia efectiva en la prestación de dichos servicios; toda vez que con un mecanismo de mercado se atiende en última instancia al interés del público usuario, en términos de lo establecido en los artículos 7, 124 y 125 de la LFTyR.
+
+Por ello, el legislador estableció (i) la obligación de todos los concesionarios de redes públicas de telecomunicaciones de adoptar diseños de arquitectura abierta para garantizar la interconexión e interoperabilidad de sus redes, contenida en el artículo 124 de la LFTyR; (ii) la obligación de los concesionarios de redes públicas de interconectar sus redes de conformidad con lo establecido en el artículo 125 de la LFTyR, y (iii) que dicha interconexión se realice en condiciones no discriminatorias, transparentes y basadas en criterios objetivos.
+
+Ahora bien, el artículo 129 de la LFTyR regula el procedimiento que ha de observar el Instituto a efecto de determinar las condiciones no convenidas. Para estos fines dispone que los concesionarios que operen redes públicas de telecomunicaciones, deberán interconectar sus redes, y a tal efecto, suscribir un convenio en un plazo no mayor de sesenta días naturales contados a partir de que sea presentada la solicitud correspondiente. Esto es, los concesionarios de redes públicas de telecomunicaciones tienen la libertad de negociar los términos, condiciones y tarifas de interconexión a través del SESI, mismos que deberán reflejarse en el convenio que al efecto suscriban, sin embargo, de no convenir, podrán solicitar la intervención del Instituto para que éste determine los términos, condiciones y tarifas no convenidas.
+
+En virtud de lo anterior, se indica que: (i) los concesionarios están obligados a interconectar sus redes y, a tal efecto, suscribir un convenio en un plazo no mayor de sesenta (60) días naturales contados a partir de que alguno de ellos lo solicite; (ii) transcurridos los sesenta (60) días naturales sin que las partes hayan llegado a un acuerdo, a solicitud de parte, el Instituto resolverá los términos y condiciones de interconexión no convenidos sometidas a su competencia, dicha solicitud deberá someterse al Instituto dentro de un plazo de cuarenta y cinco (45) días hábiles siguientes a que haya concluido el periodo de sesenta (60) días naturales.
+
+En consecuencia, en autos está acreditado que Total Play, Grupo AT&T y AT&T Opco Une Mex tienen el carácter de concesionarios que operan una red pública de telecomunicaciones, según se desprende de los Antecedentes I, II y que efectivamente Total Play requirió a Grupo AT&T y AT&T Opco Une Mex el inicio de negociaciones para convenir los términos, condiciones y tarifas de interconexión.
+
+Por ello, conforme al artículo 124 de la LFTyR, Total Play, Grupo AT&T y AT&T Opco Une Mex están obligados a garantizar la eficiente interconexión de sus respectivas redes públicas de telecomunicaciones, formalizando en todo caso, la suscripción del convenio respectivo que estipule los términos, condiciones y tarifas aplicables.
+
+TERCERO.- Condiciones no convenidas sujetas a resolución.- En las Solicitudes de Resolución, Total Play, Grupo AT&T y AT&T Opco Une Mex, plantean los siguientes términos, condiciones y tarifas que no pudieron convenir:
+
+ La determinación de tarifas entre la red local fija de Total Play y la red local fija de AT&T Opco Une Mex para el año 2016.
+      
+ La determinación de tarifas entre la red local fija de Total Play y las redes locales móviles de Grupo AT&T  y AT&T Opco Une Mex para el año 2016.
+      
+Previo al análisis de las condiciones no convenidas, el Instituto procede, en primera instancia, a analizar específicamente las argumentaciones generales de Grupo AT&T y AT&T Opco Une Mex, en relación con el presente procedimiento, para posteriormente resolver sobre aquellos puntos de desacuerdo que en materia de interconexión fueron sometidos por las partes.
+
+ Consideraciones y criterios que debe tomar en cuenta el instituto para la determinación de las tarifas de interconexión entre Total Play, Grupo AT&T y AT&T Une Mex.
+      
+Argumentos de las partes
+
+En los Alegatos presentados por Grupo AT&T y AT&T Opco Une Mex, dichos concesionarios realizan diversas manifestaciones acerca de la forma en que el Instituto debe determinar las tarifas de interconexión materia del presente procedimiento, como son: a) 	Resultados en Competencia Económica de la Política Pública de tarifas de interconexión, b) Competencia efectiva y competitividad, c) 	Regulación Asimétrica d) Cobertura Universal y e) LFTyR. 
+
+Consideraciones del Instituto
+
+Los temas planteados por Grupo AT&T y AT&T Opco Une Mex, fueron analizados por el Instituto como parte del procedimiento para la emisión de una disposición de carácter general como lo es la Metodología de Costos, la cual no puede ser modificada en una disposición de carácter particular como lo es la Resolución que pone fin al presente procedimiento administrativo; Aunado a lo anterior se señala que el presente procedimiento no tiene como objeto dilucidar los fundamentos y motivos que el Instituto tomó en consideración para establecer dicha metodología por lo que los argumentos de Grupo AT&T y AT&T Opco Une Mex en cuanto a los elementos que debe tomar en cuenta el Instituto para la determinación de tarifas de interconexión resultan inoperantes.
+
+De esta manera, al no ser procedente la modificación de aspectos que forman parte de la Metodología de Costos o del Acuerdo de Tarifas 2016, en el presente procedimiento no se entrará al análisis de las manifestaciones vertidas por Grupo AT&T y AT&T Opco Une Mex. 
+
+Lo anterior no significa que el Instituto haya dejado de analizar todas y cada una de las manifestaciones realizadas por Grupo AT&T y AT&T Opco Une Mex, sino que una respuesta detallada a las mismas en nada cambia el sentido de la presente Resolución, ante su inoperancia en los términos apuntados.
+
+Una vez analizadas las manifestaciones generales de las partes, en términos del artículo 129 de la LFTyR, se procede a resolver las condiciones no convenidas solicitadas por las partes.
+
+ Tipo de cambio
+
+Argumentos de las partes
+
+Grupo AT&T y AT&T Opco Une Mex señalan que en caso de que el Instituto resuelva las tarifas de interconexión para el ejercicio 2016 con base en el mismo modelo que fue empleado para 2015, el Instituto deberá actualizar la información del tipo de cambio.
+
+Señalan que en los últimos meses ha habido gran volatilidad en el mercado cambiario con tendencia creciente, donde el peso ha alcanzado niveles máximos históricos, hasta rebasar la línea de los $16.45 pesos por dólar. Por lo que, el supuesto hecho por el Instituto sobre adoptar para 2015 y 2016 un tipo de cambio constante de $13.37 pesos por dólar para determinar las diferentes tarifas de interconexión resulta insostenible. 
+
+Consideraciones del Instituto
+
+Al respecto, el Instituto señala que el lineamiento Décimo Tercero de la Metodología de Costos, establece que:
+
+     "DÉCIMO TERCERO.- Los resultados del Modelo de Costos del Servicio de Interconexión relevante tendrán vigencia del 1º de enero al 31 de diciembre de cada año. El Instituto Federal de Telecomunicaciones podrá actualizar anualmente la información de la demanda de los servicios, los precios de los insumos empleados, el Costo de Capital Promedio Ponderado y el tipo de cambio utilizados en el Modelo de Costos del Servicio de Interconexión relevante para garantizar que refleje las condiciones del mercado."
+     
+En este sentido, el lineamiento antes citado señala que el Instituto podrá actualizar anualmente la información del Modelo de Costos, por lo que en apego al mismo y a efecto de generar certidumbre, el Instituto determinó en su XVI Sesión Ordinaria de Pleno, celebrada el 12 de agosto de 2015, las tarifas de interconexión aplicables para todo el año 2016, ordenamiento en el cual este Instituto actualizó los modelos incluyendo lo referente al tipo de cambio. 
+
+Ahora bien, como se señala en el antecedente V, en cumplimiento a lo determinado en el artículo 137 de la LFTyR, el Instituto determinó una sola tarifa aplicable a todos los concesionarios que presten el mismo servicio, con independencia de las variaciones en el tipo de cambio, lo cual es consistente además con el principio de no discriminación, toda vez que si se definiera una tarifa diferente para cada concesionario dependiendo del tipo de cambio vigente en ese momento, se tendrían tantas tarifas como desacuerdos se resolvieran cuando la función de terminación es la misma para todas las redes fijas y la misma para todas las redes móviles, por lo tanto las tarifas de interconexión materia del presente procedimiento son las que se determinan a continuación.
+
+1. Tarifas de interconexión
+
+Argumentos de las partes
+
+En los alegatos, Total Play solicita la determinación de la tarifa por terminación local fija "tanto del trafico local como de larga distancia".
+
+Asimismo, en sus Solicitudes de Resolución, Total Play, Grupo AT&T y AT&T Opco Une Mex solicitan al Instituto que resuelva las tarifas que deberán pagarse para el periodo del 1 de enero al 31 de diciembre de 2016. 
+
+Consideraciones del Instituto 
+
+Para la determinación de las tarifas de interconexión en las redes públicas de telecomunicaciones de Total Play, Grupo AT&T y AT&T Opco Une Mex, se debe considerar que la propia LFTyR establece el marco normativo y regulatorio aplicable para la fijación de las tarifas de interconexión. 
+
+A tal efecto, el artículo 131 de la LFTyR dispone lo siguiente:
+
+     "Artículo 131. [...]
+     
+     [...]
+     
+     b) Para el tráfico que termine en la red de los demás concesionarios, la tarifa de interconexión será negociada libremente.
+     
+     El Instituto resolverá cualquier disputa respecto de las tarifas, términos y/o condiciones de los convenios de interconexión a que se refiere el inciso b) de este artículo, con base en la metodología de costos que determine, tomando en cuenta las asimetrías naturales de las redes a ser interconectadas, la participación de mercado o cualquier otro factor, fijando las tarifas, términos y/o condiciones en consecuencia.
+     
+     Las tarifas que determine el Instituto con base en dicha metodología deberán ser transparentes, razonables y, en su caso, asimétricas, considerando la participación de mercado, los horarios de congestionamiento de red, el volumen de tráfico u otras que determine el Instituto.
+     
+     Las tarifas deberán ser lo suficientemente desagregadas para que el concesionario que se interconecte no necesite pagar por componentes o recursos de la red que no se requieran para que el servicio sea suministrado.
+     
+     [...]"
+
+En estricto cumplimiento al artículo citado, el Instituto publicó en el DOF el 18 de diciembre de 2014, la Metodología de Costos misma que establece los principios básicos que se constituyen en reglas de carácter general a la cual se deberá sujetar la autoridad reguladora al momento de elaborar los modelos de costos que calculen las tarifas de interconexión.
+
+En este orden de ideas, el artículo 137 de la LFTyR señala a la letra lo siguiente:
+
+     "Artículo 137. El Instituto publicará en el Diario Oficial de la Federación, en el último trimestre del año, las condiciones técnicas mínimas y las tarifas que hayan resultado de las metodologías de costos emitidas por el Instituto, mismas que estarán vigentes en el año calendario inmediato siguiente."
+
+En apego a dicha metodología y en cumplimiento a lo establecido en el artículo 137, el Instituto publicó en el DOF el 1 de octubre de 2015 el Acuerdo de Tarifas 2016, el cual contiene las tarifas para los Servicios de Interconexión que han resultado de la Metodología de Costos, y que el Instituto utilizará para resolver los desacuerdos de interconexión en materia de tarifas aplicables del 1 de enero al 31 de diciembre del 2016.
+Cabe mencionar que dichos modelos de costos se derivan de la aplicación de una disposición administrativa de carácter general como lo es la Metodología de Costos y el procedimiento llevado a cabo para su construcción ha sido debidamente descrito en el Acuerdo de Tarifas 2016. 
+
+En consecuencia, las tarifas de interconexión, objeto del presente procedimiento, así como la tasación de las llamadas han sido debidamente publicadas por la autoridad en el acuerdo citado, mismo que al ser de conocimiento público hace innecesaria su reproducción en el cuerpo de la presente resolución.
+
+Por lo que hace al título de concesión de Total Play, para instalar, operar y explotar una red pública de telecomunicaciones para prestar, entre otros, el servicio público de telefonía básica de larga distancia nacional e internacional, es preciso mencionar que en el "ACUERDO mediante el cual el Pleno del Instituto Federal de Telecomunicaciones establece las disposiciones que deberán cumplir los concesionarios que presten servicios públicos de telecomunicaciones a través de redes públicas de telecomunicaciones, derivado de la obligación de abstenerse de realizar cargos de larga distancia nacional a usuarios por las llamadas que realicen a cualquier destino nacional a partir del 1 de enero de 2015", publicado el 24 de diciembre de 2014 en el DOF, estableció en su disposición Sexta lo siguiente:
+
+     "Sexta. Autorización para prestar el Servicio Local. Los concesionarios que en su título de concesión tengan autorizada la prestación del servicio de larga distancia, podrán prestar el Servicio Local a que se refiere la fracción XI de la disposición Segunda de las presentes Disposiciones."
+
+En este sentido se observa que a partir de la entrada en vigor del citado acuerdo, Total Play quedó autorizado para prestar el servicio local mediante su concesión de larga distancia, es así que al poder prestar el servicio local mediante la concesión citada, este Instituto considera que la tarifa que se determine para terminación de tráfico en la red local de Grupo AT&T y de AT&T Opco Une Mex, engloba el tráfico de servicio local que se pueda prestar mediante la citada concesión de larga distancia. 
+
+En tal virtud, la tarifa por los Servicios de Interconexión que Total Play, AT&T Opco Une Mex deberán pagarse de forma recíproca, así como la que Grupo AT&T deberá pagar a Total Play por los servicios de terminación del servicio local en usuarios fijos, será la siguiente:
+
+ Del 1 de enero de 2016 al 31 de diciembre de 2016, será de $0.003088 pesos M.N. por minuto de interconexión. 
+Asimismo, la tarifa por los Servicios de Interconexión que Total Play deberá pagar a Grupo AT&T y AT&T Opco Une Mex por los servicios de terminación del Servicio Local en usuarios móviles bajo la modalidad "El que llama paga", será la siguiente:
+
+ Del 1 de enero de 2016 al 31 de diciembre de 2016, será de $0.1869 pesos M.N. por minuto de interconexión.
+      
+El cálculo de las contraprestaciones se realizará con base en la duración real de las llamadas, sin redondear al minuto, debiendo para tal efecto sumar la duración de todas las llamadas completadas en el período de facturación correspondiente, medidas en segundos, y multiplicar los minutos equivalentes a dicha suma, por la tarifa correspondiente.
+
+Asimismo, dichas tarifas ya incluyen el costo correspondiente a los puertos necesarios para la interconexión.
+
+En virtud de lo anterior, y con el fin de que los términos, condiciones y tarifas de interconexión determinadas por este Instituto en la presente Resolución sean ofrecidos de manera no discriminatoria a los demás concesionarios que lo soliciten y que requieran servicios de interconexión, capacidades o funciones similares, el Pleno del Instituto estima conveniente poner la presente Resolución a disposición de los concesionarios. Para efectos de lo anterior y en términos de lo dispuesto por los artículos 129 fracción IX, 176, 177, fracción XV y 178 de la LFTyR, la presente Resolución será inscrita en el Registro Público de Telecomunicaciones a cargo del propio Instituto.
+
+Lo anterior, sin perjuicio de que Total Play, Grupo AT&T y AT&T Opco Une Mex formalicen los términos, condiciones y tarifas de interconexión que se ordenan a través de la presente Resolución y a tal efecto suscriban el correspondiente convenio. En tal sentido, dichos concesionarios, conjunta o separadamente, deberán inscribir el convenio de interconexión en el Registro Público de Telecomunicaciones, de conformidad con lo dispuesto por los artículos 128, 176 y 177, fracción VII de la LFTyR.
+
+Con base en lo anterior y con fundamento en lo dispuesto por los artículos, 28, párrafo décimo quinto y décimo sexto de la Constitución Política de los Estados Unidos Mexicanos;; 6, fracciones IV y VII 15, fracción X, 17, fracción I, 125, 128, 129, 131 inciso b), 176, 177 fracción VII, 178, 312 y 313 de la Ley Federal de Telecomunicaciones y Radiodifusión; 32, 35, fracción I, 36, 38, 39, 45 y 57 fracción I de la Ley Federal de Procedimiento Administrativo; 72 y 73 del Código Federal de Procedimientos Civiles; y 4 fracción I y 6, fracción XXXVII del Estatuto Orgánico del Instituto Federal de Telecomunicaciones, el Pleno del Instituto Federal de Telecomunicaciones emite los siguientes:
+
+                                  RESOLUTIVOS
+
+PRIMERO.- La tarifa de interconexión que Total Play Telecomunicaciones, S.A. de C.V. y AT&T Opco Une Mex, S. de R.L. de C.V., deberán pagarse de forma recíproca, así como la tarifa que AT&T Desarrollo en Comunicaciones de México, S. de R.L. de C.V., AT&T del Golfo, S. de R.L. de C.V., AT&T Comcentro, S. de R.L. de C.V., AT&T del Occidente, S. de R.L. de C.V., AT&T Sureste, S. de R.L. de C.V., AT&T Norte, S. de R.L. de C.V. y AT&T Central, S. de R.L. de C.V., deberán pagar a Total Play Telecomunicaciones, S.A. de C.V., por servicios de terminación del Servicio Local en usuarios fijos, será la siguiente:
+
+ Del 1 de enero de 2016 al 31 de diciembre de 2016, será de $0.003088 pesos M.N. por minuto de interconexión.
+
+La tarifa anterior ya incluye el costo correspondiente a los puertos necesarios para la interconexión.
+
+Las contraprestaciones se calcularán sumando la duración de todas las llamadas completadas en el período de facturación correspondiente, medidas en segundos, y multiplicando los minutos equivalentes a dicha suma, por la tarifa correspondiente.
+
+SEGUNDO.- La tarifa de interconexión que Total Play Telecomunicaciones, S.A. de C.V. deberá pagar a AT&T Opco Une Mex, S. de R.L. de C.V., AT&T Desarrollo en Comunicaciones de México, S. de R.L. de C.V., AT&T del Golfo, S. de R.L. de C.V., AT&T Comcentro, S. de R.L. de C.V., AT&T del Occidente, S. de R.L. de C.V., AT&T Sureste, S. de R.L. de C.V., AT&T Norte, S. de R.L. de C.V. y AT&T Central, S. de R.L. de C.V., por servicios de terminación del Servicio Local en usuarios móviles bajo la modalidad "El que llama paga", será la siguiente:
+
+       Del 1 de enero de 2016 al 31 de diciembre de 2016, será de $0.1869 pesos M.N. por minuto de interconexión.
+
+La tarifa anterior ya incluye el costo correspondiente a los puertos necesarios para la interconexión.
+
+Las contraprestaciones se calcularán sumando la duración de todas las llamadas completadas en el período de facturación correspondiente, medidas en segundos, y multiplicando los minutos equivalentes a dicha suma, por la tarifa correspondiente.
+
+TERCERO.- .- Dentro de los diez (10) días hábiles contados a partir del día siguiente en que surta efectos legales la notificación de la presente Resolución y con independencia de su obligación de cumplir con la prestación del servicio de interconexión conforme a las condiciones y tarifas establecidas en la presente Resolución, Total Play Telecomunicaciones, S.A. de C.V., AT&T Opco Une Mex, S. de R.L. de C.V., AT&T Desarrollo en Comunicaciones de México, S. de R.L. de C.V., AT&T del Golfo, S. de R.L. de C.V., AT&T Comcentro, S. de R.L. de C.V., AT&T del Occidente, S. de R.L. de C.V., AT&T Sureste, S. de R.L. de C.V., AT&T Norte, S. de R.L. de C.V. y AT&T Central, S. de R.L. de C.V., deberán suscribir los convenios de interconexión de sus redes públicas de telecomunicaciones conforme a los términos y condiciones determinados en los Resolutivos PRIMERO y SEGUNDO de la presente Resolución. Celebrado el convenio correspondiente, deberán remitir conjunta o separadamente un ejemplar original o copia certificada del mismo a este Instituto Federal de Telecomunicaciones, para efectos de su inscripción en el Registro Público de Telecomunicaciones, dentro de los treinta (30) días hábiles siguientes a su celebración, de conformidad con los artículos 128, 176 y 177, fracción VII de la Ley Federal de Telecomunicaciones y Radiodifusión.
+
+CUARTO.- En cumplimiento a lo dispuesto en el artículo 3, fracción XV de la Ley Federal de Procedimiento Administrativo, en relación con los artículos 312 y 313 de la Ley Federal de Telecomunicaciones y Radiodifusión, se hace del conocimiento de Total Play Telecomunicaciones, S.A. de C.V., AT&T Opco Une Mex, S. de R.L. de C.V., AT&T Desarrollo en Comunicaciones de México, S. de R.L. de C.V., AT&T del Golfo, S. de R.L. de C.V., AT&T Comcentro, S. de R.L. de C.V., AT&T del Occidente, S. de R.L. de C.V., AT&T Sureste, S. de R.L. de C.V., AT&T Norte, S. de R.L. de C.V. y AT&T Central, S. de R.L. de C.V., que la presente Resolución constituye un acto administrativo definitivo y por lo tanto, procede interponer ante los Juzgados de Distrito Especializados en Materia de Competencia Económica, Radiodifusión y Telecomunicaciones, con residencia en el Distrito Federal y Jurisdicción territorial en toda la República, el juicio de amparo indirecto dentro del plazo de quince (15) días hábiles contado a partir de que surta efectos la notificación de la presente Resolución, en términos del artículo 17 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+
+QUINTO.- Notifíquese personalmente a los representantes legales de Total Play Telecomunicaciones, S.A. de C.V., AT&T Opco Une Mex, S. de R.L. de C.V., AT&T Desarrollo en Comunicaciones de México, S. de R.L. de C.V., AT&T del Golfo, S. de R.L. de C.V., AT&T Comcentro, S. de R.L. de C.V., AT&T del Occidente, S. de R.L. de C.V., AT&T Sureste, S. de R.L. de C.V., AT&T Norte, S. de R.L. de C.V. y AT&T Central, S. de R.L. de C.V., el contenido de la presente Resolución, en términos de lo establecido en el artículo 129, fracción VIII de la Ley Federal de Telecomunicaciones y Radiodifusión.
+
+La presente Resolución fue aprobada por el Pleno del Instituto Federal de Telecomunicaciones en su IV Sesión Ordinaria celebrada el 17 de febrero de 2016, en lo general por unanimidad de votos de los Comisionados presentes Gabriel Oswaldo Contreras Saldívar, Luis Fernando Borjón Figueroa, Ernesto Estrada González, Adriana Sofía Labardini Inzunza, María Elena Estavillo Flores, Mario Germán Fromow Rangel y Adolfo Cuevas Teja.
+El Comisionado Luis Fernando Borjón Figueroa manifestó voto en contra de los Resolutivos Primero y Segundo; así como del Resolutivo Tercero en lo conducente a los Resolutivos Primero y Segundo. 
+La Comisionada María Elena Estavillo Flores manifestó su voto en contra del Resolutivo Primero en relación con la determinación de las tarifas 2016; del Resolutivo Segundo por lo que hace a la determinación de las tarifas 2016 y por apartarse de la modalidad "El que llama paga"; así como del Resolutivo Tercero en lo que se refiere a la celebración del convenio con las tarifas determinadas para 2016.
+El Comisionado Adolfo Cuevas Teja manifestó voto en contra de los Resolutivos Primero y Segundo por lo que hace a las tarifas establecidas; así como del Resolutivo Tercero, en lo referente a ordenar la celebración de los convenios de interconexión conforme a las tarifas señaladas en los Resolutivos Primero y Segundo.
+Lo anterior, con fundamento en los párrafos vigésimo, fracciones I y III; y vigésimo primero, del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos; artículos 7, 16 y 45 de la Ley Federal de Telecomunicaciones y Radiodifusión; así como en los artículos 1, 7, 8 y 12 del Estatuto Orgánico del Instituto Federal de Telecomunicaciones, mediante Acuerdo P/IFT/170216/36.

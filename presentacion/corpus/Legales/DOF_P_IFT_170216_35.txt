@@ -1,0 +1,442 @@
+ACUERDO MEDIANTE EL CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES EMITE LOS LINEAMIENTOS PARA LA COMERCIALIZACIÓN DE SERVICIOS MÓVILES POR PARTE DE OPERADORES MÓVILES VIRTUALES.
+
+                            A N T E C E D E N T E S
+   
+   El 11 de junio de 2013, se publicó en el Diario Oficial de la Federación (en lo sucesivo, el "DOF") el "Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos en materia de telecomunicaciones", (en lo sucesivo, el "Decreto"), por medio del cual se creó al Instituto Federal de Telecomunicaciones, (en lo sucesivo, el "Instituto"), como órgano constitucional autónomo, con personalidad jurídica y patrimonio propio, cuyo objeto es el desarrollo eficiente de la radiodifusión y las telecomunicaciones, además de ser la autoridad en materia de competencia económica en dichos sectores.
+  
+   El 14 de julio de 2014, se publicó en el DOF el "Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión", el cual, en términos de lo dispuesto por su artículo Primero Transitorio, entró en vigor a los treinta días naturales posteriores a su publicación, esto es, el 13 de agosto de 2014.
+
+   El 4 de septiembre del 2014, se publicó en el DOF el Estatuto Orgánico del Instituto Federal de Telecomunicaciones (en lo sucesivo, el "Estatuto"), mismo que entró en vigor el 26 de septiembre de 2014 y fue modificado mediante publicación en el mismo medio de difusión el día 17 de octubre del 2014.
+       
+   Con fecha 8 de julio de 2015, el Pleno del Instituto emitió el Acuerdo mediante el cual se sometió a consulta pública el anteproyecto de "LINEAMIENTOS PARA LA COMERCIALIZACIÓN DE SERVICIOS MÓVILES POR PARTE DE OPERADORES MÓVILES VIRTUALES" (en lo sucesivo, el "Anteproyecto") ello en cumplimiento de lo establecido en el artículo 51 de la Ley Federal de Telecomunicaciones y Radiodifusión (en lo sucesivo, la "Ley"). La consulta pública se llevó a cabo del 10 al 17 de julio y del 3 al 20 de agosto del 2015. 
+
+   La Unidad de Política Regulatoria elaboró y sometió a consideración de la Coordinación General de Mejora Regulatoria el Análisis de Impacto Regulatorio, para que emitiera la opinión no vinculante que correspondiera, lo cual sucedió mediante el oficio IFT/221/UPR7DG-DTR/179/2015 de fecha 6 de noviembre de 2015. El Análisis de Impacto Regulatorio elaborado se encuentra publicado en el portal de Internet del Instituto.
+       
+                                 CONSIDERANDO
+   Competencia del Instituto. De conformidad con lo establecido en el artículo 6° apartado B, fracción II, de la Constitución Política de los Estados Unidos Mexicanos (en lo sucesivo, la "Constitución"), las telecomunicaciones son servicios públicos de interés general, por lo que el Estado garantizará que sean prestados en condiciones de competencia, calidad, pluralidad, cobertura universal, interconexión, convergencia y continuidad.
+  
+  El párrafo décimo quinto del artículo 28 de la Constitución establece que el Instituto es un órgano autónomo, que tiene por objeto el desarrollo eficiente de la radiodifusión y las telecomunicaciones, conforme a lo dispuesto en la propia Constitución y en los términos que fijen las leyes.
+  
+  Para tal efecto, tiene a su cargo la regulación, promoción y supervisión del uso, aprovechamiento y explotación del espectro radioeléctrico, los recursos orbitales, los servicios satelitales, las redes y la prestación de los servicios de radiodifusión y telecomunicaciones, así como del acceso a infraestructura activa, pasiva y otros insumos esenciales, en términos del precepto de la Constitución invocado, así como del artículo 7° de la Ley garantizando lo establecido en el artículo 6° de la Constitución. Asimismo, de conformidad con el párrafo décimo sexto del artículo 28 de la Constitución, el Instituto es la autoridad en materia de competencia económica de los sectores de radiodifusión y telecomunicaciones, por lo que en éstos ejercerá en forma exclusiva las facultades que establecen el artículo 28 de la Constitución, la Ley y la Ley Federal de Competencia Económica para la Comisión Federal de Competencia Económica.
+  
+  De igual forma, de conformidad con la fracción IV del párrafo vigésimo del artículo 28 de la Constitución, el Instituto podrá emitir disposiciones administrativas de carácter general exclusivamente para el cumplimiento de su función regulatoria en el sector de su competencia. Asimismo, conforme a lo establecido por el artículo 15, fracción I, de la Ley, corresponde al Instituto expedir disposiciones administrativas de carácter general, lineamientos, ordenamientos técnicos en materia de telecomunicaciones y radiodifusión; así como demás disposiciones para el cumplimiento de lo dispuesto en la Ley. Por otra parte, de conformidad con el artículo 7°, segundo párrafo, de la Ley y la fracción I del artículo 6o. del Estatuto, el Instituto tiene la atribución de regular, promover y supervisar el uso, aprovechamiento y explotación eficiente del espectro radioeléctrico, las redes de telecomunicaciones y la prestación de los servicios de radiodifusión y telecomunicaciones, así como el acceso a infraestructura activa, pasiva e insumos esenciales. En este sentido, con la emisión de los presentes lineamientos que tienen por objeto regular la prestación, comercialización y reventa de Servicios Móviles por parte de concesionarios y autorizados para establecer y operar o explotar una comercializadora de servicios de telecomunicaciones, el Instituto cumple con su función reguladora y promueve un funcionamiento más eficiente y competitivo del mercado de las telecomunicaciones.
+  
+  Por lo anterior, y con fundamento en los artículos 6° apartado B, fracción II, y 28 párrafos décimo quinto, décimo sexto y vigésimo fracción IV de la Constitución Política de los Estados Unidos Mexicanos, así como en los artículos 1, 2, 7, 15, fracciones I, IX y XIII, 17, fracción I, 118 fracción VII, 170 fracción I, 171,173, 174, 178 y 191 de la Ley Federal de Telecomunicaciones y Radiodifusión; 1, 4, fracción I y 6°, fracciones I y XXV, del Estatuto Orgánico del Instituto Federal de Telecomunicaciones, el Pleno del Instituto es competente para emitir el presente Acuerdo y los Lineamientos respectivos.
+  
+   De los Operadores Móviles Virtuales. Derivado del aumento de usuarios que acceden a los servicios de telecomunicaciones móviles a través de redes públicas de telecomunicaciones, resulta necesario fomentar un entorno de competencia donde existan nuevos esquemas para la prestación de los servicios, con la finalidad de ampliar los beneficios económicos y sociales, y potenciar el desarrollo del país. 
+  
+  En este contexto se han desarrollado nuevos prestadores de servicios móviles, que utilizan la capacidad y/o los servicios prestados por operadores que cuentan con una concesión bajo la cual se les autoriza operar en determinadas bandas de frecuencia del espectro radioeléctrico, a esta figura se le ha denominado Operadores Móviles Virtuales.
+  
+  La principal característica de los Operadores Móviles Virtuales es que requieren capacidad de la red de radio de un concesionario móvil o el servicio de tiempo de emisión (tiempo aire) que no poseen, y en algunas ocasiones requieren también de los servicios, completos o parciales, que les pueden prestar dichos concesionarios para la comercialización de servicios móviles.
+  
+  Los Operadores Móviles Virtuales han incrementado el entorno competitivo e innovador en la oferta de servicios a los usuarios finales. Lo anterior, debido a que no se han limitado a prestar servicios tradicionales de voz y datos, sino que dentro de sus estrategias han evolucionado a modelos de negocios que incluyen servicios como banca móvil, servicios de salud, servicios de seguridad pública, servicios de educación, entre otros. A esto se suma el incentivo de una mayor facilidad para entrar al mercado al no tener que realizar grandes inversiones que requieren la explotación de redes públicas de telecomunicaciones, asociadas a concesiones de espectro radioeléctrico. 
+  
+  Los Operadores Móviles Virtuales son dinámicos y su crecimiento y desarrollo suele ser continuo, por lo que en muchas ocasiones, estos cuentan con infraestructura propia o bien, la van adquiriendo logrando cada vez mayor independencia en la prestación de sus servicios. Existen modelos de negocios que logran crecer su infraestructura y capacidad de tal forma que el único requerimiento que tienen es la capacidad que les prestan aquellos operadores móviles que cuentan con espectro radioeléctrico.
+  
+  El incentivo que tienen los concesionarios para proveer servicios mayoristas de telecomunicaciones móviles, bajo el carácter de Concesionarios Mayoristas Móviles, a los Operadores Móviles Virtuales es que se abre una oportunidad para extender la oferta de servicios de telecomunicaciones utilizando la capacidad instalada de una manera más eficiente, esto es relevante cuando existen importantes economías de escala y grandes costos hundidos, como el caso del sector de las telecomunicaciones.
+  
+  La experiencia internacional muestra distintos modelos de negocio de Operadores Móviles Virtuales, desde aquellos que simplemente revenden servicios móviles, hasta los que cuentan con infraestructura propia o elementos de red que les permiten tener un mayor control de sus operaciones y la gestión de sus usuarios. En todo caso, el rasgo distintivo de los Operadores Móviles Virtuales está centrado en diferenciar sus servicios en el mercado minorista frente aquellos que ofrecen los concesionarios tradicionales que operan redes públicas de telecomunicaciones.
+  
+  Según experiencias internacionales, las principales características de los Operadores Móviles Virtuales se pueden agrupar en los siguientes modelos de operación:
+  
+  a)	Operador Móvil Virtual Completo. Es aquel que cuenta con infraestructura de conmutación y transmisión permitiendo la gestión de su tráfico. Dicho operador puede administrar recursos de numeración, atención a usuarios y demás servicios que requiera para la prestación de los servicios móviles. Este tipo de integración permite una mayor flexibilidad al utilizar la capacidad y servicios de distintos Concesionarios Mayoristas Móviles. Asimismo, requiere solamente la utilización de la red de acceso de radio del operador con espectro radioeléctrico, ya que no cuenta con este medio de transmisión.
+  
+  b)	Operador Móvil Virtual Agregador. Es aquel que comercializa la capacidad y los servicios de un Concesionario Mayorista Móvil para proveer servicios a usuarios finales y revender a otros Operadores Móviles Virtuales. Esta figura facilita la entrada de Operadores Móviles Virtuales pequeños y se constituye como habilitador para hacer más eficiente la comercialización de servicios móviles sin necesidad de que estos pequeños agentes lleven a cabo procesos directamente con los Concesionarios Mayoristas Móviles, lo que en ocasiones les permite adquirir servicios en condiciones que se adecúen a sus necesidades y modelo de negocios. Este tipo de Operador Móvil Virtual cuenta con infraestructura de red de servicios de telecomunicaciones, la cual le permite ejecutar múltiples funciones para la provisión de servicios de telecomunicaciones móviles, incluyendo la conmutación y enrutamiento de las comunicaciones, la gestión de recursos de numeración, la atención a usuarios y demás servicios que requiere para sus funciones. 
+  
+  c)	Operador Móvil Virtual Básico. Es aquel que no dispone de infraestructura de telecomunicaciones, sin embargo, cuenta con las facilidades para proveer atención a clientes, facturación y mercadeo. En caso de así desearlo comercializa tarjetas SIM bajo su marca.
+  
+  d)	Operador Móvil Virtual Revendedor. Es aquel que no dispone de infraestructura, cuenta con su propia marca comercial, y su principal ventaja es contar con una amplia red de distribución, tiene el control de sus procesos de ventas y comercialización y su diferenciación de los otros, se basa en los precios y la identidad de la marca. 
+  
+  Cabe mencionar que dentro de la cadena de valor de los Operadores Móviles Virtuales se han desarrollado empresas que están dedicadas a proveer servicios habilitadores (comúnmente conocidas como Mobile Virtual Network Enablers "MVNE") que facilitan soluciones y servicios de infraestructura de negocio que ayudan a ejecutar la operación de los Operadores Móviles Virtuales, por lo que en determinadas ocasiones los Operadores Móviles Virtuales se benefician de este tipo de agentes contratando aquellos elementos con que no cuentan y haciendo uso de diversos tipos de soluciones y servicios que prestan los MVNE. Estos servicios pueden incluir facturación, administración, operaciones, sistemas de soporte de negocio, sistemas de soporte de operaciones y provisión de elementos tecnológicos y de red para la adecuada prestación del servicio, entre otros. Es importante mencionar que los MVNE no prestan servicios móviles, por lo tanto este tipo de empresas no forman parte de los sujetos regulados en las presentes disposiciones. En caso de que estos agentes estén interesados en prestar servicios públicos de telecomunicaciones y ofrecer servicios a los usuarios finales bajo la modalidad de Operadores Móviles Virtuales, deberán obtener concesión única o autorización por parte del Instituto, según corresponda, en términos de la legislación aplicable.
+  
+  Actualmente la comercialización de servicios móviles por parte de Operadores Móviles Virtuales en México se da en el marco de servicios mayoristas de telecomunicaciones móviles que ofrecen algunos operadores móviles y de las medidas específicas que se han establecido al agente económico preponderante. 
+  
+  En cuanto al agente económico preponderante se refiere, es importante señalar que el artículo 174, último párrafo de la Ley establece que aquel agente económico que haya sido declarado preponderante en el sector de telecomunicaciones o los concesionarios que formen parte del grupo de interés económico al que pertenece, no pueden participar de manera directa o indirecta en alguna empresa comercializadora de servicios. 
+  
+  Adicionalmente, el artículo Décimo Sexto Transitorio del Decreto, dispuso la creación de una Red Pública Compartida de Telecomunicaciones (en lo sucesivo, la "RPCT") que deberá operar bajo principios de compartición de toda su infraestructura y la venta desagregada de todos sus servicios y capacidades y prestará exclusivamente servicios a las empresas comercializadoras y operadores de redes de telecomunicaciones, bajo condiciones de no discriminación y a precios competitivos. La RPCT tendrá el carácter de red compartida mayorista, ya que tiene la prohibición de comercializar servicios a los usuarios finales, prestará exclusivamente servicios al mayoreo bajo condiciones no discriminatorias a todos aquellos concesionarios o autorizados que se lo soliciten.
+  
+  El proyecto de la Red Pública Compartida de Telecomunicaciones asociado al Decreto ha sentado las bases para el desarrollo de los Operadores Móviles Virtuales, lo cual permitirá consolidar mayor competencia que promueva la reducción de los precios y el incremento de la calidad de los servicios en beneficio de los Usuarios Finales. 
+  
+  La importancia de los servicios móviles hace necesario el establecimiento de condiciones que permitan a los Operadores Móviles Virtuales su pleno desarrollo y contribuyan a intensificar la competencia en los mercados de telecomunicaciones. Asimismo, resulta importante otorgar certeza jurídica a los concesionarios que decidan ofrecer servicios mayoristas de telecomunicaciones móviles a los Operadores Móviles Virtuales. 
+  
+  Por lo anterior, y sin perjuicio de la regulación aplicable al Agente Económico Preponderante y a la Red Pública Compartida de Telecomunicaciones una vez que éste entre en operación con los presentes lineamientos se propone una regulación que otorgue certeza jurídica tanto a Operadores Móviles Virtuales como a Concesionarios Mayoristas Móviles y pueda sentar las bases de una nueva etapa en el crecimiento de los mercados de telecomunicaciones en México.
+  
+   De la naturaleza jurídica de los Operadores Móviles Virtuales.- Que todas aquellas personas que estén interesadas en prestar servicios públicos de telecomunicaciones deberán hacerlo conforme al marco jurídico vigente el cual establece que se requiere de concesión única o la autorización para establecer y operar o explotar una comercializadora de servicios de telecomunicaciones sin tener el carácter de concesionario
+  
+  Para tal efecto, es importante identificar el régimen actual bajo el cual podrán actuar aquellos agentes que tengan por objeto comercializar servicios móviles bajo la modalidad de Operadores Móviles Virtuales. A fin de que un interesado en prestar servicios móviles bajo la modalidad de un Operador Móvil Virtual identifique y determine si prestará dichos servicios al amparo de una concesión o una autorización, según convenga a sus operaciones y modelo de negocio, deberá tener en cuenta los derechos a los que será acreedora la empresa y las obligaciones que deberá cumplir dependiendo del título habilitante correspondiente para dicha comercialización.
+  
+  Los Lineamientos establecen los derechos y obligaciones, sin menoscabo de los establecidos en la Ley, que corresponden a un Operador Móvil Virtual que cuenta con una concesión única y por otro lado los que corresponden a aquel que cuenta con autorización para establecer y operar o explotar una comercializadora de servicios de telecomunicaciones con el fin de garantizar que los servicios sean prestados en condiciones de competencia, calidad, pluralidad, cobertura universal, interconexión, convergencia, continuidad, acceso libre y sin injerencias arbitrarias, en beneficio de los usuarios. Las diferencias principales se basan en el derecho que tienen aquellos Operadores Móviles Virtuales que cuentan con una concesión única a establecer convenios propios de interconexión y acuerdos relativos al servicio de usuario visitante y la comercialización de servicios mayoristas de telecomunicaciones móviles. Lo anterior se expresa con mayor detalle más adelante en el considerando QUINTO "De la regulación de los Operadores Móviles Virtuales".
+  
+  De conformidad con lo anterior, se señala que el artículo 66 de la Ley establece que se requerirá concesión única para prestar todo tipo de servicios públicos de telecomunicaciones y radiodifusión. Asimismo, la fracción I del artículo 67 establece que la concesión única para uso comercial confiere el derecho a personas físicas o morales para prestar servicios públicos de telecomunicaciones y de radiodifusión, con fines de lucro a través de una red pública de telecomunicaciones.
+  
+  Respecto a la concesión única, el artículo 3° de la Ley señala lo siguiente:
+
+            "Artículo 3. Para los efectos de esta Ley se entenderá por:
+            (...)
+            XII. Concesión única: Acto administrativo mediante el cual el Instituto confiere el derecho para prestar de manera convergente, todo tipo de servicios públicos de telecomunicaciones o radiodifusión. En caso de que el concesionario requiera utilizar bandas del espectro radioeléctrico o recursos orbitales, deberá obtenerlos conforme a los términos y modalidades establecidas en esta Ley;
+            (...)"
+  
+  Asimismo, el artículo 3 de la Ley prevé que se pueden prestar servicios de telecomunicaciones a usuarios finales mediante el uso y aprovechamiento de la capacidad de una o varias redes públicas de telecomunicaciones, sin tener el carácter de concesionario. En este sentido, el Titulo Sexto de la Ley prevé, entre otras cosas, un régimen relativo a las autorizaciones, para establecer y operar o explotar una comercializadora de servicios de telecomunicaciones sin tener el carácter de concesionario. De acuerdo a lo previsto en el artículo 3° de la Ley, una comercializadora es:
+            
+            "Artículo 3. Para los efectos de esta Ley se entenderá por:
+            (...)
+            XI. Comercializadora: Toda persona que proporciona servicios de telecomunicaciones a usuarios finales mediante el uso de capacidad de una o varias redes públicas de telecomunicaciones sin tener el carácter de concesionario en los términos de esta Ley;
+            (...)"
+  
+  Derivado de lo antes mencionado, un Operador Móvil Virtual puede comercializar servicios móviles bajo el carácter de concesionario o autorizado, dependiendo de sus características particulares, y sus requerimientos técnicos y operacionales.
+  
+  Cabe destacar que aquellos concesionarios titulares de una concesión para instalar, operar y explotar una red pública de telecomunicaciones que dentro de su título de concesión tengan autorizada la comercialización de la capacidad adquirida de otros concesionarios de redes públicas de telecomunicaciones con las que el concesionario tenga celebrados los convenios correspondientes, podrán comercializar servicios bajo la modalidad de Operador Móvil Virtual.
+  
+  Asimismo, vale la pena mencionar que en diversas confirmaciones de criterio  realizadas por la extinta Comisión Federal de Telecomunicaciones a concesionarios de redes públicas de telecomunicaciones existe coincidencia con lo que posteriormente fue señalado en la Ley Federal de Telecomunicaciones y Radiodifusión. Específicamente, la Comisión Federal de Telecomunicaciones confirmó la autorización que tienen dichos concesionarios en sus títulos correspondientes para la comercialización de la capacidad adquirida de otros concesionarios de redes públicas de telecomunicaciones con las que el Concesionario tenga celebrados convenios correspondientes.
+  
+  Por otra parte, es importante reconocer que la tendencia de los Operadores Móviles Virtuales es desarrollar modelos de negocios que inician con ciertas operaciones y con montos de inversión en ocasiones reducidos, pero que conforme van adquiriendo mayor número de usuarios, incrementan sus capacidades en términos operacionales y por ende, en los elementos de infraestructura que requieren para la prestación de sus servicios. 
+  
+  Asimismo, conforme crecen gradualmente, requieren de mayores recursos técnicos y de infraestructura a fin de estar en posibilidades de brindar servicios de valor agregado y servicios diferenciados en aquellos nichos de mercado en que se enfocan. Por ello, es muy común que aquellos Operadores Móviles Virtuales que se constituyen en sus inicios como Básicos (Light MVNO) o Revendedores, utilicen los servicios y capacidades que pone a su disposición el Concesionario Mayorista Móvil con quien hayan suscrito un contrato; o bien, en aquellos mercados en donde la presencia de estos agentes económicos ya es dinámica, es muy común que estos complementen su modelo de negocios con las operaciones y servicios que ofrecen los habilitadores de servicios, MVNE, quienes brindan servicios de apoyo operacional (Operational Support Services u OSS) y servicios de apoyo empresarial (Business Support Services o BSS) a aquellos Operadores Móviles Virtuales que han iniciado sus operaciones con poca o nula infraestructura.
+  
+  En el entendido de que estos modelos de negocio son dinámicos y tienden al desarrollo y crecimiento gradual, es importante que los Operadores Móviles Virtuales tengan la certeza jurídica de que al prestar servicios como autorizados, pueden invertir en infraestructura e ir creciendo conforme a las necesidades de su negocio y la demanda del mercado en que presten servicios. Ello les permite diversificar sus servicios, así como ir ganando independencia del Concesionario Mayorista Móvil o del MVNE, a fin de consolidarse como un prestador de servicios móviles con mayores capacidades y potencial en un mercado competitivo.
+  
+  Aunado a lo señalado previamente, la Ley en su artículo 173, fracción II, reconoce el derecho de los autorizados a "comercializar servicios propios o revender los servicios y capacidad que previamente hayan contratado con algún concesionario que opere redes públicas de telecomunicaciones". Con base en lo anterior, se considera que la Ley no establece prohibición alguna para que los autorizados cuenten con la infraestructura, completa o parcial, que les permita dicha prestación de servicios propios toda vez que a lo único a lo que están sujetos los autorizados es a comercializar la capacidad de terceros, más ello no implica que lo realicen a través de la infraestructura de terceros necesariamente. 
+  
+  En este sentido, se entiende que no es necesario para los autorizados contar con un título de concesión para ser poseedores de infraestructura propia. Sin embargo, una vez que dichos Operadores Móviles Virtuales consideran que su estructura de negocios requiere del acceso a derechos que son exclusivos de aquellos Operadores Móviles Virtuales que cuentan con una concesión, entonces podrán migrar a dicho régimen jurídico (concesión única) a fin de poder, en su caso, interconectarse, celebrar acuerdos propios del servicio de usuario visitante o de así decidirlo, entrar al mercado mayorista a través de la comercialización de servicios mayoristas de telecomunicaciones móviles.
+  
+  Asimismo, se considera que los autorizados podrán definir el nivel de infraestructura propia que requieran desplegar para la eficiente prestación de sus servicios, también se prevé que los Operadores Móviles Virtuales que decidan prestar servicios al amparo de una concesión, podrán desplegar los elementos de infraestructura de acuerdo a lo que resulte más conveniente para su plan de negocios y podrán, a su elección, arrendar la infraestructura de otros a fin de complementar la propia para estar en condiciones de prestar los servicios de la manera más eficiente y óptima. 
+  
+  Se considera que estos Operadores Móviles Virtuales pudieran ir desde el tipo de modelo Básico hasta los Completos (Full MVNO) así como también los Agregadores o MVNA (Mobile Virtual Network Agregator). Estos agentes económicos pudieran comenzar con montos de inversión considerables para actuar bajo el esquema de concesionarios, aun cuando sus operaciones requirieran del uso de elementos de red de otros agentes, ello en el entendido que la tendencia es que se desarrollen y crezcan hasta lograr su total independencia y poder competir tanto en el mercado mayorista, de así decidirlo, como en el minorista.
+  
+  Todo ello será posible proveyendo a todos los Operadores Móviles Virtuales, indistintamente si prestan servicios de telecomunicaciones al amparo de una concesión o de una autorización, de un marco regulatorio flexible que les permita contar con la certeza para el desarrollo de sus modelos de negocio, ya sea mediante infraestructura de terceros o bien, adquiriendo la infraestructura necesaria para la implementación de su plan de negocios, lo que a la vez se traduce en mejores servicios para los usuarios finales y una mayor penetración de servicios móviles en diferentes segmentos del mercado. 
+  
+  Lo anterior se deberá entender en cuanto a las posibilidades y facultades que tienen los Operadores Móviles Virtuales para su desarrollo y operación. Sin embargo, es necesario señalar que todos los Operadores Móviles Virtuales, sin importar si obtienen una concesión única o autorización por parte del Instituto, según corresponda, deberán cumplir con una serie de obligaciones, ya que a la luz del marco normativo vigente, son considerados prestadores de servicios públicos de telecomunicaciones.
+  
+  En este orden de ideas, todos los Operadores Móviles Virtuales serán objeto de las diferentes obligaciones, tales como: ser los responsables de la prestación de los servicios móviles frente al usuario final, garantizando que se cumplan los derechos de este; registrar las tarifas de sus servicios; permitir la portabilidad numérica; cumplir con la homologación de equipos y dispositivos; respetar las características del servicio contratado por el usuario, incluidos los parámetros de calidad del servicio; colaborar con las instancias de seguridad y justicia, así como acatar los requerimientos y disposiciones que emita la autoridad reguladora y otras que deriven de las disposiciones legales y administrativas aplicables. 
+  
+   De la regulación de los Concesionarios Mayoristas Móviles. Como ya se señaló, en México ya existen ofertas por parte de concesionarios que cuentan con espectro radioeléctrico e infraestructura de red pública de telecomunicaciones, dirigidas a los Operadores Móviles Virtuales. Asimismo, se contempla el desarrollo de una Red Pública Compartida de Telecomunicaciones que brindará servicios al mayoreo tanto a concesionarios como autorizados, mismos que pueden operar bajo la modalidad de Operadores Móviles Virtuales. 
+  
+  Lo anterior refleja que, si bien el mercado de servicios móviles evoluciona hacia un entorno propicio para los Operadores Móviles Virtuales, todavía existen áreas en las que es necesario garantizar que los servicios sean prestados en condiciones de competencia y calidad, otorgando certidumbre en materia de interconexión, asignación de numeración, administración de identidades asociadas a las suscripciones, entre otros. Por su parte, también los concesionarios que ofrecen servicios mayoristas móviles requieren de certidumbre sobre el alcance de los derechos y obligaciones que derivan de la prestación del servicio mayorista a los Operadores Móviles Virtuales, y claridad respecto a su margen de acción en el mercado mayorista. 
+  
+  Es por ello que los Lineamientos establecen que los concesionarios que cuentan con espectro radioeléctrico para uso comercial y aquellos titulares de una concesión para uso comercial que les permita la prestación de servicios móviles, podrán ofrecer servicios mayoristas de telecomunicaciones móviles con el carácter de Concesionarios Mayoristas Móviles, y en caso de hacerlo, deberán sujetarse a los dispuesto en los lineamientos. 
+  
+  Asimismo, cabe mencionar que los Operadores Móviles Virtuales que sean concesionarios, pueden revender la capacidad adquirida de una o varias redes públicas de telecomunicaciones a otros Operadores Móviles Virtuales, por lo que se les harían extensivas las obligaciones aplicables a los Concesionarios Mayoristas Móviles. 
+  
+  Si bien los presentes lineamientos no obligan a los concesionarios a ofrecer servicios mayoristas de telecomunicaciones móviles, sí prevén que aquellos concesionarios que opten por prestar dichos servicios, lo hagan bajo ciertas condiciones mínimas como lo es la prestación de los servicios, por lo menos, con la misma calidad y bajo las mismas tecnologías y facilidades que ofrecen a sus usuarios finales. 
+  
+  También, los lineamientos prevén que para la prestación de servicios mayoristas de telecomunicaciones móviles, los concesionarios que ofrezcan estos servicios no podrán condicionar la contratación de capacidades o servicios, a la contratación de otros bienes, servicios o capacidades, o a la contratación de plataformas específicas que permitan habilitar los Servicios Móviles.
+  
+  Toda vez que, el Instituto tiene como uno de sus objetivos garantizar la competencia económica y la libre concurrencia en el sector de telecomunicaciones, se estima fundamental establecer reglas que tengan como fin reducir las barreras a la entrada y a la expansión a los Operadores Móviles Virtuales, promover la diversidad de los servicios ofrecidos a usuarios finales, y evitar prácticas anticompetitivas. 
+  
+  En este orden de ideas, para promover el desarrollo del mercado, los Concesionarios Mayoristas Móviles deberán poner a disposición de los Operadores Móviles Virtuales, los elementos técnicos y de interconexión que permitan la correcta prestación de los servicios de telecomunicaciones a sus usuarios finales, así como las facilidades para llevar a cabo la portabilidad numérica, administrar los recursos de numeración, permitir el uso de equipos terminales y tarjetas SIM provistos por los propios Operadores Móviles Virtuales, hacer extensivos los acuerdos de roaming internacional, entre otros.
+  
+  Asimismo, es de vital importancia señalar que aquellos concesionarios que opten por prestar servicios mayoristas de telecomunicaciones móviles, podrán hacerlo con la certeza jurídica de que gozan de libertad para acordar las tarifas que mejor convengan a las partes. Ello sin menoscabo de las medidas aplicables al agente económico preponderante en el sector de las telecomunicaciones y, en su caso, al agente económico con poder sustancial de mercado. 
+  
+  Por otra parte, es importante señalar que la regulación de los Concesionarios Mayoristas Móviles establecida en los lineamientos es de aplicación para aquellos agentes que cuentan con la obligación de prestar servicios mayoristas de telecomunicaciones móviles, que como lo señala el marco legal vigente son el agente económico preponderante en el sector de las telecomunicaciones y en su caso el agente económico con poder sustancial de mercado, de conformidad con el artículo 272 de la Ley; así como aquellos titulares de una concesión de uso comercial con carácter de red compartida mayorista de servicios de telecomunicaciones, de conformidad con lo establecido en el Capítulo V de la Ley.
+  
+  En dichos casos, los lineamientos aplicarán, sin perjuicio de lo que al efecto señalen las disposiciones administrativas que el Instituto emita a los agentes económicos preponderantes en el sector telecomunicaciones, a los agentes económicos con poder sustancial de mercado, así como a quién sea titular de una concesión de uso comercial con carácter de red compartida mayorista de servicios de telecomunicaciones, en términos de lo dispuesto en la Ley y demás disposiciones aplicables. 
+  
+  En cuanto al agente económico preponderante en el sector de las telecomunicaciones respecta, las medidas asimétricas para la prestación del servicio mayorista se encuentran establecidas en la Resolución P/IFT/EXT/060314/76, la cual establece que dicho agente deberá presentar al Instituto para su aprobación una oferta de referencia para la comercialización o reventa del servicio por parte de los Operadores Móviles Virtuales.
+  
+  Asimismo, dicha resolución establece las condiciones mínimas bajo las cuales este agente deberá ofrecer dichos servicios a los Operadores Móviles Virtuales, entre las que destacan que los servicios deberán ser ofrecidos en toda el área de cobertura de su red pública de telecomunicaciones a cualquier Operador Móvil Virtual que lo solicite, siempre bajo el principio de no discriminación.
+  
+  Adicionalmente, con el objetivo de reducir las barreras a la entrada para los Operadores Móviles Virtuales y promover un mercado en competencia, la medida decimonovena del Anexo 1 de la Resolución P/IFT/EXT/060314/76, establece que el Agente Económico Preponderante deberá permitir al Operador Móvil Virtual migrar a sus usuarios con cualquier otro concesionario de red pública de telecomunicaciones que le ofrezca servicios mayoristas, absteniéndose de imponer penalidades o condiciones de salida que limiten la migración del Operador Móvil Virtual.
+  
+  En razón de lo anterior, se considera que el mercado mayorista en México cuenta con condiciones favorables para el desarrollo de Operadores Móviles Virtuales, toda vez que actualmente existe una oferta mayorista que brinda servicios a estos bajo condiciones no discriminatorias, de competencia y libre concurrencia y los presentes lineamientos complementarán el ecosistema normativo por lo que hace a los derechos y obligaciones de los Operadores Móviles Virtuales, tal como se señala en el siguiente considerando.
+  
+   De la regulación de los Operadores Móviles Virtuales.- Los Operadores Móviles Virtuales requieren condiciones que les permitan desarrollarse plenamente, lo cual implica que tengan suficiente flexibilidad para configurar una amplia gama de modelos de negocio con la finalidad de atender diversos nichos de mercado. Un entorno con estas características permite incentivar la inversión, ampliar la oferta en la prestación de servicios móviles y con ello intensificar la competencia en los mercados.
+  
+  La emisión de disposiciones regulatorias deberá eliminar las barreras que impidan la libre movilidad de los Operadores Móviles Virtuales para elegir a sus proveedores de servicios mayoristas de telecomunicaciones móviles. Una de esas barreras a la movilidad puede ocurrir si un Operador Móvil Virtual cambia de Concesionario Mayorista Móvil, y para ello tiene que cambiar la tarjeta SIM a todos sus usuarios. Esta situación se puede reflejar en la percepción de una baja calidad del servicio de atención a clientes por parte del Operador Móvil Virtual.  
+  En este sentido, para evitar que los Operadores Móviles Virtuales tengan que cambiar de tarjeta SIM a todos sus usuarios, es posible que utilicen su propio identificador de usuario, todo ello conforme a la Recomendación E.212 emitida por la Unión Internacional de Telecomunicaciones. Dicha Recomendación estableció un plan destinado a la identificación internacional única, de redes públicas fijas y móviles, para permitir a los usuarios el acceso a los servicios de telecomunicaciones de las redes públicas a través de la IMSI.  Por lo anterior, es necesario contar con disposiciones regulatorias para la administración y asignación de los elementos que componen la IMSI (International Mobile Subscription Identity), conforme a la Recomendación E.212.
+  
+  En el ámbito internacional se ha observado que hay Operadores Móviles Virtuales que cuentan con infraestructura propia y que solamente necesitan de ciertos elementos de infraestructura asociada a la explotación del espectro radioeléctrico que tienen otros concesionarios. Estos Operadores Móviles Virtuales incluso disponen de la infraestructura necesaria para realizar la interconexión con otras redes públicas de telecomunicaciones. Ahora bien, conforme a la Ley, todo concesionario que disponga de una concesión y una red pública de telecomunicaciones está obligado a interconectar su red con las de otros concesionarios en condiciones no discriminatorias, transparentes y basadas en criterios objetivos, dicha obligación se debe hacer extensiva a los Operadores Móviles Virtuales que cumplan con estas características. Sin embargo, aquellos Operadores Móviles Virtuales que no puedan interconectarse, deben tener la alternativa de hacer uso de los convenios de interconexión ofrecidos por los Concesionarios Mayoristas Móviles. 
+  
+  Los servicios de roaming internacional son necesarios para asegurar la continuidad en la prestación de los servicios a los usuarios que se trasladan de un país a otro, por ello es conveniente que aquellos Operadores Móviles Virtuales que cuenten con una concesión e infraestructura de red, puedan incorporarse al mercado de servicios de roaming de una forma eficiente y competitiva, para lo cual no deben existir restricciones que les impidan negociar eficazmente la prestación de servicios de roaming al por mayor. Por ello es importante habilitarlos para negociar sus propios acuerdos de roaming. Ahora bien, algunos Operadores Móviles Virtuales pueden requerir que se les hagan extensivos los acuerdos comerciales sobre roaming que hayan negociado o alcanzado sus proveedores de servicios mayoristas de telecomunicaciones móviles. 
+  
+  Los Operadores Móviles Virtuales deben respetar los derechos de los usuarios previstos en el artículo 191 de la Ley, así como los previstos en la Ley Federal de Protección al Consumidor y demás disposiciones aplicables, tales como la portabilidad numérica, facturación, características de los servicios tales como la calidad y la velocidad de transmisión de datos, así como poner a disposición de los usuarios procedimientos y sistemas de atención a clientes, entre otras.
+  
+  Asimismo, es relevante establecer las condiciones generales bajo las cuales se deberán prestar los servicios entre Operadores Móviles Virtuales y Concesionarios Mayoristas Móviles. 
+  
+  En este orden de ideas, se concluye que con el surgimiento de los Operadores Móviles Virtuales, se estima necesario el establecimiento de condiciones que permitan su pleno desarrollo y contribuyan a intensificar la competencia en los mercados de telecomunicaciones. Asimismo, resulta importante promover la diversidad de ofertas de servicios móviles a los usuarios finales, a través de una mayor oferta de estos servicios en los mercados mayorista y minorista. 
+  
+  Como se ha señalado, los Operadores Móviles Virtuales son agentes que ofrecen servicios móviles a los usuarios finales, sin contar con concesión para usar, aprovechar y explotar el espectro radioeléctrico, estos podrían contratar capacidad con uno o varios Concesionarios Mayoristas Móviles para el uso de sus capacidades, por lo que podría resultar óptimo poder gestionar a sus usuarios de forma dinámica entre redes, así como realizar sus propios acuerdos de Roaming internacional a fin de estar en posibilidades de brindar servicios diferenciados (basados en atributos como calidad, cobertura o precio) y precios competitivos.
+  
+  En tal sentido, el acceso al IMSI para este tipo de operadores se vuelve de vital importancia cuando dichos agentes quieren basar sus servicios en la provisión de capacidad de distintos Concesionarios Mayoristas Móviles.
+  
+  El IMSI es el número a través del cual se identifica internacionalmente a un usuario o abonado, indicando además a cuál operador móvil pertenece dicho usuario (sea virtual o no) a nivel nacional e internacional.
+
+                                        
+                               Estructura del IMSI
+  
+  Fuente: Elaboración propia, IFT
+  
+  Los IMSI son típicamente de 15 dígitos de longitud, pero puede ser más corto. Los tres primeros números representan el MCC (Indicativo de país). Después los dígitos que representan el código de red móvil (MNC por sus siglas en inglés). El MNC es de tres dígitos de longitud. Los números restantes del IMSI componen el MSIN (Mobile Subscription Identification Number) que provienen de la base de números de la red móvil. 
+  
+  El IMSI se almacena en el módulo de identidad del suscriptor (por sus siglas en inglés, SIM Subscriber Identity Module) en el interior de un dispositivo o terminal móvil y es enviado por este terminal a la(s) red(es) a la(s) que pertenece. El IMSI se utiliza para adquirir los detalles de las operaciones en la Central de Gestión de Usuarios (HLR por sus siglas en inglés) o en el Registro de Localización de Visitantes (VLR por sus siglas en inglés).
+  
+  Un IMSI es utilizado por cualquier red celular que permita conexiones con otras redes móviles. Para aquellos que operan con protocolos LTE, UMTS, o basado en GSM, esta información está incluida en la tarjeta SIM de una terminal móvil. Esta identificación a través del IMSI es útil no solamente en los casos en que los usuarios se intenten conectar a las redes de sus respectivos proveedores del servicio, sino también para que cuando el usuario requiera conectarse desde una región en la que su proveedor de servicios móviles no cuenta con cobertura, es decir, cuando tenga que hacer uso del servicio de Roaming o usuario visitante, y que el operador que preste temporalmente el servicio pueda identificar al proveedor al que originalmente pertenece el usuario, para prestar el servicio y, entre otras cosas, remitir el cobro por dicha prestación. Asimismo, el Operador Móvil Virtual podrá administrar de manera inteligente los servicios, calidades y precios contratados con sus Concesionarios Mayoristas Móviles para brindar el mejor servicio móvil a sus usuarios finales.
+  
+  La experiencia internacional muestra que la asignación del MNC a Operadores Móviles Virtuales es tan común y aceptada, que al consultar ante la Unión Internacional de Telecomunicaciones la lista de los MNC asignados al 15 de julio de 2015, se puede observar que países con un alto desarrollo en telecomunicaciones tienen también un alto número de asignaciones de MNC, incluso utilizando hasta tres dígitos (como lo es el caso de Estados Unidos).
+  
+  Por lo anterior, se considera relevante que los Operadores Móviles Virtuales tengan acceso a los códigos de red móvil que serán asignados por el Instituto de acuerdo a los criterios que se establecen en el presente marco regulatorio y demás disposiciones aplicables. Para lo cual se establece un procedimiento de asignación en el régimen transitorio de la presente regulación, mismo que se prevé sea provisional en tanto no se modifiquen las disposiciones de carácter general correspondientes. 
+  
+   De la relación entre Concesionarios Mayoristas Móviles y Operadores Móviles Virtuales. La relación comercial entre las partes es libre y se puede regir por la suscripción de Convenios. Sin embargo, dado que estas relaciones comerciales involucran servicios de telecomunicaciones los cuales, de acuerdo a lo previsto en el artículo 6, apartado B, de la Constitución, son servicios públicos de interés general y corresponde al Instituto garantizar que sean prestados en condiciones de competencia, calidad, pluralidad, cobertura universal, interconexión, convergencia, continuidad, acceso libre y sin injerencias arbitrarias, se considera óptimo establecer las condiciones mínimas bajo las cuáles se deberá desarrollar la prestación de los servicios. 
+   
+  Por lo anterior, y con el objeto de brindar certeza a las partes contratantes, la regulación contenida en los Lineamientos provee las condiciones mínimas que deberán contener los acuerdos que suscriban las partes, ello sin perjuicio de que las partes puedan convenir aspectos adicionales en el marco de dichos acuerdos.
+  
+  Asimismo, los lineamientos  establecen la obligación a los Operadores Móviles Virtuales, independientemente si cuentan con una concesión o una autorización, de inscribir en el Registro Público de Concesiones los convenios que formalicen con uno o más Concesionarios Mayoristas  Móviles, siendo que la información contenida en dichos convenios será de consulta pública de conformidad con el artículo 178 de la Ley, el cuales refiere a  la facultad que tiene el Instituto para determinar la inclusión de nuevos actos materia de registro.
+  
+  Lo anterior sin perjuicio de que, tanto los permisos vigentes para instalar y operar o explotar una comercializadora de servicios de telecomunicaciones que, en su momento, fueron otorgados por la extinta Comisión Federal de Telecomunicaciones, así como las autorizaciones para establecer y operar o explotar una comercializadora de servicios de telecomunicaciones que han sido otorgadas por el Instituto de conformidad con el marco legal vigente, establecen la obligación a sus titulares de inscribir en el Registro Público de Concesiones los convenios que formalicen con uno o más concesionarios, de conformidad con lo establecido en su título correspondiente. 
+
+   Consulta Pública. En cumplimiento al artículo 51 de la Ley, bajo los principios de transparencia y participación ciudadana, el Instituto llevó a cabo la consulta pública de mérito del 10 al 17 de julio y del 3 al 20 de agosto, derivado de la cual, se recibieron participaciones de 2 personas físicas y 16 personas morales y una del Consejo Consultivo del Instituto, en la forma de 19 participaciones, las cuales se valoraron y, en su caso, robustecieron los presentes lineamientos.
+  
+  En particular, derivado de dichas participaciones se modificaron y ajustaron diversas definiciones y se realizaron adecuaciones del Anteproyecto. Los comentarios recibidos mediante la consulta pública antes mencionada fueron analizados y, en su caso, atendidos a fin de consolidar el proyecto de Lineamientos, el Informe de consideraciones mediante el cual se emiten las respuestas a todos los comentarios recibidos durante la consulta pública se encuentran públicas en el portal de Internet del Instituto.
+  
+   Análisis de Impacto Regulatorio. El segundo párrafo del artículo 51 de la Ley establece que previo a la emisión de reglas, lineamientos o disposiciones administrativas de carácter general de que se trate, el Instituto deberá realizar y hacer público un análisis de impacto regulatorio.
+  
+  Al respecto, de conformidad con lo establecido en los artículo 51 de la LFTR; 4 fracción VIII, inciso IV) y 75 fracción II del Estatuto, la Coordinación General de Mejora Regulatoria mediante el oficio número IFT/211/CGMR/144/2015 de fecha 11 de noviembre de 2015, emitió la opinión no vinculante respecto del proyecto de "LINEAMIENTOS PARA LA COMERCIALIZACIÓN DE SERVICIOS MÓVILES POR PARTE DE OPERADORES MÓVILES VIRTUALES ", en la cual manifiesta que el análisis de impacto regulatorio presentado por la Unidad de Política Regulatoria fue elaborado satisfactoriamente, al presentar información detallada que permite conocer a todo interesado sobre la problemática que da origen al Anteproyecto y las alternativas de solución valoradas por el Instituto Federal de Telecomunicaciones, así como la estimación de los impactos que se pudieran desprender a razón de su implementación, con lo que se asegura plena transparencia en el proceso de elaboración de nuevas regulaciones de este órgano constitucional autónomo.
+  
+  Por las razones antes expuestas, con fundamento en lo dispuesto por los artículos 6° apartado B, fracción II, y 28 párrafos décimo quinto, décimo sexto y vigésimo fracción IV de la Constitución Política de los Estados Unidos Mexicanos, así como en los artículos 1, 2, 7, 15, fracciones I, IX y XIII, 17, fracción I, 118 fracción VII, 170 fracción I, 171,173, 174, 178  y 191 de la Ley Federal de Telecomunicaciones y Radiodifusión; 1, 4, fracción I y 6°, fracciones I y XXV, del Estatuto Orgánico del Instituto Federal de Telecomunicaciones, el Pleno del instituto expide el siguiente:
+  
+  
+                                    ACUERDO
+
+ 
+  PRIMERO.- Se aprueban y emiten los "LINEAMIENTOS PARA LA COMERCIALIZACIÓN DE SERVICIOS MÓVILES POR PARTE DE OPERADORES MÓVILES VIRTUALES", así como el Anexo I "Solicitud de Código de Red Móvil para Operadores Móviles Virtuales" que se adjunta al presente Acuerdo.
+  
+  SEGUNDO.- Publíquense en el Diario Oficial de la Federación y en el portal de Internet del Instituto los "LINEAMIENTOS PARA LA COMERCIALIZACIÓN DE SERVICIOS MÓVILES POR PARTE DE OPERADORES MÓVILES VIRTUALES", por tratarse de una disposición administrativa de carácter general, así como el Anexo I "Solicitud de Código de Red Móvil para Operadores Móviles Virtuales" que se adjunta al presente Acuerdo.
+  
+  
+  TERCERO.- Publíquese en la página de Internet del Instituto Federal de Telecomunicaciones el Formato anexo a los "LINEAMIENTOS" para que pueda ser consultado por los interesados en obtener el Código de Red Móvil. 
+
+El presente Acuerdo fue aprobado por el Pleno del Instituto Federal de Telecomunicaciones en su IV Sesión Ordinaria celebrada el 17 de febrero de 2016, en lo general por unanimidad de votos de los Comisionados presentes Gabriel Oswaldo Contreras Saldívar, Luis Fernando Borjón Figueroa, Ernesto Estrada González, Adriana Sofía Labardini Inzunza, María Elena Estavillo Flores, Mario Germán Fromow Rangel y Adolfo Cuevas Teja.
+
+La Comisionada María Elena Estavillo Flores manifestó su voto en contra de permitir el establecimiento de cláusulas de exclusividad y condiciones discriminatorias entre concesionarios mayoristas móviles y operadores móviles virtuales.
+
+Lo anterior, con fundamento en los párrafos vigésimo, fracciones I y III; y vigésimo primero, del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos; artículos 7, 16 y 45 de la Ley Federal de Telecomunicaciones y Radiodifusión; así como en los artículos 1, 7, 8 y 12 del Estatuto Orgánico del Instituto Federal de Telecomunicaciones, mediante Acuerdo P/IFT/170216/35.
+                                       
+LINEAMIENTOS PARA LA COMERCIALIZACIÓN DE SERVICIOS MÓVILES POR PARTE DE OPERADORES MÓVILES VIRTUALES
+   
+                                  CAPÍTULO I
+                            DISPOSICIONES GENERALES
+
+ El objeto de los presentes lineamientos es regular la prestación, comercialización y reventa de Servicios Móviles por parte de concesionarios y autorizados para establecer y operar o explotar una comercializadora de servicios de telecomunicaciones. 
+
+ Los presentes Lineamientos son aplicables a todos aquellos titulares de una Concesión para usar, aprovechar o explotar bandas de frecuencia del espectro radioeléctrico que les permita la prestación comercial del Servicio Móvil, que además tengan u operen una Red Pública de Telecomunicaciones y que presten, o estén obligados a prestar Servicios Mayoristas de Telecomunicaciones Móviles. 
+
+Asimismo, son aplicables a los concesionarios titulares de una Concesión Única o de una Concesión de Red Pública de Telecomunicaciones que les permita prestar servicios de telecomunicaciones móviles, así como a los autorizados que presten, comercialicen o revendan Servicios Móviles, mediante el uso de capacidad de una o varias Redes Públicas de Telecomunicaciones, de conformidad con los términos y condiciones consignados en sus respectivos títulos habilitantes.
+
+ Para los efectos de los presentes Lineamientos, se tendrán en cuenta los términos siguientes:
+
+ Código de Red Móvil: Es el segundo campo de la IMSI que conforme a la estructura definida en la Recomendación UIT-T E.212, tiene una longitud de dos a tres dígitos y es administrado por el Instituto; en combinación con el Indicativo de País proporciona la información necesaria para identificar la red;
+ Concesionario Mayorista Móvil: Titular de una Concesión para uso comercial que le permite la prestación del Servicio Móvil y ofrece Servicios Mayoristas de Telecomunicaciones Móviles;
+ Concesionario: Persona física o moral, titular de una Concesión Única o de Red Pública de Telecomunicaciones que le permite prestar servicios públicos de telecomunicaciones;
+ Contrato de Servicios Mayoristas de Telecomunicaciones Móviles: Acuerdo de voluntades o acuerdo suscrito entre un Concesionario Mayorista Móvil y un Operador Móvil Virtual, mediante el cual se establecen los términos y condiciones bajo los cuales el Concesionario Mayorista Móvil proveerá el Servicio Mayorista de Telecomunicaciones Móviles al Operador Móvil Virtual y, el Operador Móvil Virtual efectuará la comercialización de Servicios Móviles y demás capacidades ofrecidas por el Concesionario Mayorista Móvil;
+ Dispositivo o Equipo Terminal Móvil: Equipo que utiliza el Usuario para conectarse más allá del punto de conexión terminal de una red pública con el propósito de tener acceso y/o recibir uno o más servicios de telecomunicaciones;
+ Influencia: La capacidad, de hecho o de derecho, de una persona de participar o intervenir en forma significativa, directa o indirectamente, por cualquier medio en las decisiones que incluyen pero no se limitan a la administración, la definición de las políticas y los objetivos o la gestión, conducción y ejecución de las actividades de otra(s) persona(s). La Influencia resulta de los derechos, contratos u otros medios que por sí mismos o en conjunto otorgan la capacidad antes señalada;
+ IMSI (del inglés, International Mobile Subscriber Identity): Identidad internacional de suscripción al Servicio Móvil conforme a la Recomendación UIT-T E.212, Plan de identificación internacional para redes públicas y suscripciones;
+ Instituto: Instituto Federal de Telecomunicaciones;
+ Ley: Ley Federal de Telecomunicaciones y Radiodifusión;
+ Operador Móvil Virtual: Concesionario o autorizado que preste, comercialice o revenda Servicios Móviles o capacidades que previamente haya contratado con algún Concesionario Mayorista Móvil; 
+ Reglas de Portabilidad: Reglas de Portabilidad Numérica publicadas en el Diario Oficial de la Federación el 12 de noviembre de 2014 así como aquellas disposiciones que las modifiquen o sustituyan;
+ Roaming Internacional: El uso de servicios de telecomunicaciones móviles por parte de un usuario cuando se encuentra en un país distinto de aquél en que están contratados sus servicios, en virtud de los acuerdos celebrados entre el proveedor de servicios de origen y la red visitada;
+ Servicio Mayorista de Telecomunicaciones Móviles: Servicio Móvil que consiste en el suministro de acceso a elementos individuales, a capacidades técnicas, económicas, operativas y comerciales de una red o servicios, incluyendo los de interconexión, que son utilizados por Operadores Móviles Virtuales para proveer dichos servicios a los usuarios finales móviles; y
+ Servicio Móvil: Servicio de telecomunicaciones prestado a usuarios finales móviles, que de acuerdo a los títulos de concesión y autorizaciones correspondientes se presta a través de Equipos Terminales Móviles que no tienen una ubicación geográfica determinada.
+
+Los términos antes señalados pueden ser utilizados indistintamente en singular o plural. Los términos no definidos en los presentes Lineamientos tendrán el significado que les dé la Ley o la normatividad aplicable en la materia.
+
+
+                                 CAPÍTULO II
+                   DE LOS CONCESIONARIOS MAYORISTAS MÓVILES
+ El titular de una Concesión para uso comercial que le permita la prestación del Servicio Móvil, podrá ofrecer Servicios Mayoristas de Telecomunicaciones Móviles.
+
+Los concesionarios que cuentan con la obligación de prestar Servicios Mayoristas de Telecomunicaciones Móviles, estarán sujetos a los presentes lineamientos, sin perjuicio de lo que al efecto señalen las disposiciones administrativas que el instituto emita a los agentes económicos preponderantes en el sector telecomunicaciones, a los agentes económicos con poder sustancial de mercado, así como a quién sea titular de una concesión de uso comercial con carácter de red compartida mayorista de servicios de telecomunicaciones, en términos de lo dispuesto en la Ley y demás disposiciones aplicables. 
+
+Aquellos Operadores Móviles Virtuales que sean concesionarios podrán prestar, comercializar u ofrecer Servicios Mayoristas de Telecomunicaciones Móviles previamente adquiridos de al menos un Concesionario Mayorista Móvil. Cuando el Operador Móvil Virtual preste estos servicios a otros Operadores Móviles Virtuales, será considerado un Concesionario Mayorista Móvil para efectos de los presentes Lineamientos.
+
+ Los Servicios Mayoristas de Telecomunicaciones Móviles deberán ser prestados, por lo menos, bajo las mismas tecnologías y facilidades que el Concesionario Mayorista Móvil ofrece a sus usuarios finales. Asimismo, los Concesionarios Mayoristas Móviles deberán ofrecer a los Operadores Móviles Virtuales los Servicios Mayoristas de Telecomunicaciones Móviles, por lo menos, con la misma calidad que ofrecen a sus usuarios finales.
+
+ Los Concesionarios Mayoristas Móviles podrán acordar libremente las tarifas de los servicios que sean prestados al Operador Móvil Virtual. 
+
+ Los Concesionarios Mayoristas Móviles no podrán condicionar la contratación de capacidades o servicios, a la contratación de otros bienes, servicios o capacidades o a la contratación de plataformas específicas que permitan habilitar los Servicios Móviles, provistas por el propio Concesionario Mayorista Móvil o por algún tercero.
+
+Todas las plataformas, servicios y aquellos sistemas que permitan a los Operadores Móviles Virtuales conocer y gestionar tanto la información como los servicios que presta a sus usuarios, podrán ser suministrados por el propio Operador Móvil Virtual, un tercero o podrán ser adquiridos directamente del Concesionario Mayorista Móvil con quien haya suscrito un contrato, a libre elección del Operador Móvil Virtual. 
+
+ Los Concesionarios Mayoristas Móviles que presten Servicios Mayoristas de Telecomunicaciones Móviles deberán: 
+
+ Ofrecer al Operador Móvil Virtual los elementos técnicos y poner a su disposición, en su caso, las condiciones derivadas de los convenios de interconexión y los acuerdos de usuario visitante que tenga celebrados; 
+ Poner a disposición del Operador Móvil Virtual, las condiciones derivadas de los acuerdos de Roaming Internacional que tenga suscritos, en los mismos términos de que dispone o goza el  Concesionario Mayorista Móvil, que permitan la prestación de los Servicios Móviles a los usuarios finales del Operador Móvil Virtual;
+ Permitir la portabilidad de los usuarios finales en términos de lo establecido en la Ley y en las Reglas de Portabilidad;
+ Permitir el uso de los Códigos de Red Móvil de los Operadores Móviles Virtuales, otorgando a estos el mismo trato que dan a los propios;
+ Poner a disposición del Operador Móvil Virtual, en caso de que no cuente con los propios, los recursos de numeración que este requiera para la eficiente prestación de los Servicios Móviles;
+ Permitir al Operador Móvil Virtual comercializar Servicios Móviles y no establecer condiciones que limiten o restrinjan la integración de sistemas y plataformas propios o adquiridas a un tercero, siempre garantizando la integridad de las redes y la calidad ofrecida al usuario final por lo menos, bajo las mismas condiciones de calidad que ofrece a sus usuarios finales;
+ Permitir que, mediante la interoperabilidad de sus plataformas, el Operador Móvil Virtual pueda acceder en línea a la información de sus usuarios a fin de consultar la información de localización del usuario a nivel de radio-base; 
+ Informar oportunamente al Operador Móvil Virtual acerca de las medidas o acciones implementadas para la gestión de tráfico y administración de red conforme a las políticas que, en su caso, le hayan sido autorizadas por el Instituto. En ningún caso, las medidas de gestión de tráfico y administración de red podrán ser instrumentadas de manera que discriminen respecto de los servicios que presta el Concesionario Mayorista Móvil al Operador Móvil Virtual;
+ Permitir el uso de equipos terminales y tarjetas SIM estandarizadas provistos por el Operador Móvil Virtual ya sea mediante la utilización del IMSI asignado al propio Operador Móvil Virtual o de aquel correspondiente al Concesionario Mayorista Móvil;
+ Permitir al Operador Móvil Virtual comercializar y hacer uso de equipos, dispositivos o aparatos de su preferencia, siempre y cuando estén homologados, de conformidad con las normas y disposiciones técnicas aplicables. Asimismo, dichos equipos deberán cumplir con las pruebas y requisitos técnicos que acuerden las partes para el correcto funcionamiento de éstos en la red;
+ Prestar los servicios necesarios al Operador Móvil Virtual para asegurar el cumplimiento de los requerimientos del Instituto; así como de las instancias de seguridad, procuración y administración de justicia, y
+ Poner a disposición del Operador Móvil Virtual toda la información relativa al tráfico generado por sus usuarios finales, así como todos los datos, indicadores de desempeño y mediciones necesarias para que el Operador Móvil Virtual pueda cumplir con la eficiente prestación de los Servicios Móviles, así como con los requerimientos del Instituto.
+
+Además de lo antes mencionado, el Concesionario Mayorista Móvil y el Operador Móvil Virtual podrán acordar aspectos adicionales o complementarios que permitan la eficiente prestación de los Servicios Móviles.
+
+
+                                 CAPÍTULO III
+                     DE LOS OPERADORES MÓVILES VIRTUALES
+
+ Los Operadores Móviles Virtuales podrán prestar directamente al usuario final Servicios Móviles adquiridos de uno o varios Concesionarios Mayoristas Móviles. Asimismo, podrán instalar la infraestructura y elementos de red propios que requieran desplegar para la eficiente prestación de sus servicios, cumpliendo en todo momento con las obligaciones que se deriven del despliegue de su infraestructura, de conformidad con lo dispuesto en la Ley, y en la demás normatividad aplicable.
+
+Los Operadores Móviles Virtuales deberán notificar al Instituto el uso o instalación de infraestructura en términos de lo establecido en el artículo 183 de la Ley, y demás disposiciones aplicables.
+
+  El agente económico preponderante en el sector de telecomunicaciones o los concesionarios que formen parte del grupo de interés económico, no podrán participar de manera directa o indirecta en empresas comercializadoras de servicios de telecomunicaciones conforme a lo dispuesto en el último párrafo del artículo 174 de la Ley.
+
+ El Instituto administrará y asignará los Códigos de Red Móvil. Los Operadores Móviles Virtuales podrán obtener su propio Código de Red Móvil conforme a las disposiciones que para tal efecto establezca el Instituto.
+
+En caso de que el Operador Móvil Virtual cuente con un Código de Red Móvil, el Concesionario Mayorista Móvil deberá permitir el uso de éste en su red pública de telecomunicaciones.
+
+ Sin menoscabo de lo establecido en las Concesiones y Autorizaciones, los Operadores Móviles Virtuales podrán:
+   
+ Acceder a los Servicios Mayoristas de Telecomunicaciones Móviles ofrecidos por los Concesionarios Mayoristas Móviles;
+ Comercializar servicios propios así como revender los servicios y capacidades que previamente hayan contratado de uno o varios Concesionarios Mayoristas Móviles;
+ Contar con numeración propia asignada por el Instituto o arrendarla a un Concesionario Mayorista Móvil, esta numeración deberá ser utilizada exclusivamente para la prestación de Servicios Móviles;
+ Fijar libremente sus tarifas, las cuales deberán ser registradas ante el Instituto previamente a la aplicación de las mismas;
+ Ofrecer paquetes y servicios adicionales;
+ Utilizar tarjetas SIM de su elección, sin que esto genere un costo adicional a pagar al Concesionario Mayorista Móvil, para lo cual deberán cumplir con las pruebas técnicas mínimas que acuerden con el Concesionario Mayorista Móvil con quien hayan suscrito un contrato, a fin de asegurar el correcto funcionamiento de estas en la red;
+ Comercializar y distribuir Equipos o Dispositivos Terminales Móviles de su elección, siempre y cuando estén homologados de conformidad con las normas y disposiciones técnicas aplicables. Asimismo, dichos equipos utilizados por el Operador Móvil Virtual deberán, en su caso, cumplir con las pruebas técnicas mínimas que acuerde con el Concesionario Mayorista Móvil con quien haya suscrito un contrato, a fin de asegurar el correcto funcionamiento de estos en la red;
+ Realizar la gestión de sus usuarios de forma directa; y
+ Utilizar los servicios de interconexión, Roaming Internacional y usuario visitante,  en las condiciones que haya convenido el Concesionario Mayorista Móvil con otros concesionarios o los que haya convenido directamente el Operador Móvil Virtual con otros concesionarios, en caso de contar con la capacidad técnica y jurídica para ello.
+
+ Los Operadores Móviles Virtuales deberán:
+   
+ Contar con Concesión Única o de Red Pública de Telecomunicaciones o Autorización  para establecer y operar o explotar una comercializadora de servicios de telecomunicaciones que le permita comercializar o revender Servicios Móviles;
+ Permitir la portabilidad de sus usuarios finales en términos de las Reglas de Portabilidad;
+ Ser responsable ante el usuario final por la prestación de los servicios ofertados y cumplir con las obligaciones en materia de los derechos de los usuarios y sus mecanismos de protección establecidos en la Ley, en la Ley Federal de Protección al Consumidor, y demás disposiciones aplicables en materia de derechos de los usuarios;
+ Asegurarse de que los equipos o dispositivos terminales móviles que comercialicen estén debidamente homologados, de conformidad con las normas y disposiciones técnicas aplicables. Asimismo, dichos equipos deberán cumplir con las pruebas técnicas mínimas que acuerde con el Concesionario Mayorista Móvil con quien haya suscrito un contrato, a fin de asegurar el correcto funcionamiento de estas en la red;
+ Respetar la capacidad, velocidad y calidad contratada por el usuario, con independencia del contenido, aplicaciones, origen, destino, protocolo o equipo terminal empleados o involucrados, así como de los servicios que se provean a través de Internet, de conformidad con las disposiciones aplicables; 
+ Dar aviso al usuario final con al menos 30 días de anticipación en caso del cese de prestación de los servicios contratados por éste; y
+ Contar con sistemas de atención a usuarios para atender de manera gratuita, eficaz y ágil, consultas y quejas relativas a la calidad de los servicios prestados, de conformidad con las disposiciones aplicables.
+
+
+ Los Operadores Móviles Virtuales deberán poner a disposición de sus usuarios, la siguiente información:
+
+ Facturación de los servicios contratados;
+ Características del servicio ofrecido, detallando cuando menos la velocidad, la calidad, la naturaleza y la garantía del servicio;
+ Notificación previa por cualquier medio, incluido el electrónico y mensajes cortos (SMS), de cualquier cambio en las condiciones originalmente contratadas; y,
+ Cualquier otra a la que esté obligado conforme a las disposiciones legales y administrativas aplicables.
+
+ Aquellos Operadores Móviles Virtuales que sean concesionarios y operen una Red Pública de Telecomunicaciones, podrán solicitar sus propios acuerdos de interconexión con otros concesionarios. Asimismo, estarán obligados a interconectar sus redes con las de otros concesionarios en condiciones no discriminatorias, transparentes y basadas en criterios objetivos y en estricto cumplimiento a lo dispuesto en la Ley. En tal caso, el pago y cobro por la interconexión con los concesionarios terceros, corresponderá al Operador Móvil Virtual.
+
+Lo anterior sin que ello implique limitante para que estos Operadores Móviles Virtuales puedan, a su elección, hacer uso de los convenios de interconexión ofrecidos por el Concesionario Mayorista Móvil con quien hayan suscrito un Contrato. 
+
+ Aquellos Operadores Móviles Virtuales que sean concesionarios y que comercialicen Servicios Móviles, podrán celebrar libremente acuerdos relativos al servicio de usuario visitante, en los que establezcan los términos y condiciones bajo los cuales se efectuará la conexión entre sus plataformas para que sus usuarios reciban el servicio de usuario visitante.
+
+Lo anterior sin que ello implique limitante para que estos Operadores Móviles Virtuales puedan, a su elección, hacer uso de los acuerdos relativos al servicio de usuario visitante ofrecidos por el Concesionario Mayorista Móvil con quien hayan suscrito un contrato de Servicios Mayoristas de Telecomunicaciones Móviles. 
+   
+ Los Operadores Móviles Virtuales podrán celebrar acuerdos de Roaming Internacional directamente con operadores extranjeros, para lo cual deberán acordar con el Concesionario Mayorista Móvil con quien hayan suscrito un Contrato, los términos y condiciones bajo los cuales pretenden suscribir dichos acuerdos de Roaming Internacional con terceros. 
+
+Aquellos Operadores Móviles Virtuales que sean concesionarios y operen una Red Pública de Telecomunicaciones, podrán realizar intercambio de tráfico de redes públicas de telecomunicaciones con redes extranjeras mediante convenios que negocien directamente con terceros.
+
+El Concesionario Mayorista Móvil deberá poner a disposición de los Operadores Móviles Virtuales los servicios de Roaming Internacional que haya acordado con operadores extranjeros, mas no podrá obligar o condicionar a los Operadores Móviles Virtuales a utilizar los mismos. En caso de ser necesario, el Concesionario Mayorista Móvil deberá realizar las adecuaciones necesarias a sus convenios o acuerdos, permitiendo que estos sean extensivos para aquellos Operadores Móviles Virtuales que cuenten con IMSI propio.
+
+
+                                 CAPÍTULO IV
+DE LA RELACIÓN ENTRE CONCESIONARIOS MAYORISTAS MÓVILES Y OPERADORES MÓVILES VIRTUALES
+                                       
+ Los Contratos de Servicios Mayoristas de Telecomunicaciones Móviles suscritos entre las partes deberán contener, sin perjuicio de los acuerdos adicionales que convengan las partes, al menos lo siguiente:
+
+ Esquemas de responsabilidad que determinen al sujeto responsable frente a cada una de las acciones o mecanismos comprendidos en el presente artículo que impliquen el cumplimiento de obligaciones frente a la autoridad;
+ Descripción de los servicios y capacidades objeto del contrato así como las zonas geográficas de cobertura;
+ Formas y tiempos de medición, tasación, facturación y procedimientos de cobranza de los servicios;
+ Especificaciones técnicas requeridas para la prestación de los servicios y capacidades, así como para la utilización de, entre otros elementos, las plataformas, los sistemas, los protocolos, los elementos de red y las instalaciones esenciales, ya sean propios o de terceros;
+ Estándares y criterios, así como pruebas y requisitos técnicos para asegurar el correcto funcionamiento de los equipos en la red del Concesionario Mayorista Móvil, para lo cual las partes acordarán el proveedor que realizará los procesos correspondientes; 
+ Cláusula en la cual el Concesionario Mayorista Móvil garantice la calidad contratada por el Operador Móvil Virtual, por lo menos, bajo las mismas condiciones que ofrece a sus usuarios finales, asegurando el cumplimiento de los parámetros de calidad establecidos en las disposiciones aplicables en la materia;
+ Criterios de compensación y esquemas de responsabilidad para los casos de incumplimiento de los niveles de calidad pactados;
+ Sistemas y procedimientos que se seguirán para la atención de fallas e incidencias, trabajos de emergencia, programación de los mantenimientos respectivos, y cualquier otra que asegure la continuidad en la prestación de los Servicios Mayoristas de Telecomunicaciones Móviles y de los Servicios Móviles al usuario final; 
+ Contraprestaciones económicas por la prestación de servicios y capacidades y en su caso, los mecanismos de compensación correspondientes;
+ Gestión y administración de los recursos de numeración propios o arrendados;
+ En su caso, mecanismos de coordinación entre las partes para el uso del Código de Red Móvil por parte del Operador Móvil Virtual;
+ En su caso, mecanismos de coordinación entre las partes para realizar la portabilidad numérica;
+ En su caso, condiciones y términos bajo los cuales se prestarán los servicios de interconexión;
+ En su caso, condiciones y mecanismos para la utilización de acuerdos de Roaming  Internacional y de servicios de usuario visitante con que cuente el Operador Móvil Virtual;
+ Mecanismos de intercambio de información entre las partes a efecto de cumplir con las obligaciones y requerimientos de información por parte del Instituto;
+ Parámetros respecto a la calidad, confiabilidad, disponibilidad y las penas convencionales por su incumplimiento, así como esquemas de entrega de información para el cálculo de dichas penas por incumplimiento de las partes;
+ Medidas de transparencia en materia de gestión de tráfico y administración de red conforme a las políticas, que en su caso, sean autorizadas por el Instituto;
+ En caso de que el Operador Móvil Virtual no cuente con la infraestructura y los medios necesarios para dar cumplimiento a las disposiciones administrativas de carácter general respecto a la colaboración con las instancias de seguridad, procuración y administración de justicia, el Concesionario Mayorista Móvil y este deberán establecer los mecanismos para dar cumplimiento a dichas disposiciones;
+ Mecanismos de información sobre los procesos de planificación de modificación de la red, con el fin de garantizar la prestación y continuidad del servicio a los usuarios finales, y
+ Sistema de penalizaciones y penas convencionales, así como daños y perjuicios por incumplimiento a las cláusulas pactadas en el marco del contrato.
+
+ Los Contratos de Servicios Mayoristas de Telecomunicaciones Móviles suscritos, y sus modificaciones entre las partes, deberán ser presentados por el Operador Móvil Virtual contratante ante la Unidad de Concesiones y Servicios del Instituto para su inscripción en el Registro Público de Concesiones, dentro de los 30 días hábiles siguientes a su celebración, con base en lo dispuesto en la Ley y demás disposiciones aplicables.
+
+
+                                  CAPÍTULO V
+                 DE LA VERIFICACIÓN, SUPERVISIÓN Y SANCIONES
+
+ El Instituto verificará y supervisará, en el ámbito de su competencia, el cumplimiento de las condiciones y obligaciones establecidas en los presentes Lineamientos, así como las disposiciones que estén relacionados con el objeto de las concesiones o autorizaciones que éste otorgue, de conformidad con lo dispuesto en la Ley.
+
+ Las infracciones a lo dispuesto en los presentes Lineamientos serán sancionadas conforme a lo dispuesto en el Título Décimo Quinto de la Ley.
+
+
+                                 TRANSITORIOS
+
+ Los Lineamientos entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+ Para la asignación del Código de Red Móvil a Operadores Móviles Virtuales a que hace referencia el artículo 11 de los presentes Lineamientos y hasta en tanto no se emitan nuevas disposiciones administrativas relativas a la asignación de códigos, los interesados deberán solicitar dicho código al Instituto conforme a lo establecido en el presente Artículo Transitorio.
+
+Los Operadores Móviles Virtuales que soliciten un Código de Red Móvil al Instituto, deberán cumplir con los siguientes requisitos:
+
+ Haber celebrado Contrato(s) de Servicios Mayoristas de Telecomunicaciones Móviles suscrito(s) con uno o varios Concesionarios Mayoristas Móviles;
+ Contar con numeración propia; y
+ Presentar el formato "Anexo I  -  Solicitud de asignación de Código de Red Móvil para Operadores Móviles Virtuales" debidamente requisitado ante la Unidad de Concesiones y Servicios del Instituto.
+El Instituto evaluará y resolverá lo conducente a dicha solicitud en un plazo no mayor a 30 días naturales, posterior a la fecha de recepción de la solicitud correspondiente.
+El registro de Códigos de Red Móvil asignados será de carácter público y podrá ser consultado en la página web del Instituto.
+
+ Las concesiones y permisos otorgados con anterioridad a la entrada en vigor de la Ley, se mantendrán en los términos y condiciones consignados en los respectivos títulos o permisos hasta su terminación.
+
+CUARTO.-	Los presentes Lineamientos son de aplicación para todos aquellos titulares de un permiso vigente para instalar y operar o explotar una comercializadora de servicios de telecomunicaciones que presten, comercialicen o revendan Servicios Móviles mediante el uso de capacidad de una o varias Redes Públicas de Telecomunicaciones. 
+
+    ANEXO I -"SOLICITUD PARA LA ASIGNACIÓN DE CÓDIGO DE RED MÓVIL" 
+                                       
+INSTRUCCIONES PARA REALIZAR LA SOLICITUD DEL CÓDIGO DE RED MÓVIL AL INSTITUTO FEDERAL DE TELECOMUNICACIONES
+                                       
+ Realice un escrito libre dirigido al Titular de la Unidad de Concesiones y Servicios, mediante el cual solicite la asignación del código de red móvil.
+   
+ Conteste lo requisitado en el siguiente formulario y adjúntelo a su escrito.
+   
+ Entregue de manera anexa a este formulario lo siguiente:
+ Descripción detallada de inicio de operaciones;
+ Diagrama de infraestructura de red a utilizar propia y/o de terceros;
+ Proyección quinquenal de suscriptores del solicitante.
+Proyección quinquenal de suscriptores del solicitante. INFORMACIÓN DEL SOLICITANTE
+
+                                                         Fecha de la Solicitud 
+                                                                               
+El solicitante es un:   Concesionario    Autorizado
+Razón social del concesionario o autorizado: FOLIO ELECTRóNICO (REGISTRO PúBLICO DE CONCESIONES) 
+NOMBRE DEL REPRESENTANTE LEGAL:
+Nombre comercial del Concesionario: 
+TELéFONO: CORREO ELECTRóNICO: DIRECCIóN PARA RECIBIR NOTIFICACIONES: CIUDAD:  PROVINCIA/ESTADO: CóDIGO POSTAL: TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
+
+En términos de lo dispuesto en el artículo 21 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, y los artículos 68, último párrafo y 120 de la Ley General de Transparencia y Acceso a la Información Pública, doy mi consentimiento expreso al Instituto Federal de Telecomunicaciones para la divulgación de mis datos personales contenidos en el presente formato.
+ Sí, acepto los términos de la LFTAIPG
+ No.
+JUSTIFICACIÓN DE LA SOLICITUD
+
+ Mencione y describa de los servicios móviles que prestará el solicitante: 
+
+ Justificación detallada de la necesidad y utilidad del Código de Red Móvil para la prestación de los servicios detallados en el numeral anterior: MENCIONE SI TIENE ACCESO A UN SISTEMA DE SERVICIOS PARA LA GESTIóN DE PERFILES DE SUSCRIPTORES, EN CASO DE SER POSITIVA LA RESPUESTA ESPECIFIQUE SI ES PROPIO O DE UN TERCERO.
+      Propio  
+Sí  
+De un tercero  
+Concesionario Mayorista Móvil  
+Proveedor independiente de plataformas habilitadores 
+
+Nombre del proveedor: NO 
+ Intervalo de numeración geográfica asignada: SELECCIONE LOS PROTOCOLOS DE INTERFAZ DE RADIO QUE UTILIZARáN LOS SERVICIOS QUE PROVEERá:
+             Protocolos basados ​​en GSM como General Packet Radio Service (GPRS), de datos mejorados para la evolución de GSM (EDGE), CDMA de banda ancha (W-CDMA), y High Speed ​​Packet Access (HSPA). 
+            
+             Protocolos CDMA2000 incluyendo CDMA2000 1X (una tecnología celular 3GPP2 la prestación de servicios de voz y datos) y de paquetes de alta velocidad de datos (HRPD [EVDO]).
+            
+             Protocolos de Long Term Evolution (LTE), incluyendo LTE Advanced.
+            
+             Otro, menciónelo: FECHA PROGRAMADA PARA EL INICIO DE USO DEL CóDIGO DE RED MóVIL: 
+
+
+
+
+Nombre, Cargo y Firma del Solicitante
+
+

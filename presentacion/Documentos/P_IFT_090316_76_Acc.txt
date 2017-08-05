@@ -1,0 +1,330 @@
+RESOLUCIÓN MEDIANTE LA CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES DETERMINA LAS CONDICIONES DE INTERCONEXIÓN NO CONVENIDAS ENTRE TELÉFONOS DE MÉXICO, S.A.B. DE C.V. Y LA EMPRESA TELEVISIÓN INTERNACIONAL, S.A. DE C.V., APLICABLES DEL 1 DE ENERO DEL 2015 AL 31 DE DICIEMBRE DE 2016.
+  
+                                 ANTECEDENTES
+  
+ Concesión de Teléfonos de México, S.A.B. de C.V., (en lo sucesivo, "Telmex"), es un concesionario que cuenta con la autorización para instalar, operar y explotar una red pública de telecomunicaciones al amparo de los títulos de concesión otorgados conforme a la legislación aplicable e inscritos en el Registro Público de Concesiones del Instituto Federal de Telecomunicaciones, (en los sucesivo, el "Instituto").
+
+ Concesión de Televisión Internacional, S.A. de C.V. .,(en lo sucesivo, "TVI"), es un concesionario que cuenta con la autorización para instalar, operar y explotar una red pública de telecomunicaciones al amparo de los títulos de concesión otorgados conforme a la legislación aplicable e inscritos en el Registro Público de Concesiones del Instituto.
+  
+ Determinación del Agente Económico Preponderante. El 6 de marzo de 2014, el Pleno del Instituto, en su V Sesión Extraordinaria aprobó la "RESOLUCIÓN MEDIANTE LA CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES DETERMINA AL GRUPO DE INTERÉS ECONÓMICO DEL QUE FORMAN PARTE AMÉRICA MÓVIL, S.A.B. DE C.V., TELÉFONOS DE MÉXICO, S.A.B. DE C.V., TELÉFONOS DEL NOROESTE, S.A. DE C.V., RADIOMÓVIL DIPSA, S.A.B. DE C. V., GRUPO CARSO, S.A.B. DE C.V., Y GRUPO FINANCIERO INBURSA, S.A.B. DE C.V., COMO AGENTE ECONÓMICO PREPONDERANTE EN EL SECTOR DE TELECOMUNICACIONES Y LE IMPONE LAS MEDIDAS NECESARIAS PARA EVITAR QUE SE AFECTE LA COMPETENCIA Y LA LIBRE CONCURRENCIA", aprobada mediante Acuerdo P/IFT/EXT/060314/76 (en lo sucesivo, la "Resolución del AEP").
+  
+  Dentro del Acuerdo P/IFT/EXT/060314/76 como anexo 2 el Pleno del Instituto aprobó las "MEDIDAS RELACIONADAS CON INFORMACIÓN, OFERTA Y CALIDAD DE SERVICIOS, ACUERDOS EN EXCLUSIVA, LIMITACIONES AL USO DE EQUIPOS TERMINALES ENTRE REDES, REGULACIÓN ASIMÉTRICA EN TARIFAS E INFRAESTRUCTURA DE RED, INCLUYENDO LA DESAGREGACIÓN DE SUS ELEMENTOS ESENCIALES Y, EN SU CASO, LA SEPARACIÓN CONTABLE, FUNCIONAL O ESTRUCTURAL AL AGENTE ECONÓMICO PREPONDERANTE EN LOS SERVICIOS DE TELECOMUNICACIONES FIJOS" (en lo sucesivo, las "Medidas Fijas").
+  
+ Metodología para el cálculo de costos de interconexión. El 18 de diciembre de 2014, se publicó en el Diario Oficial de la Federación (en lo sucesivo, "DOF"), el "ACUERDO mediante el cual el Pleno del Instituto Federal de Telecomunicaciones emite la metodología para el cálculo de costos de interconexión de conformidad con la Ley Federal de Telecomunicaciones y Radiodifusión", aprobado mediante Acuerdo P/IFT/EXT/161214/277 (en lo sucesivo, la "Metodología de Costos").
+      
+ Sistema Electrónico de Solicitudes de Interconexión. El 29 de diciembre de 2014 se publicó en el DOF el "ACUERDO mediante el cual el Pleno del Instituto Federal de Telecomunicaciones establece el Sistema Electrónico de Solicitudes de Interconexión" (en lo sucesivo, el "Acuerdo del Sistema"), mediante el cual se estableció el Sistema Electrónico de Solicitudes de Interconexión, (en lo sucesivo, el "SESI").
+
+ Publicación de Tarifas de Interconexión del año 2015. El 29 de diciembre de 2014, el Instituto publicó en el DOF el "ACUERDO mediante el cual el Pleno del Instituto Federal de Telecomunicaciones determina las tarifas de interconexión resultado de la metodología para el cálculo de costos de interconexión que se utilizará para resolver los desacuerdos de interconexión que se presenten respecto de las condiciones aplicables al año 2015", aprobado mediante Acuerdo P/IFT/EXT/191214/284 (en lo sucesivo, el "Acuerdo de Tarifas 2015").
+  
+ Publicación de Tarifas de Interconexión del año 2016. El 1º de octubre de 2015, el Instituto publicó en el DOF el "ACUERDO mediante el cual el Pleno del Instituto Federal de Telecomunicaciones determina las tarifas de interconexión resultado de la metodología para el cálculo de costos de interconexión que se utilizará para resolver los desacuerdos de interconexión que se presenten respecto de las condiciones aplicables al año 2016", aprobado mediante Acuerdo P/IFT/EXT/120815/347 (en lo sucesivo, el "Acuerdo de Tarifas 2016").
+
+ Condiciones técnicas mínimas. El 5 de noviembre de 2015 se publicó en el DOF el "ACUERDO mediante el cual el Pleno del Instituto Federal de Telecomunicaciones establece las condiciones técnicas mínimas para la interconexión entre concesionarios que operen redes públicas de telecomunicaciones" (en lo sucesivo, las "Condiciones técnicas mínimas").
+  
+ Convenio Marco de Interconexión. El 24 de noviembre de 2015, mediante Acuerdo P/IFT/EXT/241115/166 se aprobó la "RESOLUCIÓN, MEDIANTE LA CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES MODIFICA Y AUTORIZA AL AGENTE ECONÓMICO PREPONDERANTE LOS TÉRMINOS Y CONDICIONES DEL CONVENIO MARCO DE INTERCONEXIÓN PRESENTADO POR TELÉFONOS DE MÉXICO, S.A.B. DE C.V. APLICABLE DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2016." (en lo sucesivo, el "Convenio Marco de Interconexión").
+  
+ Procedimiento de resolución de condiciones de interconexión no convenidas. El 15 de enero de 2016, el apoderado legal de Telmex presentó ante el Instituto, escritos mediante los cuales solicitó su intervención para resolver los términos, condiciones y tarifas que no pudo convenir con TVI para la interconexión de sus respectivas redes públicas de telecomunicaciones, aplicables para el periodo 2015 y 2016 (en lo sucesivo, las "Solicitudes de Resolución").
+  
+  Las Solicitudes de Resolución se admitieron a trámite asignándoles los números de expediente que se indican más adelante. Asimismo, y toda vez que los procedimientos iniciados de manera independiente por Telmex con TVI tienden al mismo efecto, en términos del artículo 45 de la Ley Federal de Procedimiento Administrativo (en lo sucesivo, la "LFPA"), y siendo legalmente factible, se ordenó la acumulación del más nuevo al más antiguo, quedando acumulados en el procedimiento administrativo iniciado por Telmex en contra de TVI identificado con el número de expediente IFT/221/UPR/DG-RIRST/003.150116/ITX.
+  
+                                Folio del SESI
+                           Expediente administrativo
+                                   Modalidad
+                            Inicio de negociaciones
+IFT/UPR/2079
+IFT/221/UPR/DG-RIRST/003.150116/ITX
+Red Local Fija de Telmex - Red Local Fija de TVI para el periodo 2015.
+3 de noviembre de 2015.
+IFT/UPR/2080
+IFT/221/UPR/DG-RIRST/006.150116/ITX
+Red Local Fija de Telmex - Red Local Fija de TVI para el periodo 2016.
+3 de noviembre de 2015 
+  
+  El procedimiento fue sustanciado en todas y cada una de sus etapas en estricto apego a lo establecido en el artículo 129 de la LFTyR. Lo cual se encuentra plenamente documentado en las constancias que integran el expediente administrativo en comento, mismo que ha estado en todo momento a disposición de las partes, las cuales tienen pleno conocimiento de su contenido.
+  
+  Es así que con fecha 24 de febrero de 2016 el Instituto notificó a las partes que el procedimiento guardaba estado para que el Pleno del Instituto dictase la resolución correspondiente.
+  
+En virtud de los referidos Antecedentes, y
+
+                                 CONSIDERANDO
+
+PRIMERO.- Competencia del Instituto. De conformidad con los artículos 6°, apartado B fracción II y 28, párrafos décimo quinto y décimo sexto de la Constitución Política de los Estados Unidos Mexicanos (en lo sucesivo, la "Constitución") y 7 de la LFTyR; el Instituto es un órgano público autónomo, independiente en sus decisiones y funcionamiento, con personalidad jurídica y patrimonio propio, que tiene por objeto regular y promover la competencia y el desarrollo eficiente de las telecomunicaciones y la radiodifusión en el ámbito de las atribuciones que le confiere la Constitución y en los términos que fijan la LFTyR y demás disposiciones aplicables. 
+
+Con fundamento en los artículos 7, 15, fracción X, 17, fracción I y 129 de la LFTyR, el Pleno del Instituto está facultado, de manera exclusiva e indelegable, para resolver y establecer los términos, condiciones y tarifas de interconexión que no hayan podido convenir los concesionarios respecto de sus redes públicas de telecomunicaciones, una vez que se solicite su intervención.
+
+Por lo anterior y de conformidad con lo dispuesto en los artículos indicados, el Pleno del Instituto es competente para emitir la presente Resolución que determina los términos, condiciones y tarifas de interconexión no convenidas entre los concesionarios de redes públicas de telecomunicaciones, que forman parte en el presente procedimiento.
+
+SEGUNDO.- Importancia y obligatoriedad de la interconexión e Interés Público.- El artículo 6°, apartado B, fracción II de la Constitución establece que las telecomunicaciones son servicios públicos de interés general, y es el deber del Estado garantizar que se presten en condiciones de competencia, calidad, pluralidad, cobertura universal, interconexión, convergencia, continuidad, acceso libre y sin injerencias arbitrarias.
+
+Por su parte, el artículo 2 de la LFTyR, en concordancia con la Constitución señala que las telecomunicaciones son servicios públicos de interés general y que corresponde al Estado ejercer la rectoría en la materia, proteger la seguridad y la soberanía de la Nación y garantizar su eficiente prestación. Para tales efectos el Instituto establecerá condiciones de competencia efectiva en la prestación de dichos servicios; toda vez que con un mecanismo de mercado se atiende en última instancia al interés del público usuario, en términos de lo establecido en los artículos 7, 124 y 125 de la LFTyR.
+
+Por ello, el legislador estableció (i) la obligación de todos los concesionarios de redes públicas de telecomunicaciones de adoptar diseños de arquitectura abierta para garantizar la interconexión e interoperabilidad de sus redes, contenida en el artículo 124 de la LFTyR; (ii) la obligación de los concesionarios de redes públicas de interconectar sus redes de conformidad con lo establecido en el artículo 125 de la LFTyR, y (iii) que dicha interconexión se realice en condiciones no discriminatorias, transparentes y basadas en criterios objetivos.
+
+Ahora bien, el artículo 129 de la LFTyR regula el procedimiento que ha de observar el Instituto a efecto de determinar las condiciones no convenidas. Para estos fines dispone que los concesionarios que operen redes públicas de telecomunicaciones, deberán interconectar sus redes, y a tal efecto, suscribir un convenio en un plazo no mayor de sesenta días naturales contados a partir de que sea presentada la solicitud correspondiente. Esto es, los concesionarios de redes públicas de telecomunicaciones tienen la libertad de negociar los términos, condiciones y tarifas de interconexión a través del SESI, mismos que deberán reflejarse en el convenio que al efecto suscriban, sin embargo, de no convenir, podrán solicitar la intervención del Instituto para que éste determine los términos, condiciones y tarifas no convenidas.
+
+En virtud de lo anterior, se indica que: (i) los concesionarios están obligados a interconectar sus redes y, a tal efecto, suscribir un convenio en un plazo no mayor de sesenta (60) días naturales contados a partir de que alguno de ellos lo solicite; (ii) transcurridos los sesenta (60) días naturales sin que las partes hayan llegado a un acuerdo, a solicitud de parte, el Instituto resolverá los términos y condiciones de interconexión no convenidos sometidas a su competencia, dicha solicitud deberá someterse al Instituto dentro de un plazo de cuarenta y cinco (45) días hábiles siguientes a que haya concluido el periodo de sesenta (60) días naturales.
+
+En consecuencia, en autos está acreditado que Telmex y TVI tienen el carácter de concesionarios que operan una red pública de telecomunicaciones y que efectivamente Telmex requirió a TVI el inicio de negociaciones para convenir los términos, condiciones y tarifas de interconexión, según se desprende de los Antecedentes I, II, y X de la presente Resolución.
+
+Por ello, conforme al artículo 124 de la LFTyR, Telmex y TVI están obligados a garantizar la eficiente interconexión de sus respectivas redes públicas de telecomunicaciones, formalizando en todo caso, la suscripción del convenio respectivo que estipule los términos, condiciones y tarifas aplicables.
+
+TERCERO.- Valoración de pruebas. En términos generales, la prueba es el medio de demostración de la realidad de un hecho o de la existencia de un acto. Es así que dentro del procedimiento de mérito, la prueba cumple las siguientes funciones: i) fija los hechos materia del desacuerdo, y ii) genera certeza acerca de las afirmaciones y alegaciones de los concesionarios sujetos del desacuerdo.
+
+Por su parte la LFPA y el Código Federal de Procedimientos Civiles (en lo sucesivo, "CFPC") establecen que en los procedimientos administrativos se admitirán toda clase de pruebas, excepto la confesional de las autoridades. Asimismo, establece por cuanto a su valoración, que la autoridad administrativa goza de la más amplia libertad para hacer el análisis de las pruebas rendidas; para determinar el valor de las mismas, y para fijar el resultado final de dicha valuación. 
+
+En tal sentido el Instituto valora las pruebas aportadas por las partes en los siguientes términos:
+
+Pruebas ofrecidas por Telmex
+
+ Documentales privadas consistentes en copia simple de las solicitudes para negociar los términos y condiciones de los servicios de interconexión dadas de alta a través del SESI, mismas que obran dentro del procedimiento administrativo con los números de solicitud IFT/UPR/2079 e IFT/UPR/2080 del SESI, este Instituto les da valor probatorio en términos de lo establecido en los artículos 197, 203 y 210-A del CFPC, de aplicación supletoria conforme al artículo 6, fracción VII de la LFTyR, por causar convicción de los hechos legalmente afirmados consistentes en las propuestas de Telmex a TVI de iniciar negociaciones respecto a los términos, condiciones y tarifas de interconexión, para los periodos 2015 y 2016.
+
+ Documental consistente en escrito de fecha 15 de mayo de 2015, por el cual Telmex solicitó a TVI el inicio formal de negociaciones tendientes a convenir las tarifas de interconexión que Telmex deberá pagar a TVI para el periodo comprendido entre el 1 de enero de 2016 y el 31 de diciembre de 2016, este Instituto les da valor probatorio en términos de lo establecido en los artículos 197, 203, 207 y 210-A del CFPC al hacer prueba de que al 15 de mayo de 2015, TVI no se encontraba registrado en el SESI.
+Pruebas ofrecidas por Telmex y TVI
+
+ Respecto de la presuncional, en su doble aspecto, legal y humano, se le da valor probatorio en términos de los artículos 197 y 218 del CFPC al ser consecuencia lógica y natural de hechos conocidos y probados al momento de hacer la deducción respectiva. 
+      
+ Respecto de la instrumental de actuaciones, consistente en todo lo actuado en el presente procedimiento, se les da valor probatorio al constituirse dicha prueba con las constancias que obran en el sumario y en términos del principio ontológico de la prueba, conforme al cual lo ordinario se presume.
+
+CUARTO.- Condiciones no convenidas sujetas a resolución.- En las Solicitudes de Resolución, Telmex plantea los siguientes términos, condiciones y tarifas que no pudo convenir con TVI:
+
+ La tarifa por servicios de terminación del servicio local en usuarios fijos que Telmex deberá pagar a TVI para el periodo del 1 de enero de 2015 al 31 de diciembre de 2016.
+      
+ TVI deberá calcular las contraprestaciones que debe facturar por servicios de terminación del servicio local en usuarios fijos, según corresponda, con base en la duración real de las llamadas, sin redondear al minuto, debiendo para tal efecto sumar la duración de todas las llamadas completadas en el periodo de facturación correspondiente medidas en segundos, y multiplicar los minutos equivalentes a dicha suma, por la tarifa correspondiente.
+
+Por su parte, TVI, en los escritos presentados en el procedimiento en que se actúa, planteó las siguientes condiciones de interconexión no convenidas:
+
+ La tarifa por servicios de terminación del servicio local en usuarios fijos que Telmex deberá pagar a TVI para el periodo del 1 de enero al 31 de diciembre de 2015 por $0.004179 pesos por minuto de interconexión; mientras que para el periodo del 1 de enero al 31 de diciembre de 2016 por $0.003088 pesos por minuto de interconexión.
+      
+ La tarifa por servicios de originación del servicio local en usuarios fijos que deberá pagar TVI a Telmex para el periodo comprendido del 1 de enero de 2015 al 31 de diciembre de 2015 por $0.004645 pesos por minuto de interconexión; mientras que para el periodo del 1 de enero de 2016 al 31 de diciembre de 2016 por $0.003816 pesos por minuto de interconexión.
+
+ La tarifa de tránsito que deberá pagar TVI a Telmex para el periodo comprendido del 1 de enero al 31 de diciembre de 2015, deberá ser de $0.005621 pesos por minuto de interconexión, así como de $0.004608 pesos por minuto de interconexión, para el periodo comprendido del 1 de enero al 31 de diciembre de 2016.
+
+ Las contraprestaciones que deberán pagarse por el tráfico de terminación de llamadas serán determinadas con base en la duración real de las llamadas y medidas en segundos.
+
+ La determinación de que en adición a los protocolos de interconexión a través de los cuales actualmente se cursa el tráfico entre la red de TVI y Telmex, y conforme al Acuerdo de Condiciones Mínimas de Interconexión, también se pueda realizar a través de protocolo IP entre la red del servicio fijo de TVI y la red del servicio fijo de Telmex, en su versión SIP (Session Initiation Protocol).
+
+ Otras condiciones técnicas y operativas aplicables, así como las demás cuestiones que sean necesarias para la interconexión entre la red del servicio fijo de TVI y la red del servicio fijo de Telmex.
+
+Al respecto, el artículo 129 de la LFTyR señala que los concesionarios que operen redes públicas de telecomunicaciones deberán interconectar sus redes, y a tal efecto, suscribirán un convenio en un plazo no mayor de sesenta días naturales contados a partir de que uno de ellos lo solicite. Asimismo, señala que en el caso de concesionarios cuyas redes públicas de telecomunicaciones se encuentren interconectadas y con motivo de la terminación de la vigencia de sus convenios puedan acordar nuevas condiciones de interconexión y no exista acuerdo entre las partes deberán presentar ante el Instituto sus solicitudes de resolución sobre el desacuerdo de interconexión.
+
+De lo anterior se desprende que el convenio que a tal efecto suscriban las partes deberá permitir la prestación de los servicios de interconexión entre sus redes públicas de telecomunicaciones sin que existan elementos pendientes de acordar para el periodo de referencia. De la misma forma, la resolución que emita el Instituto a efecto de resolver sobre las condiciones no convenidas deberá operar en el mismo sentido, de tal forma que, una vez que ésta sea emitida por la autoridad no existan elementos pendientes de definición que impidan la prestación de los servicios.
+
+Es así que el Instituto deberá resolver sobre los términos, condiciones y tarifas que no hayan podido convenir las partes durante los sesenta días naturales que tienen para suscribir el convenio.
+
+Por lo que, en términos del artículo 129 de la LFTyR es procedente resolver las condiciones solicitadas por ambas partes.
+
+Cabe señalar, que por lo que hace a las condiciones planteadas en los incisos a) y b) son coincidentes con las condiciones identificadas en los incisos c) y f), respectivamente, por lo que en las consideraciones que este Instituto emita al respecto, dichas condiciones se atenderán de manera conjunta.
+
+Aunado a lo anterior, respecto de la condición identificada en el inciso h) consistente en otras condiciones técnicas y operativas, así como las demás cuestiones que sean necesarias para la interconexión, este Instituto determina que no puede entrar al estudio de dicha petición, al no estar expresamente señalado, en los diversos escritos presentados a lo largo de los procedimientos hoy acumulados, cuáles son aquellas condiciones técnicas y operativas que le impiden llevar a cabo la interconexión con Telmex.
+
+En virtud de lo anterior, las condiciones no convenidas sobre las cuales se pronunciará el Instituto serán las siguientes:
+
+ La tarifa por los Servicios de Interconexión que Telmex deberá pagar a TVI por los servicios de terminación del Servicio Local en usuarios fijos para 2015 y 2016.
+      
+ La tarifa por servicios de originación del servicio local en usuarios fijos que deberá pagar TVI a Telmex para el periodo comprendido del 1 de enero de 2015 al 31 de diciembre de 2016.
+
+ La tarifa de tránsito que deberá pagar TVI a Telmex para el periodo comprendido del 1 de enero de 2015 al 31 de diciembre de 2016.
+
+ Las contraprestaciones que deberán pagarse por el tráfico de terminación de llamadas serán determinadas con base en la duración real de las llamadas y medidas en segundos, debiendo para tal efecto sumar la duración de todas las llamadas completadas en el periodo de facturación correspondiente medidas en segundos, y multiplicar los minutos equivalentes a dicha suma, por la tarifa correspondiente.
+ La determinación de que en adición a los protocolos de interconexión a través de los cuales actualmente se cursa el tráfico entre la red de TVI y Telmex, y conforme al Acuerdo de Condiciones Mínimas de Interconexión, también se pueda realizar a través de protocolo IP entre la red del servicio fijo de TVI y la red del servicio fijo de Telmex, en su versión SIP.
+
+Por lo anterior, en términos del artículo 129 de la LFTyR, se procede a resolver las condiciones no convenidas solicitadas por las partes.
+
+1. Tarifas de interconexión
+
+Argumentos de las partes
+
+Telmex señala en sus escritos iniciales del 15 de enero de 2016, que a esa fecha no habían podido acordar los términos y condiciones de interconexión requeridos por Telmex a TVI, por lo que solicita la determinación de la tarifa correspondiente a los servicios de terminación del Servicio Local en usuarios fijos aplicables para el periodo del 1 de enero de 2015 al 31 de diciembre de 2016.
+
+Asimismo, requiere que TVI deberá calcular las contraprestaciones que debe facturar por servicios de terminación del Servicio Local en usuarios fijos, según corresponda, con base en la duración real de las llamadas, sin redondear al minuto, debiendo para tal efecto, sumar la duración de todas las llamadas completadas en el periodo de facturación correspondiente, medidas en segundos, y multiplicar los minutos equivalentes a dicha suma, por la tarifa correspondiente.
+
+Por su parte TVI señala que la tarifa correspondiente a los servicios de terminación del Servicio Local en usuarios fijos, que Telmex deberá pagarle para el 2015 deberá ser de $0.004179 pesos por minuto y para 2016 de $0.003088 pesos por minuto. Asimismo, solicita que el Instituto determine las tarifas de originación que TVI deberá pagar a Telmex en razón de $0.004645 pesos por minuto para el 2015 y de $0.003816 pesos por minuto para el 2016, así como que la tarifa de tránsito que TVI deberá pagar a Telmex para 2015 sea de $0.005621 pesos por minuto y para 2016 de $0.004608 pesos por minuto.
+
+Consideraciones del Instituto 
+
+Para la determinación de las tarifas de interconexión en las redes públicas de telecomunicaciones de Telmex y TVI, se debe considerar que la propia LFTyR establece el marco normativo y regulatorio aplicable para la fijación de las tarifas de interconexión. 
+A tal efecto, el Artículo 131 de la LFTyR dispone lo siguiente:
+     
+     "Artículo 131. [...]
+     
+     [...]
+     
+     b) Para el tráfico que termine en la red de los demás concesionarios, la tarifa de interconexión será negociada libremente.
+     
+     El Instituto resolverá cualquier disputa respecto de las tarifas, términos y/o condiciones de los convenios de interconexión a que se refiere el inciso b) de este artículo, con base en la metodología de costos que determine, tomando en cuenta las asimetrías naturales de las redes a ser interconectadas, la participación de mercado o cualquier otro factor, fijando las tarifas, términos y/o condiciones en consecuencia.
+     
+     Las tarifas que determine el Instituto con base en dicha metodología deberán ser transparentes, razonables y, en su caso, asimétricas, considerando la participación de mercado, los horarios de congestionamiento de red, el volumen de tráfico u otras que determine el Instituto.
+     
+     Las tarifas deberán ser lo suficientemente desagregadas para que el concesionario que se interconecte no necesite pagar por componentes o recursos de la red que no se requieran para que el servicio sea suministrado.
+     
+     [...]"
+
+En estricto cumplimiento al artículo citado, el Instituto publicó en el DOF el 18 de diciembre de 2014, la Metodología de Costos, misma que establece los principios básicos que se constituyen en reglas de carácter general a las cuales se deberá sujetar la autoridad reguladora al momento de elaborar los modelos de costos que calculen las tarifas de interconexión.
+
+En este orden de ideas, el artículo 137 de la LFTyR señala a la letra lo siguiente:
+     
+     "Artículo 137. El Instituto publicará en el Diario Oficial de la Federación, en el último trimestre del año, las condiciones técnicas mínimas y las tarifas que hayan resultado de las metodologías de costos emitidas por el Instituto, mismas que estarán vigentes en el año calendario inmediato siguiente."
+     
+Ahora bien, en cuanto a las medidas impuestas al Agente Económico Preponderante, la Medida Trigésima Séptima de las Medidas Fijas dispone que para el cálculo de las tarifas de los servicios de interconexión, provistos por dicho agente, se deberá considerar su participación de mercado medida en términos de usuarios finales.
+
+Por otro lado, en apego a dicha metodología el Instituto publicó en el DOF el 29 de diciembre de 2014 el Acuerdo de Tarifas 2015, el cual contiene las tarifas para los Servicios de Interconexión que han resultado de la Metodología de Costos, y que el Instituto utilizará para resolver los desacuerdos de interconexión en materia de tarifas aplicables del 1 de enero al 31 de diciembre del 2015.
+
+Asimismo, el 1 de octubre de 2015 se publicó en el DOF el Acuerdo de Tarifas 2016, el cual contiene las tarifas para los Servicios de Interconexión que han resultado de la Metodología de Costos, y que el Instituto utilizará para resolver los desacuerdos de interconexión en materia de tarifas aplicables del 1 de enero al 31 de diciembre del 2016.
+
+Cabe mencionar que dichos modelos de costos se derivan de la aplicación de una disposición administrativa de carácter general como lo es la Metodología de Costos, y el procedimiento llevado a cabo para su construcción ha sido debidamente descrito en los acuerdos citados. 
+
+En consecuencia, las tarifas de interconexión, objeto del presente procedimiento, así como la tasación de las llamadas han sido debidamente publicitadas por la autoridad en el Acuerdo citado, mismo que al ser de conocimiento público hace innecesario su reproducción en el cuerpo de la presente resolución. 
+
+En tal virtud, las tarifas que TVI deberá pagar a Telmex por servicios de tránsito y por servicios de originación del Servicio Local en usuarios fijos, serán las siguientes:
+
+ Tarifas por servicios de originación del Servicio Local en usuarios fijos:
+      
+                 1° de enero de 2015 al 31 de diciembre 2015
+                1° de enero de 2016 al 31 de diciembre de 2016
+                             $0.005162 pesos M.N.
+                                  por minuto
+                             $0.003816 pesos M.N.
+                                  por minuto
+      
+ Tarifas por servicios de tránsito:
+      
+                 1° de enero de 2015 al 31 de diciembre 2015
+                1° de enero de 2016 al 31 de diciembre de 2016
+                             $0.006246 pesos M.N.
+                                  por minuto
+                             $0.004608 pesos M.N.
+                                  por minuto
+
+Cabe mencionar que, como se ha señalado en párrafos anteriores, el cumplimiento de la Resolución del AEP, así como del Acuerdo de Tarifas 2015 y el Acuerdo de Tarifas 2016 son de observancia obligatoria por parte del AEP, por lo que su aplicación no se sujeta a procedimiento adicional alguno, se tiene por entendido de que las tarifas por los servicios de interconexión prestados por el AEP se aplicarán del 1 de enero al 31 de diciembre de 2015 y del 1 de enero al 31 de diciembre de 2016.
+
+Ahora bien, la tarifa de interconexión que Telmex deberá pagarle a la empresa TVI por servicios de terminación del servicio local en usuarios fijos, será la siguiente:
+
+ Del 1 de enero de 2016 al 31 de diciembre de 2016, será de $0.003088 pesos M.N.  por minuto de interconexión.
+
+El cálculo de las contraprestaciones se realizará con base en la duración real de las llamadas, sin redondear al minuto, debiendo para tal efecto sumar la duración de todas las llamadas completadas en el período de facturación correspondiente, medidas en segundos, y multiplicar los minutos equivalentes a dicha suma, por la tarifa correspondiente.
+
+Asimismo, las tarifas anteriores, ya incluyen el costo correspondiente a los puertos necesarios para la interconexión.
+
+Por otro lado, por lo que respecta a las tarifas por servicios de terminación del servicio local en usuarios fijos correspondientes para el periodo 2015, cabe señalar que el propio Acuerdo de Tarifas 2015 establece que en términos de lo dispuesto por el artículo Vigésimo Transitorio del "DECRETO por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión", el Instituto resolverá los diferendos que se promuevan sobre las tarifas de interconexión por servicios prestados en el 2015 con base en las tarifas señaladas, mismas que serán aplicables desde su resolución y hasta el 31 de diciembre de 2015.
+
+Esto es, en el Artículo Vigésimo Transitorio del Decreto de Ley, que a la letra señala:
+
+     "VIGÉSIMO. [...]
+     
+     Para efectos de lo dispuesto en el inciso b) del artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión, y hasta en tanto los concesionarios a que se refiere ese inciso no acuerden las tarifas de interconexión correspondientes o, en su caso, el Instituto no resuelva cualquier disputa respecto de dichas tarifas, seguirán en vigor las que actualmente aplican, salvo tratándose del agente económico al que se refiere le párrafo segundo del artículo 131 de la Ley en cita, al que le será aplicable el inciso a) del mismo artículo."
+
+El inciso b) del artículo 131 de la LFTyR se refiere a las tarifas de interconexión aplicables a los concesionarios distintos al Agente Económico Preponderante, para las cuales hasta en tanto los concesionarios a que se refiere ese inciso no acuerden las tarifas de interconexión correspondientes o, en su caso, el Instituto no resuelva cualquier disputa respecto de dichas tarifas, seguirán en vigor las que resulten aplicables para el periodo previo a la determinación correspondiente, ya sea por convenio de las partes o determinación del Instituto.
+
+Ahora bien, para tales efectos y en virtud de que la fecha de emisión de la presente resolución supera el periodo comprendido del 1 de enero al 31 de diciembre de 2015, es decir el periodo comprendido dentro del régimen transitorio establecido en el artículo Vigésimo Transitorio de la LFTyR, durante el cual no se habían actualizado todos los supuestos normativos establecidos en el artículo 129 de la ley, en materia de interconexión, tratándose del servicio de terminación de llamadas del servicio local en usuarios fijos de TVI y Telmex deberá hacerse extensiva la tarifa aplicable a la entrada en vigor de la LFTyR. 
+
+Por lo que hace a la determinación de tarifas para el periodo comprendido del 1 de enero al 31 de diciembre de 2016, en virtud de que se han actualizado todos los supuestos contemplados en la LFTyR en materia de interconexión, no se tomará en cuenta lo dispuesto en el régimen transitorio en comento.
+
+Asimismo, el Acuerdo de Tarifas 2016 dispone que las tarifas que el Instituto determina por los Servicios de Interconexión que han resultado de la Metodología para el cálculo de costos de interconexión de conformidad con la LFTyR, y que utilizará para resolver los desacuerdos de interconexión que se presenten serán aplicables del 1 de enero al 31 de diciembre de 2016.
+
+2. Interconexión IP
+
+Argumentos de las partes
+
+TVI solicita que la resolución que se emita dentro del presente procedimiento administrativo se determine que en adición a los protocolos de interconexión a través de los cuales actualmente se cursa el tráfico entre la red de TVI y Telmex, y conforme a las prácticas internacionales, también se pueda realizar a través de protocolo IP en su versión SIP (Session Initiation Protocol).
+
+Al respecto, Telmex alega que dicha petición es improcedente dado que TVI no requirió dicha petición durante el periodo de negociaciones, puesto que el presente desacuerdo ante este Instituto se promueve en la inteligencia de que este Instituto deberá resolver exclusivamente las condiciones y términos que no se acordaron entre concesionarios durante tal periodo de negociación.
+
+Consideraciones del Instituto
+
+El artículo 127 de la LFTyR establece los servicios de interconexión, entre los cuales se encuentra, en su fracción IV, el servicio de señalización; ahora bien, el artículo 133 del mismo ordenamiento establece que la prestación de todos los servicios de interconexión señalados en el artículo 127 será obligatoria para el Agente Económico Preponderante o con poder sustancial, así como que los señalados en las fracciones I a IV de dicho artículo serán obligatorios para el resto de los concesionarios.
+
+De lo anterior se colige que la prestación del servicio de señalización es obligatoria para todos los concesionarios de redes públicas de telecomunicaciones, por lo que TVI y Telmex se encuentran obligados a proveerse mutuamente dicho servicio. 
+
+Por otro lado, en el numeral 7 del Plan Técnico Fundamental de Señalización (en lo sucesivo, "Plan de Señalización") publicado en el DOF el 21 de junio de 1996 se establece lo siguiente:
+
+     "7. PROTOCOLOS DE SEÑALIZACIÓN
+     7.1. El protocolo PAUSI-MX será el protocolo que deberán usar las redes públicas de telecomunicaciones para su interconexión."
+
+Asimismo, en la "Resolución por la que el Pleno de la Comisión Federal de Telecomunicaciones modifica el Plan Técnico Fundamental de Señalización publicado el 21 de junio de 1996 en el Diario Oficial de la Federación" (en lo sucesivo, "Modificación al Plan de Señalización"), publicada en el DOF el 14 de octubre de 2011 se establece lo siguiente:
+
+     "7.1 El protocolo PAUSI-MX será el protocolo que deberán usar las redes públicas de telecomunicaciones para su interconexión, salvo que de común acuerdo entre los operadores de servicios de telecomunicaciones, se establezcan protocolos diferentes que permitan cumplir con el envío de la información a que se refiere el numeral 8 del presente Plan y el artículo 43 fracción X de la Ley.
+     
+     Los protocolos que un concesionario haya establecido para interconectarse con otro operador, inclusive tratándose de interconexión con redes extranjeras, deberán hacerse disponibles a otros concesionarios que se lo soliciten."
+
+De lo anterior es posible concluir que el protocolo de señalización PAUSI-MX es obligatorio para todos los concesionarios y que en caso de que éstos hayan establecido un protocolo distinto, también deberán hacerlo disponible a todo aquel que se lo solicite.
+
+Es así que la Medida Octava de las Medidas Fijas establece lo siguiente:
+      
+     "OCTAVA.- El Agente Económico Preponderante deberá, a solicitud del Concesionario Solicitante, permitir el intercambio de Tráfico mediante los protocolos de señalización SIP (Session Initiation Protocol), H.323 o aquel protocolo que determine el Instituto para la Interconexión IP (Internet Protocol) de su red con la del Concesionario Solicitante."
+     
+De esta forma, las Medidas Fijas determinan la obligación a cargo del Agente Económico Preponderante de permitir la interconexión IP (Internet Protocol), mediante los protocolos de señalización SIP (Session Initiation Protocol), H.323 o aquel protocolo que determine el Instituto. 
+
+Por otra parte, a efecto de dotar de certeza a los operadores y homologar los criterios necesarios para alcanzar la interconexión IP, en las Medidas Fijas se impuso la Medida Transitoria Séptima, en los siguientes términos:
+
+     "SÉPTIMA.- El Instituto dará inicio a los trabajos para definir los términos de Interconexión bajo protocolos de internet (Internet Protocol), entre ellos el de inicio de sesión (SIP, por sus siglas en inglés) y/o la recomendación internacional H.323 dentro de los noventa días naturales posteriores a la entrada en vigor de las presentes medidas."
+
+En este sentido, el 5 de noviembre de 2015 el Instituto publicó en el DOF las Condiciones Técnicas Mínimas, mediante las cuales se establecieron los parámetros mínimos para llevar acabo la interconexión por medio del protocolo SIP; es así que por medio del establecimiento de dichos parámetros resulta técnicamente factible prestar el servicio de interconexión IP mediante la utilización del protocolo SIP. 
+
+Asimismo, en el Anexo A, "Anexos Técnicos", Subanexo A.2 ACUERDOS TÉCNICOS DE INTERCONEXIÓN PARA SEÑALIZACIÓN SIP del Convenio Marco de Interconexión, se estableció el detalle del protocolo de señalización SIP, aplicable a la interconexión IP con la red fija del Agente Económico Preponderante, a efecto de que cualquier concesionario solicitante pueda llevar a cabo la interconexión en los términos ahí descritos sin necesidad de involucrarse en negociaciones adicionales, por lo que a efectos del presente diferendo las partes deberán sujetarse a lo ahí establecido. 
+
+Por otro lado, de las constancias que obran en los expedientes de este Instituto se observa que con fecha 8 de octubre de 2015, se presentó para su inscripción en el Registro Público de Telecomunicaciones, el Convenio Marco de prestación de servicios de interconexión celebrado entre Telmex y Operadora Unefon, S.A. de C.V. el día de 7 de septiembre de 2015, en el que se incluye la interconexión mediante el protocolo de señalización SIP (Session Initiation Protocol), por lo que en términos del numeral 7.1 del Plan de Señalización, Telmex está obligado a hacer disponible dicho protocolo de Interconexión a otros concesionarios.
+
+No pasa por alto a este Instituto que en el sector telecomunicaciones existe una tendencia hacia la migración de las redes de telecomunicaciones a redes de próxima generación (NGN, por sus siglas en inglés) basadas en tecnologías IP, en las que mediante una misma red de telecomunicaciones se prestar múltiples servicios como voz, datos y video.
+
+La tecnología IP ha implicado una reducción en los costos de prestación de servicios de telecomunicaciones permitiendo reducir los costos unitarios de los operadores debido a que las economías de alcance permiten repartir los costos fijos entre un mayor número de servicios.
+
+En este sentido, tomando en cuenta la factibilidad jurídica, el desarrollo tecnológico, la innovación y dinamismo de las telecomunicaciones, existe la necesidad que en todo momento quede garantizado el correcto enrutamiento de las comunicaciones para el intercambio de información entre redes con la adopción de diseños de arquitectura abierta de red, tal y como se establece en la Ley, asegurando con ello la neutralidad tecnológica.
+
+Por lo anterior, y toda vez que el supuesto de la definición los términos y condiciones aplicables a la interconexión IP mediante la utilización del protocolo SIP al que se refiere la Medida Octava Transitoria antes citada ha sido actualizado con la publicación de las Condiciones Técnicas Mínimas, la aprobación del Convenio Marco de Interconexión en donde se establece el detalle de la interconexión SIP (Session Initiation Protocol) y que Telmex ha suscrito un Convenio de Interconexión que incluye la interconexión mediante el protocolo de señalización SIP (Session Initiation Protocol), este Instituto determina que Telmex deberá otorgar a TVI la interconexión mediante el protocolo de señalización SIP, en términos de lo establecido en la Resolución del AEP, las Condiciones Técnicas Mínimas y aquellas que las modifiquen o sustituyan y en términos de lo establecido en el Anexo A, Subanexo A.2 ACUERDOS TÉCNICOS DE INTERCONEXIÓN PARA SEÑALIZACIÓN SIP del Convenio Marco de Interconexión.
+
+Asimismo, y toda vez que es el propio TVI quien ha solicitado a Telmex la interconexión mediante el protocolo de Internet (IP) en su modalidad SIP, con lo que se permite afirmar que cuenta con la capacidad técnica requerida para ofrecer dicha modalidad de interconexión, y que por virtud de la presente Resolución se genera la obligación de interconectarse mediante dicha modalidad técnica, TVI deberá otorgar la interconexión mediante el protocolo de señalización SIP (Session Initiation Protocol), en términos no discriminatorios a los concesionarios que en un futuro lo soliciten.
+
+Lo anterior, sin perjuicio de que los protocolos de interconexión obligatorios para las partes serán aquellos que se establezcan a través de las disposiciones legales y administrativas aplicables.
+
+En virtud de lo anterior, y con el fin de que los términos, condiciones y tarifas de interconexión determinadas por este Instituto en la presente Resolución sean ofrecidos de manera no discriminatoria a los demás concesionarios que lo soliciten y que requieran servicios de interconexión, capacidades o funciones similares, el Pleno del Instituto estima conveniente poner la presente Resolución a disposición de los concesionarios. Para efectos de lo anterior y en términos de lo dispuesto por los artículos 129 fracción IX, 176, 177, fracción XV y 178 de la LFTyR, la presente Resolución será inscrita en el Registro Público de Telecomunicaciones a cargo del propio Instituto.
+
+Lo anterior, sin perjuicio de que Telmex y TVI formalicen los términos, condiciones y tarifas de interconexión que se ordenan a través de la presente Resolución y a tal efecto suscriban el correspondiente convenio. En tal sentido, dichos concesionarios, conjunta o separadamente, deberán inscribir el convenio de interconexión en el Registro Público de Telecomunicaciones, de conformidad con lo dispuesto por los artículos 128, 176 y 177, fracción VII de la LFTyR.
+
+Con base en lo anterior y con fundamento en lo dispuesto por los artículos, 28, párrafo décimo quinto y décimo sexto de la Constitución Política de los Estados Unidos Mexicanos; Vigésimo Transitorio del Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión; 6, fracciones IV y VII 15, fracción X, 17, fracción I, 125, 128, 129, 176, 177 fracción VII, 312 y 313 de la Ley Federal de Telecomunicaciones y Radiodifusión; 32, 35, fracción I, 36, 38, 39, 45 y 57 fracción I de la Ley Federal de Procedimiento Administrativo; 72 , 73, 197, 203, 207, 210-A y 218 del Código Federal de Procedimientos Civiles; y 4 fracción I y 6, fracción XXXVII del Estatuto Orgánico del Instituto Federal de Telecomunicaciones, el Pleno del Instituto Federal de Telecomunicaciones emite los siguientes:
+
+                                  RESOLUTIVOS
+
+PRIMERO.- La tarifa de interconexión que Teléfonos de México, S.A.B. de C.V., deberá pagarle a la empresa Televisión Internacional, S.A. de C.V., por servicios de terminación del servicio local en usuarios fijos, será la siguiente:
+
+ Del 1 de enero de 2016 al 31 de diciembre de 2016, será de $0.003088 pesos M.N. por minuto de interconexión.
+
+La tarifa anterior ya incluye el costo correspondiente a los puertos necesarios para la interconexión.
+
+Las contraprestaciones se calcularán sumando la duración de todas las llamadas completadas en el período de facturación correspondiente, medidas en segundos, y multiplicando los minutos equivalentes a dicha suma, por la tarifa correspondiente.
+
+SEGUNDO.- En términos del artículo Vigésimo Transitorio del "Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión", para el periodo comprendido del 1 de enero al 31 de diciembre de 2015, tratándose del servicio de terminación del servicio local en usuarios fijos de Televisión Internacional, S.A. de C.V., deberá hacerse extensiva la tarifa aplicable a la entrada en vigor de la LFTyR.
+
+TERCERO.- Las tarifas que Televisión Internacional, S.A. de C.V. deberá pagarle a Teléfonos de México, S.A.B. de C.V. por servicios de originación del Servicio Local en usuarios fijos, serán las siguientes:
+
+ Del 1 de enero de 2015 al 31 de diciembre de 2015, será de $0.005162 pesos M.N. por minuto de interconexión.
+      
+ Del 1 de enero de 2016 al 31 de diciembre de 2016, será de $0.003816 pesos M.N. por minuto de interconexión.
+
+Las tarifas anteriores ya incluyen el costo correspondiente a los puertos necesarios para la interconexión.
+
+Las contraprestaciones se calcularán sumando la duración de todas las llamadas completadas en el período de facturación correspondiente, medidas en segundos, y multiplicando los minutos equivalentes a dicha suma, por la tarifa correspondiente.
+
+CUARTO.- Las tarifas que Televisión Internacional, S.A. de C.V. deberá pagarle a Teléfonos de México, S.A.B. de C.V. por servicios de tránsito, serán las siguientes:
+
+ Del 1 de enero de 2015 al 31 de diciembre de 2015, será de $0.006246 pesos M.N. por minuto de interconexión.
+
+ Del 1 de enero de 2016 al 31 de diciembre de 2016, será de $0.004608 pesos M.N. por minuto.
+
+Las tarifas anteriores ya incluyen el costo correspondiente a los puertos necesarios para la interconexión.
+
+Las contraprestaciones se calcularán sumando la duración de todas las llamadas completadas en el período de facturación correspondiente, medidas en segundos, y multiplicando los minutos equivalentes a dicha suma, por la tarifa correspondiente.
+
+QUINTO.- Teléfonos de México, S.A.B. de C.V. y Televisión Internacional, S.A. de C.V., deberán interconectar sus redes mediante el Protocolo de Interconexión SIP (Session Initiation Protocol), en términos de lo establecido en el Anexo A, "Anexos Técnicos", Subanexo A.2 ACUERDOS TÉCNICOS DE INTERCONEXIÓN PARA SEÑALIZACIÓN SIP, del Convenio Marco de Interconexión, autorizado mediante la "RESOLUCIÓN, MEDIANTE LA CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES MODIFICA Y AUTORIZA AL AGENTE ECONÓMICO PREPONDERANTE LOS TÉRMINOS Y CONDICIONES DEL CONVENIO MARCO DE INTERCONEXIÓN PRESENTADO POR TELÉFONOS DE MÉXICO, S.A.B. DE C.V. APLICABLE DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2016", aprobado mediante Acuerdo P/IFT/EXT/241115/166.
+
+Lo anterior, sin perjuicio de que las partes cumplan con las disposiciones administrativas de carácter general que establezcan las disposiciones técnicas relativas a los protocolos de señalización o estándares de transmisión, y aquellas disposiciones en materia de calidad y seguridad en la provisión de servicios de interconexión, que en su caso emita el Instituto Federal de Telecomunicaciones.
+
+SEXTO.- Dentro de los diez (10) días hábiles contados a partir del día siguiente en que surta efectos legales la notificación de la presente Resolución y con independencia de su obligación de cumplir con la prestación del servicio de interconexión conforme a las condiciones y tarifas establecidas en la presente Resolución, Teléfonos de México, S.A.B. de C.V. y Televisión Internacional, S.A. de C.V., deberán suscribir los convenios de interconexión de sus redes públicas de telecomunicaciones conforme a los términos y condiciones determinados en los Resolutivos PRIMERO, SEGUNDO, TERCERO, CUARTO y QUINTO de la presente Resolución. Celebrado el convenio correspondiente, deberán remitir conjunta o separadamente un ejemplar original o copia certificada del mismo a este Instituto Federal de Telecomunicaciones, para efectos de su inscripción en el Registro Público de Telecomunicaciones, dentro de los treinta (30) días hábiles siguientes a su celebración, de conformidad con los artículos 128, 176 y 177, fracción VII de la Ley Federal de Telecomunicaciones y Radiodifusión.
+
+SÉPTIMO.- En cumplimiento a lo dispuesto en el artículo 3, fracción XV de la Ley Federal de Procedimiento Administrativo, en relación con los artículos 312 y 313 de la Ley Federal de Telecomunicaciones y Radiodifusión, se hace del conocimiento de Teléfonos de México, S.A.B. de C.V. y de Televisión Internacional, S.A. de C.V., que la presente Resolución constituye un acto administrativo definitivo y por lo tanto, procede interponer ante los Juzgados de Distrito Especializados en Materia de Competencia Económica, Radiodifusión y Telecomunicaciones, con residencia en el Distrito Federal y Jurisdicción territorial en toda la República, el juicio de amparo indirecto dentro del plazo de quince (15) días hábiles contado a partir de que surta efectos la notificación de la presente Resolución, en términos del artículo 17 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+
+OCTAVO.- Notifíquese personalmente a los representantes legales de Teléfonos de México, S.A.B. de C.V. y Televisión Internacional, S.A. de C.V., el contenido de la presente Resolución, en términos de lo establecido en el artículo 129, fracción VIII de la Ley Federal de Telecomunicaciones y Radiodifusión.
+
+La presente Resolución fue aprobada por el Pleno del Instituto Federal de Telecomunicaciones en su VII Sesión Ordinaria celebrada el 9 de marzo de 2016, en lo general por unanimidad de votos de los Comisionados Gabriel Oswaldo Contreras Saldívar, Ernesto Estrada González, Adriana Sofía Labardini Inzunza, María Elena Estavillo Flores, Mario Germán Fromow Rangel y Adolfo Cuevas Teja.
+La Comisionada María Elena Estavillo Flores manifestó voto en contra de la determinación de las tarifas 2016, así como de la vigencia de la tarifa planteada en el Resolutivo Primero; y del Resolutivo Sexto en lo que se refiere a la celebración del convenio con las tarifas determinadas para 2016.
+El Comisionado Adolfo Cuevas Teja manifestó voto en contra de los Resolutivos Primero, Segundo, Tercero y Cuarto respecto a las tarifas establecidas; así como del Resolutivo Sexto, en lo referente a ordenar la celebración de los convenios de interconexión conforme a las tarifas establecidas en los Resolutivos Primero, Segundo, Tercero y Cuarto.
+Lo anterior, con fundamento en los párrafos vigésimo, fracciones I y III; y vigésimo primero, del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos; artículos 7, 16 y 45 de la Ley Federal de Telecomunicaciones y Radiodifusión; así como en los artículos 1, 7, 8 y 12 del Estatuto Orgánico del Instituto Federal de Telecomunicaciones, mediante Acuerdo P/IFT/090316/76.
+La Comisionada Adriana Sofía Labardini Inzunza, previendo su ausencia justificada a la Sesión, emitió su voto razonado por escrito, de conformidad con los artículos 45, tercer párrafo de la Ley Federal de Telecomunicaciones y Radiodifusión, y 8, segundo párrafo del Estatuto Orgánico del Instituto Federal de Telecomunicaciones.

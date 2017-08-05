@@ -1,0 +1,257 @@
+EGS México, S. de R.L. de C.V.
+Vía Monterrey  -  Matamoros 598 S/N, Parque Industrial Milenium, Código Postal 66626, Ciudad Apodaca, Estado de Nuevo León.
+
+Ciudad de México, a seis de abril de dos mil dieciséis.- Visto para resolver el expediente E-IFT.UC.DG-SAN.V.0285/2015, formado con motivo del procedimiento administrativo para declarar la pérdida de bienes, instalaciones y equipos en beneficio de la Nación, iniciado mediante acuerdo de siete de diciembre de dos mil quince y notificado el catorce de diciembre del mismo año por conducto de la Unidad de Cumplimiento del Instituto Federal de Telecomunicaciones (el "IFT" o "Instituto"), en contra de EGS MÉXICO, S. DE R.L. DE C.V., ( en lo sucesivo "EGS MÉXICO") por la probable actualización de la hipótesis normativa prevista en el artículo 305 de la Ley Federal de Telecomunicaciones y Radiodifusión (la "LFTyR"). Al respecto, se emite la presente Resolución de conformidad con lo siguiente, y
+                                  RESULTANDO
+
+PRIMERO. Mediante escrito presentado en la oficialía de partes de este Instituto el diez de julio de dos mil quince, Antonio Díaz Hernández, ostentándose como representante legal de la empresa NIII Digital, S. de R.L. de C.V., interpuso una denuncia debido a una interferencia prejudicial en las frecuencias 1740-1755 MHz que tiene concesionadas en el Municipio de Apodaca, Estado de Nuevo León.
+
+SEGUNDO. Con la finalidad de corroborar lo anterior, mediante oficio IFT/225/UC/DG-VER/2928/2015 de doce de agosto de dos mil quince, la Dirección General de Verificación (la "DGV") de la Unidad de Cumplimiento ordenó la visita de inspección-verificación IFT/DF/DGV/444/2015 en el inmueble ubicado en Avenida Vía Monterrey-Matamoros, Número 598, Parque Industrial Milenium, Apodaca, Nuevo León, Código Postal 66626, así como a las instalaciones y equipos de telecomunicaciones localizados en el mismo. Lo anterior, con el objeto de "... constatar y verificar si LA VISITADA tiene instalados y/o en operación, equipos de telecomunicaciones con los que use, aproveche o explote el espectro radioeléctrico dentro del intervalo de frecuencia de 1730 MHZ a 1840 MHz, y en su caso, verificar que cuenta con concesión, permiso o autorización respectiva vigente emitida por la Secretaría de Comunicaciones y Transportes o por el Instituto Federal de Telecomunicaciones y que las emisiones radioeléctricas que se generen, no causen interferencias perjudiciales a los concesionarios autorizados que operen en el intervalo de frecuencia antes descrito...".
+
+TERCERO. En cumplimiento al oficio precisado en el numeral inmediato anterior, el trece de agosto de dos mil quince, los inspectores-verificadores de telecomunicaciones y radiodifusión adscritos a la DGV (en lo sucesivo "LOS VERIFICADORES"), se constituyeron en el domicilio ubicado en Avenida Vía Monterrey-Matamoros, Número 598, Parque Industrial Milenium, Apodaca, Nuevo León, Código Postal 66626. 
+
+Conforme a las actuaciones llevadas a cabo se levantó el acta de verificación ordinaria IFT/DF/DGV/444/2015 (en lo sucesivo el "ACTA DE VERIFICACIÓN"), en la cual se detectó que existían tres equipos bloqueadores, con cuatro antenas omnidireccionales tipo duck cada uno, mismos que se encontraban encendidos  y en operación, de los cuales se observa una señal operando el rango de 1735 hasta 1835 MHz y que afecta el rango concesionado a NEXTEL, de 1740 a 1755 MHZ.
+
+CUARTO. En razón de que la visitada no exhibió el respectivo título de concesión, permiso o autorización vigente que amparara el uso o aprovechamiento del espectro radioeléctrico en la frecuencia de 1735 a 1835 MHz, LOS VERIFICADORES procedieron al aseguramiento de los sistemas, instalaciones y equipos de telecomunicaciones encontrados, quedando como interventor especial (depositario) de los mismos, Roberto Armando Castellanos Elizondo.
+
+QUINTO. Mediante oficio IFT/225/UC/DGV-VER/4679/2015 de tres de noviembre de dos mil quince notificado el nueve siguiente, la DGV informó a EGS MÉXICO, que el procedimiento de inspección y verificación había concluido y que derivado del análisis y dictamen efectuados respecto del ACTA DE VERIFICACIÓN y sus anexos, se determinó la probable actualización de la hipótesis normativa prevista en el artículo 305 de la LFTyR.
+
+SEXTO Mediante oficio IFT/225/UC/DG-VER/4866/2015 de diez de noviembre de dos mil quince, la DGV emitió el "Dictamen mediante el cual se propone la Declaratoria de pérdida de bienes, instalaciones y equipos en beneficio de la Nación, en contra de la Sociedad de Responsabilidad Limitada de Capital Variable denominada EGS MÉXICO por la presunta actualización de la hipótesis normativa prevista en el artículo 305, de la Ley Federal de Telecomunicaciones y Radiodifusión,  tal y como consta en el Acta de Verificación número IFT/DF/DGV/444/2015."..
+
+SÉPTIMO. En virtud de lo anterior, por acuerdo de siete de diciembre de dos mil quince, este Instituto por conducto del Titular de la Unidad de Cumplimiento inició el procedimiento administrativo de declaratoria de pérdida de bienes, instalaciones y equipos en contra de EGS MÉXICO, por la probable actualización de la hipótesis normativa prevista en el artículo 305, de la Ley Federal de LFTyR.
+
+OCTAVO. El catorce de diciembre de dos mil quince, se notificó a EGS MÉXICO el contenido del acuerdo de inicio de siete de diciembre de dos mil quince, concediéndole un plazo de quince días, para que en uso del beneficio de la garantía de audiencia consagrada en los artículos 14 de la Constitución Política de los Estados Unidos Mexicanos (en lo sucesivo "CPEUM") y 72 de la LFPA expusiera lo que a su derecho conviniera y, en su caso, aportara las pruebas con que contara.
+El término concedido a "EGS MÉXICO" para presentar sus manifestaciones y ofrecer pruebas, transcurrió del quince de diciembre de dos mil quince al veinte de enero de dos mil dieciséis sin considerar los días diecinueve, veinte, veintiuno, veintidós, veintitrés, veinticuatro, veinticinco, veintiséis, veintisiete, veintiocho, veintinueve, treinta y treinta y uno de diciembre de dos mil quince y uno, dos, tres, cuatro, cinco, nueve, diez, dieciséis y diecisiete de enero de dos mil dieciséis, por ser sábados y domingos y días inhábiles, en términos del artículo 28 de la Ley Federal de Procedimiento Administrativo y del "ACUERDO mediante el cual el Pleno del Instituto Federal de Telecomunicaciones aprueba su calendario anual de sesiones ordinarias y el calendario anual de labores para el año 2015 y principios de 2016".
+
+NOVENO. No obstante lo anterior, EGS MÉXICO no ejerció su derecho de defensa, por lo que mediante proveído de veinticinco de enero del año en curso, notificado a través de las listas que se publican en la página de internet de este Instituto el veintisiete de enero siguiente, se declaró precluido el derecho de EGS MÉXICO para manifestar lo que a su derecho conviniera y ofrecer pruebas.
+
+Asimismo por corresponder al estado procesal que guardaba el presente asunto, con fundamento en el artículo 56 de la LFPA, se pusieron a su disposición los autos del presente expediente para que dentro del término de diez días formulara los alegatos que a su derecho conviniera, en el entendido de que transcurrido dicho plazo, con alegatos o sin ellos se emitiría la resolución que conforme a derecho correspondiera.
+
+El término concedido a EGS MÉXICO para presentar sus alegatos transcurrió del veintiocho de enero al once de febrero del presente año, en razón de que dicho acuerdo fue notificado a través de las listas que se publican en la página de internet de este Instituto el veintisiete de enero de dos mil dieciséis, sin contar los días treinta y treinta y uno de enero, uno, seis y siete de febrero de dos mil dieciséis, por ser sábados y domingos y día inhábil respectivamente, en términos del artículo 28 de la LFPA, y el primero de febrero por ser día inhábil en términos del "ACUERDO mediante el cual el Pleno del Instituto Federal de Telecomunicaciones aprueba su calendario anual de sesiones ordinarias y el calendario anual de labores para el año 2015 y principios de 2016".
+DÉCIMO. Habiendo transcurrido el término conferido para formular alegatos, sin que se haya presentado documento alguno por parte de EGS MÉXICO, se puso el presente expediente en estado de resolución y por lo tanto fue remitido a este órgano colegiado para la emisión de la Resolución que conforme a derecho resulte procedente.
+                                 CONSIDERANDO
+PRIMERO. Competencia. 
+El Pleno del Instituto es competente para conocer y resolver el presente procedimiento administrativo de declaratoria de pérdida de bienes, instalaciones y equipos en beneficio de la Nación, con fundamento en los artículos 14, 16 y 28, párrafos, décimo quinto, décimo sexto y vigésimo, fracción I de la CPEUM; 1, 2, 6, fracciones II, IV y VII, 7, 15 fracción XXX, 17, penúltimo y último párrafos, 297, primer párrafo, y 305 de la LFTyR; 523 y 524 de la Ley de Vías Generales de Comunicación (en lo sucesivo "LVGC";)  3, 8, 9, 12, 13, 14, 16 fracción X,  28, 49, 50, 59, 70, fracciones II y VI, 72, 73, 74 y 75 de la LFPA; y 1, 4, fracción I y 6, fracción XVII del Estatuto Orgánico del Instituto Federal de Telecomunicaciones (en lo subsecuente "Estatuto").
+
+SEGUNDO. Consideración previa
+
+La Soberanía del Estado sobre el uso aprovechamiento y explotación de bandas de frecuencias del espectro radioeléctrico se ejerce observando lo dispuesto en los artículos 27 y 28 de la Constitución Política de los Estados Unidos Mexicanos, los cuales prevén que el dominio de la Nación sobre el espectro es inalienable e imprescriptible y que la explotación, uso o aprovechamiento de dicho recurso por los particulares o por sociedades debidamente constituidas, sólo puede realizarse mediante títulos de concesión otorgados por el IFT, de acuerdo con las reglas y condiciones que establezca la normatividad aplicable en la materia.
+
+En este sentido, de conformidad con lo establecido en el artículo 28, párrafos décimo quinto y décimo sexto de la CPEUM, el IFT es un órgano autónomo, con personalidad jurídica y patrimonio propio, que tiene por objeto el desarrollo eficiente de la radiodifusión y las telecomunicaciones, para lo cual tiene a su cargo, entre otros, la regulación, promoción y supervisión del uso, aprovechamiento y explotación del espectro radioeléctrico, las redes y la prestación de los servicios de radiodifusión y telecomunicaciones.
+
+Consecuente con lo anterior, el Instituto es el encargado de vigilar la debida observancia a lo dispuesto en las concesiones y autorizaciones, así como a la normatividad que resulte aplicable en relación con el uso, aprovechamiento y explotación de bandas de frecuencias del espectro radioeléctrico, a fin de asegurar que la prestación de los servicios de telecomunicaciones se realice de conformidad con las disposiciones jurídicas aplicables. 
+
+Bajo esas consideraciones, el ejercicio de las facultades de supervisión y verificación por parte del IFT traen aparejada la relativa a imponer sanciones por el incumplimiento a lo establecido en las leyes correspondientes o en los respectivos títulos de concesión, asignaciones o permisos, con la finalidad de inhibir aquellas conductas que atenten contra los objetivos de la normatividad en la materia.
+
+En ese sentido, la Unidad de Cumplimiento en ejercicio de sus facultades, llevó a cabo la sustanciación de un procedimiento administrativo para declarar la pérdida de bienes, instalaciones y equipos en beneficio de la Nación en contra de EGS MÉXICO, S. DE R.L. DE C.V. y propuso a este Pleno emitir la declaratoria respectiva al considerar que con su conducta, dicha persona moral actualizó la hipótesis normativa prevista en el artículo 305 de la LFTyR.
+
+Ahora bien, para determinar la procedencia en la imposición de una sanción, la LFTyR aplicable en el caso en concreto, no sólo establece obligaciones para los concesionarios y permisionarios, así como para los gobernados en general, sino también señala supuestos de incumplimiento específicos y las consecuencias jurídicas a las que se harán acreedores en casos de infringir la normatividad en la materia.
+
+Es decir, al pretender imponer una sanción, esta autoridad debe analizar minuciosamente la conducta que se le imputa al presunto infractor y determinar si la misma es susceptible de ser sancionada en términos del precepto legal o normativo que se considera violado.
+
+En este orden de ideas, la H. Suprema Corte de Justicia de la Nación, ha sostenido que el desarrollo jurisprudencial de los principios del derecho penal en el campo administrativo sancionador irá formando los principios propios para este campo del ius puniendi del Estado, sin embargo, en tanto esto sucede, es válido considerar de manera prudente las técnicas garantistas del derecho penal, como lo es el principio de inaplicabilidad de la analogía en materia penal o tipicidad.
+
+En ese sentido, el derecho administrativo sancionador y el derecho penal al ser manifestaciones de la potestad punitiva del Estado y dada la unidad de éstos, en la interpretación constitucional de los principios del derecho administrativo sancionador debe cuidarse al aducido principio de tipicidad, normalmente referido a la materia penal, haciéndolo extensivo a las infracciones y sanciones administrativas, de modo tal que si cierta disposición administrativa establece una sanción por alguna infracción, la conducta realizada por el afectado debe encuadrar exactamente en la hipótesis normativa previamente establecida, sin que sea lícito ampliar ésta por analogía o por mayoría de razón.
+
+Así, en la especie, se considera que la conducta desplegada por el presunto infractor actualiza la segunda hipótesis normativa contenida en el artículo 305 de la LFTyR, que al efecto establece que la persona que por cualquier medio invada u obstruya las vías generales de comunicación, perderá en beneficio de la nación los bienes, instalaciones y equipos empleados en la comisión de la infracción. 
+Desde luego, el mencionado precepto dispone lo siguiente:
+
+     "Artículo 305. Las personas que presten servicios de telecomunicaciones o de radiodifusión, sin contar con concesión o autorización, o que por cualquier otro medio invadan u obstruyan las vías generales de comunicación, perderán en beneficio de la Nación los bienes, instalaciones y equipos empleados en la comisión de dichas infracciones."
+
+De lo anterior podemos concluir que el principio de tipicidad sólo se cumple cuando en una norma consta una predeterminación tanto de la infracción como de la sanción, es decir que la propia ley describa un supuesto de hecho determinado que permita predecir las conductas infractoras y las sanciones correspondientes para tal actualización de hechos, situación que se hace patente en el presente asunto, al establecer el citado precepto legal tanto la conducta sancionable que en el presente caso la constituye la invasión de una vía general de comunicación, como la sanción por cometer dicha conducta, que es la pérdida de los bienes, instalaciones y equipos empleados en la comisión de la infracción.
+
+Por otra parte, resulta importante mencionar que para el ejercicio de la facultad sancionadora en el caso de incumplimiento de las disposiciones legales en materia de telecomunicaciones, el artículo 297 de la LFTyR establece que para la imposición de las sanciones previstas en dicho cuerpo normativo, se estará a lo previsto por la LFPA, la cual prevé dentro de su Título Cuarto, el procedimiento para la imposición de sanciones administrativas.
+
+En efecto, los artículos 70 y 72 de dicho ordenamiento, establecen que para la imposición de una sanción, se deben cubrir dos premisas: i) que la sanción se encuentre prevista en la ley y ii) que previo a la imposición de la misma, la autoridad competente notifique al presunto infractor el inicio del procedimiento respectivo, otorgando al efecto un plazo de quince días para que el presunto infractor exponga lo que a su derecho convenga, y en su caso aporte las pruebas con que cuente.
+
+Así las cosas, al iniciarse el procedimiento administrativo de imposición de sanción en contra de EGS MÉXICO, se presumió la actualización de la hipótesis normativa prevista en el artículo 305 de la LFTyR, ya que se encontraba invadiendo una vía general de comunicación, que en la especie lo constituye el espectro radioeléctrico dentro del intervalo de frecuencias de 1735 a 1835 MHz.
+
+En este sentido, a través del acuerdo de inicio de procedimiento, la Unidad de Cumplimiento dio a conocer a EGS MÉXICO la conducta que presuntamente viola disposiciones legales, así como la sanción prevista en ley por la comisión de la misma. Por ello, se le otorgó un término de quince días hábiles para que en uso de su garantía de audiencia rindiera las pruebas y manifestara por escrito lo que a su derecho conviniera. Lo anterior de conformidad con el artículo 14 de la CPEUM, en relación con el artículo 72 de la LFPA, sin embargo se deprende que EGS MÉXICO no ejerció su derecho de defensa,
+
+Concluido el periodo de pruebas, de acuerdo con lo que dispone el artículo 56 de la LFPA, la Unidad de Cumplimiento puso las actuaciones a disposición del interesado, para que éste formulara sus alegatos, a lo cual EGS MÉXICO fue omiso en su presentación.
+
+Una vez desahogado el periodo probatorio y vencido el plazo para formular alegatos, la Unidad de Cumplimiento remitió el expediente de mérito en estado de Resolución al Pleno de este Instituto quien se encuentra facultado para dictar la Resolución que en derecho corresponda.
+
+Bajo ese contexto, el procedimiento administrativo de imposición de sanciones que se sustancia se realizó conforme a los términos y principios procesales que establece la LFPA consistentes en: i) otorgar garantía de audiencia al presunto infractor; ii) desahogar pruebas; iii) recibir alegatos, y iv) emitir la resolución que en derecho corresponda. Lo anterior, no obstante que en el presente asunto EGS MÉXICO no compareció a ejercer su derecho de defensa.
+En las relatadas condiciones, al tramitarse el procedimiento administrativo de declaratoria de pérdida de bienes, instalaciones y equipos en beneficio de la Nación bajo las anteriores premisas, debe tenerse por satisfecho el cumplimiento de lo dispuesto en la CPEUM, las leyes ordinarias y los criterios judiciales que señalan cuál debe ser el actuar de la autoridad para resolver el presente caso.
+
+TERCERO. HECHOS MOTIVO DEL PROCEDIMIENTO ADMINISTRATIVO para declarar la PÉRDIDA DE BIENES, INSTALACIONES Y EQUIPOS EN BENEFICIO DE LA NACIÓN.
+
+El trece de agosto de dos mil quince, LOS VERIFICADORES  levantaron el ACTA DE VERIFICACIÓN con motivo de la orden de inspección-verificación ordinaria IFT/225/UC/DG-VER/444/2015 contenida en el oficio IFT/225/UC/DG-VER/2928/2015 de doce de agosto de dos mil quince, practicada a "EGS MÉXICO".
+
+Para lo anterior, LOS VERIFICADORES se constituyeron en el domicilio ubicado Avenida Vía Monterrey-Matamoros, Número 598, Parque Industrial Milenium, Apodaca, Nuevo León, Código Postal 66626.
+
+En dicho lugar solicitaron a la persona que recibió la visita, el C. ROBERTO ARMANDO CASTELLANOS ELIZONDO quien dijo tener el carácter de empleado de EGS MÉXICO, y quien además nombro como testigos de asistencia en la diligencia a los CC. Mario Alberto Vázquez Galarza y Juan Guillermo Canaan Contreras quienes aceptaron tal cargo, que proporcionara el acceso al inmueble, a las instalaciones y al equipo de telecomunicaciones localizados en el mismo, para realizar la inspección respectiva De esta forma, advirtieron que se trata de un inmueble de un solo nivel, en el exterior se visualiza un letrero con la leyenda "Emerson Industrial Automation".
+
+Asimismo, LOS VERIFICADORES solicitaron a ROBERTO ARMANDO CASTELLANOS ELIZONDO indicara si en el inmueble donde se actuaba, se tenían instalados y en operación, equipos de telecomunicaciones con los que se usara, aprovechara o explotara el espectro radioeléctrico dentro del intervalo de frecuencia de 1730 a 1840 MH, a lo que la visitada manifestó:
+
+     "Si existen equipos de telecomunicaciones, pero desconozco las frecuencias en la que opera"
+
+A continuación, LOS VERIFICADORES solicitaron autorización para que personal técnico adscrito a la DGAVER de este Instituto ingresara al domicilio y realizara las mediciones técnicas y el monitoreo del espectro radioeléctrico necesarios, a fin de determinar si existían emisiones radioeléctricas dentro del intervalo de frecuencias de 1730 a 1840 MHz, a lo que ROBERTO ARMANDO CASTELLANOS ELIZONDO otorgó su autorización.
+
+Al respecto, LOS VERIFICADORES y el personal técnico de la DGAVER, acompañados del C. ROBERTO ARMANDO CASTELLANOS y de los testigos designados por éste, realizaron un recorrido por el interior del inmueble detectando lo siguiente:
+
+     "tres equipos bloqueadores, con cuatro antenas omnidireccionales tipo duck cada uno, sin modelo, sin marca, sin número de serie visibles por el momento, con chasis de aluminio color gris cromático. Los equipos bloqueadores se observan conectados a la corriente eléctrica y en operación."
+
+Acto seguido, el personal técnico de la DGAVER efectuó las mediciones referidas, con un equipo analizador de espectro portátil, marca Anritsu, modelo MS2713E con un rango de operación de 9 kHz a 6 GHz y antena direccional marca Poynting Antennas con un rango de operación de 9KHz a 8.5 Ghz, propiedad de este "Instituto", y se obtuvo como resultado, tres equipos de telecomunicaciones encendido, de los cuales se observa una señal operando en el rango de 1735 hasta 1835 MHz  y que afecta el rango concesionado a NEXTEL, de 1740 a 1755 MHz.
+
+
+Por otra parte, LOS VERIFICADORES preguntaron a la persona que atendió la visita quien era el ocupante del inmueble donde se llevó a cabo la diligencia, quien manifestó que "la empresa que ocupa el inmueble es EGS MÉXICO, S. DE R.L. DE C.V. y para constatarlo entrego una copia de la inscripción en el R.F.C. de la empresa.", documento que se tuvo a la vista en original por LOS VERIFICADORES y del cual se anexó copia simple en el Acta de verificación.
+
+Posteriormente LOS VERIFICADORES solicitaron a la persona que atendió la diligencia, señalara qué persona física o moral es el propietario o poseedor, responsable o encargado de los equipos encontrados dentro del inmueble, a lo que la persona que atendió la diligencia manifestó:
+      
+     "El propietario de los equipos es la empresa EGS MÉXICO, S. DE R.L. DE C.V." 
+      
+Asimismo, LOS VERIFICADORES solicitaron a la persona que atendió la visita, informara que uso tenían los equipos que fueron localizados, manifestando lo siguiente:
+      
+     "Para bloquear la señal de los equipos celulares dentro de este inmueble, permitiendo con esto que exista más seguridad para los empleados que laboran aquí." 
+      
+Posteriormente, solicitaron a la persona que recibió la visita, indicara si contaba con concesión, permiso o autorización vigente que ampare el uso del espectro radioeléctrico en la frecuencia de 1735 a 1835 MHz, a lo que la visitada manifestó no contar con algún permiso, puesto que desconocía que era necesario para la utilización de esos equipos.
+
+Así mismo, LOS VERIFICADORES solicitaron a la visitada apagara y desconectara los equipos de telecomunicaciones detectados con los que invadía el espectro radioeléctrico en la frecuencia de 1735 a 1835 MHz, a lo que la visitada accedió, apagando y desconectando el equipo. Acto seguido LOS VERIFICADORES solicitaron al personal técnico de la DGAVER realizara una nueva medición y detección de frecuencias del espectro radioeléctrico con los equipos ya apagados y desconectados, obteniendo como resultado de las mediciones realizadas, el cese de las emisiones radioeléctricas en la frecuencia 1735 a 1835 MHz que eran generadas por los tres equipos bloqueadores.
+
+Finalmente LOS VERIFICADORES solicitaron se desinstalaran los equipos antes citados, a lo que la persona que atendió la visita, procedió a su desinstalación. 
+
+Por lo anterior, se procedió al aseguramiento del equipo encontrado en el inmueble en donde se practicó la visita, quedando como interventor especial (depositario) del mismo a ROBERTO ARMANDO CASTELLANOS ELIZONDO, quien aceptó y protestó el cargo, situación que se hizo constar en el ACTA DE VERIFICACIÓN, conforme a lo siguiente:
+      
+                                    Equipo
+                                     Marca
+                                    Modelo
+Número de Serie
+Sello de aseguramiento
+Equipo Bloqueador
+CEREVO
+CR-JA02-04
+J02120183
+089-15
+Equipo Bloqueador
+CEREVO
+CR-JA02-04
+J02120059
+096-15
+Equipo Bloqueador
+CEREVO
+CR-JA02-04
+J02120058
+097-15
+12 antenas omnidireccionales tipo duck
+Sin marca
+Sin modelo
+Sin número
+098-15
+Adaptador de corriente alterna
+Sin marca
+SS0508
+Sin número
+099-15
+Adaptador de corriente alterna
+Sin marca
+SS0508
+Sin número
+100-15
+Adaptador de corriente alterna
+Sin marca
+SS0508
+Sin número
+101-15
+
+Previo a la conclusión de la diligencia, en términos del artículo 524 de la Ley de Vías Generales de Comunicación, se informó a la persona que recibió la visita, que contaba con el término de 10 días hábiles, contados a partir del día hábil siguiente a dicha actuación, para que exhibiera las manifestaciones y pruebas de su intención, en las oficinas del Instituto Federal de Telecomunicaciones. Así mismo en términos del artículo 68 de la de la LFPA, informaron a la persona que recibió la visita, que le asistía el derecho de manifestar lo que a sus intereses conviniera, respecto de los hechos asentados en el acta de verificación de mérito, quien manifestó: "Quiero que quede constancia de que los equipos ya fueron desconectados. De igual forma quiero que quede constancia que al desconectar el equipo las emisiones desparecieron, de igual forma queremos ratificar que teníamos total desconocimiento de estas regulaciones pero ahora que ya estamos enterados cumpliremos cabalmente con lo convenido en este escrito". 
+
+El plazo otorgado transcurrió del catorce al veintisiete de agosto de dos mil quince, sin que exista constancia alguna de que EGS MÉXICO o su representación legal hubieran exhibido pruebas y defensas de su parte. 
+
+Derivado de lo anterior y una vez analizadas las constancias respectivas, la DGV estimó que con su conducta EGS MÉXICO presuntamente actualizó la hipótesis normativa prevista en el artículo 305, de la LFTyR. Lo anterior de conformidad con lo siguiente:
+
+Artículo 305 de la LFTyR.
+
+Dicha disposición establece que "Las personas que presten servicios de telecomunicaciones o de radiodifusión, sin contar con concesión o autorización, o que por cualquier otro medio invadan u obstruyan las vías generales de comunicación, perderán en beneficio de la Nación los bienes, instalaciones y equipos empleados en la comisión de dichas infracciones".
+
+En efecto, el espectro radioeléctrico constituye un bien de uso común que está sujeto al régimen de dominio público de la Federación, pudiendo hacer uso de él todos los habitantes de la República Mexicana, con las restricciones establecidas en las leyes, reglamentos y disposiciones administrativos aplicables, pero para su aprovechamiento se requiere concesión otorgada conforme a las condiciones y requisitos legalmente establecidos, los que no crean derechos reales, pues sólo otorgan frente a la administración y sin perjuicio de terceros, el derecho al uso, aprovechamiento o explotación conforme a las leyes y al título correspondiente.
+
+Al respecto, durante la diligencia de inspección-verificación, LOS VERIFICADORES, advirtieron que EGS MÉXICO estaba invadiendo el espectro radioeléctrico en la frecuencia de 1735 a 1835 MHz, por lo que el Titular de la Unidad de Cumplimiento inició el procedimiento administrativo para declarar de pérdida de bienes, instalaciones y equipos en beneficio de la Nación que se procede a resolver por éste Órgano Colegiado.
+
+Lo anterior considerando que de conformidad con los artículos 15, fracción XXX de la LFTyR y 41 en relación con el 44 fracción I, 6, fracción XVII del ESTATUTO, el Titular de la Unidad de Cumplimiento tiene facultad para sustanciar procedimientos administrativos sancionatorios y el Pleno del Instituto se encuentra facultado para declarar la pérdida de los bienes instalaciones y equipos en beneficio a favor de la Nación, por el incumplimiento e infracción a las disposiciones legales, reglamentarias y administrativas en materia de telecomunicaciones y radiodifusión.
+
+En tal sentido, atendiendo a la propuesta formulada por la DGV, mediante acuerdo de siete de diciembre de dos mil quince, se dio inicio al procedimiento administrativo de imposición de sanción en contra de EGS MÉXICO, el cual fue notificado el catorce de diciembre de dos mil quince, y en el mismo se le otorgó un plazo de quince días hábiles para que manifestara lo que a su derecho conviniera y ofreciera las pruebas que considerara procedentes.
+
+CUARTO. MANIFESTACIONES y PRUEBAS 
+
+Mediante acuerdo de siete de diciembre de dos mil quince, el Titular de la Unidad de Cumplimiento inició el procedimiento administrativo para declarar de pérdida de bienes, instalaciones y equipos en beneficio de la Nación en el que se le otorgó a EGS MÉXICO un término de quince días hábiles para que manifestara lo que a su derecho conviniera y en su caso, aportara las pruebas con que contara con relación a los presuntos incumplimientos que se le imputaron.
+
+Dicho acuerdo fue notificado el catorce de diciembre de dos mil quince, por lo que el plazo de quince días hábiles corrió del quince de diciembre de dos mil quince al veinte de enero de dos mil dieciséis.
+De acuerdo a lo señalado en el Resultando NOVENO de la presente Resolución, y toda vez que el EGS MÉXICO no presentó pruebas y defensas, por proveído de veinticinco de enero de dos mil dieciséis, notificado por lista el veintisiete de enero siguiente, se le hizo efectivo el apercibimiento decretado en el acuerdo de siete de diciembre de dos mil quince y se le tuvo por perdido su derecho para presentar pruebas y defensas de su parte. Lo anterior, con fundamento en los artículos 72 de la LFPA y 288 del Código Federal de Procedimientos Civiles (en lo sucesivo "CFPC"), de aplicación supletoria en términos de los artículos 6, fracciones IV y VII de la LFTyR y 2 de la LFPA.
+
+Sirve de apoyo a lo anterior el criterio sostenido por la Primera Sala de la Suprema Corte de Justicia de la Nación, publicado en el Semanario Judicial de la Federación y su Gaceta, Libro XXII, en Julio de 2013, Tomo 1, Materia(s): Constitucional, Tesis: 1a. CCV/2013 (10a.), Página: 565 cuyo Rubro y texto son del tenor siguiente:
+
+     "PRECLUSIÓN DE UN DERECHO PROCESAL. NO CONTRAVIENE EL PRINCIPIO DE JUSTICIA PRONTA, PREVISTO EN EL ARTÍCULO 17 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS. La preclusión es una sanción que da seguridad e irreversibilidad al desarrollo del proceso, pues consiste en la pérdida, extinción o consumación de una facultad procesal, y por la cual las distintas etapas del procedimiento adquieren firmeza y se da sustento a las fases subsecuentes, lo cual no sólo permite que el juicio se desarrolle ordenadamente, sino que establece un límite a la posibilidad de discusión, lo cual coadyuva a que la controversia se solucione en el menor tiempo posible; de ahí que dicha institución no contraviene el principio de justicia pronta que prevé el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, que se traduce en la obligación de las autoridades encargadas de su impartición, de resolver las controversias ante ellas planteadas, dentro de los términos y plazos que al efecto establezcan las leyes."
+
+QUINTO. ALEGATOS
+
+Mediante el acuerdo de veinticinco de enero de dos  mil dieciséis, notificado a EGS MÉXICO, por lista el veintisiete de enero siguiente, se le concedió un plazo de diez días hábiles para formular alegatos, el cual corrió del veintiocho de enero al once de febrero de dos mil dieciséis.
+
+De las constancias que forman parte del presente expediente, se observa que para tal efecto, EGS MÉXICO no presentó alegatos ante éste IFT.
+
+De acuerdo a lo señalado en el Resultando DÉCIMO PRIMERO de la presente Resolución, por proveído de doce de febrero de dos mil dieciséis, se tuvo por perdido el derecho de EGS MÉXICO para formular alegatos de su parte con fundamento en los artículos 72 de la LFPA y 288 del CFPC.
+
+Por lo anterior, al no existir análisis pendiente por realizar se procede a emitir la presente resolución atendiendo a los elementos que causan plenitud convictiva en esta autoridad, cumpliendo los principios procesales que rigen todo procedimiento. 
+
+Sirve de aplicación por analogía la siguiente Jurisprudencia que a su letra señala:
+     
+     "DERECHO AL DEBIDO PROCESO. SU CONTENIDO. Dentro de las garantías del debido proceso existe un "núcleo duro", que debe observarse inexcusablemente en todo procedimiento jurisdiccional, y otro de garantías que son aplicables en los procesos que impliquen un ejercicio de la potestad punitiva del Estado. Así, en cuanto al "núcleo duro", las garantías del debido proceso que aplican a cualquier procedimiento de naturaleza jurisdiccional son las que esta Suprema Corte de Justicia de la Nación ha identificado como formalidades esenciales del procedimiento, cuyo conjunto integra la "garantía de audiencia", las cuales permiten que los gobernados ejerzan sus defensas antes de que las autoridades modifiquen su esfera jurídica definitivamente. Al respecto, el Tribunal en Pleno de esta Suprema Corte de Justicia de la Nación, en la jurisprudencia P./J. 47/95, publicada en el Semanario Judicial de la Federación y su Gaceta, Novena Época, Tomo II, diciembre de 1995, página 133, de rubro: "FORMALIDADES ESENCIALES DEL PROCEDIMIENTO. SON LAS QUE GARANTIZAN UNA ADECUADA Y OPORTUNA DEFENSA PREVIA AL ACTO PRIVATIVO.", sostuvo que las formalidades esenciales del procedimiento son: (i) la notificación del inicio del procedimiento; (ii) la oportunidad de ofrecer y desahogar las pruebas en que se finque la defensa; (iii) la oportunidad de alegar; y, (iv) una resolución que dirima las cuestiones debatidas y cuya impugnación ha sido considerada por esta Primera Sala como parte de esta formalidad. Ahora bien, el otro núcleo es identificado comúnmente con el elenco de garantías mínimo que debe tener toda persona cuya esfera jurídica pretenda modificarse mediante la actividad punitiva del Estado, como ocurre, por ejemplo, con el derecho penal, migratorio, fiscal o administrativo, en donde se exigirá que se hagan compatibles las garantías con la materia específica del asunto. Por tanto, dentro de esta categoría de garantías del debido proceso, se identifican dos especies: la primera, que corresponde a todas las personas independientemente de su condición, nacionalidad, género, edad, etcétera, dentro de las que están, por ejemplo, el derecho a contar con un abogado, a no declarar contra sí mismo o a conocer la causa del procedimiento sancionatorio; y la segunda, que es la combinación del elenco mínimo de garantías con el derecho de igualdad ante la ley, y que protege a aquellas personas que pueden encontrarse en una situación de desventaja frente al ordenamiento jurídico, por pertenecer a algún grupo vulnerable, por ejemplo, el derecho a la notificación y asistencia consular, el derecho a contar con un traductor o intérprete, el derecho de las niñas y los niños a que su detención sea notificada a quienes ejerzan su patria potestad y tutela, entre otras de igual naturaleza.
+     
+     Época: Décima Época, Registro: 2005716, Instancia: Primera Sala, Tipo de Tesis: Jurisprudencia, Fuente: Gaceta del Semanario Judicial de la Federación, Libro 3, Febrero de 2014, Tomo I, Materia(s): Constitucional, Tesis: 1a./J. 11/2014 (10a.), Página: 396."
+
+En tales consideraciones, debe tomarse en cuenta lo siguiente:
+ Se confirmó la invasión de la vía general de comunicación consistente en el espectro radioeléctrico en la frecuencia 1735 a 1835 MHz en el inmueble ubicado en Avenida Vía Monterrey-Matamoros, Número 598, Parque Industrial Milenium, Apodaca, Nuevo León, Código Postal 66626, a través de tres equipos bloqueadores, con cuatro antenas omnidireccionales tipo duck cada uno, sin modelo, sin marca, sin número de serie visibles, con chasis de aluminio color gris cromático.
+
+ Se detectó la invasión del espectro radioeléctrico en una banda de frecuencia concesionada y no se acreditó tener concesión o permiso expedido por autoridad competente que amparara o legitimara esta utilización.
+
+ "La persona que atendió la visita de nombre ROBERTO ARMANDO CASTELLANOS ELIZONDO, manifestó tener el carácter de empleado de dicha empresa, y señalo que la empresa EGS MÉXICO era propietaria del equipo mediante el cual procedía la invasión de una frecuencia del espectro radioeléctrico.
+En ese sentido, este Pleno del Instituto considera que existen elementos suficientes para determinar que EGS MÉXICO efectivamente se encontraba invadiendo una vía general de comunicación consistente en el espectro radioeléctrico.
+Se afirma lo anterior, en virtud de que del análisis de la conducta desplegada en relación con lo establecido en el precepto legal que se considera actualizado, claramente se puede advertir que se surten todos los supuestos previstos por el mismo.
+
+Así, el presente procedimiento administrativo de declaratoria de pérdida de bienes, instalaciones y equipos en beneficio de la Nación que se sigue a "EGS MÉXICO" se inició de oficio por la posible actualización de la hipótesis prevista en el artículo 305 de la LFTyR, que establece:
+
+     "Artículo 305. Las personas que presten servicios de telecomunicaciones o de radiodifusión, sin contar con la concesión o autorización, o que por cualquier otro medio invadan u obstruyan las vías generales de comunicación, perderán en beneficio de la Nación los bienes, instalaciones y equipos empleados en la comisión de dichas infracciones."
+
+Por su parte, el artículo 4 de la LFTyR precisa que el espectro radioeléctrico es una vía general de comunicación en los siguientes términos:
+
+     "Artículo 4. Para los efectos de la Ley, son vías generales de comunicación el espectro radioeléctrico, las redes públicas de telecomunicaciones, las estaciones de radiodifusión y equipos complementarios, así como los sistemas de comunicación vía satélite."
+
+Del análisis de los preceptos transcritos, se deprende que la conducta a sancionar es la invasión u obstrucción del espectro radioeléctrico como vía general de comunicación, por lo que con el fin de cumplir a cabalidad con el principio de tipicidad se advierte que la conducta desplegada por EGS MÉXICO se adecua a lo señalado por la norma.
+
+En consecuencia, y considerando que EGS MÉXICO es responsable de la invasión de la vía general de comunicación consistente en el espectro radioeléctrico en la frecuencia de 1735 a 1835 MHz, lo procedente es declarar la pérdida de los equipos detectados durante la visita de inspección-verificación, consistentes en:
+
+ Tres equipos bloqueadores, con cuatro antenas omnidireccionales tipo duck cada uno, sin modelo, sin marca, sin número de serie visibles por el momento, con chasis de aluminio color gris cromático y sus respectivos adaptadores de corriente alterna.
+
+Lo anterior, toda vez que el espectro radioeléctrico es un bien de dominio público, el cual es un recurso limitado, que conforme a lo dispuesto en el artículo 28 la CPEUM, corresponde al Estado a través del Instituto salvaguardar su uso, aprovechamiento y explotación en beneficio del interés público.
+
+Sirve de apoyo a lo anterior, los siguientes criterios judiciales:
+
+     "ESPECTRO RADIOELÉCTRICO. FORMA PARTE DEL ESPACIO AÉREO, QUE CONSTITUYE UN BIEN NACIONAL DE USO COMÚN SUJETO AL RÉGIMEN DE DOMINIO PÚBLICO DE LA FEDERACIÓN, PARA CUYO APROVECHAMIENTO ESPECIAL SE REQUIERE CONCESIÓN, AUTORIZACIÓN O PERMISO. La Sección Primera, Apartado 1-5, del Reglamento de Radiocomunicaciones de la Unión Internacional de Telecomunicaciones, define a las ondas radioeléctricas u ondas hertzianas como las ondas electromagnéticas cuya frecuencia se fija convencionalmente por debajo de los 3,000 gigahertz y que se propagan por el espacio sin guía artificial. Por su parte, el artículo 3o., fracción II, de la Ley Federal de Telecomunicaciones define al espectro radioeléctrico como el espacio que permite la propagación sin guía artificial de ondas electromagnéticas cuyas bandas de frecuencia se fijan convencionalmente por debajo de los 3,000 gigahertz. En ese tenor, si se relaciona el concepto de ondas radioeléctricas definido por el derecho internacional con el del espectro radioeléctrico que define la Ley Federal de Telecomunicaciones, se concluye que este último forma parte del espacio aéreo situado sobre el territorio nacional, sobre el que la Nación ejerce dominio directo en la extensión y términos que fije el derecho internacional conforme al artículo 27 de la Constitución Política de los Estados Unidos Mexicanos. Por tanto, el espectro radioeléctrico constituye un bien de uso común que, como tal, en términos de la Ley General de Bienes Nacionales, está sujeto al régimen de dominio público de la Federación, pudiendo hacer uso de él todos los habitantes de la República Mexicana con las restricciones establecidas en las leyes y reglamentos administrativos aplicables, pero para su aprovechamiento especial se requiere concesión, autorización o permiso otorgados conforme a las condiciones y requisitos legalmente establecidos, los que no crean derechos reales, pues sólo otorgan frente a la administración y sin perjuicio de terceros, el derecho al uso, aprovechamiento o explotación conforme a las leyes y al título correspondiente.
+     
+     Época: Novena Época, Registro: 170757, Instancia: Pleno, Tipo de Tesis: Jurisprudencia, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo XXVI, Diciembre de 2007, Materia(s): Constitucional, Administrativa, Tesis: P./J. 65/2007, Página: 987"
+
+     "ESPECTRO RADIOELÉCTRICO. SU CONCEPTO Y DISTINCIÓN CON RESPECTO AL ESPECTRO ELECTROMAGNÉTICO. El artículo 3, fracción II, de la Ley Federal de Telecomunicaciones define al espectro radioeléctrico como el espacio que permite la propagación, sin guía artificial de ondas electromagnéticas, cuyas bandas de frecuencia se fijan convencionalmente por debajo de los tres mil gigahertz. Así, las frecuencias se agrupan convencionalmente en bandas, de acuerdo a sus características, y el conjunto de éstas constituye el espectro radioeléctrico, el cual integra una parte del espectro electromagnético utilizado como medio de transmisión para distintos servicios de telecomunicaciones, y es un bien del dominio público respecto del cual no debe haber barreras ni exclusividad que impidan su funcionalidad y el beneficio colectivo. Cabe señalar que el espectro radioeléctrico es un recurso natural limitado y las frecuencias que lo componen son las que están en el rango entre los tres hertz y los tres mil gigahertz y, en esa virtud, su explotación se realiza aprovechándolas directamente o concediendo el aprovechamiento mediante la asignación a través de concesiones. 
+     
+     Época: Décima Época, Registro: 2005184, Instancia: Tribunales Colegiados de Circuito, Tipo de Tesis: Aislada, Fuente: Gaceta del Semanario Judicial de la Federación, Libro 1, Diciembre de 2013, Tomo II, Materia(s): Administrativa, Tesis: I.4o.A.72 A (10a.), Página: 1129"
+
+En tal virtud, y toda vez que los equipos asegurados se dejaron en posesión de ROBERTO ARMANDO CASTELLANOS ELIZONDO, en su carácter de interventor especial (depositario), una vez que se notifique la presente resolución en el domicilio de EGS MÉXICO, se deberá solicitar al depositario que ponga a disposición de este Instituto los equipos asegurados. 
+
+En virtud de que quedó plenamente acreditado que EGS MÉXICO actualizó la hipótesis prevista en el artículo 305 de la LFTyR, el Pleno del Instituto Federal de Telecomunicaciones
+                                   RESUELVE
+PRIMERO. EGS MÉXICO, S. DE R.L. DE C.V. propietario de los equipos mediante los cuales se invadió el espectro radioeléctrico en la frecuencia de 1735 a 1835 MHz, instalados en el domicilio ubicado en Avenida Vía Monterrey-Matamoros, Número 598, Parque Industrial Milenium, Apodaca, Nuevo León, Código Postal 66626, actualizó la hipótesis normativa prevista en el artículo 305 de la Ley Federal de Telecomunicaciones y Radiodifusión tal como quedó debidamente demostrado en la presente Resolución.
+
+SEGUNDO. De conformidad con lo señalado en el Considerando Quinto de la presente Resolución y con fundamento en el artículo 305 de la Ley Federal de Telecomunicaciones y Radiodifusión, se declara la pérdida en beneficio de la Nación, de los bienes, instalaciones y equipos empleados en la comisión de dicha infracción por EGS MÉXICO, S. DE R.L. DE C.V., consistentes en: Tres equipos bloqueadores, con cuatro antenas omnidireccionales tipo duck cada uno, sin modelo, sin marca, sin número de serie visibles por el momento, con chasis de aluminio color gris cromático y sus respectivos adaptadores de corriente alterna, mismos que fueron debidamente identificados en el ACTA DE VERIFICACIÓN IFT/DF/DGV/444/2015.
+
+TERCERO. Con fundamento en los artículos 41 y 43 fracción VI del Estatuto Orgánico del Instituto Federal de Telecomunicaciones, instrúyase a la Unidad de Cumplimiento, para que a través de la Dirección General de Verificación, comisione a personal adscrito a su cargo para notificar al interventor especial (depositario) la revocación de su nombramiento y ponga a disposición del personal del Instituto Federal de Telecomunicaciones, comisionado para tales diligencias, los bienes que pasan a poder de la Nación, previa verificación de que el sello de aseguramiento no ha sido violado y previo inventario pormenorizado del citado bien, debiendo los servidores públicos comisionados para esta diligencia, y de ser necesario, solicitar el auxilio inmediato de la fuerza pública para lograr el cometido de mérito, de conformidad con los artículos 75 de la Ley Federal de Procedimiento Administrativo y 43 , fracción VII, del Estatuto Orgánico del Instituto Federal de Telecomunicaciones.. 
+
+CUARTO. Se ordena que la presente Resolución se notifique personalmente a EGS MÉXICO, S. DE R.L. DE C.V. en el domicilio precisado en el proemio de la presente Resolución.
+QUINTO. Se informa a EGS MÉXICO, S. DE R.L. DE C.V. que podrá consultar el expediente en que se actúa en las oficinas de la Unidad de Cumplimiento del este Instituto Federal de Telecomunicaciones, con domicilio en Avenida Insurgentes Sur número 838, cuarto piso, Colonia Del Valle, Delegación Benito Juárez, México, Código Postal 03100, Distrito Federal, (edificio alterno a la sede de este Instituto) dentro del siguiente horario: de lunes a jueves las 9:00 a las 18:30 horas y el viernes de 9:00 a 15:00 horas.
+
+SEXTO. En cumplimiento a lo dispuesto en los artículos 3, fracción XV y 39 de la Ley Federal de Procedimiento Administrativo, se hace del conocimiento de EGS MÉXICO, S. DE R.L. DE C.V., que la presente Resolución constituye un acto administrativo definitivo y por lo tanto, de conformidad con lo dispuesto en el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, en relación con el diverso 312 de la Ley Federal de Telecomunicaciones y Radiodifusión, procede interponer ante los juzgados de distrito especializados en materia de competencia económica, radiodifusión y telecomunicaciones, con residencia en el Distrito Federal, y jurisdicción territorial en toda la República, el juicio de amparo indirecto dentro del plazo de quince días hábiles contados a partir de que surta efectos la notificación de la presente Resolución, en términos del artículo 17 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+
+SÉPTIMO. En su oportunidad archívese el expediente como asunto total y definitivamente concluido.
+
+Así lo resolvió el Pleno del Instituto Federal de Telecomunicaciones, con fundamento en los artículos señalados en los Considerandos Primero y Segundo de la presente Resolución.
+
+La presente Resolución fue aprobada por el Pleno del Instituto Federal de Telecomunicaciones en su IX Sesión Ordinaria celebrada el 6 de abril de 2016, por unanimidad de votos de los Comisionados presentes Gabriel Oswaldo Contreras Saldívar, Ernesto Estrada González, Adriana Sofía Labardini Inzunza, María Elena Estavillo Flores, Mario Germán Fromow Rangel y Adolfo Cuevas Teja; con fundamento en los párrafos vigésimo, fracciones I y III; y vigésimo primero, del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos; artículos 7, 16 y 45 de la Ley Federal de Telecomunicaciones y Radiodifusión; así como en los artículos 1, 7, 8 y 12 del Estatuto Orgánico del Instituto Federal de Telecomunicaciones, mediante Acuerdo P/IFT/060416/138.

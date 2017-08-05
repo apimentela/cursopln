@@ -1,4 +1,4 @@
-carpeta_nombre="/home/alejandro/cursopln/presentacion/Documentos/"
+carpeta_nombre="/home/alejandro/cursopln/presentacion/"
 archivo_nombre="P_IFT_290216_73_Acc.txt"
 
 import os
@@ -6,22 +6,30 @@ import re
 import nltk
 
 #~ carpeta_nombre="C:\\Users\\user\\Desktop\\Documentos\\"
-archivo_nombre="DOF_P_IFT_291116_672_Acc.txt"
+#~ archivo_nombre="Legales/DOF_P_IFT_290216_71_Datos_Relevantes_Acc.txt"
+archivo_nombre="Libros/texto_291.txt"
 #~ archivo_nombre="COMPENDIO.txt"
 
 with open(carpeta_nombre+archivo_nombre,"r") as archivo:
-	texto=archivo.read()
+	lineas_lista=archivo.readlines()
+
+num_linea=1
+for linea in lineas_lista:
+	if linea == "\n":
+		continue
+	print("LINEA",num_linea,":",linea)
+	num_linea=num_linea+1
 	
 #~ palabras_funcionales=nltk.corpus.stopwords.words("spanish")
 
-tokens=nltk.word_tokenize(texto,"spanish")
-texto_nltk=nltk.Text(tokens)
-texto_nltk.similar("artículo")
-print()
-texto_nltk.common_contexts(["artículo","instituto"])
+#~ tokens=nltk.word_tokenize(texto,"spanish")
+#~ texto_nltk=nltk.Text(tokens)
+#~ texto_nltk.similar("artículo")
+#~ print()
+#~ texto_nltk.common_contexts(["artículo","instituto"])
 
-lista_palabras=["Instituto","Ley","Elija","ley"]
-texto_nltk.dispersion_plot(lista_palabras)
+#~ lista_palabras=["Instituto","Ley","Elija","ley"]
+#~ texto_nltk.dispersion_plot(lista_palabras)
 
 
 #~ tokens_limpios=[]

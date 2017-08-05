@@ -1,0 +1,587 @@
+RESOLUCIÓN MEDIANTE LA CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES AUTORIZA A SERVICIOS TRONCALIZADOS, S.A. DE C.V., LA PRÓRROGA DE VIGENCIA DE LA CONCESIÓN PARA INSTALAR, OPERAR Y EXPLOTAR UNA RED PÚBLICA DE TELECOMUNICACIONES, ASÍ COMO LA PRÓRROGA DE VIGENCIA DE LA CONCESIÓN PARA USAR, APROVECHAR Y EXPLOTAR BANDAS DE FRECUENCIAS DEL ESPECTRO RADIOELÉCTRICO, AMBAS EN EL ESTADO DE OAXACA.
+
+                                 ANTECEDENTES
+     
+ Otorgamiento de la Concesión de Red.- El 28 de noviembre de 2000, la Secretaría de Comunicaciones y Transportes (la "Secretaría") otorgó en favor de Telecomunicaciones Profesionales del Sur, S.A. de C.V., concesión para instalar, operar y explotar una red pública de telecomunicaciones, con una vigencia de 15 (quince) años y vencimiento el 28 de noviembre de 2015 (la "Concesión de Red").
+     
+     Así, en la condición A.2. del Anexo A de la Concesión de Red se estableció como servicio comprendido el Servicio móvil de radiocomunicación especializada de flotillas.
+
+ Otorgamiento de la Concesión de Bandas.- El 28 de noviembre de 2000, la Secretaría otorgó a Telecomunicaciones Profesionales del Sur, S.A. de C.V., concesión para usar, aprovechar y explotar bandas de frecuencias del espectro radioeléctrico, para la prestación del servicio móvil de radiocomunicación especializada de flotillas al usuario final, a través de su red pública de telecomunicaciones, en el Estado de Oaxaca, con una vigencia de 15 (quince) años y vencimiento el 28 de noviembre de 2015 (la "Concesión de Bandas" y de manera conjunta con la Concesión de Red, las "Concesiones").
+     
+     La Concesión de Bandas autorizó el uso de las siguientes frecuencias, con un ancho de banda de canal de 12.5 kHz:
+     
+Frecuencias asignadas: 
+Grupo 1:
+Repetidor Receptor
+                                 431.3000 MHz
+                                 431.5000 MHz
+                                 431.7000 MHz
+                                 431.9000 MHz
+                                 432.1000 MHz
+                                 432.3000 MHz
+                                 432.5000 MHz
+                                 432.7000 MHz
+Repetidor Transmisor
+                                 438.3000 MHz
+                                 438.5000 MHz
+                                 438.7000 MHz
+                                 438.9000 MHz
+                                 439.1000 MHz
+                                 439.3000 MHz
+                                 439.5000 MHz
+                                 439.7000 MHz
+Ubicación del sitio de repetición:
+Cerro Yacudaa, Oax. LN: 17°35'29" LO: 97°25'02" 
+Santa María Ecatepec, Oax. LN: 16°17'20" LO: 95°49'40"
+No aplica
+Áreas de servicio:
+Santo Domingo Yanhuitlán, Oax.
+Santa María Ecatepec, Oax.
+Santo Domingo Yanhuitlán, Oax.
+Santa María Ecatepec, Oax.
+Frecuencias asignadas: 
+Grupo 2:
+Repetidor Receptor
+                                 431.3125 MHz
+                                 431.5125 MHz
+                                 431.7125 MHz
+                                 431.9125 MHz
+                                 432.1125 MHz
+                                 432.3125 MHz
+                                 432.5125 MHz
+                                 432.7125 MHz
+Repetidor Transmisor
+                                 438.3125 MHz
+                                 438.5125 MHz
+                                 438.7125 MHz
+                                 438.9125 MHz
+                                 439.1125 MHz
+                                 439.3125 MHz
+                                 439.5125 MHz
+                                 439.7125 MHz
+Ubicación del sitio de repetición:
+Cerro Corral de Piedra, Oax. LN: 17°10'08" LO: 96°39'07"
+Bahía de Huatulco, Oax. LN: 15°43'08" LO: 96°14'11"
+No aplica
+Áreas de servicio:
+Oaxaca, Oax.
+Bahía de Huatulco, Oax.
+No aplica
+Frecuencias asignadas: 
+Grupo 3:
+Repetidor Receptor
+                                 431.3250 MHz
+                                 431.5250 MHz
+                                 431.7250 MHz
+                                 431.9250 MHz
+                                 432.1250 MHz
+                                 432.3250 MHz
+                                 432.5250 MHz
+                                 432.7250 MHz
+Repetidor Transmisor
+                                 438.3250 MHz
+                                 438.5250 MHz
+                                 438.7250 MHz
+                                 438.9250 MHz
+                                 439.1250 MHz
+                                 439.3250 MHz
+                                 439.5250 MHz
+                                 439.7250 MHz
+Ubicación del sitio de repetición:
+Cerro la Virgen, Oax. LN: 16°16'20" LO: 97°14'45"
+Cerro Humochico, Oax. LN: 17°34'58" LO: 96°25'30"
+No aplica
+Áreas de servicio:
+Yolotepec, Oax.
+Temascaltepec, Oax.
+No aplica
+Frecuencias asignadas: 
+Grupo 4:
+Repetidor Receptor
+                                 431.3375 MHz
+                                 431.5375 MHz
+                                 431.7375 MHz
+                                 431.9375 MHz
+                                 432.1375 MHz
+                                 432.3375 MHz
+                                 432.5375 MHz
+                                 432.7375 MHz
+Repetidor Transmisor
+                                 438.3375 MHz
+                                 438.5375 MHz
+                                 438.7375 MHz
+                                 438.9375 MHz
+                                 439.1375 MHz
+                                 439.3375 MHz
+                                 439.5375 MHz
+                                 439.7375 MHz
+Ubicación del sitio de repetición:
+Cerro Llano Grande, Oax. LN: 17°10'08" LO: 97°48'25"
+Cerro Huatulco, Oax. LN: 15°51'07" LO: 96°18'09"
+No aplica
+Áreas de servicio:
+Tlaxiaco, Oax.
+Santa María Huatulco, Oax.
+No aplica
+
+ Cesión de Derechos de las Concesiones.- Con oficio 2.-134/2012 de fecha 13 de agosto de 2012, la Secretaría, por conducto de la Subsecretaría de Comunicaciones, autorizó a Telecomunicaciones Profesionales del Sur, S.A. de C.V., la cesión de los derechos y obligaciones de las Concesiones a favor de la empresa Servicios Troncalizados, S.A. de C.V. ("Servitron").
+
+ Solicitud de Prórroga de Vigencia. El 21 de noviembre de 2012, el representante legal de Servitron presentó ante la Secretaría escrito por el que solicitó la prórroga de vigencia de las Concesiones (la "Solicitud de Prórroga"), mismo que fue remitido el 29 de noviembre de 2012 a la extinta Comisión Federal de Telecomunicaciones (la "Comisión"), por la Dirección General de Política de Telecomunicaciones y de Radiodifusión de la Secretaría mediante el oficio 2.1.203.-5791.
+
+ Decreto de Reforma Constitucional. Con fecha 11 de junio de 2013, se publicó en el Diario Oficial de la Federación el "Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones" (el "Decreto de Reforma Constitucional"), mediante el cual se creó el Instituto Federal de Telecomunicaciones (el "Instituto"), como un órgano autónomo que tiene por objeto el desarrollo eficiente de la radiodifusión y las telecomunicaciones.
+
+ Solicitud de Modificación Técnica. Mediante escrito recibido en la Dirección General de Política de Telecomunicaciones y Radiodifusión de la Secretaría el 6 de agosto de 2013, en alcance la Solicitud de Prórroga, Servitron presentó la autorización de modificación de las características técnico-operativas definidas en la Concesión de Bandas, a efecto de que las frecuencias que tenía asignadas dentro de la banda de frecuencias 430-440 MHz en el estado de Oaxaca, le fueran sustituidas dentro dicha cobertura en la banda de frecuencias 410-430 MHz de acuerdo con un plan de asignación de espectro contiguo (la "Solicitud de Modificación Técnica").
+
+ Decreto de Ley. El 14 de julio de 2014, se publicó en el Diario Oficial de la Federación el "Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión" (el "Decreto de Ley"), mismo que entró en vigor el 13 de agosto de 2014.
+
+ Estatuto Orgánico. El 4 de septiembre de 2014, se publicó en el Diario Oficial de la Federación el "Estatuto Orgánico del Instituto Federal de Telecomunicaciones" (el "Estatuto Orgánico"), mismo que entró en vigor el 26 de septiembre de 2014, y fue modificado el 17 de octubre del mismo año.
+
+ Opinión en Materia de Competencia Económica.- Con oficio IFT/226/UCE/DG-CCON/148/2015 de fecha 10 de julio de 2015, la Unidad de Competencia Económica, a través de la Dirección General de Concentraciones y Concesiones, emitió la opinión en materia de competencia económica con respecto a la Solicitud de Prórroga.
+
+ Opinión en Materia de Cumplimiento de Obligaciones. Con oficio IFT/225/UC/DG-SUV/6184/2015 de fecha 20 de noviembre de 2015, la Unidad de Cumplimiento, a través de la Dirección General de Supervisión, informó a la Unidad de Concesiones y Servicios respecto del estado que guarda el cumplimiento de obligaciones a cargo de Servitron, con respecto a la Solicitud de Prórroga.
+
+ Aprovechamiento autorizado por la Secretaría de Hacienda y Crédito Público. Con oficio 349-B-391 de fecha 19 de octubre de 2015, la Unidad de Política de Ingresos No Tributarios de la Secretaría de Hacienda y Crédito Público (la "SHCP"), autorizó el monto del aprovechamiento que deberá pagar Servitron por el otorgamiento de la prórroga de la Concesión de Bandas. 
+
+ Opinión en materia de Espectro Radioeléctrico para la Concesión de Bandas. Con oficio IFT/222/UER/DGPE/063/2015 de fecha 11 de diciembre de 2015, la Unidad de Espectro Radioeléctrico, a través de la Dirección General de Planeación del Espectro, remitió el dictamen de planificación espectral para la banda de frecuencias 410-430 MHz, así como el dictamen técnico en el que se establecen las medidas técnico-operativas para evitar o minimizar el riesgo de interferencias perjudiciales.
+
+En virtud de los Antecedentes referidos y,
+
+                                 CONSIDERANDO
+                                       
+Primero.- Competencia. Conforme lo dispone el artículo 28 párrafos décimo quinto, décimo sexto y décimo séptimo de la Constitución Política de los Estados Unidos Mexicanos (la "Constitución"), el Instituto es un órgano autónomo con personalidad jurídica y patrimonio propios, que tiene por objeto el desarrollo eficiente de la radiodifusión y las telecomunicaciones, conforme a lo dispuesto por la propia Constitución y en los términos que fijen las leyes. Para tal efecto, tendrá a su cargo la regulación, promoción y supervisión del uso, aprovechamiento y explotación del espectro radioeléctrico, las redes y la prestación de los servicios de radiodifusión y telecomunicaciones, así como del acceso a infraestructura activa, pasiva y otros insumos esenciales, garantizando lo establecido por los artículos 6o. y 7o. de la Constitución.
+
+Asimismo, el Instituto es la autoridad en materia de competencia económica de los sectores de radiodifusión y telecomunicaciones, por lo que, entre otros aspectos, regulará de forma asimétrica a los participantes en estos mercados con el objeto de eliminar eficazmente las barreras a la competencia y la libre concurrencia; impondrá límites al concesionamiento y a la propiedad cruzada que controle varios medios de comunicación que sean concesionarios de radiodifusión y telecomunicaciones que sirvan a un mismo mercado o zona de cobertura geográfica, garantizando lo dispuesto por los artículos 6o. y 7o. de la Constitución.
+
+De igual forma, corresponde al Instituto el otorgamiento de concesiones en materia de radiodifusión y telecomunicaciones. En este sentido, el Pleno del Instituto está facultado, conforme a lo establecido por los artículos 15 fracciones IV y LVII y 17 fracción I de la Ley Federal de Telecomunicaciones y Radiodifusión (la "Ley"), para resolver sobre el otorgamiento de las concesiones señaladas, así como resolver respecto de la prórroga, modificación o terminación de las mismas, así como interpretar la Ley y demás disposiciones administrativas en materia de telecomunicaciones y radiodifusión, en el ámbito de sus atribuciones.
+El artículo 6 fracciones I, XVIII y XXXVII del Estatuto Orgánico, establece como atribuciones del Pleno del Instituto, entre otras, la de regular, promover y supervisar el uso, aprovechamiento y explotación eficiente del espectro radioeléctrico, los recursos orbitales, los servicios satelitales, las redes de telecomunicaciones y la prestación de los servicios de radiodifusión y telecomunicaciones, así como el acceso a infraestructura activa, pasiva e insumos esenciales; interpretar, en su caso, la Ley y las disposiciones administrativas en materia de telecomunicaciones y radiodifusión, en el ámbito de sus atribuciones, y las demás que la Ley y otros ordenamientos le confieran.
+
+Así, conforme a los artículos 32 y 33 fracción II del Estatuto Orgánico, corresponde a la Unidad de Concesiones y Servicios, a través de la Dirección General de Concesiones de Telecomunicaciones, tramitar y evaluar las solicitudes de cesión, modificación o prórroga de las concesiones en materia de telecomunicaciones para someterlas a consideración del Pleno, solicitando opinión previa a la Unidad de Competencia Económica tratándose de prórrogas de concesión para uso comercial.
+
+En este orden de ideas, el Instituto está facultado para otorgar concesiones en materia de telecomunicaciones, así como resolver respecto de la prórroga, modificación o terminación de las mismas, además de tener a su cargo la regulación, promoción y supervisión del uso, aprovechamiento y explotación del espectro radioeléctrico, los recursos orbitales, los servicios satelitales, las redes de telecomunicaciones y la prestación de los servicios de radiodifusión y telecomunicaciones, así como el acceso a infraestructura activa, pasiva e insumos esenciales, e interpretar, en su caso la Ley, y las disposiciones administrativas en materia de telecomunicaciones y radiodifusión, en el ámbito de sus atribuciones, por lo que el Pleno, como órgano máximo de gobierno y decisión del Instituto, se encuentra plenamente facultado para resolver la Solicitud de Prórroga de mérito.
+
+Segundo.- Marco normativo general aplicable a prórrogas de vigencia de concesiones en materia de telecomunicaciones. . De conformidad con lo dispuesto por el artículo Sexto Transitorio del Decreto de Ley, la atención, trámite y resolución de los asuntos y procedimientos iniciados con anterioridad a su entrada en vigor, serán resueltos en los términos establecidos en el artículo Séptimo Transitorio del Decreto de Reforma Constitucional, el cual señala que los procedimientos iniciados con anterioridad a la integración del Instituto, continuarán su trámite ante dicho órgano en los términos de la legislación aplicable al momento de su inicio.
+
+En concordancia con lo anterior y en virtud de que la Solicitud de Prórroga se presentó durante la vigencia de la hoy abrogada Ley Federal de Telecomunicaciones (la "LFT"), la normatividad aplicable que establece los requisitos de procedencia para el análisis de la misma se encuentra contenida en la propia LFT, específicamente en los artículos 19 y 27 del citado ordenamiento, los cuales disponían lo siguiente:
+
+     "Artículo 19. Las concesiones sobre bandas de frecuencias se otorgarán por un plazo hasta de 20 años y podrán ser prorrogadas hasta por plazos iguales a los originalmente establecidos, a juicio de la Secretaría.
+     Para el otorgamiento de las prórrogas será necesario que el concesionario hubiere cumplido con las condiciones previstas en la concesión que se pretenda prorrogar; lo solicite antes de que inicie la última quinta parte del plazo de la concesión, y acepte las nuevas condiciones que establezca la propia Secretaría de acuerdo a la presente Ley y demás disposiciones aplicables. La Secretaría resolverá lo conducente en un plazo no mayor a 180 días naturales."
+     
+     "Artículo 27. Las concesiones sobre redes públicas de telecomunicaciones se otorgarán por un plazo hasta de 30 años y podrán ser prorrogadas hasta por plazos iguales a los originalmente establecidos.
+     
+     Para el otorgamiento de las prórrogas será necesario que el concesionario hubiere cumplido con las condiciones previstas en la concesión que se pretenda prorrogar, lo solicite antes de que inicie la última quinta parte del plazo de la concesión, y acepte las nuevas condiciones que establezca la propia Secretaría de acuerdo a la presente Ley y demás disposiciones aplicables. La Secretaría resolverá lo conducente en un plazo no mayor a 180 días naturales."
+
+En este sentido, los dispositivos legales transcritos prevén que para el otorgamiento de prórrogas de concesiones de bandas de frecuencias y de redes públicas de telecomunicaciones, respectivamente, es necesario que el concesionario: (i) hubiere cumplido con las condiciones previstas en la concesión que se pretenda prorrogar; (ii) lo solicite antes de que inicie la última quinta parte del plazo de la concesión, y (iii) acepte las nuevas condiciones que, en su caso, se establezcan.
+
+Por otra parte, el artículo Séptimo Transitorio del Decreto de Ley señala que sin perjuicio de lo establecido en la Ley y en la normatividad que al efecto emita el Instituto, las concesiones y permisos otorgados con anterioridad a la entrada en vigor del citado decreto, se mantendrán en los términos y condiciones consignados en los respectivos títulos, hasta su terminación.
+
+En ese tenor, resulta conveniente señalar que la Concesión de Red establece en su condición 1.5, denominada "Legislación, normatividad y disposiciones administrativas aplicables", lo siguiente:
+
+      "1.5. Legislación, normatividad y disposiciones administrativas aplicables. La instalación, operación y explotación de la Red y de los servicios comprendidos en la Concesión, deberán sujetarse a la Constitución Política de los Estados Unidos Mexicanos, la Ley y las leyes supletorias señaladas en el artículo 8 del citado ordenamiento legal, así como a los tratados internacionales, leyes, reglamentos, decretos, normas oficiales mexicanas, resoluciones, acuerdos, circulares y demás disposiciones legales, reglamentarias y administrativas que expida la Secretaría o la Comisión, así como a las condiciones establecidas en esta Concesión. 
+      
+      El Concesionario acepta que si las disposiciones legales, reglamentarias y administrativas a que se refiere el párrafo anterior, y a las cuales queda sujeta esta Concesión, fueran derogadas, modificadas o adicionadas, el Concesionario quedaría sujeto a la nueva legislación y disposiciones administrativas, a partir de su entrada en vigor."
+      
+Por su parte, la Concesión de Bandas en su condición 7, denominada "Legislación, normatividad y disposiciones administrativas aplicables", establece lo siguiente:
+
+      "7. Legislación, normatividad y disposiciones administrativas aplicables. El uso, aprovechamiento y explotación de las bandas de frecuencias del espectro radioeléctrico objeto de la presente Concesión, deberá sujetarse a la Constitución Política de los Estados Unidos Mexicanos, la Ley y las leyes supletorias señaladas en el artículo 8 del citado ordenamiento legal, así como a los tratados internacionales, leyes, reglamentos, decretos, normas oficiales mexicanas, resoluciones, acuerdos, circulares y demás disposiciones legales, reglamentarias y administrativas que se expidan al respecto, así como a las condiciones establecidas en esta Concesión. 
+      
+      El Concesionario acepta que si los preceptos legales y las disposiciones administrativas a que se refiere el párrafo anterior y a las cuales queda sujeta esta Concesión, fueren derogados, modificados o adicionados, el Concesionario quedará sujeto a la nueva legislación y disposiciones administrativas a partir de su entrada en vigor.
+      
+      Asimismo, en lo no previsto por la presente Concesión, se aplicará en forma supletoria, el título de concesión para instalar, operar y explotar una red pública de telecomunicaciones, otorgado por el Gobierno Federal, por conducto de la Secretaría, a favor del Concesionario." 
+
+En virtud de lo anterior, no obstante que el análisis que realice el Instituto respecto de la Solicitud de Prórroga debe llevarse a cabo en estricto apego a los términos y requisitos previstos en la LFT, disposición legal vigente al momento de iniciar el trámite de la Solicitud de Prórroga de mérito, también lo es que el Instituto, al resolver en definitiva dicha Solicitud, debe apegarse al procedimiento de concesionamiento que se encuentra previsto en la Ley. Es por ello que en la resolución del trámite de la Solicitud de Prórroga, debe observarse el actual régimen de concesionamiento previsto en los artículos 66 y 67 fracción I -respecto de la Concesión de Red-, así como 75 y 76 de la Ley -respecto de la Concesión de Bandas-.
+
+Tercero.- Prórroga de la Concesión de Red. Por lo que toca a la prórroga de la Concesión de Red, si bien es cierto que el artículo 72 de la Ley únicamente señala a las concesiones únicas como susceptibles de prórroga de su vigencia, esto no debe entenderse en el sentido de que las concesiones de redes públicas de telecomunicaciones escapan del alcance del supuesto normativo contenido en dicho precepto legal. Considerar que el marco jurídico actual no contempla a los concesionarios de redes públicas de telecomunicaciones, conllevaría a la interpretación de que los mismos no se encuentran regulados por el marco normativo vigente.
+
+En efecto, la LFT en su artículo 3 fracción X, establecía que las redes públicas de telecomunicaciones eran aquellas redes a través de las cuales se explotaban comercialmente servicios de telecomunicaciones, en tanto que el artículo 3 fracción LVIII de la Ley define a la red pública de telecomunicaciones como aquella a través de la cual se explotan comercialmente servicios de telecomunicaciones, definición que es idéntica a la establecida por la LFT. 
+Asimismo, cabe señalar, que los servicios de telecomunicaciones que se prestan al amparo de la Concesión de Red, son servicios públicos de interés general en virtud de lo señalado en el artículo 6o. Apartado B fracción II de la Constitución, por lo que el Estado debe garantizar que los mismos sean prestados, entre otras, en condiciones de competencia y continuidad. 
+En ese sentido, la Ley, al definir a la concesión única, señala que es el acto administrativo mediante el cual el Instituto confiere el derecho para prestar de manera convergente todo tipo de servicios públicos de telecomunicaciones o radiodifusión. 
+Por otro lado, no debe pasarse por alto que el último párrafo de la condición 1.5 del citado título establece que el concesionario acepta que si las disposiciones legales, reglamentarias y administrativas aplicables, fueran derogadas, modificadas o adicionadas, el concesionario quedará sujeto a la nueva legislación y disposiciones administrativas aplicables a partir de su entrada en vigor. 
+Derivado de lo anterior, y como ya lo ha señalado el Pleno en ocasiones anteriores, para el caso de solicitudes de prórroga de vigencia de concesiones de redes públicas de telecomunicaciones que el Instituto resuelva de manera favorable, la regla general implicaría, como consecuencia, el otorgamiento de una concesión única.
+Es por ello, que de resolverse de manera favorable la solicitud de prórroga de la Concesión de Red, debe observarse el actual régimen de concesionamiento previsto en la Ley, el cual en su artículo 66 señala que se requerirá concesión única para prestar todo tipo de servicios públicos de telecomunicaciones y radiodifusión. Asimismo, la fracción I del artículo 67 de la Ley, establece que la concesión única será para uso comercial, cuando la misma confiera el derecho para prestar servicios públicos de telecomunicaciones y de radiodifusión con fines de lucro utilizando una red pública de telecomunicaciones, como es el caso que nos ocupa.
+
+Finalmente, cabe destacar que para este tipo de solicitudes debía acatarse el requisito de procedencia establecido en el artículo 94 fracción III de la Ley Federal de Derechos vigente al momento de la Solicitud de Prórroga, que establecía la obligación a cargo del solicitante de la prórroga de vigencia de la Concesión de Red, de pagar los derechos por el trámite relativo al estudio de la solicitud de prórroga.
+
+En seguimiento a lo anterior, y tomando en cuenta que el análisis que debe realizar el Instituto respecto de la Solicitud de Prórroga debe llevarse a cabo en estricto apego a los términos y requisitos previstos en la LFT, así como lo establecido en los propios títulos de concesión, al resolver en definitiva dicho trámite, y de considerar procedente la prórroga de la Concesión de Red, deberá otorgarse una concesión única para uso comercial, en apego a lo dispuesto por el nuevo régimen de concesionamiento previsto en la Ley.
+
+Cuarto.- Prórroga de la Concesión de Bandas. El artículo 10 fracción II de la LFT señalaba que el espectro para usos determinados eran aquellas bandas de frecuencias otorgadas mediante concesión y que podían ser utilizadas para los servicios que autorizara la Secretaría en el título correspondiente. Por su parte, el artículo 11 fracción I del citado ordenamiento establecía que se requería concesión para usar, aprovechar o explotar una banda de frecuencias en el territorio nacional. 
+
+En ese sentido, el artículo 3 fracción XIII de la Ley define a la concesión de espectro radioeléctrico como el acto administrativo mediante el cual el Instituto confiere el derecho para usar, aprovechar o explotar bandas de frecuencia del espectro radioeléctrico, en los términos y modalidades establecidos en dicha Ley. Al respecto, el artículo 76 de la Ley establece una nueva clasificación para este tipo de concesiones de acuerdo a sus fines, entre las que destaca la concesión para uso comercial, que de acuerdo al artículo 76 fracción I, confiere el derecho a personas físicas y morales para usar, aprovechar y explotar bandas de frecuencias del espectro radioeléctrico de uso determinado, con fines de lucro. 
+
+Atendiendo a lo anterior, la prórroga de vigencia de la Concesión de Bandas debe otorgarse atendiendo a lo dispuesto por el nuevo régimen de concesionamiento previsto en la Ley, es decir, de concederse la misma, se otorgaría al Concesionario una concesión para usar, aprovechar y explotar bandas de frecuencias del espectro radioeléctrico para uso comercial. 
+
+Es de señalar que para este tipo de solicitudes, debía acatarse el requisito de procedencia establecido en el artículo 93 fracción III de la Ley Federal de Derechos vigente al momento de la Solicitud de Prórroga, que establecía la obligación a cargo del solicitante de la prórroga de vigencia de la concesión para el uso, aprovechamiento o explotación de frecuencias o bandas de frecuencias en el territorio nacional, de pagar los derechos por el trámite relativo al estudio de la solicitud de prórroga, independientemente de la contraprestación correspondiente.
+Quinto.- Análisis de la Solicitud de Prórroga. Por lo que hace al primer requisito de procedencia establecido por la LFT, relativo a que el Concesionario hubiere cumplido con las condiciones previstas en la Concesión de Red y en la Concesión de Bandas que se pretenden prorrogar, con oficio CFT/D03/USI/DGB/6284/12 de fecha 19 de diciembre de 2012, la entonces Unidad de Servicios a la Industria de la extinta Comisión, solicitó a la entonces Unidad de Supervisión y Verificación el estado que guardaba el cumplimiento de las obligaciones a cargo de Servitron, respecto de la Solicitud de Prórroga. Esta solicitud fue reiterada a la Unidad de Cumplimiento del Instituto, por medio del oficio IFT/223/UCS/DG-CTEL/1291/2015 de fecha 8 de mayo de 2015, emitido por la Unidad de Concesiones y Servicios, a través de la Dirección General de Concesiones de Telecomunicaciones. 
+
+En respuesta a las citadas peticiones, la Unidad de Cumplimiento, a través de la Dirección General de Supervisión, mediante oficio IFT/225/UC/DG-SUV/6184/2015 de fecha 20 de noviembre de 2015, informó con respecto a la Solicitud de Prórroga, entre otros aspectos, lo siguiente:
+
+"[...]
+      
+      En atención a su solicitud y en ejercicio de las facultades de supervisión que tiene conferidas esta Dirección General de Supervisión, le informo que de la revisión documental del expediente 321.4/0190 integrado por la Dirección General de Adquisiciones, Recursos Materiales y Servicios Generales de este Instituto a nombre de SERVICIOS TRONCALIZADOS, S.A. DE C.V., se desprende que al día 19 de noviembre de 2015, el concesionario se encuentra al corriente en la presentación de las documentales derivadas de las obligaciones que tiene a su cargo y que le son aplicables conforme a sus títulos de concesión para instalar operar y explotar una red pública de telecomunicaciones; y para usar, aprovechar y explotar bandas de frecuencias del espectro radioeléctrico, para la prestación del servicio móvil de radiocomunicación especializada de flotillas y demás disposiciones legales, reglamentarias y administrativas aplicables. 
+      
+      [...]
+      
+      Asimismo, le informo que mediante oficio IFT/225/UC/DG-VER/2015/2015 de fecha 29 de mayo de 2015, la Dirección General de Verificación informó que de la revisión practicada a los archivos de esa Dirección General, no se encontró denuncia presentada en contra del concesionario mencionado de la cual esté pendiente de realizar visita de inspección y verificación, respecto del incumplimiento de las obligaciones a su cargo.
+      
+      [...]
+      
+      De igual forma, mediante oficio IFT/225/UC/DG-SAN/0109/2015 de fecha 3 de septiembre de 2015, la Dirección General de Sanciones informo que en los archivos de esa Dirección General, no existe procedimiento administrativo de imposición de sanción en contra de la citada empresa, respecto de algún incumplimiento a lo establecido en su título de concesión.
+      
+      [...]" (sic).
+
+Derivado de lo señalado por la Unidad de Cumplimiento de este Instituto a través del oficio descrito con anterioridad, puede concluirse que el Concesionario se encuentra al corriente en el cumplimiento de las obligaciones establecidas en la Concesión de Red y en la Concesión de Bandas objeto de la Solicitud de Prórroga, así como de las demás disposiciones aplicables.
+
+Por lo que toca al segundo requisito de procedencia establecido en la LFT, relativo a que el Concesionario hubiere solicitado la prórroga de la Concesión de Red y de la Concesión de Bandas antes del inicio de la última quinta parte del plazo de vigencia de dichas Concesiones, este Instituto considera que el mismo fue satisfecho, en virtud de que ambas Concesiones fueron otorgadas el 28 de noviembre de 2000 con una vigencia de 15 años cada una, y la Solicitud de Prórroga fue presentada el 21 de noviembre de 2012, es decir, dentro del término contemplado por el supuesto normativo de referencia.
+
+Respecto al tercer requisito de procedencia señalado en la LFT, es necesario que previo a la emisión de los títulos de concesión que en su caso se otorguen, se recabe de Servitron su conformidad y total aceptación respecto de las nuevas condiciones, entre las que se encuentra el pago de la contraprestación autorizada por la SHCP para la Concesión de Bandas.
+
+Lo anterior, en el entendido que de no recibirse la aceptación lisa y llana correspondiente por parte de Servitron, dentro del plazo que al efecto se otorgue, así como el pago de la contraprestación impuesta por el otorgamiento de la prórroga de la Concesión de Bandas, los efectos de la presente Resolución no surtirán efectos. 
+
+En este sentido, se estima necesario recabar el consentimiento expreso de Servitron sobre las nuevas condiciones que deberá observar, mismas que se contendrán en los proyectos de títulos de concesión para uso comercial que forman parte integral de esta Resolución.
+
+Aunado a lo anterior, tal como quedó señalado en el Considerando Primero, el Instituto es la autoridad en materia de competencia económica de los sectores de radiodifusión y telecomunicaciones, por lo que atendiendo a lo dispuesto por el artículo 33 fracción II del Estatuto, mediante oficios IFT/223/UCS/DG-CTEL/1292/2015 del 11 de mayo de 2015 e IFT/223/UCS/DG-CTEL/1779/2015 del 15 de junio de 2015, la Unidad de Concesiones y Servicios, a través de la Dirección General de Concesiones de Telecomunicaciones, solicitó opinión a la Unidad de Competencia Económica, respecto de la Solicitud de Prórroga.
+
+En respuesta a lo anterior, mediante oficio IFT/226/UCE/DG-CCON/148/2015 de fecha 10 de julio de 2015, la Dirección General de Concentraciones y Concesiones, adscrita a la Unidad de Competencia Económica del Instituto, emitió opinión respecto de la Solicitud de Prórroga, en la que manifestó entre otros aspectos, lo siguiente:
+      
+"[...]
+      
+      En conclusión, con base en la información disponible, no se identifican elementos ni indicios de que la autorización de la prórroga solicitada por SERVITRON pueda tener efectos contrarios en el proceso de competencia y libre concurrencia en los mercados.
+      
+      Los comentarios y opiniones respecto de la Solicitud de Prórroga se emiten en materia de competencia económica, sin prejuzgar sobre otras autorizaciones, requisitos u obligaciones que, en su caso, SERVITRON deba obtener de este Instituto u otra autoridad competente. Tampoco se prejuzga sobre violaciones a la Ley Federal de Competencia Económica, la Ley Federal de Telecomunicaciones y Radiodifusión u otros ordenamientos, en que pudiera haber incurrido, o pudiera incurrir, SERVITRON.
+      
+      [...]"
+
+En ese sentido, la opinión en materia de competencia económica considera que no se identifican elementos que permitan concluir que la autorización de la Solicitud de Prórroga, pueda tener efectos contrarios en el proceso de competencia y libre concurrencia; sin embargo, al mismo tiempo, advierte que dicha opinión no prejuzga sobre otras autorizaciones, requisitos u obligaciones que en su caso, la concesionaria en comento deba obtener de este Instituto u otra autoridad competente.
+
+Por otro lado, el Instituto no sólo debe considerar en su análisis lo previsto en la LFT, sino además, lo establecido por el nuevo régimen legal con respecto al espectro radioeléctrico, que como bien del dominio público de la Nación, corresponde al Instituto administrar. Para cumplir con dicha atribución, el artículo 54 de la Ley señala que el Instituto debe perseguir una serie de objetivos generales en beneficio de los usuarios, entre los que destaca el uso eficaz del espectro y su protección. 
+
+En virtud de lo anterior y de conformidad con lo establecido por los artículos 27, 29, 30 y 31 del Estatuto Orgánico, la Unidad de Concesiones y Servicios, a través de la Dirección General de Concesiones de Telecomunicaciones, en alcance a los oficios CFT/D03/USI/DGB/6285/12 de fecha 19 de diciembre de 2012  e IFT/D03/USI/DGRTS/1980/2014 de fecha 27 de marzo de 2014, remitidos por la entonces Unidad de Servicios a la Industria a la entonces Unidad de Política Regulatoria, mediante oficio IFT/223/UCS/DG-CTEL/1371/2014 de fecha 8 de mayo de 2015, solicitó a la Unidad de Espectro Radioeléctrico, entre otras cosas, opinión respecto de la Solicitud de Prórroga.
+
+En respuesta a lo anterior, mediante oficio IFT/222/UER/DGPE/063/2015 de fecha 11 de diciembre de 2015, la Unidad de Espectro Radioeléctrico, por conducto de la Dirección General de Planeación del Espectro, remitió el dictamen de planificación espectral DGPE/DA/DPE/038-15, en el que se señalan las acciones de planificación respecto a la banda de frecuencias 410-430 MHz, consistentes en lo siguiente: 
+
+  "4. Acciones de Planificación
+  
+  [...]
+  
+  Derivado de lo anterior, dentro de la planificación espectral que se sigue en el Instituto, se tiene considerada para la provisión exclusiva del servicio móvil de radiocomunicación especializada de flotillas en la banda de 410-430 MHz, teniendo como referencia que se cuenta con soluciones tecnológicas disponibles y que esta banda no se encuentra identificada por la Unión Internacional de Telecomunicaciones (UIT) para su utilización por las Telecomunicaciones Móviles Internacionales (IMT).
+  
+  En este sentido, se contempla la operación de los sistemas de radio troncalizado comerciales en la parte inferior de la banda, en el rango 410-415/420-425 MHz y las operaciones de los sistemas públicos en el rango 415-420/425-430 MHz. Lo anterior es consistente con la inclusión de los rangos 415-420/425-430 MHz, dentro del Programa Anual de Uso y Aprovechamiento de Bandas de Frecuencias de 2015 para s concesionamiento para sistemas troncalizados de uso público.
+  
+  En concordancia con lo anterior y como parte del proceso de reorganización estimado para diversas bandas relevantes del espectro radioeléctrico, se tiene prevista la migración hacia la banda de frecuencias 410-430 MHz de los sistemas troncalizados públicos y comerciales que actualmente operan en otras bandas de frecuencias del espectro radioeléctrico, tal es el caso de los segmentos 806-821/851-866 MHz y 430-470 MHz, con el objeto de garantizar un uso más eficaz y eficiente del espectro radioeléctrico.
+  
+  [...]" 
+
+Con base en las acciones de planificación descritas anteriormente para el rango de frecuencias analizado en el dictamen de planificación espectral realizado por la Unidad de Espectro Radioeléctrico, se emitió el siguiente dictamen:
+      "Con base en el análisis previo y desde el punto de vista de planeación del espectro, el uso solicitado dentro del rango de frecuencias objeto de la solicitud se considera PROCEDENTE."
+
+Asimismo, la Unidad de Espectro Radioeléctrico, en su dictamen de planificación espectral, indicó las siguientes condiciones y términos de uso de la banda de frecuencias en cuestión, en lo tocante a las frecuencias de operación:
+
+      "Se recomienda que los pares de frecuencias que sean otorgados se encuentren estrictamente dentro del segmento 410-415/420-425 MHz, tal como se indica en la sección 4 del presente dictamen. Lo anterior, sujeto a la disponibilidad de frecuencias y a las condiciones técnico-operativas que determine la Dirección General de Ingeniería del Espectro y Estudios Técnicos."
+
+Es así que, tomando en cuenta las acciones de planificación descritas anteriormente para el rango de frecuencias en análisis, el dictamen de planificación espectral de la Unidad de Espectro Radioeléctrico considera viable el otorgamiento de la prórroga de vigencia de la Concesión de Bandas.
+
+En adición, adjunto al oficio IFT/222/UER/DGPE/063/2015 antes señalado, la Unidad de Espectro Radioeléctrico remitió el dictamen de la Dirección General de Ingeniería del Espectro y Estudios Técnicos respecto de las condiciones técnico-operativas referentes, tanto a la Solicitud de Prórroga, como a la Solicitud de Modificación Técnica señalada en el antecedente VI de la presente Resolución, de acuerdo a las siguientes consideraciones:
+
+"[...]
+
+      Actualmente Servitron tiene asignados dentro de su título de concesión 32 pares de frecuencias, cada uno de 25 kHz de ancho de banda (12.5 kHz para la frecuencia de transmisión y 12.5 kHz para la recepción), resultando en conjunto un total acumulado de 800 kHz de espectro. Una vez realizado el ejercicio de trasladar dicha asignación de canales a la banda de 410-430 MHz, conforme al plan de canalización antes descrito, se propone la asignación de 16 pares en frecuencias (Anexo III), cada uno con 50 kHz de ancho de banda (25 kHz para la frecuencia de transmisión y 25 kHz para la de recepción), conservando en su totalidad los 800 kHz otorgados originalmente en su título de concesión. No obstante, no es viable realizar las asignaciones de los nuevos canales de manera que se cuente con todo el espectro contiguo, debido a que esto no es compatible con la asignación de canales conforme al plan de canalización definido para la banda en cuestión. No obstante, la canalización propuesta en el Anexo III del presente dictamen, atiende parcialmente la solicitud del concesionario, al poder contar con 4 segmentos de 75 kHz y 1 segmento de 100 kHz de espectro contiguo. 
+      
+      [...]"
+
+En virtud de lo anterior, la Dirección General de Ingeniería del Espectro y Estudios Técnicos estableció la asignación de los siguientes grupos de frecuencias, con un ancho de banda de canal de 25 kHz, dentro del segmento 410-430 MHz:
+
+                                 Concesionario
+                               Cobertura.-Estado
+                             Cobertura.-Municipios
+             Grupos de frecuencia asignados en la banda de 400 MHz
+         Pares de frecuencia asignados en la banda de 400 MHz (25 kHz)
+                                   Rx [MHz]
+         Pares de frecuencia asignados en la banda de 400 MHz (25 kHz)
+                                   Tx [MHz]
+                          Ancho de banda total en kHz
+                     Servicios Troncalizados, S.A. de C.V.
+                                    Oaxaca
+                   Todos los municipios del estado de Oaxaca
+                                       1
+                                   410.0250
+                                   420.0250
+                                      800
+                     Servicios Troncalizados, S.A. de C.V.
+                                    Oaxaca
+                   Todos los municipios del estado de Oaxaca
+                                       1
+                                   410.2250
+                                   420.2250
+                                      800
+                     Servicios Troncalizados, S.A. de C.V.
+                                    Oaxaca
+                   Todos los municipios del estado de Oaxaca
+                                       1
+                                   410.4250
+                                   420.4250
+                                      800
+                     Servicios Troncalizados, S.A. de C.V.
+                                    Oaxaca
+                   Todos los municipios del estado de Oaxaca
+                                       1
+                                   410.6250
+                                   420.6250
+                                      800
+                     Servicios Troncalizados, S.A. de C.V.
+                                    Oaxaca
+                   Todos los municipios del estado de Oaxaca
+                                       1
+                                   410.8250
+                                   420.8250
+                                      800
+                     Servicios Troncalizados, S.A. de C.V.
+                                    Oaxaca
+                   Todos los municipios del estado de Oaxaca
+                                       2
+                                   410.0500
+                                   420.0500
+                                      800
+                     Servicios Troncalizados, S.A. de C.V.
+                                    Oaxaca
+                   Todos los municipios del estado de Oaxaca
+                                       2
+                                   410.2500
+                                   420.2500
+                                      800
+                     Servicios Troncalizados, S.A. de C.V.
+                                    Oaxaca
+                   Todos los municipios del estado de Oaxaca
+                                       2
+                                   410.4500
+                                   420.4500
+                                      800
+                     Servicios Troncalizados, S.A. de C.V.
+                                    Oaxaca
+                   Todos los municipios del estado de Oaxaca
+                                       2
+                                   410.6500
+                                   420.6500
+                                      800
+                     Servicios Troncalizados, S.A. de C.V.
+                                    Oaxaca
+                   Todos los municipios del estado de Oaxaca
+                                       2
+                                   410.8500
+                                   420.8500
+                                      800
+                     Servicios Troncalizados, S.A. de C.V.
+                                    Oaxaca
+                   Todos los municipios del estado de Oaxaca
+                                       3
+                                   410.0750
+                                   420.0750
+                                      800
+                     Servicios Troncalizados, S.A. de C.V.
+                                    Oaxaca
+                   Todos los municipios del estado de Oaxaca
+                                       3
+                                   410.2750
+                                   420.2750
+                                      800
+                     Servicios Troncalizados, S.A. de C.V.
+                                    Oaxaca
+                   Todos los municipios del estado de Oaxaca
+                                       3
+                                   410.4750
+                                   420.4750
+                                      800
+                     Servicios Troncalizados, S.A. de C.V.
+                                    Oaxaca
+                   Todos los municipios del estado de Oaxaca
+                                       3
+                                   410.6750
+                                   420.6750
+                                      800
+                     Servicios Troncalizados, S.A. de C.V.
+                                    Oaxaca
+                   Todos los municipios del estado de Oaxaca
+                                       3
+                                   410.8750
+                                   420.8750
+                                      800
+                     Servicios Troncalizados, S.A. de C.V.
+                                    Oaxaca
+                   Todos los municipios del estado de Oaxaca
+                                       4
+                                   410.1000
+                                   420.1000
+                                      800
+
+Asimismo, la Dirección General de Ingeniería del Espectro y Estudios Técnicos remitió las condiciones técnicas de operación para el uso, aprovechamiento y explotación de las bandas de frecuencias citadas anteriormente, entre las que se encuentran las siguientes: i) Uso eficiente del espectro; ii) Criterios para convivencia entre tecnologías; iii) Potencia; iv) Cobertura; v) Solicitud de información; vi) Interferencias perjudiciales; vii) Radiaciones Electromagnéticas; viii) Homologación de Equipos, y ix) Servicios a título secundario.
+
+Por otro lado, es de señalar que Servitron presentó los comprobantes de pago de derechos correspondientes al estudio de la Solicitud de Prórroga, conforme a lo dispuesto por la fracción III de los artículos 93 y 94 de la Ley Federal de Derechos.
+
+Finalmente y con respecto a la opinión técnica no vinculante de la Secretaría, referida por el artículo 28 de la Constitución para asuntos como el abordado en la presente Resolución, debe considerarse que la Solicitud de Prórroga fue presentada antes de la expedición del Decreto de Reforma Constitucional y, por ende, previo a la integración del Instituto, por lo que el trámite y desahogo de dicha Solicitud de Prórroga debe ajustarse a los términos establecidos por la legislación aplicable al momento de su inicio, misma que no preveía la opinión técnica señalada por parte de dicha dependencia.
+
+Sexto.- Cobro sobre el pago de derechos por diversos trámites ante la entrada en vigor de la Ley Federal de Derechos vigente para 2016. El pasado 18 de noviembre de 2015 se publicó en el Diario Oficial de la Federación el "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos", mismo que entró en vigor el 1° de enero de 2016. Por virtud de este decreto se derogó, entre otros rubros, la Sección Primera del Capítulo VIII del Título I denominada "Servicios de Telecomunicaciones" con los artículos 91, 93, 94, 94-A, 95, 96, 97, 98, 99, 100, 101, 102 y 105 de la Ley Federal de Derechos. A la vez, ese mismo decreto adicionó, entre otros aspectos, el Capítulo IX del Título I denominado "Del Instituto Federal de Telecomunicaciones" que comprende los artículos 173, 173-A, 173-B, 174, 174-A, 174-B, 174-C, 174-D, 174-E, 174-F, 174-G, 174-H, 174-I, 174-J, 174-K, 174-L y 174-M. 
+
+Derivado de lo anterior, y en atención a lo establecido por el artículo 6o. del Código Fiscal de la Federación, se debe tener en cuenta que el hecho generador de los derechos derivados de la autorización de prórroga se actualizan al momento de la emisión y notificación de la presente resolución y que los artículos 93 y 94 de la Ley Federal de Derechos, al haber sido derogados, no pueden ser aplicados a los trámites de prórrogas de títulos de concesiones para el uso, aprovechamiento o explotación de bandas de frecuencias del espectro radioeléctrico, así como para la instalación, operación o explotación de redes públicas de telecomunicaciones.
+
+En este sentido, la Ley Federal de Derechos vigente a partir del 1º de enero de 2016 estableció en su artículo 173 un nuevo sistema de cobro de derechos para los trámites relativos a las prórrogas de concesiones en materia de telecomunicaciones o radiodifusión que hagan uso del espectro radioeléctrico, señalando que en un único cobro va integrado el estudio, y en su caso la autorización de la misma, situación distinta a la prevista en la Ley Federal de Derechos vigente hasta 2015, que establecía de manera diferenciada los cobros para el estudio y, en su caso, autorización.
+
+Al momento de iniciar el trámite que nos ocupa, únicamente se presentó el pago por el estudio del mismo. Sin embargo, si bien ahora procedería realizar el cobro por la autorización correspondiente, este Instituto se encuentra imposibilitado para diferenciar el cobro que debiera corresponder a la autorización de la prórroga de mérito, toda vez que como ya quedó señalado en el párrafo que antecede, actualmente se prevé un único pago por el estudio y en su caso la autorización respectiva. Finalmente, tratándose de disposiciones de carácter fiscal, se debe atender al principio de exacta aplicación de las mismas, por lo que no procede aplicar el cobro por la autorización de la prórroga que nos ocupa, toda vez que no puede ser diferenciado.
+
+Finalmente, la Ley Federal de Derechos señala en el actual artículo 173 penúltimo párrafo, que cuando la explotación de los servicios objeto de la concesión de bandas de frecuencias a las que se refieren los apartado A, B, fracciones I y II y C, requiera el otorgamiento de un título de concesión única, en términos del artículo 75 de la Ley Federal de Telecomunicaciones y Radiodifusión, el pago de derechos correspondiente al de bandas de frecuencias, comprenderá la expedición de la concesión única respectiva.
+
+En ese sentido, y considerando que ya no se otorgaría una concesión de red pública de telecomunicaciones, sino una concesión única para uso comercial, dado que para el caso que nos ocupa se actualiza lo señalado en el párrafo que antecede, tampoco se realizará el cobro por el otorgamiento de la concesión única.
+
+
+Séptimo.- Contraprestación. El artículo 19 de la LFT, que resulta aplicable al trámite que nos ocupa, otorga a la autoridad la facultad de establecer nuevas condiciones en los casos en los que resuelva otorgar la prórroga de alguna concesión de bandas de frecuencias del espectro radioeléctrico y, por su parte, la obligación del concesionario de aceptarlas.
+
+En ese sentido, resulta relevante mencionar que el artículo 14 del mismo ordenamiento legal, establece el derecho del Gobierno Federal para recibir una contraprestación económica por el otorgamiento de una concesión de bandas de frecuencias, al señalar lo siguiente:
+
+     "Artículo 14. Las concesiones sobre bandas de frecuencias del espectro para usos determinados se otorgarán mediante licitación pública. El Gobierno Federal tendrá derecho a recibir una contraprestación económica por el otorgamiento de la concesión correspondiente."
+     
+     (Énfasis añadido)
+     
+De lo anterior se desprende que el artículo 19, en relación con el 14 de la LFT, faculta a la autoridad para establecer, como parte de las nuevas condiciones, el pago de una contraprestación económica. En efecto, el otorgamiento de una prórroga de vigencia constituye un nuevo acto de otorgamiento de una concesión para el uso, aprovechamiento y explotación del espectro radioeléctrico, por un plazo determinado.
+El espectro radioeléctrico constituye un recurso económico del Estado al que le son aplicables los principios contenidos por el artículo 134 de la Constitución, conjuntamente con los establecidos por los artículos 25, 26, 27 y 28 que conforman el capítulo económico de la Ley Fundamental, por lo que se otorga en concesión sólo a cambio de una contraprestación económica. En este sentido, al prorrogarse el título de concesión respectivo, el Estado tiene derecho a percibir una contraprestación por el uso, goce, aprovechamiento o explotación del bien de dominio público de la Federación al que se hace mención.
+
+Por su parte, el artículo Octavo Transitorio de la Ley señala que los concesionarios que cuentan con concesiones de espectro radioeléctrico deberán pagar las contraprestaciones correspondientes en términos de dicho ordenamiento legal.
+
+Ahora bien, considerando la fecha de presentación de la Solicitud de Prórroga de la Concesión de Bandas, y conforme al marco legal aplicable en ese momento, corresponde a la SHCP fijar los aprovechamientos que se cobrarán en el ejercicio fiscal correspondiente por el uso, goce, aprovechamiento o explotación de bienes sujetos al régimen de dominio público de la Federación, en términos del artículo 10 de la Ley de Ingresos de la Federación. 
+
+En ese sentido, a fin de que la SHCP fijara el monto del aprovechamiento correspondiente, la Unidad de Espectro Radioeléctrico, mediante oficio IFT/222/UER/225/2015 de fecha 18 de septiembre de 2015, remitió a dicha dependencia del Ejecutivo Federal, la propuesta de aprovechamiento que debe pagar el Concesionario por el uso, aprovechamiento y explotación de las bandas de frecuencias del espectro radioeléctrico que ampara la Concesión de Bandas.
+
+Dicha contraprestación se compone de un aprovechamiento a pagarse en una sola exhibición, equivalente a la obtención del precio promedio nacional por KHz con los montos pagados en las licitaciones 15, 16 y 17 para el servicio de móvil de radiocomunicación especializada de flotillas, el cual se actualizó al mes de agosto de 2015, tomando en cuenta el Índice Nacional de Precios al Consumidor (INPC), la determinación del precio promedio por kHz en el área de cobertura geográfica autorizada, con base en el peso relativo de dicha área de cobertura en las cuotas de derechos del artículo 244-F de la Ley Federal de Derechos, y el anterior precio promedio multiplicado por la cantidad de kHz de frecuencias concesionadas y por el porcentaje que representa la población del Estado de Oaxaca en relación con la Región Celular 7 a la que pertenece.
+
+En atención a la propuesta presentada por la Unidad de Espectro Radioeléctrico, la SHCP, a través del oficio 349-B-391 descrito en el Antecedente XI, autorizó el aprovechamiento por la prórroga de la Concesión de Bandas, en los siguientes términos:
+
+     "[...]
+
+     Por lo anterior, sin que se prejuzgue sobre los aspectos que respecto al otorgamiento de las prórrogas de concesiones y por el establecimiento de nuevas condiciones técnico-operativas competen al IFT, esta Secretaría con fundamento en lo establecido en el artículo 31, fracción XI de la Ley Orgánica de la Administración Pública Federal; 38, fracción XXII del Reglamento Interior de la Secretaría de Hacienda y Crédito Público; 10 de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2015; y 3° del Código Fiscal de la Federación; autoriza al IFT cobrar por concepto de la prórroga por 20 años de las concesiones, lo siguiente:
+     
+        Un aprovechamiento a pagarse en una sola exhibición por el importe de $6,848.00 pesos (Seis mil ochocientos cuarenta y ocho pesos 00/100 M.N.)
+     
+     El aprovechamiento que se autoriza mediante el presente oficio está actualizado por inflación al mes de agosto de 2015.
+     
+     El pago del aprovechamiento por prórroga deberá realizarse previo a la entrega de los títulos de concesión mediante la clave de entero que corresponda.
+     
+     El aprovechamiento fue calculado por el IFT considerando que la prórroga de la concesión para la que se autoriza el aprovechamiento tiene como cobertura el área Básica de Servicio (ABS) que comprende al Estado de Oaxaca, el ancho de banda concesionado es de 800 KHz (16 pares de frecuencias) y la vigencia de la prórroga será de 20 años.
+     
+     La obligación de pagar el monto del aprovechamiento autorizado en el presente oficio deberá establecerse en los nuevos títulos de concesión que se emitan en virtud del otorgamiento de la prórroga de concesión, incorporando los montos del aprovechamiento a pagar.
+     
+     El pago del aprovechamiento autorizado en el presente oficio debe realizarse sin menoscabo de la obligación de pagar los derechos establecidos en el artículo 244-F de la LFD por el uso, goce, aprovechamiento o explotación del espectro radioeléctrico, a partir de la entrega de las prórrogas de los títulos de concesión.
+     
+     [...]."
+     
+     (Sic)
+
+Ahora bien, mediante oficio IFT/222/UER/DG-EERO/007/2016 de fecha 11 de enero de 2016, la Unidad de Espectro Radioeléctrico, a través de la Dirección General de Economía del Espectro y Recursos Orbitales, remitió la actualización del monto del aprovechamiento por la prórroga de la Concesión de Bandas al mes de enero de 2016, conforme al INPC.
+
+Por lo anteriormente señalado y con fundamento en los artículos 6o. Apartado B fracción II y 28 párrafos décimo quinto, décimo sexto y décimo séptimo y 134 de la Constitución Política de los Estados Unidos Mexicanos; Séptimo Transitorio del "Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones", publicado en el Diario Oficial de la Federación el 11 de junio de 2013; 6 fracción IV, 15 fracciones IV y LVII, 16, 17 fracción I, 66, 67 fracción I, 68, 72, 75, 76 fracción I y 177 fracción I de la Ley Federal de Telecomunicaciones y Radiodifusión; Sexto y Séptimo Transitorios del "Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión", publicado en el Diario Oficial de la Federación el 14 de julio de 2014; 14, 19 y 27 de la Ley Federal de Telecomunicaciones; 35 fracción I, 36, 38, 39 y 57 fracción I de la Ley Federal de Procedimiento Administrativo; 1, 6 fracciones I, XVIII y XXXVII, 27, 29, 30, 31, 32, 33 fracción II, 41 y 42 fracciones I, II y XV y 50 fracción XII del Estatuto Orgánico del Instituto Federal de Telecomunicaciones,  este órgano autónomo emite los siguientes:
+                                       
+                                  RESOLUTIVOS
+                                       
+PRIMERO.- Se autoriza a Servicios Troncalizados, S.A. de C.V., la prórroga de la vigencia de la concesión para instalar, operar y explotar una red pública de telecomunicaciones, otorgada el 28 de noviembre de 2000.
+
+Para tal efecto, el Instituto Federal de Telecomunicaciones otorgará un título de concesión única para uso comercial en favor de Servicios Troncalizados, S.A. de C.V., con una vigencia de 30 (treinta) años contados a partir del 29 de noviembre de 2015, con cobertura nacional y con el que podrá prestar cualquier servicio de telecomunicaciones y de radiodifusión que sea técnicamente factible.
+
+A fin de que el Instituto Federal de Telecomunicaciones expida el título de concesión señalado en el presente Resolutivo, Servicios Troncalizados, S.A. de C.V. deberá aceptar expresamente y de manera previa, las nuevas condiciones que al efecto se le establezcan, en los términos señalados en los Resolutivos Cuarto y Quinto de la presente Resolución.
+
+SEGUNDO.- Se autoriza a Servicios Troncalizados, S.A. de C.V., la prórroga de la vigencia de la concesión para usar, aprovechar y explotar bandas de frecuencias del espectro radioeléctrico, otorgada el 28 de noviembre de 2000, para prestar el servicio móvil de radiocomunicación especializada de flotillas.
+
+Para tal efecto, el Instituto Federal de Telecomunicaciones otorgará en favor de Servicios Troncalizados, S.A. de C.V., un título de concesión para usar, aprovechar y explotar bandas de frecuencias del espectro radioeléctrico para uso comercial, con una vigencia de 20 (veinte) años contados a partir del 29 de noviembre de 2015, con cobertura en el Estado de Oaxaca.
+
+A fin de que el Instituto Federal de Telecomunicaciones expida el título de concesión señalado en el párrafo anterior, Servicios Troncalizados, S.A. de C.V. deberá aceptar expresamente y de manera previa, las nuevas condiciones que al efecto se le establezcan, de conformidad con lo dispuesto por los Resolutivos Cuarto y Quinto de la presente Resolución.
+
+TERCERO.- El título de concesión para uso comercial a que se refiere el Resolutivo Segundo, confiere a Servicios Troncalizados, S.A. de C.V., a partir de su inicio de vigencia, el derecho a prestar únicamente el servicio móvil de radiocomunicación especializada de flotillas en las siguientes bandas de frecuencias en el Estado de Oaxaca:
+
+             Grupos de frecuencia asignados en la banda de 400 MHz
+         Pares de frecuencia asignados en la banda de 400 MHz (25 kHz)
+                                   Rx [MHz]
+         Pares de frecuencia asignados en la banda de 400 MHz (25 kHz)
+                                   Tx [MHz]
+                          Ancho de banda total en kHz
+                                       1
+                                   410.0250
+                                   420.0250
+                                      800
+                                       1
+                                   410.2250
+                                   420.2250
+                                      800
+                                       1
+                                   410.4250
+                                   420.4250
+                                      800
+                                       1
+                                   410.6250
+                                   420.6250
+                                      800
+                                       1
+                                   410.8250
+                                   420.8250
+                                      800
+                                       2
+                                   410.0500
+                                   420.0500
+                                      800
+                                       2
+                                   410.2500
+                                   420.2500
+                                      800
+                                       2
+                                   410.4500
+                                   420.4500
+                                      800
+                                       2
+                                   410.6500
+                                   420.6500
+                                      800
+                                       2
+                                   410.8500
+                                   420.8500
+                                      800
+                                       3
+                                   410.0750
+                                   420.0750
+                                      800
+                                       3
+                                   410.2750
+                                   420.2750
+                                      800
+                                       3
+                                   410.4750
+                                   420.4750
+                                      800
+                                       3
+                                   410.6750
+                                   420.6750
+                                      800
+                                       3
+                                   410.8750
+                                   420.8750
+                                      800
+                                       4
+                                   410.1000
+                                   420.1000
+                                      800
+
+CUARTO.- Se instruye a la Unidad de Concesiones y Servicios a hacer del conocimiento de Servicios Troncalizados, S.A. de C.V. el contenido de la presente Resolución, así como las nuevas condiciones, mismas que se encuentran contenidas en los proyectos de títulos de concesión los cuales forman parte integral de la presente Resolución, a efecto de recabar de dicha empresa, en un plazo no mayor a 15 (quince) días hábiles contados a partir del día siguiente a aquel en que surta efectos la notificación respectiva, su aceptación expresa e indubitable de las nuevas condiciones.
+
+En caso de que no se reciba por parte de Servicios Troncalizados, S.A. de C.V. la aceptación referida dentro del plazo establecido para tales efectos, la presente Resolución quedará sin efectos y, en consecuencia, se tendrá por negada la prórroga de vigencia solicitada respecto de las concesiones de mérito.
+
+QUINTO.- Servicios Troncalizados, S.A. de C.V., deberá presentar al Instituto Federal de Telecomunicaciones el comprobante de pago del aprovechamiento por concepto de contraprestación autorizado por la Secretaría de Hacienda y Crédito Público, por un monto de $6,975.00 pesos (Seis mil novecientos setenta y cinco pesos 00/100 M.N.), dentro del plazo de 30 (treinta) días hábiles siguientes a la fecha en que hubiera presentado la aceptación señalada en el Resolutivo Cuarto de la presente Resolución.
+
+El monto señalado en el presente Resolutivo deberá ser actualizado al momento del pago, tomando en cuenta el último Índice Nacional de Precios al Consumidor publicado por el Banco de México. 
+
+SEXTO.- En caso de que no se reciba por parte de Servicios Troncalizados, S.A. de C.V. el comprobante de pago del aprovechamiento por concepto de contraprestación señalado en el Resolutivo Quinto, dentro del plazo establecido para tales efectos, la presente Resolución quedará sin efecto y en consecuencia, se tendrá por negada la prórroga de vigencia solicitada respecto de las concesiones de mérito. 
+
+En dicho caso, las bandas de frecuencias que le fueron asignadas revertirán a favor de la Nación, sin perjuicio de que el Instituto Federal de Telecomunicaciones pueda ejercer las atribuciones de verificación, supervisión y, en su caso, sanción que correspondan.
+
+SÉPTIMO.- Una vez satisfecho lo establecido en los Resolutivos Cuarto y Quinto anteriores, el Comisionado Presidente del Instituto Federal de Telecomunicaciones, con base en las facultades que le confiere el artículo 14 fracción X del Estatuto Orgánico, suscribirá los títulos de concesión que se otorguen con motivo de la presente Resolución.
+
+OCTAVO.- Como consecuencia de los señalado en el Resolutivo que antecede, se instruye a la Unidad de Concesiones y Servicios a notificar a Servicios Troncalizados, S.A. de C.V., el título de concesión única para uso comercial, y el título de concesión para usar, aprovechar y explotar bandas de frecuencias del espectro radioeléctrico para uso comercial, ambos referidos en la presente Resolución.
+
+NOVENO.- Servicios Troncalizados, S.A. de C.V., en cumplimiento a lo establecido en el último párrafo del artículo 112 de la Ley Federal de Telecomunicaciones y Radiodifusión, en un plazo no mayor de noventa días hábiles contados a partir de la fecha del otorgamiento de las concesiones a que se refiere la presente Resolución, deberá presentar ante el Instituto Federal de Telecomunicaciones, copia certificada del instrumento donde conste que se llevaron a cabo las modificaciones correspondientes a sus estatutos sociales.
+
+DÉCIMO.- Inscríbanse en el Registro Público de Concesiones el título de concesión única para uso comercial, así como el título de concesión para usar, aprovechar y explotar bandas de frecuencias del espectro radioeléctrico para uso comercial a que se refiere la presente Resolución, una vez que sean debidamente notificados, en su caso, al interesado.
+
+La presente Resolución fue aprobada por el Pleno del Instituto Federal de Telecomunicaciones en su II Sesión Ordinaria celebrada el 27 de enero de 2016, en lo general por unanimidad de votos de los Comisionados presentes Gabriel Oswaldo Contreras Saldívar, Luis Fernando Borjón Figueroa, Ernesto Estrada González, Adriana Sofía Labardini Inzunza, María Elena Estavillo Flores, Mario Germán Fromow Rangel y Adolfo Cuevas Teja.
+El Comisionado Adolfo Cuevas Teja manifestó voto en contra de la actualización del monto al momento del pago. 
+Lo anterior, con fundamento en los párrafos vigésimo, fracciones I y III; y vigésimo primero, del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos; artículos 7, 16 y 45 de la Ley Federal de Telecomunicaciones y Radiodifusión; así como en los artículos 1, 7, 8 y 12 del Estatuto Orgánico del Instituto Federal de Telecomunicaciones, mediante Acuerdo P/IFT/270116/16.

@@ -1,0 +1,282 @@
+RESOLUCIÓN MEDIANTE LA CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES DETERMINA LAS CONDICIONES DE INTERCONEXIÓN NO CONVENIDAS ENTRE MARCATEL COM, S.A. DE C.V. Y LAS EMPRESAS GRUPO DE TELECOMUNICACIONES MEXICANAS, S.A. DE C.V. Y PEGASO PCS, S.A. DE C.V. APLICABLES DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2016
+
+                                 ANTECEDENTES
+     
+ Concesiones de Marcatel Com, S.A de C.V. Marcatel Com, S.A. de C.V., (en lo sucesivo, "Marcatel"), es un operador que cuenta con una concesión para instalar, operar y explotar una red pública de telecomunicaciones al amparo de los títulos de concesión otorgados conforme a legislación aplicable e inscritos en el Registro Público de Concesiones del Instituto Federal de Telecomunicaciones (en los sucesivo, el "Instituto").
+
+ Concesiones de Pegaso PCS, S.A. de C.V y Grupo de Telecomunicaciones Mexicanas, S.A. de C.V. Pegaso PCS, S.A. de C.V., y Grupo de Telecomunicaciones Mexicanas, S.A. de C.V., (en lo sucesivo, "Pegaso PCS y GTM"), son operadores que cuentan con una concesión para instalar, operar y explotar una red pública de telecomunicaciones al amparo de los títulos de concesión otorgados conforme a la legislación aplicable e inscritos en el Registro Público de Concesiones del Instituto.
+
+ Metodología para el cálculo de costos de interconexión. El 18 de diciembre de 2014, se publicó en el Diario Oficial de la Federación, (en lo sucesivo, "el DOF"), el "ACUERDO mediante el cual el Pleno del Instituto Federal de Telecomunicaciones emite la metodología para el cálculo de costos de interconexión de conformidad con la Ley Federal de Telecomunicaciones y Radiodifusión", aprobado mediante Acuerdo P/IFT/EXT/161214/277 (en lo sucesivo la "Metodología de Costos").
+
+ Sistema Electrónico de Solicitudes de Interconexión. El 29 de diciembre de 2014 se publicó en el DOF el "ACUERDO mediante el cual el Pleno del Instituto Federal de Telecomunicaciones establece el Sistema Electrónico de Solicitudes de Interconexión" (en lo sucesivo, el "Acuerdo del Sistema"), mediante el cual se estableció el Sistema Electrónico de Solicitudes de Interconexión, (en lo sucesivo, el "SESI").
+
+ Publicación de Tarifas de Interconexión del año 2016. El 1 de octubre de 2015, el Instituto publicó en el DOF el "ACUERDO mediante el cual el Pleno del Instituto Federal de Telecomunicaciones determina las tarifas de interconexión resultado de la metodología para el cálculo de costos de interconexión que se utilizará para resolver los desacuerdos de interconexión que se presenten respecto de las condiciones aplicables al año 2016", aprobado mediante Acuerdo P/IFT/120815/347 (en lo sucesivo, el "Acuerdo de Tarifas 2016").
+
+ Procedimiento de resolución de condiciones de interconexión no convenidas.  El 25 de noviembre de 2015, el apoderado legal de Marcatel presentó ante el Instituto, escritos mediante los cuales solicitó su intervención para resolver los términos, tarifas y condiciones que no pudo convenir con Pegaso PCS y GTM para la interconexión de sus respectivas redes públicas de telecomunicaciones, aplicables al periodo 2016 (en lo sucesivo, las "Solicitudes de Resolución").
+
+Las Solicitudes de Resolución se admitieron a trámite asignándoles los números de expediente que se indican más adelante; asimismo toda vez que los procedimientos iniciados de manera independiente por Marcatel tienden al mismo efecto, en términos del artículo 45 de la Ley Federal de Procedimiento Administrativo (en lo sucesivo, la "LFPA") y 73 del Código Federal de Procedimientos Civiles (en lo sucesivo, el "CFPC"), ordenamientos de aplicación supletoria en términos del artículo 6, fracciones IV y VII, de la LFTyR, y siendo legalmente factible, se ordenó la acumulación del más nuevo al más antiguo tal como lo dispone el artículo 72 del CFPC, quedando acumulados en el procedimiento administrativo iniciado por Marcatel en contra de GTM identificado con el número de expediente IFT/221/UPR/DG-RIRST/256.251115/ITX.
+
+                                Folio del SESI
+                           Expediente administrativo
+                                   Modalidad
+                            Inicio de negociaciones
+IFT/UPR/2003
+IFT/221/UPR/DG-RIRST/256.251115/ITX
+Red Local Fija de Marcatel-Red Local Fija de GTM para el periodo 2016
+                           22 de septiembre de 2015.
+IFT/UPR/2000
+IFT/221/UPR/DG-RIRST/257.251115/ITX
+Red Local Fija de Marcatel - Red Local Móvil de Pegaso PCS para el periodo 2016.
+                           22 de septiembre de 2015.
+
+El procedimiento fue sustanciado en todas y cada una de sus etapas en estricto apego a lo establecido en el artículo 129 de la LFTyR. Lo cual se encuentra plenamente documentado en las constancias que integran el expediente administrativo en comento, mismo que ha estado en todo momento a disposición de las partes, las cuales tienen pleno conocimiento de su contenido.
+
+Es así que con fecha 4 de febrero de 2016 el Instituto notificó a las partes que el procedimiento guardaba estado para que el Pleno del Instituto dictase la resolución correspondiente.
+
+En virtud de los referidos Antecedentes, y
+
+                                 CONSIDERANDO
+
+PRIMERO.- Competencia del Instituto. De conformidad con los artículos 6°, apartado B fracción II y 28, párrafos décimo quinto y décimo sexto de la Constitución Política de los Estados Unidos Mexicanos (en lo sucesivo, la "Constitución") y 7 de la LFTyR; el Instituto es un órgano público autónomo, independiente en sus decisiones y funcionamiento, con personalidad jurídica y patrimonio propio, que tiene por objeto regular y promover la competencia y el desarrollo eficiente de las telecomunicaciones y la radiodifusión en el ámbito de las atribuciones que le confiere la Constitución y en los términos que fijan la LFTyR y demás disposiciones aplicables. 
+
+Con fundamento en los artículos 7, 15, fracción X, 17, fracción I, y 129 de la LFTyR, el Pleno del Instituto está facultado, de manera exclusiva e indelegable, para resolver y establecer las tarifas, términos y condiciones de interconexión que no hayan podido convenir los concesionarios respecto de sus redes públicas de telecomunicaciones, una vez que se solicite su intervención.
+
+Por lo anterior y de conformidad con lo dispuesto en los artículos indicados, el Pleno del Instituto es competente para emitir la presente Resolución que determina las tarifas, términos y condiciones de interconexión no convenidas entre los concesionarios de redes públicas de telecomunicaciones, que forman parte en el presente procedimiento.
+
+SEGUNDO.- Importancia y obligatoriedad de la interconexión e Interés Público.- El artículo 6°, apartado B, fracción II, de la Constitución establece que las telecomunicaciones son servicios públicos de interés general, y es el deber del Estado garantizar que se presten en condiciones de competencia, calidad, pluralidad, cobertura universal, interconexión, convergencia, continuidad, acceso libre y sin injerencias arbitrarias.
+
+Por su parte, el artículo 2° de la LFTyR, en concordancia con la Constitución señala que las telecomunicaciones son servicios públicos de interés general y que corresponde al Estado ejercer la rectoría en la materia, proteger la seguridad y la soberanía de la Nación y garantizar su eficiente prestación. Para tales efectos el Instituto establecerá condiciones de competencia efectiva en la prestación de dichos servicios; toda vez que con un mecanismo de mercado se atiende en última instancia al interés del público usuario, en términos de lo establecido en los artículos 7º, 124 y 125 de la LFTyR.
+
+Por ello, el legislador estableció (i) la obligación de todos los concesionarios de redes públicas de telecomunicaciones de adoptar diseños de arquitectura abierta para garantizar la interconexión e interoperabilidad de sus redes, contenida en el artículo 124 de la LFTyR; (ii) la obligación de los concesionarios de redes públicas de interconectar sus redes de conformidad con lo establecido en el artículo 125 de la LFTyR, y (iii) que dicha interconexión se realice en condiciones no discriminatorias, transparentes y basadas en criterios objetivos.
+
+Ahora bien, el artículo 129 de la LFTyR regula el procedimiento que ha de observar el Instituto a efecto de determinar las condiciones, términos y tarifas no convenidas. Para estos fines dispone que los concesionarios que operen redes públicas de telecomunicaciones, deberán interconectar sus redes, y a tal efecto, suscribir un convenio en un plazo no mayor de sesenta días naturales contados a partir de que sea presentada la solicitud correspondiente. Esto es, los concesionarios de redes públicas de telecomunicaciones tienen la libertad de negociar los términos, condiciones y tarifas de interconexión a través del SESI, mismos que deberán reflejarse en el convenio que al efecto suscriban, sin embargo, de no convenir, podrán solicitar la intervención del Instituto para que éste determine los términos, condiciones y tarifas no convenidas.
+
+En virtud de lo anterior, se indica que: (i) los concesionarios están obligados a interconectar sus redes y, a tal efecto, suscribir un convenio en un plazo no mayor de sesenta (60) días naturales contados a partir de que alguno de ellos lo solicite; (ii) transcurridos los sesenta (60) días naturales sin que las partes hayan llegado a un acuerdo, a solicitud de parte, el Instituto resolverá los términos y condiciones de interconexión no convenidos sometidas a su competencia, dicha solicitud deberá someterse al Instituto dentro de un plazo de cuarenta y cinco (45) días hábiles siguientes a que haya concluido el periodo de los sesenta (60) días naturales.
+
+En consecuencia, en autos está acreditado que Marcatel, Pegaso PCS y GTM tienen el carácter de concesionarios que operan una red pública de telecomunicaciones y que efectivamente Marcatel requirió a Pegaso PCS y GTM el inicio de negociaciones para convenir los términos, condiciones y tarifas de interconexión, según se desprende de los Antecedentes I, II, y VI de la presente Resolución.
+
+Por ello, conforme al artículo 124 de la LFTyR, Marcatel, Pegaso PCS y GTM están obligados a garantizar la eficiente interconexión de sus respectivas redes públicas de telecomunicaciones, formalizando en todo caso, la suscripción del convenio respectivo que estipule los términos, condiciones y tarifas aplicables.
+
+
+TERCERO.- Valoración de pruebas.- En términos generales la prueba es el medio de demostración de la realidad de un hecho o de la existencia de un acto. Es así que dentro del procedimiento de mérito, la prueba cumple las siguientes funciones: i) fija los hechos materia del desacuerdo, y ii) genera certeza acerca de las afirmaciones y alegaciones de los concesionarios sujetos del desacuerdo.
+
+Por su parte la LFPA, y CFPC, establecen que en los procedimientos administrativos se admitirán toda clase de pruebas, excepto la confesional de las autoridades. Asimismo, establece por cuanto a su valoración que la autoridad administrativa goza de la más amplia libertad para hacer el análisis de las pruebas rendidas; para determinar el valor de las mismas, y para fijar el resultado final de dicha valuación. 
+
+En tal sentido, el Instituto valora las pruebas aportadas por las partes en los siguientes términos:
+
+5.1 Pruebas ofrecidas por Marcatel
+
+ En relación a las documentales públicas ofrecidas por Marcatel, consistentes en la impresión de las solicitudes formuladas por Marcatel a GTM y Pegaso PCS a través del SESI, mismas que quedaron registradas bajos los números IFT/UPR/2003 e IFT/UPR/2000, respectivamente, este Instituto les da valor probatorio en términos de lo establecido en el artículo 210-A del CFPC, de aplicación supletoria conforme al artículo 6° fracción VII de la LFTyR, al hacer prueba plena de los hechos legalmente afirmados consistente en la propuesta de Marcatel tanto a GTM como a Pegaso PCS de iniciar negociaciones respecto a los términos, condiciones y tarifas de interconexión, para el periodo comprendido entre el 1 de enero y al 31 de diciembre de 2016.
+
+ Respecto a la documental pública consistente en el "Acuerdo mediante el cual el Pleno del Instituto Federal de Telecomunicaciones determina las tarifas de interconexión resultado de la metodología para el cálculo de costos de interconexión que se presenten respecto de las condiciones aplicables al año 2016", publicado el 1 de octubre de 2015 en el DOF, se le otorga valor probatorio en términos de los artículo 197 y 202 del CFPC, de aplicación supletoria conforme al artículo 6º fracción VII de la LFTyR,  al hacer prueba plena de la determinación de tarifas de interconexión para el año 2016, resultado de la metodología de costos.
+      
+      
+5.2 Pruebas ofrecidas por GTM y Pegaso PCS
+
+ Respecto de las documentales consistentes en copias simples de la pantalla del SESI correspondiente a los folios IFT/UPR/2003 e IFT/UPR/2000, mediante las cuales Pegaso PCS y GTM pretenden acreditar la notificación a Marcatel de su intención de llevar a cabo una reunión para continuar con las negociaciones respectivas para el año 2016, se les otorga valor probatorio en términos de lo establecido en el artículo 210-A del CFPC, de aplicación supletoria conforme al artículo 6° fracción VII de la LFTyR, por causar convicción respecto de que en efecto, Pegaso PCS y GTM, solicitaron Marcatel, a través del SESI, llevar a cabo una reunión de trabajo.
+
+5.3 Pruebas ofrecidas por ambas partes
+
+ Respecto a las Instrumental de actuaciones, ofrecida por Marcatel, Pegaso PCS y GTM, consistente en todo lo actuado en el presente procedimiento, se les da valor probatorio al constituirse dicha prueba con las constancias que obran en el sumario y en términos del principio ontológico de la prueba, conforme al cual lo ordinario se presume.
+
+ En relación a la Presuncional, en su doble aspecto, legal y humana, ofrecida como prueba por Marcatel, Pegaso PCS y GTM, se le da valor probatorio en términos del artículo 218 del CFPC al ser ésta la consecuencia lógica y natural de hechos conocidos y probados al momento de hacer la deducción respectiva.
+
+CUARTO.- Condiciones no convenidas sujetas a resolución.- En las Solicitudes de Resolución de Marcatel, se plantearon los siguientes términos, condiciones y tarifas de interconexión que no pudo convenir con las empresas GTM y Pegaso PCS:
+
+ Determinar las tarifas de interconexión aplicables a la terminación de llamadas en la red pública del servicio local fijo de GTM originadas en la red pública del servicio local fijo de Marcatel aplicables del 1 de enero al 31 de diciembre de 2016. 
+
+ Determinar las tarifas de interconexión aplicables a la terminación de llamadas en la red pública del servicio local móvil de Pegaso PCS originadas en la red pública del servicio local fijo de Marcatel aplicables del 1 de enero al 31 de diciembre de 2016. 
+      
+Ahora bien, en la Respuesta de Pegaso PCS, además de formular manifestaciones respecto a la improcedencia tanto de las Solicitudes de Resolución como del presente procedimiento administrativo, se planteó la siguiente condición no convenida:
+
+ Determinar la tarifa de terminación conmutada en la red fija de Marcatel para el periodo que comprende del 1 de enero al 31 de diciembre de 2016.
+      
+ La inclusión de un factor de ajuste a la tarifa de interconexión para 2016 por variación en el tipo de cambio. 
+
+Al respecto, el artículo 129 de la LFTyR señala que los concesionarios que operen redes públicas de telecomunicaciones deberán interconectar sus redes, y a tal efecto, suscribirán un convenio en un plazo no mayor de sesenta días naturales contados a partir de que uno de ellos lo solicite. Asimismo, señala que en el caso de concesionarios cuyas redes públicas de telecomunicaciones se encuentren interconectadas y con motivo de la terminación de la vigencia de sus convenios puedan acordar nuevas condiciones de interconexión y no exista acuerdo entre las partes deberán presentar ante el Instituto sus solicitudes de resolución sobre el desacuerdo de interconexión.
+
+De lo anterior se desprende que el convenio que a tal efecto suscriban las partes deberá permitir la prestación de los servicios de interconexión entre sus redes públicas de telecomunicaciones sin que existan elementos pendientes de acordar para el periodo de referencia; de la misma forma, la resolución que emita el Instituto a efecto de resolver sobre las condiciones no convenidas deberá operar en el mismo sentido, de tal forma que, una vez que ésta sea emitida por la autoridad no existan elementos pendientes de definición que impidan la prestación de los servicios.
+
+Es así que el Instituto deberá resolver sobre las tarifas, términos y condiciones que no hayan podido convenir las partes durante los sesenta días naturales que tienen para suscribir el convenio.
+
+Por lo que, en términos del artículo 129 de la LFTyR es procedente resolver las condiciones solicitadas por ambas partes.
+
+En virtud de lo anterior, las condiciones no convenidas, sobre las cuales se pronunciará el Instituto, serán las siguientes:
+ La tarifa por los Servicios de Interconexión que Marcatel deberá pagar a Pegaso PCS por los servicios de terminación del Servicio Local en usuarios móviles para 2016.
+ La tarifa por los Servicios de Interconexión que Pegaso PCS deberá pagar a Marcatel por los servicios de terminación del Servicio Local en usuarios fijos para 2016.
+
+ La tarifa por los Servicios de Interconexión que Marcatel deberá pagar a GTM por los servicios de terminación del Servicio Local en usuarios fijos para 2016.
+      
+ La inclusión de un factor de ajuste a la tarifa de interconexión para 2016 por variación en el tipo de cambio. 
+   
+Previo al análisis de las condiciones no convenidas, el Instituto procede, en primera instancia, a analizar específicamente las argumentaciones generales de las empresas Pegaso PCS y GTM, en relación con el presente procedimiento, para posteriormente resolver sobre aquellos puntos de desacuerdo que en materia de interconexión fueron sometidos por las partes.
+
+A. Improcedencia del desacuerdo de interconexión por haber sido presentado de forma extemporánea de conformidad con el cuarto párrafo del artículo 129 de la LFTyR  y al haber operado la caducidad de facultades del Instituto para emitir una determinación
+
+Argumentos de las partes 
+
+La apoderada legal de Pegaso PCS y GTM manifestó que los procedimientos de desacuerdo de interconexión en que se actúan resultan improcedentes ya que dichas solicitudes de resolución fueron presentadas de forma extemporánea, es decir, después del 15 de julio de 2015, por lo que no cumplen con los presupuestos formales y materiales de admisibilidad y procedencia relativos a la temporalidad de la presentación de las solicitudes de acuerdo a lo establecido en el artículo 129 de la LFTyR, por lo cual los procedimientos deberán desecharse y considerarse desiertas las promociones presentadas. 
+
+Finalmente, señalan que al decretar la extemporaneidad, el desechamiento por la improcedencia de las solicitudes de Marcatel y la declaración de caducidad de facultades del Instituto no se vulneran los derechos en materia de interconexión de los concesionarios solicitantes, ya que la propia LFTyR en el señalado Vigésimo transitorio establece un mecanismo que asegura el cobro de tarifas de interconexión, mismo que prevé que seguirán en vigor las que actualmente aplican las partes, por lo que no existe daño real o actual a los derechos de terceros, en virtud de que la propia ley salvaguarda sus intereses y derechos, y no afecta al orden e interés público.
+
+Consideraciones del Instituto
+
+Al respecto de lo argumentado por Pegaso PCS y GTM en cuanto a que el desacuerdo de Interconexión es improcedente ya que fue presentado de forma extemporánea y a que operó la caducidad de las facultades del Instituto para resolver el presente procedimiento, este Instituto considera infundado lo manifestado. Lo anterior, en virtud de que, si bien es cierto, que el párrafo cuarto del artículo 129 de la LFTyR establece el 15 de julio como fecha límite para presentar un desacuerdo, esto solamente es a efecto de que la autoridad resuelva antes del 15 de diciembre otorgando a la autoridad un espacio suficiente para desahogar el procedimiento y resolverlo previo al inicio del ejercicio para el cual se determinan las nuevas condiciones incluyendo las tarifas. 
+
+Es así que al haber presentado Marcatel su solicitud de resolución, una vez transcurrido el plazo de 60 días naturales de haber iniciado las negociaciones de interconexión y dentro del plazo de 45 días hábiles para solicitar la intervención del Instituto, es claro que es procedente, y el Instituto tiene la facultad, en términos del artículo 129 de la LFTyR, de admitir, sustanciar y resolver, a efecto de que no se vean vulnerados los derechos en materia de interconexión de los concesionarios de redes públicas de telecomunicaciones, ello dentro de los treinta días hábiles siguientes después de que feneciera el plazo para que las partes presentaran sus alegatos correspondientes, por lo que la inactividad de la autoridad en el procedimiento a la que se refiere Pegaso PCS no existe, y por ende no existe caducidad al respecto. 
+
+Lo anterior máxime que las Resoluciones que emite este Instituto son de interés público, más aún si consideramos que la misma LFTyR en su artículo 125 indica que la interconexión de las redes públicas de telecomunicaciones, sus tarifas, términos y condiciones, son de orden público e interés social.
+
+B. Improcedencia del estudio y resolución del desacuerdo invocando ilegalmente el orden público e interés general sin que exista un daño real, directo y actual a un derecho subjetivo de los usuarios, en perjuicio de los derechos fundamentales de Pegaso PCS y GTM
+
+Argumentos de las partes
+
+La apoderada legal de Pegaso PCS y GTM, señala que si el Instituto pretende resolver el procedimiento en que se actúa atendiendo a la importancia de la interconexión entre redes por ser de orden público e interés general en beneficio de los usuarios finales para que los servicios de telecomunicaciones sean prestados en las mejores condiciones de competencia, calidad, pluralidad, cobertura universal, convergencia, continuidad, acceso libre y sin injerencias arbitrarias, como señala el artículo 6° de la Constitución, se debe precisar que los concesionarios que intervienen en el presente desacuerdo se encuentran interconectados y que no existe afectación alguna al usuario, puesto que sus derechos se encuentran efectivamente garantizados y salvaguardados, es decir, no se acredita la afectación o perjuicio a la comunicación o al usuario en cuestiones de calidad, servicio, diversidad y precio que puedan ser reparadas o de libre elección del concesionario que preste las mejores condiciones antes descritas, lo que se traduce en inexistencia de daño real, directo y actual a un derecho subjetivo de los usuarios finales, ni un daño al aumento en la tasa de penetración en los servicios de telecomunicaciones, la cual, según cifras del propio Instituto, sigue en aumento.
+
+Menciona que si el actuar del Instituto tiene por objeto vulnerar los derechos adjetivos y subjetivos de los gobernados para extrapolar sus facultades con el supuesto propósito de cumplir de forma caprichosa, ilegal e inconstitucional con los fines que la ley establece en perjuicio de la omisión relativa a la valoración de los requisitos, vicios, etc. dentro de los procedimientos administrativos seguidos en forma de juicio que no se encuentran apegados a derecho, ello contraviene el principio de legalidad que debe respetar en todo momento la autoridad frente a los gobernados. 
+
+Consideraciones del Instituto
+
+Si bien es cierto que la interconexión entre las redes de Pegaso PCS y GTM con la red de Marcatel está establecida físicamente, los argumentos de dichos concesionarios resultan infundados toda vez que el segundo párrafo del artículo 125 de la LFTyR establece que la interconexión de las redes públicas de telecomunicaciones, sus tarifas, términos y condiciones son de orden público e interés social. Con lo cual se observa que el interés público no se satisface únicamente con la interconexión física de redes, sino que además involucra las tarifas de interconexión. 
+
+Por otra parte, de conformidad con el artículo 129 de la LFTyR el Instituto está obligado a resolver y establecer los términos y condiciones de interconexión que no hayan podido convenir los concesionarios respecto de sus redes públicas de telecomunicaciones, una vez que se solicite su intervención, y que se satisfagan los supuestos establecidos en el propio artículo 129, por lo que no es un requisito de procedibilidad, ni se debe acreditar la afectación o perjuicio a la comunicación o al usuario en cuestiones de calidad, servicio, diversidad y precio, como señalan Pegaso PCS. 
+
+Además, en el caso particular es de resaltarse que de conformidad con el último párrafo del artículo 129 de la LFTyR el Instituto tiene la obligación de favorecer la pronta y efectiva interconexión entre redes públicas de telecomunicaciones, por lo que debe evitar actuaciones procesales que tengan como consecuencia retrasar las condiciones no convenidas que permitan la prestación de los servicios públicos de telecomunicaciones, es decir, que es clara la facultad del Instituto de resolver y no retrasar los procedimientos relativos a las condiciones no convenidas con en el presente caso, pues con ello se permite la prestación de los servicios públicos.
+
+Asimismo, no se vulnera derecho alguno a Pegaso PCS o GTM, ya que, cuando el Estado modifica condiciones generales regulatorias de los títulos de concesión, a través de reformas legislativas o reglamentarias, derivadas de decisiones que importen el interés público, no se afectan derechos adquiridos del concesionario, por tres razones fundamentales: la primera porque éstas se encuentran vinculadas a la legislación relativa, que simplemente codifica los términos generales de las concesiones; la segunda, porque dicha normatividad se encuentra sujeta a reformas y modificaciones, según lo exija el interés público y la tercera, porque precisamente por esa dinámica legislativa y administrativa, esos derechos no pueden ni deben entrar o conformar el patrimonio del concesionario. Así, en virtud de que las cláusulas regulatorias del título de concesión no crean derechos adquiridos, las modificaciones que éstas sufran en razón de reformas constitucionales, legales o reglamentarias, no violan el principio de retroactividad a que se refiere el artículo 14 constitucional. 
+
+C. Objeción de documentos
+
+Argumentan Pegaso PCS y GTM que con fundamento en lo dispuesto por los artículos 203 y 204 del CFPC, ordenamiento supletorio a la ley de la materia, se objetan en cuanto a su alcance y valor probatorio todos y cada uno de los documentos exhibidos por Marcatel en los escritos con los cuales se dio vista a GTM y Pegaso PCS, respectivamente. 
+
+Consideraciones del Instituto
+
+Respecto de lo señalado por Pegaso PCS y GTM sobre la objeción en cuanto al alcance y valor probatorio de todos y cada uno de los documentos exhibidos por Marcatel en sus escritos, se señala que dichas manifestaciones resultan inoperantes toda vez que, si bien es cierto que objetar los documentos, es el medio para evitar que se produzca el reconocimiento tácito de algún documento privado o público, y por ende que el valor probatorio del propio instrumento permanezca incompleto, al objetarse algún documento deberá también probarse la objeción, para así destruir la certeza que recae sobre lo asentado en los documentos. Esto es así, porque un documento público hace fe de la certeza de su contenido, en ese sentido, si Pegaso PCS y GTM sólo hacen meras manifestaciones y no prueba la objeción, su pretensión resulta inoperante.
+
+Al respecto, sirve de apoyo la presente tesis:
+            
+            "OBJECIÓN DE DOCUMENTOS. NO BASTA QUE EL INTERESADO OBJETE UN DOCUMENTO PROVENIENTE DE UN TERCERO, PARA QUE POR ESE SOLO HECHO PIERDA VALOR PROBATORIO, EL CUAL DEPENDERÁ DE QUE ESTÉN O NO ROBUSTECIDOS CON OTROS MEDIOS (CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES).
+            
+            No basta que el interesado objete un documento proveniente de un tercero, para que por ese solo hecho pierda valor probatorio, ya que de acuerdo a lo establecido por el artículo 203 del Código Federal de Procedimientos Civiles, su valor dependerá de que dicha documental esté o no robustecida con otros medios de convicción. Lo anterior es así, en razón de que el propio artículo establece la posibilidad de que, en caso de que el documento haya sido objetado, el oferente pueda, a través de otros medios de convicción, demostrar la veracidad de su contenido, lo que implica la oportunidad de perfeccionar el documento y, de ser así, éste sea valorado en su justa dimensión, por lo que no resulta válido restar, a priori, el valor de la documental, por su sola objeción."
+            
+D. Consideraciones y elementos que debe tomar en cuenta el instituto para la determinación de las tarifas de interconexión por terminación en la red móvil de Pegaso PCS y en la red fija de GTM.
+
+Argumentos de las partes
+     
+De foja 15 a foja 47 dentro del expediente IFT/221/UPR/DG-RIRST/256.251115/ITX y de foja 14 a foja 52 dentro del expediente IFT/221/UPR/DG-RIRST/257.251115/ITX,, de los escritos de Respuesta presentados por GTM y Pegaso PCS, dichos concesionarios realizan diversas manifestaciones acerca de la forma en que el Instituto debe determinar las tarifas de interconexión materia del presente procedimiento, como son: a) la aplicación del artículo 131, inciso b de la LFTyR, b) la participación de mercado del operador modelado, c) la utilización del concepto de externalidad de red, d) la aplicación del principio de asimetría tarifaria e) el respeto al principio de competencia y libre concurrencia, f) el enfoque sobre la recuperación de los costos, g) la justa retribución,  h) improcedencia del modelo de Costos Incrementales de Largo Plazo Puros e i) la utilización de un factor de ajuste por la variación del tipo de cambio. 
+
+Consideraciones del Instituto
+
+Los temas planteados por Pegaso PCS y GTM, fueron analizados por el Instituto como parte del procedimiento para la emisión de una disposición de carácter general como lo es la Metodología de Costos, la cual no puede ser modificada en una disposición de carácter particular como lo es la Resolución que pone fin al presente procedimiento administrativo; Aunado a lo anterior se señala que el presente procedimiento no tiene como objeto dilucidar los fundamentos y motivos que el Instituto tomó en consideración para establecer dicha metodología por lo que los argumentos de Pegaso PCS y GTM en cuanto a los elementos que debe tomar en cuenta el Instituto para la determinación de tarifas de interconexión resultan inoperantes.
+
+De esta manera, al no ser procedente la modificación de aspectos que forman parte de la Metodología de Costos o del Acuerdo de Tarifas 2016, en el presente procedimiento no se entrará al análisis de las manifestaciones vertidas por Pegaso PCS y GTM. 
+
+Lo anterior no significa que el Instituto haya dejado de analizar todas y cada una de las manifestaciones realizadas por Pegaso PCS y GTM, sino que una respuesta detallada de las mismas en nada cambia el sentido de la presente Resolución, ante su inoperancia en los términos apuntados.
+Una vez analizadas las manifestaciones generales de las partes, en términos del artículo 129 de la LFTyR, se procede a resolver las condiciones no convenidas solicitadas por las partes.
+
+1. Factor de ajuste a la tarifa de interconexión para 2016 por variación en el tipo de cambio
+
+Pegaso PCS y GTM consideran como una condición no convenida la inclusión de una cláusula de ajuste a la tarifa de interconexión por variaciones en la inflación y el tipo de cambio utilizado para determinar la tarifa 2015 y 2016 por el Instituto.
+
+Señalan que la tarifa que resulta de la metodología de costos empleada por el Instituto considera costos unitarios en dólares a precios de un año determinado, por lo que es necesario incluir un mecanismo de ajuste para evitar que las variaciones en la inflación y el tipo de cambio considerados se traduzcan en desviaciones significativas del valor en pesos corrientes de la taifa respecto del costo efectivamente calculado por el Instituto, con base en la metodología utilizada. En consecuencia, proponen que el valor en pesos corrientes de la tarifa de terminación se pueda ajustar por el porcentaje de variación de la inflación anual o del tipo de cambio que exceda un rango de 5%.
+
+En ese orden de ideas, la inclusión de una cláusula de ajuste o actualización por depreciación o variación relevante en el tipo de cambio, resulta en un ejercicio regulatorio que apunta a dar mayor certeza y seguridad jurídica a la industria.
+Consideraciones del Instituto
+      
+Al respecto, el Instituto señala que el lineamiento Décimo Tercero de la Metodología de Costos, establece que:
+
+            "DÉCIMO TERCERO.- Los resultados del Modelo de Costos del Servicio de Interconexión relevante tendrán vigencia del 1º de enero al 31 de diciembre de cada año. El Instituto Federal de Telecomunicaciones podrá actualizar anualmente la información de la demanda de los servicios, los precios de los insumos empleados, el Costo de Capital Promedio Ponderado y el tipo de cambio utilizados en el Modelo de Costos del Servicio de Interconexión relevante para garantizar que refleje las condiciones del mercado."
+     
+En este sentido, el lineamiento antes citado señala que el Instituto podrá actualizar anualmente la información del Modelo de Costos, por lo que en apego al mismo y a efecto de generar certidumbre, el Instituto determinó en su XVI Sesión Ordinaria de Pleno, celebrada el 12 de agosto de 2015, las tarifas de interconexión aplicables para todo el año 2016, ordenamiento en el cual este Instituto actualizó los modelos incluyendo lo referente al tipo de cambio. 
+
+Ahora bien, como se señala en el antecedente V, en cumplimiento a lo determinado en el artículo 137 de la LFTyR, el Instituto determinó una sola tarifa aplicable a todos los concesionarios que presten el mismo servicio, con independencia de las variaciones en el tipo de cambio, lo cual es consistente además con el principio de no discriminación, toda vez que si se definiera una tarifa diferente para cada concesionario dependiendo del tipo de cambio vigente en ese momento, se tendrían tantas tarifas como desacuerdos se resolvieran cuando la función de terminación es la misma para todas las redes fijas y la misma para todas las redes móviles, por lo tanto las tarifas de interconexión materia del presente procedimiento son las que se determinan a continuación.
+
+2. Tarifas de Interconexión
+
+Argumentos de las partes
+
+En los inicios de negociación, Marcatel solicito a Pegaso PCS y GTM establecer las tarifas de interconexión que Marcatel deberá pagar por terminación móvil y fija a dichos concesionarios, respectivamente.
+
+Marcatel, en sus Solicitudes de Resolución, reiteró su petición al Instituto de determinar los términos y tarifas no convenidas con Pegaso PCS y GTM.
+
+Por otra parte, en la Respuesta de Pegaso PCS, dicho concesionario solicita determinar la tarifa de terminación en la red fija de Marcatel con base en costos y en lo establecido en la Regla Novena Transitoria de las RdSL y el artículo 127 fracción I de la LFTyR, aplicable a dicho concesionario por su calidad de operador del servicio local fijo. 
+
+Consideraciones del Instituto 
+
+Para la determinación de las tarifas de interconexión en las redes públicas de telecomunicaciones de Marcatel y Pegaso PCS y GTM, se debe considerar que la propia LFTyR establece el marco normativo y regulatorio aplicable para la fijación de las tarifas de interconexión. 
+A tal efecto, el artículo 131 de la LFTyR dispone lo siguiente:
+     
+            "Artículo 131. [...]
+            
+            [...]
+            
+            b) Para el tráfico que termine en la red de los demás concesionarios, la tarifa de interconexión será negociada libremente.
+            
+            El Instituto resolverá cualquier disputa respecto de las tarifas, términos y/o condiciones de los convenios de interconexión a que se refiere el inciso b) de este artículo, con base en la metodología de costos que determine, tomando en cuenta las asimetrías naturales de las redes a ser interconectadas, la participación de mercado o cualquier otro factor, fijando las tarifas, términos y/o condiciones en consecuencia.
+            Las tarifas que determine el Instituto con base en dicha metodología deberán ser transparentes, razonables y, en su caso, asimétricas, considerando la participación de mercado, los horarios de congestionamiento de red, el volumen de tráfico u otras que determine el Instituto.
+            
+            Las tarifas deberán ser lo suficientemente desagregadas para que el concesionario que se interconecte no necesite pagar por componentes o recursos de la red que no se requieran para que el servicio sea suministrado.
+            
+            [...]"
+
+En estricto cumplimiento al artículo citado, el Instituto publicó en el DOF el 18 de diciembre de 2014, la Metodología de Costos, misma que establece los principios básicos que se constituyen en reglas de carácter general a las cuales se deberá sujetar la autoridad reguladora al momento de elaborar los modelos de costos que calculen las tarifas de interconexión.
+
+En este orden de ideas, el artículo 137 de la LFTyR señala a la letra lo siguiente:
+
+            "Artículo 137. El Instituto publicará en el Diario Oficial de la Federación, en el último trimestre del año, las condiciones técnicas mínimas y las tarifas que hayan resultado de las metodologías de costos emitidas por el Instituto, mismas que estarán vigentes en el año calendario inmediato siguiente."
+            
+            
+En apego a dicha metodología y 7 en cumplimiento a lo establecido en el artículo 137, el Instituto publicó en el DOF el 1 de octubre de 2015 el Acuerdo de Tarifas 2016, el cual contiene las tarifas para los Servicios de Interconexión que han resultado de la Metodología de Costos, y que el Instituto utilizará para resolver los desacuerdos de interconexión en materia de tarifas aplicables del 1 de enero al 31 de diciembre del 2016.
+
+Cabe mencionar que dichos modelos de costos se derivan de la aplicación de una disposición administrativa de carácter general como lo es la Metodología de Costos, y el procedimiento llevado a cabo para su construcción ha sido debidamente descrito en el Acuerdo de Tarifas 2016.
+
+En consecuencia, las tarifas de interconexión, objeto del presente procedimiento, así como la tasación de las llamadas han sido debidamente publicitadas por la autoridad en el Acuerdo citado, mismo que al ser de conocimiento público hace innecesario su reproducción en el cuerpo de la presente resolución. 
+
+En tal virtud, la tarifa por los Servicios de Interconexión que Marcatel deberá pagar a GTM y que Pegaso PCS deberá pagar a Marcatel por los servicios de terminación del Servicio Local en usuarios fijos será la siguiente:
+
+ Del 1 de enero al 31 de diciembre de 2016, $0.003088 pesos M.N. por minuto de interconexión.
+      
+Asimismo, la tarifa que Marcatel deberá pagar a Pegaso PCS por los servicios de terminación del Servicio Local en usuarios móviles bajo la "El que llama paga", será la siguiente:
+
+ Del 1 de enero al 31 de diciembre de 2016, será de $0.1869 pesos M.N. por minuto de interconexión.
+
+El cálculo de las contraprestaciones se realizará con base en la duración real de las llamadas, sin redondear al minuto, debiendo para tal efecto sumar la duración de todas las llamadas completadas en el período de facturación correspondiente, medidas en segundos, y multiplicar los minutos equivalentes a dicha suma, por la tarifa correspondiente.
+
+Asimismo, las tarifas anteriores ya incluyen el costo correspondiente a los puertos necesarios para la interconexión.
+
+
+En virtud de los anterior y con el fin de que los términos, condiciones y tarifas de interconexión determinadas por este Instituto en la presente Resolución sean ofrecidos de manera no discriminatoria a los demás concesionarios que lo soliciten y que requieran servicios de interconexión, capacidades o funciones similares, el Pleno del Instituto estima conveniente poner la presente Resolución a disposición de los concesionarios. Para efectos de lo anterior y en términos de lo dispuesto por los artículos 129 fracción IX, 176, 177, fracción XV y 178 de la LFTyR, la presente Resolución será inscrita en el Registro Público de Telecomunicaciones a cargo del propio Instituto.
+
+Lo anterior, sin perjuicio de que Marcatel, GTM y Pegaso PCS formalicen los términos, condiciones y tarifas de interconexión que se ordenan a través de la presente Resolución y a tal efecto suscriban los convenios correspondientes. En tal sentido, dichos concesionarios, conjunta o separadamente, deberán inscribir el convenio de interconexión en el Registro Público de Telecomunicaciones, de conformidad con lo dispuesto por los artículos 128 y 177, fracción VII de la LFTyR.
+
+Con base en lo anterior y con fundamento en lo dispuesto por los artículos, 28, párrafo décimo quinto y décimo sexto de la Constitución Política de los Estados Unidos Mexicanos; 6, fracciones IV y VII 15, fracción X, 17, fracción I, 125, 128, 129, 131, inciso b, 176, 177 fracción VII, 178, 312 y 313 de la Ley Federal de Telecomunicaciones y Radiodifusión; 32, 35, fracción I, 36, 38, 39, 45 y 57 fracción I de la Ley Federal de Procedimiento Administrativo; 72 , 73, 197, 202, 203, 210-A y 218 del Código Federal de Procedimientos Civiles; y 4 fracción I y 6, fracción XXXVII del Estatuto Orgánico del Instituto Federal de Telecomunicaciones, el Pleno del Instituto Federal de Telecomunicaciones emite los siguientes:
+
+                                  RESOLUTIVOS
+
+PRIMERO.- La tarifa de interconexión que Marcatel Com, S.A. de C.V., deberá pagar a Grupo de Telecomunicaciones Mexicanas, S.A. de C.V., así como la que Pegaso PCS, S.A. de C.V., deberá pagar a Marcatel Com, S.A. de C.V., por servicios de terminación del Servicio Local en usuarios fijos, será la siguiente:
+
+ Del 1 de enero al 31 de diciembre de 2016, será de $0.003088 pesos M.N. por minuto de interconexión.
+    
+La tarifa anterior ya incluye el costo correspondiente a los puertos necesarios para la interconexión.
+
+Las contraprestaciones se calcularán sumando la duración de todas las llamadas completadas en el período de facturación correspondiente, medidas en segundos, y multiplicando los minutos equivalentes a dicha suma, por la tarifa correspondiente.
+
+SEGUNDO.- La tarifa de interconexión que Marcatel Com, S.A. de C.V., deberá pagar a Pegaso PCS, S.A de C.V. por servicios de terminación del Servicio Local en usuarios móviles bajo la modalidad "El que llama paga", será la siguiente:
+
+       Del 1 de enero al 31 de diciembre de 2016, será de $0.1869 pesos M.N. por minuto de interconexión.
+
+La tarifa anterior ya incluye el costo correspondiente a los puertos necesarios para la interconexión.
+
+Las contraprestaciones se calcularán sumando la duración de todas las llamadas completadas en el período de facturación correspondiente, medidas en segundos, y multiplicando los minutos equivalentes a dicha suma, por la tarifa correspondiente.
+
+TERCERO.- Dentro de los 10 (diez) días hábiles contados a partir del día siguiente en que surta efectos legales la notificación de la presente Resolución y con independencia de su obligación de cumplir con la prestación del servicio de interconexión conforme a las condiciones y tarifas establecidas en la presente Resolución, Marcatel Com, S.A. de C.V. y las empresas Grupo de Telecomunicaciones Mexicanas, S.A. de C.V. y Pegaso PCS, S.A. de C.V., deberán suscribir los convenios de interconexión respectivos de sus redes públicas de telecomunicaciones conforme a los términos y condiciones de la presente resolución y lo determinado en los Resolutivos PRIMERO y SEGUNDO de la presente Resolución. Celebrado el convenio correspondiente, deberán remitir conjunta o separadamente un ejemplar original o copia certificada del mismo a este Instituto Federal de Telecomunicaciones, para efectos de su inscripción en el Registro Público de Telecomunicaciones, dentro de los treinta (30) días hábiles siguientes a su celebración, de conformidad con los artículos 128, 176 y 177, fracción VII de la Ley Federal de Telecomunicaciones y Radiodifusión.
+
+CUARTO.- En cumplimiento a lo dispuesto en el artículo 3, fracción XV de la Ley Federal de Procedimiento Administrativo, en relación con los artículos 312 y 313 de la Ley Federal de Telecomunicaciones y Radiodifusión, se hace del conocimiento de la empresa Marcatel Com, S.A. de C.V. y  las empresas Grupo de Telecomunicaciones Mexicanas, S.A. de C.V. y Pegaso PCS, S.A. de C.V.,  que la presente Resolución constituye un acto administrativo definitivo y por lo tanto, procede interponer ante los Juzgados de Distrito Especializados en Materia de Competencia Económica, Radiodifusión y Telecomunicaciones, con residencia en el Distrito Federal y Jurisdicción territorial en toda la República, el juicio de amparo indirecto dentro del plazo de quince (15) días hábiles contado a partir de que surta efectos la notificación de la presente Resolución, en términos del artículo 17 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+
+QUINTO.- Notifíquese personalmente a los representantes legales de la empresa Marcatel Com, S.A. de C.V., así como de las empresas Grupo de Telecomunicaciones Mexicanas, S.A. de C.V. y Pegaso PCS, S.A. de C.V., el contenido de la presente Resolución, en términos de lo establecido en el artículo 129 fracción VIII de la Ley Federal de Telecomunicaciones y Radiodifusión.
+
+La presente Resolución fue aprobada por el Pleno del Instituto Federal de Telecomunicaciones en su IV Sesión Ordinaria celebrada el 17 de febrero de 2016, en lo general por unanimidad de votos de los Comisionados presentes Gabriel Oswaldo Contreras Saldívar, Luis Fernando Borjón Figueroa, Ernesto Estrada González, Adriana Sofía Labardini Inzunza, María Elena Estavillo Flores, Mario Germán Fromow Rangel y Adolfo Cuevas Teja.
+El Comisionado Luis Fernando Borjón Figueroa manifestó voto en contra de los Resolutivos Primero y Segundo; así como del Resolutivo Tercero en lo conducente a los Resolutivos Primero y Segundo. 
+La Comisionada María Elena Estavillo Flores manifestó su voto en contra del Resolutivo Primero en relación con la determinación de las tarifas 2016 y por no definir las tarifas de manera recíproca; del Resolutivo Segundo por lo que hace a la determinación de las tarifas 2016 y por apartarse de la modalidad "El que llama paga"; así como del Resolutivo Tercero en lo que se refiere a la celebración del convenio con las tarifas determinadas para 2016.
+El Comisionado Adolfo Cuevas Teja manifestó voto en contra de los Resolutivos Primero y Segundo por lo que hace a las tarifas establecidas; así como del Resolutivo Tercero, en lo referente a ordenar la celebración de los convenios de interconexión conforme a las tarifas señaladas en los Resolutivos Primero y Segundo.
+Lo anterior, con fundamento en los párrafos vigésimo, fracciones I y III; y vigésimo primero, del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos; artículos 7, 16 y 45 de la Ley Federal de Telecomunicaciones y Radiodifusión; así como en los artículos 1, 7, 8 y 12 del Estatuto Orgánico del Instituto Federal de Telecomunicaciones, mediante Acuerdo P/IFT/170216/37.

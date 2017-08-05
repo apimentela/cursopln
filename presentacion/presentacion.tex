@@ -783,8 +783,8 @@ carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbacksl
 \small
 \mbox{}\\
 carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbackslash{}\textbackslash{}Users\textbackslash{}\textbackslash{}user\textbackslash{}\textbackslash{}Desktop\textbackslash{}\textbackslash{}Documentos\textbackslash{}\textbackslash{}"{}}} \\
-\mbox{}archivo$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}P$\_$IFT$\_$290216$\_$73$\_$Acc.txt"{}}} \\
-\mbox{}palabra\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}México"{}}} \\
+\mbox{}archivo$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}Legales\textbackslash{}\textbackslash{}P$\_$IFT$\_$200416$\_$162$\_$Acc.txt"{}}} \\
+\mbox{}palabra\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}acuerdo"{}}} \\
 \mbox{} \\
 \mbox{}with\ \textbf{\textcolor{Black}{open}}\textcolor{BrickRed}{(}carpeta$\_$nombre\textcolor{BrickRed}{+}archivo$\_$nombre\textcolor{BrickRed}{,}\texttt{\textcolor{Red}{"{}r"{}}}\textcolor{BrickRed}{)}\ as\ archivo\textcolor{BrickRed}{:} \\
 \mbox{}\ \ \ \ \ \ \ \ texto\textcolor{BrickRed}{=}archivo\textcolor{BrickRed}{.}\textbf{\textcolor{Black}{read}}\textcolor{BrickRed}{()} \\
@@ -818,8 +818,8 @@ carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbacksl
 \small
 \mbox{}\\
 carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbackslash{}\textbackslash{}Users\textbackslash{}\textbackslash{}user\textbackslash{}\textbackslash{}Desktop\textbackslash{}\textbackslash{}Documentos\textbackslash{}\textbackslash{}"{}}} \\
-\mbox{}archivo$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}P$\_$IFT$\_$290216$\_$73$\_$Acc.txt"{}}} \\
-\mbox{}palabra\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}algo"{}}} \\
+\mbox{}archivo$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}Legales\textbackslash{}\textbackslash{}P$\_$IFT$\_$200416$\_$162$\_$Acc.txt"{}}} \\
+\mbox{}palabra\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}ACUERDO"{}}} \\
 \mbox{} \\
 \mbox{}with\ \textbf{\textcolor{Black}{open}}\textcolor{BrickRed}{(}carpeta$\_$nombre\textcolor{BrickRed}{+}archivo$\_$nombre\textcolor{BrickRed}{,}\texttt{\textcolor{Red}{"{}r"{}}}\textcolor{BrickRed}{)}\ as\ archivo\textcolor{BrickRed}{:} \\
 \mbox{}\ \ \ \ \ \ \ \ texto\textcolor{BrickRed}{=}archivo\textcolor{BrickRed}{.}\textbf{\textcolor{Black}{read}}\textcolor{BrickRed}{()} \\
@@ -853,8 +853,8 @@ carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbacksl
 \ttfamily
 \small
 \mbox{}\\
-\mbox{}palabra1\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}acuerda"{}}} \\
-\mbox{}palabra2\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}ACUERDA"{}}} \\
+\mbox{}palabra1\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}ACUERDO"{}}} \\
+\mbox{}palabra2\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}RESOLUCIÓN"{}}} \\
 \mbox{} \\
 \mbox{}with\ \textbf{\textcolor{Black}{open}}\textcolor{BrickRed}{(}carpeta$\_$nombre\textcolor{BrickRed}{+}archivo$\_$nombre\textcolor{BrickRed}{,}\texttt{\textcolor{Red}{"{}r"{}}}\textcolor{BrickRed}{)}\ as\ archivo\textcolor{BrickRed}{:} \\
 \mbox{}\ \ \ \ \ \ \ \ texto\textcolor{BrickRed}{=}archivo\textcolor{BrickRed}{.}\textbf{\textcolor{Black}{read}}\textcolor{BrickRed}{()} \\
@@ -885,7 +885,10 @@ carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbacksl
 \frame{
 \frametitle{Ejercicio}
 \begin{itemize}
-	\item Modifiquen el ejemplo anterior para que el programa les indique específicamente cuál palabra fue la que encontró.
+	\item Modifiquen el ejemplo anterior para que el programa les indique si el documento es un acuerdo, una resolución o si es otra cosa.
+	\begin{itemize}
+	\item Utilicen la variable. Es decir, si intercambian el contenido de {\tt\textbf{palabra1}} y {\tt\textbf{palabra2}} su programa debe seguir indicando correctamente qué tipo de documento es.
+\end{itemize}
 \end{itemize}
 }
 
@@ -985,11 +988,11 @@ longitud$\_$lista\textcolor{BrickRed}{=}\textbf{\textcolor{Black}{len}}\textcolo
 	\item Una forma muy intuitiva de manejar archivos, es por líneas. Python sabe, por supuesto, leer un archivo por líneas y ponerlas en una lista:
 \end{itemize}
 \colorbox{source}{\parbox{\textwidth}{
-\small
+\footnotesize
 \ttfamily
 \mbox{}\\
-carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbackslash{}\textbackslash{}Users\textbackslash{}\textbackslash{}user\textbackslash{}\textbackslash{}Desktop\textbackslash{}\textbackslash{}Documentos\textbackslash{}\textbackslash{}"{}}} \\
-\mbox{}archivo$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}P$\_$IFT$\_$290216$\_$73$\_$Acc.txt"{}}} \\
+carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbackslash{}\textbackslash{}Users\textbackslash{}\textbackslash{}user\textbackslash{}\textbackslash{}Desktop\textbackslash{}\textbackslash{}Documentos\textbackslash{}\textbackslash{}Legales\textbackslash{}\textbackslash{}"{}}} \\
+\mbox{}archivo$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}DOF$\_$P$\_$IFT$\_$290216$\_$71$\_$Datos$\_$Relevantes$\_$Acc.txt"{}}} \\ 
 \mbox{} \\
 \mbox{}with\ \textbf{\textcolor{Black}{open}}\textcolor{BrickRed}{(}carpeta$\_$nombre\textcolor{BrickRed}{+}archivo$\_$nombre\textcolor{BrickRed}{,}\texttt{\textcolor{Red}{"{}r"{}}}\textcolor{BrickRed}{)}\ as\ archivo\textcolor{BrickRed}{:} \\
 \mbox{}\ \ \ \ \ \ \ \ lineas\_lista\textcolor{BrickRed}{=}archivo\textcolor{BrickRed}{.}\textbf{\textcolor{Black}{readlines}}\textcolor{BrickRed}{()} \\
@@ -997,6 +1000,9 @@ carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbacksl
 \mbox{}\textbf{\textcolor{Blue}{print}}\textcolor{BrickRed}{(}lineas\_lista\textcolor{BrickRed}{)} \\
 \mbox{}
 }}
+\begin{itemize}
+	\item Muchos documentos tienen cierta estructura, e información separada en líneas, como las listas o las tablas.
+\end{itemize}
 }
 
 
@@ -1013,17 +1019,18 @@ carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbacksl
 	\item Por ejemplo, podemos hacer que para cada línea de un archivo Python la escriba en la pantalla:
 \end{itemize}
 \colorbox{source}{\parbox{\textwidth}{
-\small
+\footnotesize
 \ttfamily
 \mbox{}\\
-carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbackslash{}\textbackslash{}Users\textbackslash{}\textbackslash{}user\textbackslash{}\textbackslash{}Desktop\textbackslash{}\textbackslash{}Documentos\textbackslash{}\textbackslash{}"{}}} \\
-\mbox{}archivo$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}P$\_$IFT$\_$290216$\_$73$\_$Acc.txt"{}}} \\
+carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbackslash{}\textbackslash{}Users\textbackslash{}\textbackslash{}user\textbackslash{}\textbackslash{}Desktop\textbackslash{}\textbackslash{}Documentos\textbackslash{}\textbackslash{}Legales\textbackslash{}\textbackslash{}"{}}} \\
+\mbox{}archivo$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}DOF$\_$P$\_$IFT$\_$290216$\_$71$\_$Datos$\_$Relevantes$\_$Acc.txt"{}}} \\ 
 \mbox{} \\
 \mbox{}with\ \textbf{\textcolor{Black}{open}}\textcolor{BrickRed}{(}carpeta$\_$nombre\textcolor{BrickRed}{+}archivo$\_$nombre\textcolor{BrickRed}{,}\texttt{\textcolor{Red}{"{}r"{}}}\textcolor{BrickRed}{)}\ as\ archivo\textcolor{BrickRed}{:} \\
 \mbox{}\ \ \ \ \ \ \ \ lineas\_lista\textcolor{BrickRed}{=}archivo\textcolor{BrickRed}{.}\textbf{\textcolor{Black}{readlines}}\textcolor{BrickRed}{()} \\
 \mbox{} \\
 \mbox{}\textbf{\textcolor{Blue}{for}}\ linea\ \textbf{\textcolor{Blue}{in}}\ lineas\_lista\textcolor{BrickRed}{:} \\
 \mbox{}\ \ \ \ \ \ \ \ \textbf{\textcolor{Blue}{print}}\textcolor{BrickRed}{(}linea\textcolor{BrickRed}{)} \\
+\mbox{}\ \ \ \ \ \ \ \ \textbf{\textcolor{Blue}{print}}\textcolor{BrickRed}{(}\textcolor{BrickRed}{)} \\
 \mbox{}
 }}
 }
@@ -1048,7 +1055,7 @@ carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbacksl
 \ttfamily
 \mbox{}\\
 \texttt{\textcolor{Black}{01:}} carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbackslash{}\textbackslash{}Users\textbackslash{}\textbackslash{}user\textbackslash{}\textbackslash{}Desktop\textbackslash{}\textbackslash{}Documentos\textbackslash{}\textbackslash{}"{}}} \\
-\mbox{}\texttt{\textcolor{Black}{02:}} archivo$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}P$\_$IFT$\_$290216$\_$73$\_$Acc.txt"{}}} \\
+\mbox{}\texttt{\textcolor{Black}{02:}} archivo$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}Libros\textbackslash{}\textbackslash{}texto$\_$291.txt"{}}} \\
 \mbox{}\texttt{\textcolor{Black}{03:}}  \\
 \mbox{}\texttt{\textcolor{Black}{04:}} with\ \textbf{\textcolor{Black}{open}}\textcolor{BrickRed}{(}carpeta$\_$nombre\textcolor{BrickRed}{+}archivo$\_$nombre\textcolor{BrickRed}{,}\texttt{\textcolor{Red}{"{}r"{}}}\textcolor{BrickRed}{)}\ as\ archivo\textcolor{BrickRed}{:} \\
 \mbox{}\texttt{\textcolor{Black}{05:}} \ \ \ \ \ \ \ \ lineas\_lista\textcolor{BrickRed}{=}archivo\textcolor{BrickRed}{.}\textbf{\textcolor{Black}{readlines}}\textcolor{BrickRed}{()} \\
@@ -1095,25 +1102,26 @@ carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbacksl
 \ttfamily
 \mbox{}\\
 carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbackslash{}\textbackslash{}Users\textbackslash{}\textbackslash{}user\textbackslash{}\textbackslash{}Desktop\textbackslash{}\textbackslash{}Documentos\textbackslash{}\textbackslash{}"{}}} \\
-\mbox{}archivo$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}P$\_$IFT$\_$290216$\_$73$\_$Acc.txt"{}}} \\
+\mbox{}archivo$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}Libros\textbackslash{}\textbackslash{}texto$\_$291.txt"{}}} \\
 \mbox{} \\
 \mbox{}with\ \textbf{\textcolor{Black}{open}}\textcolor{BrickRed}{(}carpeta$\_$nombre\textcolor{BrickRed}{+}archivo$\_$nombre\textcolor{BrickRed}{,}\texttt{\textcolor{Red}{"{}r"{}}}\textcolor{BrickRed}{)}\ as\ archivo\textcolor{BrickRed}{:} \\
-\mbox{}\ \ \ \ lineas\_lista\textcolor{BrickRed}{=}archivo\textcolor{BrickRed}{.}\textbf{\textcolor{Black}{readlines}}\textcolor{BrickRed}{()} \\
+\mbox{}\ \ \ \ \ \ \ \ lineas$\_$lista\textcolor{BrickRed}{=}archivo\textcolor{BrickRed}{.}\textbf{\textcolor{Black}{readlines}}\textcolor{BrickRed}{()} \\
 \mbox{} \\
 \mbox{}num$\_$linea\textcolor{BrickRed}{=}\textcolor{Purple}{1} \\
-\mbox{}\textbf{\textcolor{Blue}{for}}\ linea\ \textbf{\textcolor{Blue}{in}}\ lineas\_lista\textcolor{BrickRed}{:} \\
-\mbox{}\ \ \ \ \textbf{\textcolor{Blue}{if}}\ \texttt{\textcolor{Red}{"{}."{}}}\ \textbf{\textcolor{Blue}{in}}\ linea\textcolor{BrickRed}{:} \\
-\mbox{}\ \ \ \ \ \ \ \ \textbf{\textcolor{Blue}{print}}\textcolor{BrickRed}{(}\texttt{\textcolor{Red}{"{}La\ línea"{}}}\textcolor{BrickRed}{,}num$\_$linea\textcolor{BrickRed}{,}\texttt{\textcolor{Red}{"{}contiene\ al\ menos\ un\ punto."{}}}\textcolor{BrickRed}{)} \\
-\mbox{}\ \ \ \ num$\_$linea\textcolor{BrickRed}{=}num$\_$linea\textcolor{BrickRed}{+}\textcolor{Purple}{1} \\
-\mbox{}\ \ \ \  \\
-\mbox{}\textbf{\textcolor{Blue}{print}}\textcolor{BrickRed}{(}\texttt{\textcolor{Red}{"{}\textbackslash{}nLas\ otras\ líneas\ no\ tienen\ puntos"{}}}\textcolor{BrickRed}{)} \\
+\mbox{}\textbf{\textcolor{Blue}{for}}\ linea\ \textbf{\textcolor{Blue}{in}}\ lineas$\_$lista\textcolor{BrickRed}{:} \\
+\mbox{}\ \ \ \ \ \ \ \ \textbf{\textcolor{Blue}{if}}\ linea\ \textcolor{BrickRed}{==}\ \texttt{\textcolor{Red}{"{}\textbackslash{}n"{}}}\textcolor{BrickRed}{:} \\
+\mbox{}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \textbf{\textcolor{Blue}{continue}} \\
+\mbox{}\ \ \ \ \ \ \ \ \textbf{\textcolor{Blue}{print}}\textcolor{BrickRed}{(}\texttt{\textcolor{Red}{"{}LINEA"{}}}\textcolor{BrickRed}{,}num$\_$linea\textcolor{BrickRed}{,}\texttt{\textcolor{Red}{"{}:"{}}}\textcolor{BrickRed}{,}linea\textcolor{BrickRed}{)} \\
+\mbox{}\ \ \ \ \ \ \ \ num$\_$linea\textcolor{BrickRed}{=}num$\_$linea\textcolor{BrickRed}{+}\textcolor{Purple}{1} \\ \\
+\mbox{}\textbf{\textcolor{Blue}{print}}\textcolor{BrickRed}{(}\texttt{\textcolor{Red}{"{}FIN\ DE\ ARCHIVO"{}}}\textcolor{BrickRed}{)} \\
 \mbox{}
 }}
 }
 \note{
+\footnotesize
 \begin{itemize}
-	\item ¿Si recuerdan la instrucción {\tt \textbf{in}}?. Es una instrucción que verifica si un texto contiene otro, en este caso, si hay un {\tt "{}."{}} dentro de {\tt \textbf{linea}}.
-	\item La instrucción {\tt \textbf{in}} regresa un valor de verdadero/falso por lo que podemos usar la instrucción {\tt \textbf{if}} para hacer una serie de instrucciones si es que efectivamente hay un punto dentro de la línea.
+	\item Se introduce la instrucción {\tt\textbf{continue}}. Es una instrucción que se salta un ciclo del bucle, es decir, pasa a la siguiente iteración sin seguir viendo lo que va después de su aparición.
+	\item Como podrán ver en el programa, cuando una línea está vacía, es decir, cuando solo tiene un salto de línea ({\tt\textbf{\textbackslash{}n}}) las instrucciones que aparecen después de la instrucción {\tt\textbf{continue}} ya no se ejecutan. Sin embargo lo que aparezca ANTES de la instrucción SI se ejecuta (no se salta TODO el ciclo).
 	\item La instrucción {\tt \textbf{if}} tiene su propio bloque de instrucciones, pero todo está dentro del bloque de instrucciones del {\tt \textbf{for}} y no hay ningún problema, es válido.
 	\item Noten, sin embargo, que la sangría si se distingue, todo lo que está dentro del bloque del la instrucción {\tt \textbf{for}} está a un nivel, incluyendo al la instrucción {\tt \textbf{if}}, pero todo lo que está dentro del bloque del la instrucción {\tt \textbf{if}} está un nivel más abajo, por lo tanto tiene aún más sangría.
 \end{itemize}
@@ -1126,8 +1134,8 @@ carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbacksl
 Por orden de dificultad, modifiquen el programa para que:
 \begin{itemize}
 	\item Cuente las líneas que contiene el archivo y lo indique.
-	\item Cuando encuentre una línea que NO contenga punto, indique que esa línea no tiene punto.
-	\item Muestre cuántas líneas tienen punto y cuántas no.
+	\item Cuando encuentre una línea que NO contenga texto, indique que esa línea esta vacía.
+	\item Muestre cuántas líneas tienen texto y cuántas no.
 \end{itemize}
 }
 
@@ -1144,7 +1152,7 @@ No solo las oraciones se pueden manejar en listas:
 \mbox{}\\
 \textbf{\textcolor{RoyalBlue}{import}}\ os \\
 \mbox{} \\
-\mbox{}carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbackslash{}\textbackslash{}Users\textbackslash{}\textbackslash{}user\textbackslash{}\textbackslash{}Desktop\textbackslash{}\textbackslash{}Documentos\textbackslash{}\textbackslash{}"{}}} \\
+\mbox{}carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbackslash{}\textbackslash{}Users\textbackslash{}\textbackslash{}user\textbackslash{}\textbackslash{}Documentos\textbackslash{}\textbackslash{}Legales\textbackslash{}\textbackslash{}"{}}} \\
 \mbox{} \\
 \mbox{}archivos$\_$lista\textcolor{BrickRed}{=}os\textcolor{BrickRed}{.}\textbf{\textcolor{Black}{listdir}}\textcolor{BrickRed}{(}carpeta$\_$nombre\textcolor{BrickRed}{)} \\
 \mbox{} \\
@@ -1170,7 +1178,7 @@ No solo las oraciones se pueden manejar en listas:
 \mbox{}\\
 \textbf{\textcolor{RoyalBlue}{import}}\ os \\
 \mbox{} \\
-\mbox{}carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbackslash{}\textbackslash{}Users\textbackslash{}\textbackslash{}user\textbackslash{}\textbackslash{}Desktop\textbackslash{}\textbackslash{}Documentos\textbackslash{}\textbackslash{}"{}}} \\
+\mbox{}carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbackslash{}\textbackslash{}Users\textbackslash{}\textbackslash{}user\textbackslash{}\textbackslash{}Documentos\textbackslash{}\textbackslash{}Legales\textbackslash{}\textbackslash{}"{}}} \\
 \mbox{} \\
 \mbox{}archivos$\_$lista\textcolor{BrickRed}{=}os\textcolor{BrickRed}{.}\textbf{\textcolor{Black}{listdir}}\textcolor{BrickRed}{(}carpeta$\_$nombre\textcolor{BrickRed}{)} \\
 \mbox{} \\
@@ -1197,7 +1205,7 @@ No solo las oraciones se pueden manejar en listas:
 \mbox{}\\
 \textbf{\textcolor{RoyalBlue}{import}}\ os \\
 \mbox{} \\
-\mbox{}carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbackslash{}\textbackslash{}Users\textbackslash{}\textbackslash{}user\textbackslash{}\textbackslash{}Desktop\textbackslash{}\textbackslash{}Documentos\textbackslash{}\textbackslash{}"{}}} \\
+\mbox{}carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbackslash{}\textbackslash{}Users\textbackslash{}\textbackslash{}user\textbackslash{}\textbackslash{}Documentos\textbackslash{}\textbackslash{}Legales\textbackslash{}\textbackslash{}"{}}} \\
 \mbox{}archivos$\_$lista\textcolor{BrickRed}{=}os\textcolor{BrickRed}{.}\textbf{\textcolor{Black}{listdir}}\textcolor{BrickRed}{(}carpeta$\_$nombre\textcolor{BrickRed}{)} \\
 \mbox{} \\
 \mbox{}\textbf{\textcolor{Blue}{for}}\ archivo$\_$nombre\ \textbf{\textcolor{Blue}{in}}\ archivos$\_$lista\textcolor{BrickRed}{:} \\
@@ -1211,6 +1219,22 @@ No solo las oraciones se pueden manejar en listas:
 }
 
 
+\frame{
+\frametitle{Ejercicio}
+Es común que se quieran analizar documentos relacionados como si fueran uno solo, ya sea que sean documentos del mismo autor, mismo tema, o alguna característica común.
+
+Nosotros tenemos documentos legales del Instituto Federal de Telecomunicaciones, el ejercicio consiste en:
+\begin{itemize}
+	\item Obtener un documento (por ejemplo "{}{\tt\textbf{UNION.txt}}"{}) que contenga la unión de todos los documentos de la carpeta {\tt\textbf{Legales}}
+	\begin{itemize}
+	\item Recuerden que pueden hacer iteraciones sobre sus documentos.
+	\item Utilicen una variable para ir acumulando el texto de los documentos.
+	\item Recuerden que pueden concatenar texto con el operador `{\tt\textbf{+}}'
+\end{itemize}
+\end{itemize}
+}
+
+\section{Segmentacion}
 
 \subsection{Palabras}
 

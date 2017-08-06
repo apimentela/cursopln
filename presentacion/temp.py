@@ -1,4 +1,4 @@
-carpeta_nombre="/home/alejandro/cursopln/presentacion/"
+carpeta_nombre="/home/alejandro/cursopln/presentacion/Documentos/"
 archivo_nombre="P_IFT_290216_73_Acc.txt"
 
 import os
@@ -7,7 +7,7 @@ import nltk
 
 #~ carpeta_nombre="C:\\Users\\user\\Desktop\\Documentos\\"
 #~ archivo_nombre="Legales/DOF_P_IFT_290216_71_Datos_Relevantes_Acc.txt"
-archivo_nombre="Libros/texto_291.txt"
+archivo_nombre="DOF_P_IFT_291116_672_Acc.txt"
 #~ archivo_nombre="COMPENDIO.txt"
 
 with open(carpeta_nombre+archivo_nombre,"r") as archivo:
@@ -15,10 +15,17 @@ with open(carpeta_nombre+archivo_nombre,"r") as archivo:
 
 num_linea=1
 for linea in lineas_lista:
-	if linea == "\n":
+	linea=linea.strip()
+	if linea == "":
 		continue
 	print("LINEA",num_linea,":",linea)
 	num_linea=num_linea+1
+	
+#~ for linea in lineas_lista:
+	#~ print("LINEA",num_linea,":",linea)
+	#~ num_linea=num_linea+1
+
+
 	
 #~ palabras_funcionales=nltk.corpus.stopwords.words("spanish")
 

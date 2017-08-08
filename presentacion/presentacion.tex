@@ -1,5 +1,6 @@
-\documentclass[notes,
-handout,usenames,dvipsnames] {beamer}
+\documentclass[%notes,
+%handout,
+usenames,dvipsnames] {beamer}
 \usepackage{booktabs}
 \usepackage{gensymb}
 \usepackage{lmodern}
@@ -8,6 +9,11 @@ handout,usenames,dvipsnames] {beamer}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage{textcomp}
+
+
+\usepackage{pgfpages}
+\setbeameroption{show notes on second screen}
+\setbeamertemplate{navigation symbols}{}
 
 \graphicspath{{./graphics/}}
 \usecolortheme{whale}
@@ -747,8 +753,7 @@ carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbacksl
 \mbox{}\textit{\textcolor{Brown}{\#\ El\ programa\ continúa\ acá...}} \\
 \mbox{}
 }}
-}
-\note{
+\note<1>{
 \begin{itemize}
 	\item Notarán que las instrucciones están "{}invertidas"{}
 	\item La variable {\tt \textbf{archivo}} se está asignando sin un igual, debido a la instrucción {\tt \textbf{with}}
@@ -756,7 +761,7 @@ carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbacksl
 	\item Otra forma de verlo, es que la instrucción {\tt \textbf{with}} asigna temporalmente una variable, en este caso, es como si tuviéramos: {\tt \textbf{archivo = open(...)}} pero únicamente válido por el bloque que sigue, es por eso que con esta forma no se necesita cerrar el archivo, se hace solo.
 \end{itemize}
 }
-\note{
+\note<2>{
 \begin{itemize}
 	\item Este ejemplo sirve para mostrar otro asunto incluso más importante.
 	\item El sangrado, mejor conocido como indentación.
@@ -765,6 +770,8 @@ carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbacksl
 	\item Si se regresa de nuevo a escribir código sin sangría (como el comentario del final) quiere decir que eso ya está fuera del bloque, en este caso, en ese lugar ya no: {\tt \textbf{archivo = open(...)}}.
 \end{itemize}
 }
+}
+
 
 
 
@@ -939,7 +946,7 @@ semana$\_$laboral\textcolor{BrickRed}{[}\textcolor{Purple}{4}\textcolor{BrickRed
 
 
 
-\frame{
+\frame<1-2>{
 \frametitle{Listas}
 \begin{itemize}
 	\item Las listas tienen una serie de comandos propios que es muy útil tener en cuenta:
@@ -964,19 +971,19 @@ longitud$\_$lista\textcolor{BrickRed}{=}\textbf{\textcolor{Black}{len}}\textcolo
 \mbox{}\textbf{\textcolor{Blue}{print}}\textcolor{BrickRed}{(}\texttt{\textcolor{Red}{"{}Semana\ laboral\ (sin\ \textbackslash{}"{}Viernes\textbackslash{}"{}))\ ="{}}}\textcolor{BrickRed}{,}semana$\_$laboral\textcolor{BrickRed}{)} \\
 \mbox{}
 }}
-}
-\note{
+\note<1>{
 \begin{itemize}
 	\item Noten que la función {\tt \textbf{len()}} regresa el tamaño de una lista, es decir, cuántos elementos contiene, en este caso, la lista tiene 5. Pero RECUERDEN que los índices de la lista comienzan en cero, entonces el último elemento tiene el índice 4. es decir, el valor que dice la función {\tt \textbf{len()}} -1.
 	\item La función {\tt \textbf{index()}} de la lista sirve para obtener el lugar de un elemento dentro de ella misma.Sí utilizan el resultado con los corchetes (como en {\tt \textbf{semana\_laboral[x]}}) obtendrán el mismo valor.
 	\item La función {\tt \textbf{append()}} de las listas se usa para agregar valores a la lista (se agregan al final de la lista). Pueden usar nuevamente la función {\tt \textbf{len()}} para ver que la lista crece.
 \end{itemize}
 }
-\note{
+\note<2>{
 \begin{itemize}
 	\item El comando {\tt \textbf{del}} se usa para eliminar un elemento de la lista. Tengan cuidado, si en lugar de colocar el elemento (con índice) y colocan solo el nombre de la lista, se borrará la lista completa.
 	\item La función {\tt \textbf{remove()}} de las listas, se usa para eliminar un elemento de la lista según su valor (a diferencia de {\tt \textbf{del}} que usa el índice). Nota: se va a eliminar solo la primera aparición, si tienen el valor repetido, no se borrarán todos.
 \end{itemize}
+}
 }
 
 
@@ -1044,7 +1051,7 @@ carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbacksl
 
 
 
-\frame{
+\frame<1-3>{
 \frametitle{Bucles}
 \framesubtitle{`for'}
 \begin{itemize}
@@ -1068,26 +1075,27 @@ carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbacksl
 \mbox{}\texttt{\textcolor{Black}{12:}} \textbf{\textcolor{Blue}{print}}\textcolor{BrickRed}{(}\texttt{\textcolor{Red}{"{}FIN\ DE\ ARCHIVO"{}}}\textcolor{BrickRed}{)} \\
 \mbox{}
 }}
-}
-\note{
+\note<1>{
 \begin{itemize}
 	\item ¿Qué está ocurriendo aquí? Este programa muestra el documento en pantalla, pero precede a cada línea con texto que indica el número de línea que es. Esta vez les puse las líneas del ejemplo enumeradas para que sea mas sencillo de seguir.
 	\item En las líneas 1 y 2 se están definiendo la ruta y el nombre del archivo con el que vamos a trabajar, ya hemos visto bastante esto. En las líneas 4 y 5 abrimos y leemos el archivo, también seguramente tenemos esto ya dominado. A partir de este momento, la variable {\tt \textbf{lineas}} contiene una lista con todas las líneas del archivo.
 	\item En la línea 7 se define la variable {\tt \textbf{num\_linea}}. Su objetivo es indicar el número de la línea del texto que se está leyendo, comenzaremos en la línea 1, por eso su valor inicial es 1. Ese valor cambiará dentro del bucle.
 \end{itemize}
 }
-\note{
+\note<2>{
 \begin{itemize}
 	\item De las líneas 8 a 10 se encuentra nuestro bucle, en la línea 8 tenemos la instrucción {\tt \textbf{for}}, que nos indica que se va a recorrer la lista {\tt \textbf{lineas}} y que dentro del bloque de instrucciones, el elemento que se esté manejando se va a llamar {\tt \textbf{linea}}.
 	\item En la línea 9 tenemos la función {\tt \textbf{print()}}, que va a mostrar en pantalla el texto: {\tt "{}LINEA"{}}, seguido de la variable {\tt \textbf{num\_linea}} (recordemos que tiene el valor 1, es decir va a mostrar: {\tt "{}LINEA 1"{}}, seguido de dos puntos, seguido del contenido de la varible {\tt \textbf{linea}} (es decir, del texto que tenga la línea que se esté procesando en ese paso del bucle).
 \end{itemize}
 }
-\note{
+\note<3>{
 \begin{itemize}
 	\item En la línea 10 se le asigna a la variable {\tt \textbf{num\_linea}} el valor que tenía más uno. Es decir, se incrementa {\tt \textbf{num\_linea}}, eso quiere decir que para el siguiente paso del bucle, en lugar de ser 1, va a ser 2! Además, en el siguiente paso del bucle se volverá a incrementar, por lo que para el tercer paso será 3 y así sucesivamente.
 	\item Por último, en la línea 12 se muestra en pantalla el texto: {\tt "{}FIN DE ARCHIVO"{}}. Este texto se encuentra fuera del bucle, y el programa no llegará a ese punto hasta haber terminado los ciclos. Ese mensaje lo veremos al final de todas las líneas del texto.
 \end{itemize}
 }
+}
+
 
 
 
@@ -1364,7 +1372,7 @@ carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbacksl
 
 
 
-\frame{
+\frame<1-2>{
 \frametitle{Tokenización}
 \framesubtitle{forma básica}
 \colorbox{source}{\parbox{\textwidth}{
@@ -1388,8 +1396,7 @@ carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbacksl
 \mbox{}\ \ \ \ \ \ \ \ \textbf{\textcolor{Blue}{print}}\textcolor{BrickRed}{(}palabra\textcolor{BrickRed}{)} \\
 \mbox{}
 }}
-}
-\note{
+\note<1>{
 \begin{itemize}
 	\item Analicemos este programa.
 	\item La primera parte consiste en ubicar nuestro archivo, abrirlo, leerlo y almacenar el texto en la variable {\tt \textbf{texto}}, hasta aquí hemos visto esto repetidas veces.
@@ -1398,13 +1405,15 @@ carpeta$\_$nombre\textcolor{BrickRed}{=}\texttt{\textcolor{Red}{"{}C:\textbacksl
 	\item Dentro de ese bucle, usamos una nueva función, la función {\tt \textbf{replace()}} de los textos (las variables de tipo texto las tienen) y es un equivalente a un "{}buscar y reemplazar"{}, si pueden notar, tiene de entrada dos argumentos, el primero es lo que debe buscar, el segundo, con lo que debe reemplazar.
 \end{itemize}
 }
-\note{
+\note<2>{
 \begin{itemize}
 	\item Nuestra función {\tt\textbf{replace()}} cambia todos los símbolos para que estén rodeados de espacios.
 	\item De esta manera, la función {\tt \textbf{split()}} los separará como si se trataran de otras palabras.
 	\item La última parte del código ya la vimos en el ejemplo anterior, se separa (con la función {\tt \textbf{split()}}) el texto usando todos espacios como puntos de corte dentro de una lista. Se ordena la lista en orden alfabético, y se muestra en pantalla elemento por elemento.
 \end{itemize}
 }
+}
+
 
 
 
@@ -1644,7 +1653,7 @@ expresion$\_$regular\textcolor{BrickRed}{=}re\textcolor{BrickRed}{.}\textbf{\tex
 
 
 
-\frame{
+\frame<1-2>{
 \frametitle{Expresiones regulares}
 \begin{itemize}
 	\item Acabamos de ver como funciona el asterisco junto con el punto, pero también funciona con letras, aquí les presento un ejemplo un tanto más confuso en su salida.
@@ -1670,20 +1679,21 @@ expresion$\_$regular\textcolor{BrickRed}{=}re\textcolor{BrickRed}{.}\textbf{\tex
 \mbox{}\ \ \ \ \ \ \ \ \textbf{\textcolor{Blue}{print}}\textcolor{BrickRed}{(}resultado\textcolor{BrickRed}{.}\textbf{\textcolor{Black}{group}}\textcolor{BrickRed}{(}\textcolor{Purple}{0}\textcolor{BrickRed}{))} \\
 \mbox{}
 }}
-}
-\note{
+\note<1>{
 \begin{itemize}
 	\item Este programa los puede confundir un poco, verán que en primer programa, no aparece NADA, mientras que en segundo programa, aparecen muchísimas líneas vacías con alguna que otra `I' por allí, e incluso varias repeticiones de `I's.
 	\item ¿Qué es lo que está pasando? El asterisco sirve para encontrar cualquier número de repeticiones, de `I' en este caso, pero eso incluye 0 repeticiones.
 	\item Para el primer ejemplo, eso quiere decir que si al inicio no encuentra una `I', no importa, porque pueden ser 0, así que ya terminó.
 \end{itemize}
 }
-\note{
+\note<2>{
 \begin{itemize}
 	\item Alguien podría notar que entonces, eso también aplicaría para el ejemplo del punto con asterisco, que siempre que se use un asterisco el resultado podría estar vacío. Eso es parcialmente cierto, pero las expresiones regulares SIEMPRE buscan el resultado más largo que puedan obtener.
 	\item En el segundo programa, aparecen muchas líneas vacías (replicando el comportamiento del primer programa para cada letra diferente de `I'). Pero cuando si aparece una `I', el programa va a regresar TODAS las que estén juntas, no se limitará solo a encontrarlas, es por eso que verán algunas apariciones de varias `I's juntas.
 \end{itemize}
 }
+}
+
 
 
 
@@ -2134,7 +2144,7 @@ Así que, qué hace este programa?
 
 
 
-\frame{
+\frame<1-2>{
 \frametitle{Expresiones regulares}
 \small
 \begin{itemize}
@@ -2150,21 +2160,22 @@ expresion$\_$regular\textcolor{BrickRed}{=}re\textcolor{BrickRed}{.}\textbf{\tex
 \mbox{}\textbf{\textcolor{Blue}{print}}\textcolor{BrickRed}{(}texto$\_$nuevo\textcolor{BrickRed}{)} \\
 \mbox{}
 }}
-}
-\note{
+\note<1>{
 \begin{itemize}
 	\item La función {\tt\textbf{sub()}} tiene dos parametros (dos datos de entrada separados por una coma) el primero es la expresión con la que se quiere reemplazar la expresión regular definida (definida con la función {\tt\textbf{compile()}} esto ya lo hemos visto). Y el segundo es el texto sobre el que se quiere hacer la sustitución.
 	\item Para poder utilizar el grupo {\tt\textbf{\textbackslash{}1}} en la sustitución, tenemos que usar paréntesis, en esta ocasión, alrededor de toda la expresión.
 	\item Este programa lo que está haciendo es buscar  signos de puntuación (en realidad estamos buscando cosas diferentes a contenidos de palabras o espacios, y con eso prácticamente solo quedan símbolos) a los que no les sigan ni letras mayúsculas ni dígitos (un símbolo seguido de una letra mayúscula o un dígito puede significar siglas, abreviaturas o números).
 \end{itemize}
 }
-\note{
+\note<2>{
 \begin{itemize}
 	\item Una vez que encuentra esos signos (presuntamente que no están ni entre letras ni entre números) les agrega un espacio del lado izquierdo (para separarlo del texto en el que está).
 	\item Este es el primer paso para separar bien los signos que se tienen que separar con espacios. Si observan el resultado, verán que ahora los signos están correctamente separados cuando se encontraban a la derecha de las palabras, pero aún no cuando se encuentran a la izquierda (como los paréntesis sobre todo).
 	\item La función {\tt\textbf{sub()}} regresa el texto reemplazado, este texto se puede guardar en una variable nueva o incluso sustituyendo el texto antiguo para seguir procesándose más adelante.
 \end{itemize}
 }
+}
+
 
 
 
@@ -2294,7 +2305,7 @@ expresion$\_$derecha\textcolor{BrickRed}{=}re\textcolor{BrickRed}{.}\textbf{\tex
 
 
 
-\frame{
+\frame<1-2>{
 \frametitle{NLTK}
 \framesubtitle{Tokenizador}
 \begin{itemize}
@@ -2318,8 +2329,7 @@ expresion$\_$derecha\textcolor{BrickRed}{=}re\textcolor{BrickRed}{.}\textbf{\tex
 \mbox{}\ \ \ \ \ \ \ \ \textbf{\textcolor{Blue}{print}}\textcolor{BrickRed}{(}token\textcolor{BrickRed}{)} \\
 \mbox{}
 }}
-}
-\note{
+\note<1>{
 \begin{itemize}
 	\item Ya sabemos como abrir y leer archivos.
 	\item El tokenizdor de NLTK (la función {\tt\textbf{word\_tokenize()}} usa el texto leído y regresa una lista con los tokens que encuentra.
@@ -2328,13 +2338,15 @@ expresion$\_$derecha\textcolor{BrickRed}{=}re\textcolor{BrickRed}{.}\textbf{\tex
 	\item El tokenizador tiene varios modelos, adaptados para diferentes idiomas, si tienen la curiosidad y el tiempo, pueden entrar a la carpeta en la que se descargó en tokenizador para  que vean los idiomas que sabe manejar. 
 \end{itemize}
 }
-\note{
+\note<2>{
 \begin{itemize}
 	\item En cuanto al resultado, pueden comparar los tokens que se obtienen con este método contra los de nuestro pequeño tokenizador de expresiones regulares.
 	\item Verán que, por ejemplo, este detecta mejor abreviaciones como "{}{\tt S.A.}"{} ya que el nuestro separa el último punto. Pero este no separa los punto y guión ({\tt.-}) de las palabras que tiene junto, y el nuestro sí.
 	\item Las reglas y los procesos que se usan en cada herramienta varían, es importante revisar los resultados que se tienen y escoger la mejor herramienta para cada tarea.
 \end{itemize}
 }
+}
+
 
 
 
@@ -2456,7 +2468,7 @@ expresion$\_$derecha\textcolor{BrickRed}{=}re\textcolor{BrickRed}{.}\textbf{\tex
 
 
 
-\frame{
+\frame<1-2>{
 \frametitle{Funciones}
 \colorbox{source}{\parbox{\textwidth}{
 \ttfamily
@@ -2482,20 +2494,21 @@ expresion$\_$derecha\textcolor{BrickRed}{=}re\textcolor{BrickRed}{.}\textbf{\tex
 \mbox{}\textbf{\textcolor{Blue}{print}}\textcolor{BrickRed}{(}riqueza$\_$lexica\textcolor{BrickRed}{)} \\
 \mbox{}
 }}
-}
-\note{
+\note<1>{
 \begin{itemize}
 	\item Aquí se muestra un ejemplo más completo.
 	\item Noten que las funciones se definen pronto dentro del archivo de Python, esto facilita a que no se pierdan las funciones entre el resto del código, y para que estén disponibles desde el principio. Las funciones SOLO están disponibles DESPUÉS de que fueron definidas.
 	\item Como pueden ver, la función se usa más adelante, después de que fue creada, y los nombres de las variables NO AFECTAN a la función. Es decir, la función fue definida con un parámetro de entrada {\tt\textbf{tokens}}, pero eso es solo para la función, fuera de ella, se puede usar el nombre independientemente, es más, como se ve se puede usar el nombre {\tt\textbf{tokens}} para guardar la información que más tarde se le pasa a la función aunque tenga el mismo nombre del parámetro.
 \end{itemize}
 }
-\note{
+\note<2>{
 \begin{itemize}
 	\item Otro detalle que ilustra el ejemplo está en los nombres de las funciones. Observen como la función y la variable a la que se asigna el resultado de la función, se llaman igual. Esto es correcto, no pasa nada, ya que la diferencia está en que parte del nombre de la función son los paréntesis, una función se diferenciará de una variable del mismo nombre siempre por los paréntesis.
 	\item Además de eso, aquí se puede ver cómo es que el resultado de la función se asigna a una variable, esto es gracias a la instrucción {\tt\textbf{return}} que finaliza la función, el valor que estaba en la variable {\tt\textbf{riqueza\_lexica}} de la función se devuelve luego de ser llamada. Y, en el caso del ejemplo, se guarda en OTRA variable que se llama {\tt\textbf{riqueza\_lexica}}, todo eso ya FUERA de la función.
 \end{itemize}
 }
+}
+
 
 
 
@@ -3109,7 +3122,7 @@ info\textcolor{BrickRed}{=\{}\texttt{\textcolor{Red}{"{}nombre"{}}}\textcolor{Br
 
 
 
-\frame{
+\frame<1-2>{
 \frametitle{NLTK}
 \framesubtitle{Palabras funcionales}
 \colorbox{source}{\parbox{\textwidth}{
@@ -3137,8 +3150,7 @@ info\textcolor{BrickRed}{=\{}\texttt{\textcolor{Red}{"{}nombre"{}}}\textcolor{Br
 \mbox{}\textbf{\textcolor{Blue}{print}}\textcolor{BrickRed}{(}\textbf{\textcolor{Black}{len}}\textcolor{BrickRed}{(}tokens$\_$limpios\textcolor{BrickRed}{))} \\
 \mbox{}
 }}
-}
-\note{
+\note<1>{
 \begin{itemize}
 	\item ¿Qué estamos haciendo aquí?
 	\item Estamos filtrando las palabras funcionales y las quitamos del texto.
@@ -3148,13 +3160,15 @@ info\textcolor{BrickRed}{=\{}\texttt{\textcolor{Red}{"{}nombre"{}}}\textcolor{Br
 	\item Para ver si son palabras funcionales, usamos la instrucción {\tt\textbf{not in}} que como es de esperar, hace lo contrario a la instrucción {\tt\textbf{in}} (la recuerdan?).
 \end{itemize}
 }
-\note{
+\note<2>{
 \begin{itemize}
 	\item En resumen, ese {\tt\textbf{if}}, ve si el token que se está revisando está dentro de la lista de palabras funcionales. Si NO lo está (por eso el {\tt\textbf{not in}}) entonces podemos decir que ese token no es una palabra funcional. Por lo tanto queremos que esté dentro de nuestra lista limpia de palabras funcionales.
 	\item Una vez que la condición se cumple y que vemos que el token NO es una palabra funcional, lo agregamos a la lista que habíamos creado (a la lista de {\tt\textbf{tokens\_limpios}}) con la función {\tt\textbf{append()}}. Esa función lo que hace es agregar el valor que le damos al final de la lista.
 	\item Por último, mostramos en pantalla las longitudes de ambas listas de tokens, para que vean la diferencia de tamaño entre la que tiene palabras funcionales y la que no.
 \end{itemize}
 }
+}
+
 
 
 
@@ -3389,7 +3403,7 @@ info\textcolor{BrickRed}{=\{}\texttt{\textcolor{Red}{"{}nombre"{}}}\textcolor{Br
 }
 \note{
 \begin{itemize}
-	\item Lo mejor es importar el etiquetador externo de nltk como se muestra para no tener que usar toda la ruta.
+	\item Lo mejor es importar el etiquetador externo de nltk como se muestra para no tener que usar toda la ruta de módulo.
 \end{itemize}
 }
 

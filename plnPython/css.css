@@ -212,6 +212,51 @@ input[type=checkbox]:checked + .corpus-block{
 
 
 
+.soluciones {
+	text-align: center;
+}
+
+.soluciones .contenido {
+	padding:12px;
+	vertical-align:middle;
+}
+
+
+.soluciones .elemento{
+	display:inline-block;
+	min-width:50px;
+	width:25%;
+	padding:2%;
+}
+
+.soluciones .icono{
+	display:inline-block;
+	max-width:80%;
+}
+
+.soluciones .icono img{
+	border-radius:8px;
+	vertical-align:middle;
+	max-width:100%;
+	max-height:70px;
+	padding:1.5px;
+}
+
+.soluciones .icono img:hover{
+	padding:0;
+	border-bottom-style:solid;
+	border-right-style:solid;
+	border-color:#7F7F7F;
+}
+
+.soluciones .icono a:visited{
+	display:inline-block;
+	border-radius:10px;
+	background:#BFB0BF;
+}
+
+
+
 .contacto .contenido {
 	display:inline-block;
 	margin:auto;

@@ -4,7 +4,7 @@ import os
 
 carpeta_nombre="Documentos\\"
 
-carpeta_salida="Solucion5"
+carpeta_salida="Solucion5\\"
 archivo_salida="UNION.txt"
 
 archivos_lista=os.listdir(carpeta_nombre)

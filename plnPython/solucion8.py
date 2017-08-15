@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+import re
+
 carpeta_nombre="Documentos\\"
 archivo_nombre="P_IFT_290216_73_Acc.txt"
 

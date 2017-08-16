@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 
+'''
+El ejercicio consiste en utilizar el acento circunflejo de expresión regular sobre cada línea de un texto.
+'''
+
 import re
 
 carpeta_nombre="Documentos\\"

@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 
+'''
+El ejercicio consiste en unir todos los documentos en uno solo
+'''
+
 import os
 
 carpeta_nombre="Documentos\\"

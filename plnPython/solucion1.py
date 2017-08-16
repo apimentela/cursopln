@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 
+'''
+El ejercicio consiste en hacer un clasificador simple que indica si un documento es un ACUERDO, una RESOLUCIÓN u otro tipo de documento.
+'''
+
 carpeta_nombre="C:\\Users\\user\\Desktop\\Documentos\\"
 archivo_nombre="P_IFT_200416_162_Acc.txt"
 

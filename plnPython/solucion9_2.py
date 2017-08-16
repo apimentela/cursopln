@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 
+'''
+El ejercicio consiste en encontrar todos los documentos DOC y DOCX de una carpeta usando expresiones regulares.
+'''
+
 import os
 import re
 

@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 
+'''
+El ejercicio consiste en obtener el vocabulario de TODOS los documentos, es decir, cada palabra y simbolo que se usa, dentro de una lista SIN repeticiones
+'''
+
 carpeta_nombre="Solucion5\\"
 archivo_nombre="UNION.txt"
 

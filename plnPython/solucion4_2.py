@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 
+'''
+El ejercicio consiste en meter dentro de una lista fragmentos de texto, usando como separador las líneas VACÍAS
+'''
+
 carpeta_nombre="Documentos\\"
 archivo_nombre="DOF_P_IFT_291116_672_Acc.txt"
 

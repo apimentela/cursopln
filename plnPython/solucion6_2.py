@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 
+'''
+El ejercicio consiste en clasificar los documentos en ACUERDOS, RESOLUCIONES y OTROS. Para cada grupo se forma su vocabulario y se separan los símbolos y signos de puntuación de las palabras
+'''
+
 import os
 
 carpeta_nombre="Documentos\\"

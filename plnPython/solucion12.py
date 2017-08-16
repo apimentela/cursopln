@@ -1,5 +1,12 @@
 # -*- coding: utf-8 -*-
 
+'''
+El ejercicio consiste en conseguir todos los artículos que se mencionen en un texto. Se toman en cuenta tres puntos:
+- Los artículos van precedidos de la palabra: "artículo" o "artículos".
+- Los artículos son números.
+- Cuando se habla de varios artículos, éstos pueden estar separados por comas, o por la palabra "y".
+'''
+
 import re
 
 carpeta_nombre="Documentos\\"

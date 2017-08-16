@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 
+'''
+El ejercicio consiste en segmentar un texto en oraciones. Se entiende por oración todo lo que hay entre una mayúscula y un punto.
+Para garantizar esta segmentación se recorre una lista con todas las mayúsculas.
+'''
+
 import re
 
 carpeta_nombre="Documentos\\"

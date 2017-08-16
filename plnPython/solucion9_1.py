@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 
+'''
+El ejercicio consiste en encontrar todas las "palabras" de 3 o 4 letras
+- Se entiende por "palabra" CUALQUIER coosa entre espacios
+'''
+
 import re
 
 carpeta_nombre="Documentos\\"

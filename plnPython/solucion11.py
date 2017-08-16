@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 
+'''
+El ejercicio consiste en repetir el ejercicio anterior sin necesidad de la lista.
+'''
+
 import re
 
 carpeta_nombre="Documentos\\"

@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 
+'''
+El ejercicio consiste en repetir el ejercicio anterior usando final del texto en lugar de inicio
+'''
+
 import re
 
 carpeta_nombre="Documentos\\"

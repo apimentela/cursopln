@@ -1,5 +1,12 @@
 # -*- coding: utf-8 -*-
 
+'''
+El ejercicio consiste en en:
+- Contar las líneas que tiene un archivo y mostrar el número junto a cada línea
+- Mostrar el contenido de cada línea, y en caso de que esté vacía, indicar en pantalla que la línea esta vacía.
+- Mostrar en pantalla un conteo final indicando cuántas líneas son en total, cuántas tienen texto y cuántas no.
+'''
+
 carpeta_nombre="Documentos\\"
 archivo_nombre="DOF_P_IFT_291116_672_Acc.txt"
 

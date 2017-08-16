@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 
+'''
+A partir de este ejercicio cambiamos las rutas absolutas por relativas y se utiliza la codificación UTF-8
+'''
+
 carpeta_nombre="Documentos\\"
 archivo_nombre="P_IFT_200416_162_Acc.txt"
 
